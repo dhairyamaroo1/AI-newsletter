@@ -1,0 +1,30 @@
+{
+  "name": "ai-newsletter",
+  "version": "1.0.0",
+  "description": "Production-grade AI newsletter website with automated daily updates",
+  "main": "scripts/build.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js",
+    "simplify": "node scripts/simplify-content.js",
+    "generate": "node scripts/generate-site.js",
+    "build": "node scripts/build.js",
+    "dev": "npx serve public"
+  },
+  "keywords": [
+    "ai",
+    "newsletter",
+    "automation",
+    "github-actions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/openai": "^1.0.0-beta.12",
+    "axios": "^1.6.5",
+    "dotenv": "^16.4.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
