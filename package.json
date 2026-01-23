@@ -26,5 +26,13 @@
   },
   "devDependencies": {
     "serve": "^14.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhairyamaroo1/ai-newsletter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhairyamaroo1/ai-newsletter/issues"
+  },
+  "homepage": "https://github.com/dhairyamaroo1/ai-newsletter#readme"
 }

@@ -89,7 +89,7 @@ function showError(message) {
  */
 async function loadTodayNews() {
     try {
-        const response = await fetch('../data/news.json');
+        const response = await fetch('data/news.json');
 
         if (!response.ok) {
             throw new Error(`Failed to load news data (${response.status})`);
