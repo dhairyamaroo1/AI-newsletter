@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-01-27",
+      "articles": [
+        {
+          "title": "Inside OpenAI’s big play for science ",
+          "summary": "In the three years since ChatGPT’s explosive debut, OpenAI’s technology has upended a remarkable range of everyday activities at home, at work, in schools—anywhere people have a browser open or a phone out, which is everywhere. Now OpenAI is making an explicit play for scientists. In October, the fi...",
+          "simplifiedContent": "**Title: OpenAI’s New Focus on Helping Scientists**\n\nIn the past three years, ChatGPT, a tool created by OpenAI, has changed how many people do everyday things. It's used at home, in schools, and at work—basically anywhere you can open a web browser or use your phone. Now, OpenAI wants to make a big difference in the world of science.\n\nIn October, OpenAI announced they are working on special tools to help scientists. These tools aim to make research easier and faster. Scientists often have to sort through lots of data and complicated information. OpenAI's technology can help by quickly analyzing this data and offering insights (useful ideas or solutions).\n\nFor everyday people, this means scientific discoveries could happen faster. For example, new medicines or solutions to big problems like climate change might be found more quickly. OpenAI’s move shows how artificial intelligence (smart computer programs) is becoming an important part of many fields, not just for fun chatbots but also for serious work like science.\n\nSo, the next time you hear about a new scientific breakthrough, OpenAI’s technology might have played a part in making it happen!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+          "publishedAt": "2026-01-26T18:32:15.000Z"
+        },
+        {
+          "title": "OpenAI spills technical details about how its AI coding agent works",
+          "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop....",
+          "simplifiedContent": "**Title: How OpenAI's AI Helps with Computer Coding**\n\nOpenAI, a company that works with artificial intelligence, recently shared how one of their AI tools, called Codex, helps people write computer code. Codex is a smart computer program that can understand and write programming languages, which are like the languages computers speak.\n\nHere's why this is exciting: Codex can help people, even those who aren't expert programmers, create computer programs more easily. Imagine you want to build a website or a game, but you're not sure how to start. Codex can give you suggestions and help you write the code, making the whole process faster and less frustrating.\n\nOpenAI explained in detail how Codex works, which is unusual because tech companies often keep these things secret. By sharing this information, OpenAI wants to show how their technology can be useful and trustworthy.\n\nFor everyday people, this means that creating software might become simpler and more accessible. You won't need to be a coding expert to bring your ideas to life with Codex's help. This could open up new opportunities for everyone to create and innovate using technology.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+          "publishedAt": "2026-01-26T23:05:17.000Z"
+        },
+        {
+          "title": "Why chatbots are starting to check your age",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. How do tech companies check if their users are kids? This question has taken on new urgency recently thanks to growing concern about the dangers that can arise wh...",
+          "simplifiedContent": "**Title: Why Chatbots Want to Know Your Age**\n\nHave you ever wondered why some online chatbots (computer programs that can talk to you) are asking for your age? Tech companies are getting more concerned about keeping kids safe online. They want to make sure that children aren't using websites or apps meant for adults, which could have content that's not appropriate for them.\n\nTo help with this, chatbots are starting to ask users how old they are. This is a way for companies to know if they're talking to a child or an adult. By doing this, they can make sure kids don't see or do things online that aren't safe for them.\n\nThis change is happening because people are worried about the risks kids might face when they use the internet. Companies are trying to be more responsible and protect young users. So next time a chatbot asks for your age, it's likely because the company is trying to keep everyone safe, especially children.\n\nIn the end, it's all about making the internet a safer place for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+          "publishedAt": "2026-01-26T17:05:00.000Z"
+        },
+        {
+          "title": "Retailers examine options for on-AI retail",
+          "summary": "Big retailers are committing more heavily to agentic AI-led commerce, and accepting some loss of customer proximity and data control in the process. As reported by Retail Dive, the opening weeks of 2026 have seen Etsy, Target and Walmart push product ranges onto third-party AI platforms, forming new...",
+          "simplifiedContent": "**Title: Big Stores Use AI to Sell More Products**\n\nBig stores like Etsy, Target, and Walmart are using new technology to help sell their products. They are trying out something called \"AI\" (which stands for Artificial Intelligence). AI is like a smart computer program that can do things on its own, like helping to sell items online.\n\nThese stores are putting their products on special AI platforms (websites or apps that use AI). This might mean they don't have as much control over customer data, which is information about who buys what. But they think it's worth it because AI can help them reach more people.\n\nBy using AI, these stores hope to make shopping easier and faster for everyone. You might notice more recommendations for things you might like to buy, thanks to AI learning about your shopping habits.\n\nThis move is part of a trend where big stores are trying to keep up with how people like to shop today, which is often online. So, next time you shop, you might be getting a little help from AI without even knowing it!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
+          "publishedAt": "2026-01-26T16:40:00.000Z"
+        },
+        {
+          "title": "Expereo: Enterprise connectivity amid AI surge with ‘visibility at the speed of life’",
+          "summary": "AI continues to reshape technology and business; yet for the network, enterprise connectivity in the AI age means being always-on, and extra vigilant for sovereignty and security besides. This means that speed is not the only requirement. As Julian Skeels, chief digital officer at Expereo notes, it ...",
+          "simplifiedContent": "**Title: Expereo Helps Businesses Stay Connected in the Fast-Paced AI World**\n\nIn today's world, artificial intelligence (AI) is changing how we use technology and run businesses. For companies, staying connected online is more important than ever. They need to be online all the time and make sure their information is safe and secure.\n\nExpereo, a company that helps businesses with internet connections, is working hard to meet these needs. According to Julian Skeels, a leader at Expereo, speed isn't the only thing that matters. Businesses also need to be aware of where their data is going and who can access it.\n\nWith AI making things move faster, businesses need internet services that can keep up. Expereo focuses on providing reliable and secure connections so companies can focus on what they do best without worrying about their online safety.\n\nIn short, as AI continues to grow, companies like Expereo are helping businesses stay connected and secure, ensuring they can thrive in this fast-paced digital age.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
+          "publishedAt": "2026-01-26T15:23:57.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-01-23",
       "articles": [
         {
