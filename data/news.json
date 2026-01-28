@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-01-28",
+      "articles": [
+        {
+          "title": "OpenAI’s latest product lets you vibe code science",
+          "summary": "OpenAI just revealed what its new in-house team, OpenAI for Science, has been up to. The firm has released a free LLM-powered tool for scientists called Prism, which embeds ChatGPT in a text editor for writing scientific papers. The idea is to put ChatGPT front and center inside software that scient...",
+          "simplifiedContent": "Title: OpenAI's New Tool Makes Writing Science Papers Easier\n\nOpenAI has come up with a new tool called Prism to help scientists write their papers. This tool uses ChatGPT, which is a smart computer program that can understand and generate text. Prism is like a super helper inside a text editor (a program where you type documents) that makes writing and editing scientific papers easier.\n\nHere's how it works: When scientists are writing their papers, they can use Prism to get suggestions, improve their writing, and even check for mistakes. It's like having a smart assistant right there to help make the paper clear and well-written.\n\nThis tool is free, which means any scientist can use it without paying. It's especially useful for those who need help organizing their thoughts or making their writing more professional.\n\nFor everyday people, this means scientists can spend more time focusing on important research and less time worrying about writing. This could lead to faster discoveries and better communication of new ideas. It's one more way technology is making life a bit easier and more efficient.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
+          "publishedAt": "2026-01-27T18:00:43.000Z"
+        },
+        {
+          "title": "Databricks: Enterprise AI adoption shifts to agentic systems",
+          "summary": "According to Databricks, enterprise AI adoption is shifting to agentic systems as organisations embrace intelligent workflows. Generative AI’s first wave promised business transformation but often delivered little more than isolated chatbots and stalled pilot programmes. Technology leaders found the...",
+          "simplifiedContent": "**Title: Businesses Start Using Smarter AI Tools**\n\nBusinesses are beginning to use smarter AI (artificial intelligence) tools to make their work easier and more efficient. In the past, companies hoped that AI would change everything for the better, but often, they just ended up with simple chatbots (computer programs that talk to you) or projects that didn't go anywhere.\n\nNow, companies are turning to something called \"agentic systems.\" These are advanced AI tools that can do more complex tasks and make better decisions on their own. This shift means that businesses can create smarter workflows (the way tasks are organized and completed), which can help them save time and work more effectively.\n\nFor everyday people, this means that when you interact with a company—like calling customer service or shopping online—you might notice things work more smoothly and quickly. These smarter systems can handle more complex requests and give you better answers.\n\nOverall, businesses using these advanced AI tools could lead to better customer experiences and more efficient operations. It's an exciting change that could make technology more helpful in our daily lives.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/databricks-enterprise-ai-adoption-shifts-agentic-systems/",
+          "publishedAt": "2026-01-27T17:26:45.000Z"
+        },
+        {
+          "title": "Anthropic selected to build government AI assistant pilot",
+          "summary": "Anthropic has been selected to build government AI assistant capabilities to modernise how citizens interact with complex state services. For both public and private sector technology leaders, the integration of LLMs into customer-facing platforms often stalls at the proof-of-concept stage. The UK’s...",
+          "simplifiedContent": "**Title: New AI Assistant to Make Government Services Easier for Everyone**\n\nA company called Anthropic has been chosen to create a new AI helper for the government. This AI assistant is designed to make it easier for people to use government services, which can often be confusing and complicated.\n\nRight now, when businesses and government try to use AI tools to help customers, they sometimes get stuck and don't fully use them. But the UK government wants to change that by trying out this new AI assistant.\n\nThe goal is to help people interact with government services more smoothly. Imagine if you could get answers to your questions about taxes, benefits, or other services just by chatting with a smart computer program. That's what this AI assistant aims to do.\n\nIf it works well, it could make dealing with government tasks a lot less stressful and more straightforward for everyone. This project is still in the early stages, but it could lead to big improvements in how we get help from the government in the future.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-selected-build-government-ai-assistant-pilot/",
+          "publishedAt": "2026-01-27T13:31:22.000Z"
+        },
+        {
+          "title": "Lowering the barriers databases place in the way of strategy, with RavenDB",
+          "summary": "If database technologies offered performance, flexibility and security, most professionals would be happy to get two of the three, and they might have to expect to accept some compromises, too. Systems optimised for speed demand manual tuning, while flexible platforms can impose costs when early des...",
+          "simplifiedContent": "**Title: How RavenDB Makes Databases Easier for Everyone**\n\nImagine databases as giant digital filing cabinets where all your important information is stored. Usually, these databases make you choose between being fast, easy to use, or super secure. It's like having to pick only two out of three great things.\n\nRavenDB is a new type of database that tries to give you the best of all worlds. It aims to be fast, flexible, and secure all at once. This means you don't have to settle for just two benefits and miss out on the third.\n\nFor everyday people and businesses, this is a big deal. It means they can store and access their information quickly without needing a tech expert to make it work smoothly. Plus, they can trust that their data is safe.\n\nBy making databases easier to use and more reliable, RavenDB helps companies focus more on their goals and less on tech problems. This can lead to better services and products for everyone. So, in simple terms, RavenDB is making it easier for businesses to manage information, which benefits us all.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/",
+          "publishedAt": "2026-01-27T11:46:00.000Z"
+        },
+        {
+          "title": "Cold snap highlight’s airlines’ proactive use of AI",
+          "summary": "The severe weather experienced at present in the US has placed significant strain on the airline industry in the country, with knock-on effects of changes to schedules and routes affecting the rest of the world. It’s at times like this that companies have to respond to queries from customers at a mu...",
+          "simplifiedContent": "**Title: How AI is Helping Airlines Handle Bad Weather**\n\nRight now, the US is dealing with some really cold and tough weather. This is causing big problems for airlines. Flights are getting delayed or canceled, and this is affecting travel plans not just in the US, but around the world. \n\nTo manage this chaos, airlines are using something called AI, which stands for Artificial Intelligence. Think of AI as smart computer programs that help make decisions. These programs can predict weather changes and help airlines adjust their flight schedules more quickly. This means they can better inform passengers about delays or changes.\n\nAI also helps customer service teams handle the flood of questions from worried travelers. With AI, airlines can respond faster and more efficiently, so people aren’t left waiting for answers. \n\nIn short, AI is making it easier for airlines to keep things running smoothly, even when the weather is not on their side. This helps passengers get the information they need and reduces travel headaches.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/",
+          "publishedAt": "2026-01-27T10:55:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-01-27",
       "articles": [
         {
