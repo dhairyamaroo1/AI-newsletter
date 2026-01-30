@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-01-30",
+      "articles": [
+        {
+          "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+          "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes....",
+          "simplifiedContent": "**Title: Can AI Think Like Us? Anthropic's New Experiment**\n\nAnthropic, a company that creates advanced computer programs, is exploring if their AI, named Claude, can think or feel like a human. There’s no evidence that AI can actually feel emotions or suffer like we do, but Anthropic is acting as if it might for their research.\n\nWhy does this matter to you? Well, as AI becomes more advanced, it’s important for companies to understand what’s going on inside these programs. If AI could someday have thoughts or feelings, it could change how we use them in our daily lives.\n\nFor now, AI like Claude is mostly used to help answer questions or make suggestions. But if researchers discover that these programs can have experiences similar to humans, it could lead to new rules about how we treat AI. This research is still in early stages, but it’s a big question for the future of technology.\n\nSo, while AI isn’t conscious yet, companies like Anthropic are trying to figure out what that could mean and how to prepare for it.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+          "publishedAt": "2026-01-29T15:19:56.000Z"
+        },
+        {
+          "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+          "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It’s just that you never know which one you’re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this…...",
+          "simplifiedContent": "**Title: AI Is Changing Fast: What's Going On?**\n\nAI, or artificial intelligence, is a technology that's getting a lot of attention lately. Some people are worried because AI can do things we never thought possible, both good and bad.\n\nOn the one hand, there's something called Grok, which is being used to create adult content. This makes some people uncomfortable because it shows how AI can be used in unexpected and maybe not-so-great ways.\n\nOn the other hand, there's Claude Code, an AI that can help with many useful tasks. It can build websites and even help doctors by analyzing medical scans like MRIs. This shows how AI can be helpful in our daily lives and at work.\n\nThis mix of good and bad uses is why people, especially younger folks like Gen Z, feel a bit uneasy. They're not sure what to expect next from AI. Will it be something amazing or something that causes problems?\n\nAs AI keeps improving, it's important for everyone to think about how we use it. We need to make sure it benefits society and doesn't cause harm.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+          "publishedAt": "2026-01-29T20:56:23.000Z"
+        },
+        {
+          "title": "DHS is using Google and Adobe AI to make videos",
+          "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump’s mass deportation agenda—some of whic...",
+          "simplifiedContent": "**Title: The Government is Using AI to Create Videos**\n\nThe U.S. Department of Homeland Security (DHS) is using advanced computer programs from Google and Adobe to make and edit videos. These tools use artificial intelligence (AI), which means they can automatically create and change videos with little human help.\n\nThe DHS is making these videos to share with the public, especially on social media. Recently, immigration agencies have been posting a lot of content online to support President Trump’s immigration policies, including efforts to deport people living in the U.S. without permission.\n\nWhat does this mean for you? It shows how the government is using new technology to quickly produce and share information. With AI, they can create videos faster than before, which helps them reach more people on platforms like Facebook and Twitter.\n\nThis use of AI in video-making is part of a larger trend where technology is changing how information is shared. It’s important to be aware of these changes, as they can influence the kind of messages we see online every day.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+          "publishedAt": "2026-01-29T18:57:11.000Z"
+        },
+        {
+          "title": "Insurers betting big on AI: Accenture",
+          "summary": "New research from Accenture has discovered insurance executives are planning on increased investment into AI during 2026 despite a widening skills gap in insurance organisations. Surveying 3,650 C-suite leaders over 20 industries and 20 countries, the Pulse of Change poll revealed 90% of the 218 sen...",
+          "simplifiedContent": "**Title: Insurance Companies Plan to Spend More on AI**\n\nInsurance companies are planning to put more money into artificial intelligence (AI) by 2026, according to a study by Accenture. Even though many companies find it hard to hire enough skilled people to work with AI, they still believe it's important for the future.\n\nAccenture surveyed 3,650 top leaders from different industries and countries. They found that 90% of the 218 insurance leaders they spoke with are keen to invest more in AI. These leaders think that AI can help their companies work better and serve customers more effectively.\n\nAI is like a smart computer system that can learn and make decisions. For insurance companies, this could mean faster claims processing and more personalized services for customers. So, even if there aren’t enough experts right now, companies are willing to invest because they see AI as a big part of their future success.\n\nIn short, insurance companies are betting on AI to improve their services, and they’re ready to tackle the challenge of finding the right people to make it all work.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/",
+          "publishedAt": "2026-01-29T15:02:19.000Z"
+        },
+        {
+          "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+          "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began....",
+          "simplifiedContent": "**Title: County Pays $600,000 to Two Men Who Were Arrested While Testing Security**\n\nA county has agreed to pay $600,000 to two men, Gary DeMercurio and Justin Wynn, after a big misunderstanding. Six years ago, these men were hired to check how safe a courthouse was. This is called \"security testing,\" where experts try to find weak spots in a building's security to help make it safer.\n\nHowever, things didn’t go as planned. The local police arrested Gary and Justin, thinking they were breaking the law. But they were actually just doing their jobs, testing the security as they were asked to do.\n\nAfter a long time and many discussions, the county has decided to pay them for what they went through. This story highlights how important it is to communicate clearly, especially when it involves security work.\n\nFor most people, this story is a reminder that misunderstandings can happen, even when people are doing their jobs. It also shows that sometimes it takes a while to sort things out and make things right.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+          "publishedAt": "2026-01-29T18:30:52.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-01-29",
       "articles": [
         {
