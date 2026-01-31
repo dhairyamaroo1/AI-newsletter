@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-01-31",
+      "articles": [
+        {
+          "title": "China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground",
+          "summary": "The artificial intelligence industry’s pivot toward agentic AI – systems capable of autonomously executing multi-step tasks – has dominated technology discussions in recent months. But while Western firms focus on foundational models and cross-platform interoperability, China’s technology giants are...",
+          "simplifiedContent": "**Title: China Invests Big in Smart AI for Business**\n\nIn recent months, the world of artificial intelligence (AI) has been buzzing with talk about \"agentic AI.\" This is a type of AI that can do complex tasks all on its own, without needing a person to guide it step by step. While companies in the West are busy trying to make different AI systems work together smoothly, big tech companies in China are taking a different approach.\n\nThese Chinese companies are spending a lot of money to develop AI that can handle business tasks automatically. They see this as the next big thing in technology. By using smart AI, businesses can become more efficient and competitive. For example, AI could manage inventory, customer service, or even marketing campaigns without human help.\n\nThis move shows that China is betting big on AI to boost its economy and change how businesses operate. For everyday people, this could mean faster services and new job opportunities as companies adopt these advanced technologies. As AI continues to grow, it will likely play a bigger role in our daily lives.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/",
+          "publishedAt": "2026-01-30T09:00:00.000Z"
+        },
+        {
+          "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+          "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity deepfakes. Some of these files were specifically designed to make pornographic images banned by the...",
+          "simplifiedContent": "**Title: New Website Lets People Create Fake Images of Celebrities**\n\nThere's a new website called Civitai where people can buy and sell pictures made by computers. This website is supported by a big company called Andreessen Horowitz, which invests in new ideas. Civitai allows people to buy special instructions to make fake images of celebrities using AI, which stands for artificial intelligence. AI is like a smart computer program that can create realistic-looking pictures.\n\nSome of these instructions are used to make inappropriate images that aren't allowed on the site. This is causing concern because it means people can use these tools to make fake pictures that look real, and this can be harmful, especially if the images are shared online without permission.\n\nFor everyday people, this means we need to be careful about what we see online. Not everything is real, and sometimes things are made to look real when they're not. It's important to think twice before believing or sharing pictures that might not be what they seem.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+          "publishedAt": "2026-01-30T16:32:31.000Z"
+        },
+        {
+          "title": "AI use surges at Travelers as call centre roles reduce",
+          "summary": "Mid-January saw insurance company, Travelers, announce a new deal that empowers 10,000 engineers and data scientists with AI assistants. However, less than two weeks on, Travelers’ leadership explained that the company’s true competitive advantage lies in expertise, not AIs alone, believing this is ...",
+          "simplifiedContent": "Title: Travelers Insurance Uses AI More, Reduces Call Center Jobs\n\nContent: Travelers Insurance, a big insurance company, recently shared that they are using more artificial intelligence (AI) tools to help their employees, especially engineers and data scientists. These AI tools are like smart computer programs that can assist with tasks and make work easier.\n\nThe company believes that while AI is helpful, the real strength of their business comes from the knowledge and skills of their people, not just the technology. This means they think having smart and experienced workers is more important than just relying on AI.\n\nHowever, because of this increased use of AI, Travelers is reducing the number of jobs in their call centers. This is because AI can now handle some of the questions and issues that customers have, which used to require a person to answer.\n\nFor everyday people, this means you might notice changes when you call Travelers for help. You might talk to an AI assistant first, which can quickly solve some problems. But don't worry, there are still real people working at Travelers to help with more complicated issues.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/",
+          "publishedAt": "2026-01-30T10:01:10.000Z"
+        },
+        {
+          "title": "PepsiCo is using AI to rethink how factories are designed and updated",
+          "summary": "For many large companies, the most useful form of AI right now has little to do with writing emails or answering questions. At PepsiCo, AI is being tested in places where mistakes are costly and changes are hard to undo — factory layouts, production lines, and physical operations. That shift is visi...",
+          "simplifiedContent": "Title: PepsiCo Uses AI to Improve Factories\n\nPepsiCo, the company famous for making snacks and drinks, is using artificial intelligence (AI) to make their factories work better. Instead of just using AI for things like writing emails, PepsiCo is trying it out in their factories where even small mistakes can be very expensive to fix.\n\nIn these factories, AI helps plan how machines and equipment are arranged. This is important because the way things are set up can make a big difference in how fast and efficiently products are made. If the layout (the way things are arranged) isn't good, it can slow everything down and cost a lot of money.\n\nBy using AI, PepsiCo can try out different factory designs on a computer before making any real changes. This helps them find the best way to set up their production lines without making costly mistakes in the real world.\n\nFor everyday people, this means PepsiCo can make their products more efficiently, which might keep prices down and make sure your favorite snacks and drinks are always available. AI is helping companies like PepsiCo work smarter, not harder.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
+          "publishedAt": "2026-01-30T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-01-30",
       "articles": [
         {
