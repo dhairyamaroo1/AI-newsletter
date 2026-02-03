@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-03",
+      "articles": [
+        {
+          "title": "The crucial first step for designing a successful enterprise AI system",
+          "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes—but how do you design for success? At Mistral AI, we partner with global industry leaders to co-design tailored AI solutions that solve their most difficult problems. Wheth...",
+          "simplifiedContent": "**Title: How Companies Can Make AI Work for Them**\n\nMany businesses jumped into using AI (artificial intelligence) without really knowing how to make it useful. This led to some AI projects not really helping them as much as they hoped. Now, companies are looking for AI projects that actually work and show clear benefits.\n\nAt Mistral AI, we work closely with big companies around the world to create AI solutions that fit their specific needs. This means we help design AI tools that solve their toughest challenges. It’s like having a custom-made tool that perfectly fits your job.\n\nFor companies, this means they need to think carefully about what they want their AI to do. Instead of just trying out AI for the sake of it, they should focus on what problems they need to solve and how AI can help with that. By doing this, businesses can make sure their AI projects are successful and bring real value.\n\nSo, the key takeaway is: if businesses plan carefully and use AI wisely, they can make it a powerful tool to improve their work and solve big problems.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+          "publishedAt": "2026-02-02T14:20:29.000Z"
+        },
+        {
+          "title": "How SAP is modernising HMRC’s tax infrastructure with AI",
+          "summary": "HMRC has selected SAP to overhaul its core revenue systems and place AI at the centre of the UK’s tax administration strategy. The contract represents a broader shift in how public sector bodies approach automation. Rather than layering AI tools over legacy infrastructure, HMRC is replacing the unde...",
+          "simplifiedContent": "**Title: How New Technology is Helping the UK Tax System**\n\nThe UK tax office, called HMRC, is teaming up with a company named SAP to make its tax system smarter and more efficient. This means they are using new technology, like artificial intelligence (AI), to improve how they manage taxes.\n\nRight now, many government offices use old systems to handle things like taxes. These old systems can be slow and not very flexible. Instead of just adding new tools on top of these old systems, HMRC is deciding to start fresh with a whole new setup. This is like getting a brand-new computer instead of just upgrading an old one.\n\nBy using AI, HMRC aims to make the tax process smoother and faster for everyone. This could mean quicker responses, fewer mistakes, and maybe even easier ways for people to file their taxes.\n\nThis change is part of a bigger trend where government offices are looking to modernize and use technology to work better for the public. For everyday people, this could mean dealing with taxes becomes less of a hassle.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/",
+          "publishedAt": "2026-02-02T11:17:02.000Z"
+        },
+        {
+          "title": "What we’ve been getting wrong about AI’s truth crisis",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. What would it take to convince you that the era of truth decay we were long warned about—where AI content dupes us, shapes our beliefs even when we catch the lie,...",
+          "simplifiedContent": "**Title: How AI is Changing What We Believe**\n\nThese days, we hear a lot about \"truth decay,\" which is a fancy way of saying that it's getting harder to know what's true and what's not. One big reason for this is AI, or artificial intelligence. AI can create content that looks real but isn't, like fake news or made-up videos. This can trick people into believing things that aren't true.\n\nImagine reading an article online that looks like it was written by a real person, but it was actually created by a computer program. Even if you find out later that it's fake, it might still affect what you think or believe.\n\nThis is a big deal because the more we see and believe fake stuff, the harder it is to trust what we read or watch. It's like living in a world where you can't always tell if someone is telling the truth.\n\nTo help with this problem, experts are working on ways to spot fake content made by AI. They want to make sure we can trust what we see online. It's important for everyone to be aware of this issue so we can make better decisions about what to believe.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+          "publishedAt": "2026-02-02T18:09:57.000Z"
+        },
+        {
+          "title": "Klarna backs Google UCP to power AI agent payments",
+          "summary": "Klarna aims to address the lack of interoperability between conversational AI agents and backend payment systems by backing Google’s Universal Commerce Protocol (UCP), an open standard designed to unify how AI agents discover products and execute transactions. The partnership, which also sees Klarna...",
+          "simplifiedContent": "**Title: Klarna Teams Up with Google to Make AI Shopping Easier**\n\nKlarna, a company that helps people shop online, is working with Google to make buying things through AI (computer programs that can talk and think like humans) much simpler. Right now, when you ask an AI helper to buy something, it can be tricky because different systems don't always work well together. \n\nTo fix this, Klarna is supporting Google's new plan called the Universal Commerce Protocol (UCP). Think of UCP as a universal language that helps AI helpers and shopping websites understand each other better. This means that in the future, when you ask an AI assistant to find and buy a product for you, it will be smoother and faster.\n\nFor everyday people, this partnership could make online shopping through AI helpers much easier and more reliable. Instead of worrying if your AI can find what you need and complete the purchase, it should all work seamlessly. So, next time you want to use an AI to buy something online, it might just be as simple as asking, “Can you get that for me?” and letting the technology do the rest.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/klarna-backs-google-ucp-power-ai-agent-payments/",
+          "publishedAt": "2026-02-02T15:16:59.000Z"
+        },
+        {
+          "title": "ThoughtSpot: On the new fleet of agents delivering modern analytics",
+          "summary": "If you are a data and analytics leader, then you know agentic AI is fuelling unprecedented speed of change right now. Knowing you need to do something and knowing what to do, however, are two different things. The good news is providers like ThoughtSpot are able to assist, with the company in its ow...",
+          "simplifiedContent": "**Title: New AI Tools from ThoughtSpot Make Data Easier for Everyone**\n\nThoughtSpot has introduced new tools that make it easier for people to understand data and make smart decisions. Imagine you have a huge pile of information, like sales numbers or customer feedback, and you need to make sense of it all. ThoughtSpot's new AI tools are like super-smart helpers that quickly sort through this data and show you what's important.\n\nThese tools work fast and can handle lots of information, helping businesses keep up with the fast pace of today's world. They help you figure out what actions to take, not just by showing numbers, but by explaining what those numbers mean. This is great news for anyone who works with data but doesn't have a lot of time or technical skills.\n\nIn simple terms, ThoughtSpot is making it much easier for people to use data to make decisions, without needing to be a data expert. This means businesses can be more efficient and responsive, ultimately making better choices for their customers and themselves.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/thoughtspot-on-the-new-fleet-of-agents-delivering-modern-analytics/",
+          "publishedAt": "2026-02-02T09:34:52.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-01-31",
       "articles": [
         {
