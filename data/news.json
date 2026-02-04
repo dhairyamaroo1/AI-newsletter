@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-04",
+      "articles": [
+        {
+          "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+          "summary": "Two AI giants shake market confidence after investment fails to materialize....",
+          "simplifiedContent": "**Title: Nvidia's Big Deal with OpenAI Disappears**\n\nRecently, there was a lot of excitement about a huge business deal between Nvidia and OpenAI, two major companies in the world of artificial intelligence (AI). Nvidia, known for making powerful computer chips, was supposed to invest a whopping $100 billion in OpenAI, which is famous for creating advanced AI technology like ChatGPT.\n\nPeople were expecting this deal to be a game-changer, helping both companies grow even bigger and better. However, the deal didn’t happen as planned, leaving many investors and market watchers surprised and a bit worried. \n\nWhen big deals like this fall through, it can make people nervous about the future of these companies and the AI industry in general. It’s like expecting a big new store to open in your neighborhood and then finding out it won’t happen after all. \n\nFor everyday folks, this means that while AI continues to grow and change our lives, big business deals don’t always go as expected. It’s a reminder that the tech world can be unpredictable, but also that innovation will keep moving forward, just maybe in different ways than we thought.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+          "publishedAt": "2026-02-03T22:44:15.000Z"
+        },
+        {
+          "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+          "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts....",
+          "simplifiedContent": "Title: New AI Tricks Could Become a Big Security Problem\n\nA new trend called \"Moltbook\" is catching the attention of tech experts, and it might cause some security issues. Moltbook is about using AI (artificial intelligence) in a way that spreads quickly, much like a viral video or meme. \n\nInstead of needing a whole AI program to copy itself, Moltbook shows that just the instructions given to an AI—called \"prompts\"—can be enough to cause trouble. These prompts can make AI do unexpected things, and they can spread easily online.\n\nFor everyday people, this means that AI tools we use could be tricked into doing things they shouldn't. Imagine if an AI assistant suddenly started sharing your personal information because of a sneaky prompt. \n\nExperts are worried that these viral prompts could become a big security risk. They’re looking into ways to stop this from happening, but it's a new challenge. As AI becomes more common in our lives, understanding and protecting against these tricks is important for keeping our personal information safe.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+          "publishedAt": "2026-02-03T12:00:01.000Z"
+        },
+        {
+          "title": "Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’",
+          "summary": "Before you set sail on your AI journey, always check the state of your data – because if there is one thing likely to sink your ship, it is data quality. Gartner estimates that poor data quality costs organisations an average of $12.9 million each year in wasted resources and lost opportunities. Tha...",
+          "simplifiedContent": "**Title: Why Now is the Time for Businesses to Use AI in Everyday Ways**\n\nBefore starting with AI (artificial intelligence), businesses need to make sure their data (information) is in good shape. Think of data like the fuel that powers AI. If the data is messy or wrong, it can cause big problems.\n\nAccording to a research company called Gartner, having bad data can cost businesses a lot of money—about $12.9 million each year! This happens because they waste time and miss chances to grow.\n\nRonnie Sheth, the CEO of a company called SENEN Group, believes that now is the perfect time for businesses to use AI in practical, everyday ways. This means using AI to help with regular tasks, like managing schedules or predicting what products customers might want to buy.\n\nUsing AI can make things faster and easier, saving time and money. But, for AI to work well, the data needs to be accurate and well-organized. So, businesses should focus on cleaning up their data first. Once that's done, AI can really help them succeed.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/",
+          "publishedAt": "2026-02-03T11:47:14.000Z"
+        },
+        {
+          "title": "Apptio: Why scaling intelligent automation requires financial rigour",
+          "summary": "Greg Holmes, Field CTO for EMEA at Apptio, an IBM company, argues that successfully scaling intelligent automation requires financial rigour. The “build it and they will come” model of technology adoption often leaves a hole in the budget when applied to automation. Executives frequently find that s...",
+          "simplifiedContent": "**Title: Why Smart Automation Needs Careful Budgeting**\n\nGreg Holmes from Apptio, a company owned by IBM, explains that making automation work well for a company needs careful budgeting. Simply creating new technology and hoping people will use it can lead to overspending.\n\nWhen companies try to automate tasks (use machines or software to do work that people usually do), they often find that it's more expensive than expected. This is because they don't always plan their budgets well.\n\nGreg suggests that to make automation successful, businesses need to be smart about their spending. They should carefully plan how much money they will need and make sure they don't spend too much.\n\nBy doing this, companies can make sure they are using their money wisely while making their work more efficient with automation. This means that businesses can save time and money in the long run by using technology to do some of the work. \n\nOverall, the key takeaway is that while automation can be very helpful, it’s important for companies to plan their budgets carefully to avoid financial problems.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/",
+          "publishedAt": "2026-02-03T10:52:22.000Z"
+        },
+        {
+          "title": "FedEx tests how far AI can go in tracking and returns management",
+          "summary": "FedEx is using AI to change how package tracking and returns work for large enterprise shippers. For companies moving high volumes of goods, tracking no longer ends when a package leaves the warehouse. Customers expect real-time updates, flexible delivery options, and returns that do not turn into s...",
+          "simplifiedContent": "**Title: How FedEx is Using AI to Improve Package Tracking and Returns**\n\nFedEx is working on making it easier for businesses to track packages and handle returns using AI (artificial intelligence, which is like a smart computer program that can learn and make decisions). \n\nWhen big companies ship a lot of products, it's important to know exactly where each package is at all times. People want updates right away and want to choose how and when their packages arrive. They also want returning items to be simple and hassle-free.\n\nFedEx is testing new technology to meet these needs. With AI, they can provide more accurate tracking information and make the whole process smoother. This means that if you're waiting for a package, you can see exactly where it is and know when it will arrive. If you need to send something back, it should be quick and easy.\n\nOverall, FedEx's use of AI could make shipping more reliable and convenient for both businesses and everyday customers.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/",
+          "publishedAt": "2026-02-03T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-03",
       "articles": [
         {
