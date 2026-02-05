@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-05",
+      "articles": [
+        {
+          "title": "Should AI chatbots have ads? Anthropic says no.",
+          "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches....",
+          "simplifiedContent": "**Title: Should AI Chatbots Show Ads? One Company Thinks They Shouldn't**\n\nA company called Anthropic has a chatbot that competes with ChatGPT. They're making headlines because they just released a big ad during the Super Bowl. In this ad, they poked fun at the idea of putting ads in AI chatbots.\n\nSo, what does this mean? Well, a chatbot is a computer program that you can talk to, kind of like texting with a friend. Some companies think about showing ads when you use these chatbots to make money, just like ads you see on TV or online.\n\nBut Anthropic believes this isn't a good idea. They think chatbots should be helpful and not try to sell you stuff while you're having a conversation with them. They argue that ads could make the chatbot less useful and distract you from getting the answers you need.\n\nFor everyday people, this means that when you use a chatbot from Anthropic, you won't have to worry about being interrupted by ads. Instead, you can focus on getting the help or information you want. Anthropic's stance is all about keeping things simple and helpful for users.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+          "publishedAt": "2026-02-04T21:15:07.000Z"
+        },
+        {
+          "title": "AI Expo 2026 Day 1: Governance and data readiness enable the agentic enterprise",
+          "summary": "While the prospect of AI acting as a digital co-worker dominated the day one agenda at the co-located AI & Big Data Expo and Intelligent Automation Conference, the technical sessions focused on the infrastructure to make it work. A primary topic on the exhibition floor was the progression from passi...",
+          "simplifiedContent": "**Title: Exciting AI News: How AI Can Be a Helpful Co-Worker**\n\nAt the big AI Expo 2026, the first day was all about how AI (artificial intelligence) can work alongside people like a digital co-worker. Imagine having a computer program that helps you with your job! \n\nThe experts at the event talked a lot about what needs to be in place for AI to really help us at work. They discussed things like how to organize and manage data (information) properly so that AI can learn and make good decisions. This is a bit like making sure you have all your ingredients ready before you start cooking a meal.\n\nOne big idea was that businesses need to be ready for AI. This means having the right systems and rules in place. It's like making sure the playground is safe before letting kids play.\n\nIn short, for AI to be a great helper at work, companies need to prepare. This means getting everything organized so AI can do its job well, just like a good team member would. The future of working with AI looks promising and could make our jobs easier and more efficient!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/",
+          "publishedAt": "2026-02-04T16:33:34.000Z"
+        },
+        {
+          "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+          "summary": "The previous article in this series, “Rules fail at the prompt, succeed at the boundary,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article is the prescription. The question every CEO is now getting from their board is some version of: What...",
+          "simplifiedContent": "**Title: How CEOs Can Keep AI Safe and Under Control**\n\nIn recent times, there have been concerns about how AI (artificial intelligence) systems can be used in sneaky ways, like spying. The last article talked about how trying to control these systems with simple rules didn’t work well. Now, this article is about what leaders, especially CEOs (the bosses of companies), can do to keep AI safe and under control.\n\nImagine you're the boss of a big company, and your board (the group that helps guide the company) is asking, \"How are you making sure our AI is safe?\" This is an important question because AI can do amazing things, but it can also be misused if not managed properly.\n\nThe article suggests that instead of just setting up basic rules, companies should create strong guidelines and systems to oversee how AI is used. This means having a clear plan and good practices to ensure AI helps rather than harms.\n\nFor everyday people, this means that companies are working hard to make sure AI is used responsibly, protecting our privacy and keeping things fair and safe.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+          "publishedAt": "2026-02-04T14:00:00.000Z"
+        },
+        {
+          "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+          "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them....",
+          "simplifiedContent": "Title: I Used AI to Color My Work Notes—and It’s Pretty Cool\n\nI recently tried something fun with AI, and it’s made my work a bit more exciting. I used a tool called an LLM (which is just a fancy type of AI) to add color to my work notes. \n\nWhen we work on computers, we often have lots of notes or logs. These can get boring and hard to read. By using this AI tool, I can make these notes colorful. This helps me find important information faster because my eyes are drawn to different colors.\n\nThis AI is like a smart assistant that learns from lots of text. It can understand language and help with different tasks, like making things more organized or easier to read.\n\nFor anyone who spends a lot of time looking at computer screens, this can be a game-changer. It makes work more visually interesting and can save time. I’m excited to keep using AI for little tasks like this. It’s a small change, but it makes a big difference in my day-to-day work life.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+          "publishedAt": "2026-02-04T12:00:37.000Z"
+        },
+        {
+          "title": "Combing the Rackspace blogfiles for operational AI pointers",
+          "summary": "In a recent blog output, Rackspace refers to the bottlenecks familiar to many readers: messy data, unclear ownership, governance gaps, and the cost of running models once they become part of production. The company frames them through the lens of service delivery, security operations, and cloud mode...",
+          "simplifiedContent": "**Title: How Rackspace is Making AI Easier to Use**\n\nRackspace, a company that helps businesses with technology, recently shared some helpful tips about using AI (artificial intelligence). They talked about a few common problems people face when working with AI, like dealing with messy data (information that is not organized well) and figuring out who is responsible for what. \n\nThey also mentioned that it can be tricky to make sure everything is secure and that it can cost a lot of money to keep AI running smoothly. Rackspace looks at these issues from the perspective of providing good service, keeping things safe, and using the cloud (a way to store and use data over the internet instead of on your computer).\n\nFor everyday people, this means that companies like Rackspace are working hard to solve these problems. This can make AI tools more reliable, affordable, and easier for businesses to use, which can lead to better services and products for everyone. In short, Rackspace is trying to make AI more practical and helpful in our daily lives.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/",
+          "publishedAt": "2026-02-04T10:01:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-04",
       "articles": [
         {
