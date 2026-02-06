@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-02-06",
+      "articles": [
+        {
+          "title": "This is the most misunderstood graph in AI",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It ...",
+          "simplifiedContent": "**Title: A Confusing AI Graph Explained Simply**\n\nEvery time companies like OpenAI, Google, or Anthropic release a new AI model (which is like a really smart computer program that can understand and use language), people in the tech world get really excited and curious. But there's one graph that often causes a lot of confusion.\n\nThis graph tries to show how these AI models are getting better and better at understanding and generating language. However, many people find it hard to understand what the graph really means for everyday life.\n\nIn simple terms, these AI models are like super-smart helpers that can do things like answer questions, write stories, or even help with homework. When the graph shows improvement, it means these models are getting better at doing these tasks.\n\nFor regular folks, this means that in the future, AI could make our lives easier in many ways, like helping us find information faster or even providing new ways to learn and communicate. So, while the graph might be confusing, the takeaway is that AI is getting smarter, and that could bring helpful changes to our daily lives.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
+          "publishedAt": "2026-02-05T10:00:00.000Z"
+        },
+        {
+          "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+          "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X....",
+          "simplifiedContent": "**Title: OpenAI Upset Over Rival's New TV Ads During Super Bowl**\n\nOpenAI, a company that creates artificial intelligence (AI), is not happy with its competitor, Anthropic. During the Super Bowl, Anthropic aired TV commercials promoting its AI technology. Sam Altman, the CEO of OpenAI, shared his frustration online, calling Anthropic \"dishonest\" and \"authoritarian,\" which means controlling and strict.\n\nAltman believes Anthropic's ads are misleading. He thinks they might give people the wrong idea about what AI can really do. OpenAI is worried that such ads could make people misunderstand AI, which is a technology that helps computers do tasks that usually need human intelligence, like recognizing pictures or understanding speech.\n\nThis disagreement highlights how competitive the AI industry has become, with companies trying hard to prove their technology is the best. For everyday people, it means that as AI becomes more common, we need to be careful about believing everything we see in ads. It's important to understand what AI can and can't do, so we can use it wisely in our lives.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+          "publishedAt": "2026-02-05T17:46:59.000Z"
+        },
+        {
+          "title": "AI companies want you to stop chatting with bots and start managing them",
+          "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents....",
+          "simplifiedContent": "**Title: AI Companies Want You to Manage Bots, Not Just Chat with Them**\n\nAI (artificial intelligence) is getting smarter every day. Companies like Claude Opus 4.6 and OpenAI Frontier have new ideas about how we can use this technology. Instead of just chatting with AI, like asking Siri or Alexa questions, these companies think we should start managing them like little helpers.\n\nImagine having a team of digital assistants that can help you with different tasks. For example, one AI could organize your schedule, another could help you with shopping, and another could assist with work projects. These AI helpers would work together to make your life easier.\n\nThe idea is that we won't just talk to AI for fun or simple questions. Instead, we'll have a more active role in guiding and managing them to get things done more efficiently.\n\nThis could mean less time doing boring tasks and more time for things you enjoy. It's like having a personal assistant in your pocket that learns and adapts to what you need.\n\nIn the future, managing AI could become as normal as using a smartphone. This change might make everyday life a lot simpler and more productive.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+          "publishedAt": "2026-02-05T22:47:54.000Z"
+        },
+        {
+          "title": "Increase of AI bots on the Internet sparks arms race",
+          "summary": "Publishers are rolling out more aggressive defenses....",
+          "simplifiedContent": "**Title: More AI Bots Online Lead to New Internet Battles**\n\nRecently, there's been a big increase in the number of AI bots on the internet. AI bots are computer programs that can do things like chat with people or search for information. With more of these bots around, companies that run websites are working hard to protect their sites.\n\nThese companies are creating stronger defenses to stop bots from doing things like faking clicks on ads or pretending to be real people. This is important because too many bots can slow down websites and make it harder for people to use them.\n\nOn the other hand, the people who make these bots are also improving them to get around these defenses. It's like a game of cat and mouse, where both sides are always trying to outsmart each other.\n\nFor everyday internet users, this means you might see more challenges like those \"I'm not a robot\" tests when you visit websites. These tests help make sure you're a real person.\n\nIn the end, the goal is to keep the internet a safe and easy place for everyone to use. So, while this back-and-forth battle might seem a bit complicated, it’s all about making sure you have a good experience online.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+          "publishedAt": "2026-02-05T14:21:20.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-05",
       "articles": [
         {
