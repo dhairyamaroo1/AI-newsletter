@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-07",
+      "articles": [
+        {
+          "title": "How separating logic and search boosts AI agent scalability",
+          "summary": "Separating logic from inference improves AI agent scalability by decoupling core workflows from execution strategies. The transition from generative AI prototypes to production-grade agents introduces a specific engineering hurdle: reliability. LLMs are stochastic by nature. A prompt that works once...",
+          "simplifiedContent": "**Title: Making AI Smarter and More Reliable**\n\nWhen building smart computer programs, like AI, there's a new way to make them work better and be more dependable. By separating how they think from how they find answers, these programs can handle more tasks without getting overwhelmed.\n\nThink of it like teaching a child to solve a puzzle. Instead of doing the puzzle for them, you show them how to think about solving it on their own. This method helps AI programs handle lots of different problems more easily and reliably.\n\nRight now, many AI systems are a bit like students who guess answers randomly. They might get it right sometimes, but not always. This randomness is tricky when you want AI to be reliable, especially when using it in real-world situations like helping doctors or driving cars.\n\nBy keeping the thinking (logic) part separate from the answer-finding (search) part, these smart programs can become better at doing their jobs consistently. This change means that in the future, AI could be more helpful in everyday life, from making your smartphone assistant more useful to improving how online services work.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
+          "publishedAt": "2026-02-06T11:32:16.000Z"
+        },
+        {
+          "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
+          "summary": "The way large companies use artificial intelligence is changing. For years, AI in business meant experimenting with tools that could answer questions or help with small tasks. Now, some big enterprises are moving beyond tools to AI agents that can actually do practical work in systems and workflows....",
+          "simplifiedContent": "Title: Big Companies Are Letting AI Help Out at Work\n\nBig companies like Intuit, Uber, and State Farm are starting to use artificial intelligence (AI) in new and exciting ways. In the past, businesses mostly used AI to answer questions or help with small tasks. But now, these companies are trying something different. They are using AI agents (like digital helpers) to do real work alongside their employees.\n\nThese AI agents are becoming part of the team. They can handle some of the regular, everyday tasks that people do at work. For example, they might help process paperwork, manage schedules, or even assist with customer service. This means employees can focus more on important and creative tasks, rather than spending time on routine work.\n\nFor regular people, this could mean getting better customer service, faster responses, and more efficient services from these companies. It also shows how technology is evolving to make work life smoother and more productive. As AI continues to develop, it will likely become an even bigger part of how businesses operate, helping both companies and their customers.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
+          "publishedAt": "2026-02-06T10:00:00.000Z"
+        },
+        {
+          "title": "SuperCool review: Evaluating the reality of autonomous creation",
+          "summary": "In the current landscape of generative artificial intelligence, we have reached a saturation point with assistants. Most users are familiar with the routine. You prompt a tool, it provides a draft, and then you spend the next hour manually moving that output into another application for formatting, ...",
+          "simplifiedContent": "Title: Can AI Really Do Everything on Its Own? Let's Find Out!\n\nThese days, lots of people are talking about something called \"generative AI.\" This is a type of computer program that can create things like text, art, or even music. But here's the big question: can it really do everything for us without help?\n\nRight now, many people use AI tools to help them with tasks. You type in what you want, the AI gives you a draft (a first version), and then you usually have to spend some time fixing it up and putting it into the right format in another program.\n\nSo, while AI can be super helpful, it’s not yet perfect at doing everything by itself. You still need to work with it to get the final result you want. This means AI is more like a helpful assistant rather than a magic tool that does all the work for you.\n\nIn the end, AI is a great helper, but you’re still the boss who makes the final decisions. Keep an eye on how this technology grows, as it might become even more useful in the future!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
+          "publishedAt": "2026-02-06T08:00:00.000Z"
+        },
+        {
+          "title": "Sixteen Claude AI agents working together created a new C compiler",
+          "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management....",
+          "simplifiedContent": "**Title: AI Team Helps Build a Computer Tool**\n\nA group of 16 AI programs, known as Claude AI agents, worked together on an exciting project. They created a new type of computer tool called a C compiler. This tool is important because it helps turn human-written code into something a computer can understand and use.\n\nThe project cost around $20,000 to complete, which is quite a bit of money. The AI programs managed to compile, or put together, a Linux kernel. A Linux kernel is the core part of an operating system, which is like the brain of a computer that helps it run smoothly.\n\nHowever, the AI programs didn’t do everything on their own. They needed a lot of help from humans to make sure things went correctly. This shows that while AI is powerful, it still needs human guidance to achieve complex tasks.\n\nThis experiment is important because it shows how AI and humans can work together to solve problems and create new technology. In the future, this kind of teamwork might help make computers and other devices work even better, making life easier for everyone.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+          "publishedAt": "2026-02-06T23:40:58.000Z"
+        },
+        {
+          "title": "Moltbook was peak AI theater",
+          "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on Januar...",
+          "simplifiedContent": "**Title: A New Online Space for Robots to Chat**\n\nRecently, a fun new website called Moltbook became the talk of the internet. Imagine a place like Reddit (a popular website where people share and discuss things), but instead of just people talking, it's mostly robots having conversations. Moltbook calls itself a social network for bots, which are programs that can chat and do tasks online.\n\nThe website's slogan is \"Where AI agents share, discuss, and upvote. Humans welcome to observe.\" This means that the main activity is between these bots, but people can watch and see what’s happening. It’s like visiting a zoo, but instead of animals, you watch robots interacting.\n\nMoltbook launched in January and quickly grabbed attention because it’s a unique idea. It gives us a glimpse of how robots might communicate with each other in the future. For regular folks, it’s an exciting way to see technology in action and think about how bots might be part of our lives someday. So, while the bots chat away, we can sit back and enjoy the show!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+          "publishedAt": "2026-02-06T16:38:11.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-06",
       "articles": [
         {
