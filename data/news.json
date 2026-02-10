@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-10",
+      "articles": [
+        {
+          "title": "Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?",
+          "summary": "Because Western AI labs won’t—or can’t—anymore. As OpenAI, Anthropic, and Google face mounting pressure to restrict their most powerful models, Chinese developers have filled the open-source void with AI explicitly built for what operators need: powerful models that run on commodity hardware. A new ...",
+          "simplifiedContent": "**Title: Why Are Chinese AI Models Leading the Way?**\n\nIn recent times, Chinese developers have taken the lead in creating AI models that anyone can use and modify. This is happening because big companies in the West, like OpenAI and Google, are facing a lot of pressure to limit how their AI models are used. These companies are worried about safety and other concerns, so they're being more careful.\n\nMeanwhile, developers in China are making AI models that are powerful but can run on regular computers. This means more people can use them without needing expensive equipment. These open-source models (which are like free software anyone can change) are becoming very popular.\n\nFor everyday people, this means there could be more AI tools available that are affordable and easy to access. As Chinese developers continue to innovate, we might see more useful apps and tools that can help with everything from translation to creative tasks. This shift could bring exciting new technology options to people all over the world.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/",
+          "publishedAt": "2026-02-09T11:00:00.000Z"
+        },
+        {
+          "title": "Goldman Sachs tests autonomous AI agents for process-heavy work",
+          "summary": "Goldman Sachs is pushing deeper into real use of artificial intelligence inside its operations, moving to systems that can carry out complex tasks on their own. The Wall Street bank is working with AI startup Anthropic to create autonomous AI agents powered by Anthropic’s Claude model that can handl...",
+          "simplifiedContent": "**Title: Goldman Sachs Uses AI to Help with Busy Work**\n\nGoldman Sachs, a big bank, is trying something new to make its work easier. They're using a special kind of computer program, called artificial intelligence (AI), to help with tasks that take a lot of time. This AI can work on its own to do complicated jobs without needing much help from people.\n\nTo make this happen, Goldman Sachs is teaming up with a company called Anthropic. Anthropic has created a smart AI system named Claude. This system can do things like organizing data and managing information, which are tasks that often take a lot of effort from humans.\n\nFor people who work at Goldman Sachs, this means they might have more time to focus on important work that needs human thinking, while the AI takes care of routine stuff. This change could help the bank work more efficiently and maybe even save money.\n\nIn the future, more companies might use AI like this to handle their busy work, allowing employees to spend more time on creative and strategic tasks.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-tests-autonomous-ai-agents-for-process-heavy-work/",
+          "publishedAt": "2026-02-09T10:00:00.000Z"
+        },
+        {
+          "title": "Cryptocurrency markets a testbed for AI forecasting models",
+          "summary": "Cryptocurrency markets have become a high-speed playground where developers optimise the next generation of predictive software. Using real-time data flows and decentralised platforms, scientists develop prediction models that can extend the scope of traditional finance. The digital asset landscape ...",
+          "simplifiedContent": "Title: How AI is Changing the Game in Cryptocurrency\n\nCryptocurrency, like Bitcoin, is a type of digital money that people trade online. Recently, these online markets have become a great place for testing new computer programs that try to predict what will happen next. These programs use AI, or artificial intelligence, which is a fancy way of saying they can learn from lots of information to make smart guesses.\n\nScientists are working with this technology to make better predictions about how cryptocurrency prices will change. This is important because these prices can go up and down very quickly, and knowing what might happen next can help people make better decisions about buying or selling.\n\nBy using these new AI tools, researchers hope to improve how we understand not just cryptocurrencies but also regular financial markets, like the stock market. This could mean more accurate predictions, helping people invest their money more wisely.\n\nIn short, AI is making it easier to understand and predict the ups and downs of digital money, which could help everyone make smarter financial choices.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/",
+          "publishedAt": "2026-02-09T10:30:39.000Z"
+        },
+        {
+          "title": "Why the Moltbook frenzy was like Pokémon",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into th...",
+          "simplifiedContent": "**Title: Why Everyone is Talking About Moltbook, the New Online Craze**\n\nLast week, many people in the tech world couldn't stop talking about Moltbook. It's a new online place where computer programs, called AI agents, chat and interact with each other. Think of it like a digital playground for these smart programs.\n\nPeople are excited because Moltbook gives us a peek into the future. It's like watching Pokémon, where each AI agent has its own personality and can do different things. These AI agents can talk, make friends, and even learn from each other.\n\nFor everyday people, this means we might soon see more lifelike virtual assistants and chatbots in our apps and websites. Imagine talking to a computer program that feels like a real person, helping you with shopping, learning, or just having fun.\n\nMoltbook is still new, but it's an exciting step in how we use technology. It's a bit like watching a science fiction movie come to life. Keep an eye out—you might be interacting with one of these smart programs sooner than you think!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+          "publishedAt": "2026-02-09T17:02:56.000Z"
+        },
+        {
+          "title": "Making AI Work, MIT Technology Review’s new AI newsletter, is here",
+          "summary": "For years, our newsroom has explored AI’s limitations and potential dangers, as well as its growing energy needs. And our reporters have looked closely at how generative tools are being used for tasks such as coding and running scientific experiments.  But how is AI actually being used in fields lik...",
+          "simplifiedContent": "**Title: Introducing \"Making AI Work\" - A New AI Newsletter from MIT Technology Review**\n\nMIT Technology Review has launched a new newsletter called \"Making AI Work.\" This newsletter is all about understanding how artificial intelligence (AI) is being used in the real world.\n\nFor a long time, we've been talking about the challenges and risks of AI, like how much energy it uses. Our team has also been looking into how new AI tools help with things like writing computer programs and doing science experiments. But now, we want to focus on how AI is actually making a difference in everyday life.\n\n\"Making AI Work\" will share stories about AI in action. It will show how AI is being used in different areas, like healthcare, education, and business. This newsletter aims to help people understand AI better and see how it can improve our lives.\n\nSo, if you're curious about how AI is changing the world, this newsletter is a great way to learn more. It's written in a simple way so everyone can understand. Keep an eye out for it to stay updated on the latest in AI!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+          "publishedAt": "2026-02-09T11:30:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-07",
       "articles": [
         {
