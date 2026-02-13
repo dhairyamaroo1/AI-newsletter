@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-13",
+      "articles": [
+        {
+          "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+          "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor....",
+          "simplifiedContent": "Title: OpenAI Creates a Super-Fast Coding Program\n\nOpenAI, a company known for creating smart computer programs, has just made a new tool called GPT-5.3-Codex-Spark. This tool helps write computer code much faster than before—15 times faster, to be exact!\n\nWhat makes this even more interesting is how they did it. Instead of using the usual big chips made by a company called Nvidia, OpenAI used smaller, plate-sized chips. Think of it like using a smaller, but more powerful engine in a car to make it go faster.\n\nSo, what does this mean for you? Well, this new tool can help developers (people who write computer programs) work quicker and more efficiently. This means apps and websites you use every day could be built faster and improved more quickly. It’s like getting a new feature in your favorite app much sooner than you’d expect.\n\nOverall, OpenAI’s new tool is a big step forward in making technology work faster and better for everyone.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+          "publishedAt": "2026-02-12T22:56:02.000Z"
+        },
+        {
+          "title": "AI is already making online crimes easier. It could get much worse.",
+          "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known...",
+          "simplifiedContent": "**Title: How AI is Helping Online Criminals and Why It Might Get Worse**\n\nAnton Cherepanov spends his time searching for unusual activity online. Last year, in late August, he found something that caught his attention. It was a file uploaded to a website called VirusTotal. This site is where people like Anton, who work to keep our computers safe, check files to see if they contain viruses or harmful software.\n\nThe file Anton found showed how artificial intelligence (AI) is making it easier for criminals to commit online crimes. AI is a kind of computer technology that can learn and make decisions. Unfortunately, bad guys are using it to create more convincing fake emails and scams, tricking people into giving away personal information or money.\n\nThis is worrying because it means online crime could become more common and harder to spot. As AI technology gets better, it might become even easier for criminals to use it for bad purposes.\n\nFor everyday people, this means we need to be more careful online. Double-check who is sending emails and be cautious about clicking on links or downloading files. Staying informed and alert can help keep you safe from these new AI-driven tricks.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+          "publishedAt": "2026-02-12T11:00:00.000Z"
+        },
+        {
+          "title": "What’s next for Chinese open-source AI",
+          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese co...",
+          "simplifiedContent": "**Title: The Future of AI in China**\n\nIn the past year, China has made big strides in artificial intelligence (AI), which is technology that lets computers learn and think like humans. This change started in January 2025 when a company called DeepSeek released a new AI model. This model is like a smart computer program that helps computers understand and reason about things better.\n\nChina is focusing on \"open-source\" AI. This means they're sharing their AI technology with others so anyone can use it to build new tools and applications. This approach can help speed up progress and make AI tools available to more people around the world.\n\nFor everyday people, this means we might soon see more advanced AI applications coming from China. These could include smarter apps on our phones, better online services, or even new gadgets that make life easier. By sharing their AI advances, China is helping to create a future where technology is more accessible and useful for everyone.\n\nOverall, keep an eye on China’s AI developments, as they might bring exciting changes to the technology we use every day.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+          "publishedAt": "2026-02-12T10:00:00.000Z"
+        },
+        {
+          "title": "Google identifies state-sponsored hackers using AI in attacks",
+          "summary": "State-sponsored hackers are exploiting highly-advanced tooling to accelerate their particular flavours of cyberattacks, with threat actors from Iran, North Korea, China, and Russia using models like Google’s Gemini to further their campaigns. They are able to craft sophisticated phishing campaigns a...",
+          "simplifiedContent": "Title: Google Spots Hackers Using AI for Sneaky Attacks\n\nGoogle has discovered that hackers supported by certain governments are using advanced technology to carry out cyberattacks more quickly and effectively. These hackers come from countries like Iran, North Korea, China, and Russia, and they're using smart computer programs, similar to Google’s own AI called Gemini, to help them.\n\nThese hackers are creating tricky emails, known as phishing, which are designed to fool people into sharing personal information like passwords or credit card details. With AI, these phishing attempts are becoming more convincing, making it harder for people to tell what's real and what's fake.\n\nFor everyday people, this means it's more important than ever to be cautious about emails or messages that ask for personal information. Always double-check the sender and never click on suspicious links. By being aware of these tactics, you can better protect yourself from falling victim to these sophisticated cyber tricks.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/state-sponsored-hackers-ai-cyberattacks-google/",
+          "publishedAt": "2026-02-12T09:00:00.000Z"
+        },
+        {
+          "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+          "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost....",
+          "simplifiedContent": "**Title: Hackers Tried to Copy Google's Gemini AI Over 100,000 Times**\n\nGoogle recently revealed that hackers attempted to create a fake version of its AI program, Gemini, over 100,000 times. Gemini is an advanced technology developed by Google, and these attackers were trying to make a cheap imitation of it.\n\nNormally, building something like Gemini takes a lot of time, money, and expertise. However, these hackers used a trick called \"distillation\" to try and copy it. Distillation is a method that lets people replicate complex systems at a much lower cost.\n\nFor everyday people, this means that hackers are getting better at creating fake versions of advanced technology. These fakes can cause problems if people use them without realizing they are not the real deal. It’s important for companies to protect their technology to keep everyone safe.\n\nGoogle’s report highlights how crucial it is to stay ahead of cyber threats and ensure that the technology we use is genuine and secure. As technology becomes more advanced, so do the tricks that hackers use, making security more important than ever.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+          "publishedAt": "2026-02-12T19:42:08.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-12",
       "articles": [
         {
