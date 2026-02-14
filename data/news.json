@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-14",
+      "articles": [
+        {
+          "title": "AI forecasting model targets healthcare resource efficiency",
+          "summary": "An operational AI forecasting model developed by Hertfordshire University researchers aims to improve resource efficiency within healthcare. Public sector organisations often hold large archives of historical data that do not inform forward-looking decisions. A partnership between the University of ...",
+          "simplifiedContent": "Title: New AI Tool Helps Hospitals Use Resources Better\n\nResearchers at Hertfordshire University have created a new AI tool to help hospitals and healthcare providers use their resources more wisely. Often, hospitals have lots of old data but don't use it to plan for the future. This new tool can change that.\n\nThe AI tool looks at past information to predict what might happen next. For example, it can help hospitals know when they might need more staff or extra beds. This means hospitals can be better prepared and not waste money or resources.\n\nThis tool was developed through a partnership between the University and healthcare organizations. By working together, they hope to make healthcare more efficient, which means better care for patients and less stress for hospital workers.\n\nIn simple terms, this AI tool helps hospitals make smarter decisions about how to use their resources. This could lead to faster treatment for patients and less waiting time. Overall, it's about making sure hospitals are ready for anything and can provide the best care possible.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/",
+          "publishedAt": "2026-02-13T16:07:06.000Z"
+        },
+        {
+          "title": "Newsweek CEO Dev Pragad warns publishers: adapt as AI becomes news gateway",
+          "summary": "Author: Dev Pragad, CEO, Newsweek As artificial intelligence platforms increasingly mediate how people encounter news, media leaders are confronting an important change in the relationship between journalism and the public. AI-driven search and conversational interfaces now influence how audiences d...",
+          "simplifiedContent": "**Title: Newsweek Boss Says News Outlets Need to Keep Up with AI Changes**\n\nAs technology changes, so does the way we get our news. Dev Pragad, the boss at Newsweek, says that news companies need to adapt to how artificial intelligence (AI) is changing things. \n\nAI is a type of computer technology that can learn and make decisions. It is becoming a big part of how we find and read news. For example, when you search for news online or ask a smart assistant (like Siri or Alexa) about what's happening in the world, AI helps you find the information you need. \n\nBecause of this, people who run news companies need to rethink how they share news with the public. AI is becoming a sort of \"gateway\" or doorway to the news, meaning it affects what stories people see and read. \n\nFor everyday readers, this means that the way you find and read news might change. You might rely more on AI to show you stories that interest you. News outlets will need to work with AI to make sure you still get accurate and reliable information. \n\nIn short, AI is changing the news world, and news companies need to keep up to stay relevant.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/newsweek-ceo-dev-pragad-warns-publishers-adapt-as-ai-becomes-news-gateway/",
+          "publishedAt": "2026-02-13T10:54:23.000Z"
+        },
+        {
+          "title": "Alibaba enters physical AI race with open-source robot model RynnBrain",
+          "summary": "Alibaba has entered the race to build AI that powers robots, not just chatbots. The Chinese tech giant this week unveiled RynnBrain, an open-source model designed to help robots perceive their environment and execute physical tasks.  The move signals China’s accelerating push into physical AI as age...",
+          "simplifiedContent": "Title: Alibaba Steps into the Robot World with RynnBrain\n\nAlibaba, a big tech company from China, is taking a new step into the world of robots. They have introduced something called RynnBrain. This is not just another computer program for chatting; it's a special tool to help robots understand and interact with the world around them. \n\nRynnBrain is open-source, which means anyone can use and improve it for free. This makes it easier for people and companies to create robots that can see and do things in real life, like picking up objects or moving around spaces.\n\nChina is moving quickly into this area of technology, and Alibaba's new tool shows they are serious about making robots smarter and more useful. For everyday people, this could mean that in the future, we might see more robots helping out in places like factories, hospitals, or even our homes.\n\nOverall, Alibaba's RynnBrain is a step toward making robots that can do more than just follow simple instructions—they might soon be able to think and act more like us.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/alibaba-rynnbrain-physical-ai-robots-china/",
+          "publishedAt": "2026-02-13T09:30:00.000Z"
+        },
+        {
+          "title": "What Murder Mystery 2 reveals about emergent behaviour in online games",
+          "summary": "Murder Mystery 2, commonly known as MM2, is often categorised as a simple social deduction game in the Roblox ecosystem. At first glance, its structure appears straightforward. One player becomes the murderer, another the sheriff, and the remaining participants attempt to survive. However, beneath t...",
+          "simplifiedContent": "**Title: What We Can Learn from Murder Mystery 2 in Online Games**\n\nMurder Mystery 2, or MM2 for short, is a popular game on Roblox where players take on different roles. One person is the murderer, another is the sheriff, and everyone else tries to stay alive. It might seem like a simple game, but there’s more going on than meets the eye.\n\nIn MM2, players often act in unexpected ways. This is called \"emergent behavior,\" which means people come up with new strategies or ways to play that weren't planned by the game's creators. For example, players might form alliances or come up with clever ways to catch the murderer or avoid being caught.\n\nThis kind of behavior shows how creative people can be when playing games. It also helps game designers learn more about how players interact with each other. By studying games like MM2, developers can create better and more engaging experiences.\n\nFor everyday players, this means games can become more fun and interesting, offering new challenges and surprises every time you play. So next time you're playing an online game, remember that your actions can shape the game in unexpected ways!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/",
+          "publishedAt": "2026-02-13T16:01:53.000Z"
+        },
+        {
+          "title": "Agentic AI drives finance ROI in accounts payable automation",
+          "summary": "Finance leaders are driving ROI using agentic AI for accounts payable automation, turning manual tasks into autonomous workflows. While general AI projects saw return on investment rise to 67 percent last year, autonomous agents delivered an average ROI of 80 percent by handling complex processes wi...",
+          "simplifiedContent": "Title: How Smart Computers Are Making Paying Bills Easier and More Profitable\n\nHave you ever imagined a computer that can do boring tasks for you? In the world of finance, this is becoming a reality. Companies are using smart computers, called \"agentic AI,\" to help with paying bills. This means that instead of people having to do everything by hand, these computers can do it automatically.\n\nLast year, many businesses used different types of AI (artificial intelligence, which is like a computer brain) to help them save money and work more efficiently. They found that these smart computers helped them earn back 67% more than they spent on the technology. But when they used the really advanced ones, called autonomous agents, they got back 80% more. \n\nThese advanced computers can handle tough tasks without needing much help from people. For companies, this means less time spent on routine work and more time to focus on important things. It also means saving money and increasing profits. For everyday people, this could lead to faster service and even lower costs. So, smart computers are not just about making things easier—they're also helping businesses do better!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/",
+          "publishedAt": "2026-02-13T12:33:33.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-13",
       "articles": [
         {
