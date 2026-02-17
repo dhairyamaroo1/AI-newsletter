@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-02-17",
+      "articles": [
+        {
+          "title": "Banking AI in multiple business functions at NatWest",
+          "summary": "NatWest Group has expanded the use of artificial intelligence in several areas of its operations, citing customer service, document management in its wealth management division, and software development. According to a blog post by its chief information officer, Scott Marcar, 2025 was the first year...",
+          "simplifiedContent": "**Title: How NatWest is Using AI to Help Customers**\n\nNatWest, a big bank, is using artificial intelligence (AI) to make things better for their customers and their own work. AI is like a super-smart computer program that can help with lots of tasks.\n\nAt NatWest, AI is helping in a few important areas:\n\n1. **Customer Service**: AI is making it easier and faster for customers to get help. This means when you have a question or problem, AI can help answer it quickly.\n\n2. **Managing Documents**: In the part of the bank that helps people with their investments and savings (wealth management), AI is organizing papers and information. This makes it easier for the bank to keep track of everything and help customers with their money.\n\n3. **Creating Software**: AI is also helping the bank's tech team build new programs and tools that can make banking better for everyone.\n\nScott Marcar, a leader at NatWest, shared these updates. The bank started using AI in these ways back in 2025. By using AI, NatWest hopes to make banking smoother and more efficient for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/",
+          "publishedAt": "2026-02-16T12:20:06.000Z"
+        },
+        {
+          "title": "Debenhams pilots agentic AI commerce via PayPal integration",
+          "summary": "Debenhams is piloting agentic AI commerce via PayPal integration to reduce mobile friction and help solve a familiar problem for retailers. Mobile checkout abandonment remains a persistent revenue leak for digital retailers. Debenhams Group is attempting to close this gap by deploying an agentic AI ...",
+          "simplifiedContent": "**Title: Debenhams Tries New AI Shopping Tech with PayPal**\n\nDebenhams, a well-known store, is trying out a new way of shopping online to make things easier for customers. They're using something called \"agentic AI,\" which is just a fancy way of saying smart technology that helps you shop. This is being tested with PayPal, a popular way to pay online.\n\nThe big problem they're tackling is when people start to buy something on their phones but stop before finishing. This happens a lot, and stores lose money because of it. Debenhams wants to fix this issue by making it simpler and faster to check out, or finish buying, on their mobile site.\n\nBy using this new smart tech, Debenhams hopes more people will complete their purchases without getting frustrated and leaving the site. If this works, it could mean more sales for the store and a smoother shopping experience for customers. So, next time you shop online at Debenhams, you might notice it's easier to buy what you want!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/",
+          "publishedAt": "2026-02-16T12:04:46.000Z"
+        },
+        {
+          "title": "URBN tests agentic AI to automate retail reporting",
+          "summary": "Retail decisions often depend on weekly performance reports, but compiling those reports can take hours of manual work. Urban Outfitters Inc. (URBN) is testing a new approach by using agentic AI systems to generate those reports automatically, changing routine analysis from staff to software. The re...",
+          "simplifiedContent": "Title: How Urban Outfitters is Making Retail Reports Easier with AI\n\nUrban Outfitters, a popular clothing store, is trying out a new way to make work easier. Usually, their staff spends hours putting together weekly reports to see how well the store is doing. These reports help them decide what clothes to order and what sales to run. \n\nBut now, they’re using something called agentic AI, which is just a smart computer program that can do this work automatically. This means the computer can gather and organize all the important information without anyone having to do it by hand. \n\nFor the people who work at Urban Outfitters, this means they can spend less time on boring paperwork and more time on fun and creative tasks, like coming up with new ideas for the store. \n\nFor shoppers, it could mean better choices and more exciting sales because the staff has more time to focus on what customers really want. \n\nIn short, Urban Outfitters is using smart technology to make their store run smoother and keep customers happy.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/urbn-tests-agentic-ai-to-automate-retail-reporting/",
+          "publishedAt": "2026-02-16T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-14",
       "articles": [
         {
