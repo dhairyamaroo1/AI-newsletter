@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-02-18",
+      "articles": [
+        {
+          "title": "Goldman Sachs deploys Anthropic systems with success",
+          "summary": "Goldman Sachs plans to deploy Anthropic’s Claude model in trade accounting and client onboarding, and, according to an article in American Banker, presents this as part of a broader push among large banks to use generative artificial intelligence to improve efficiency. The focus is on operational pr...",
+          "simplifiedContent": "Title: Goldman Sachs Uses New AI Technology to Help Their Business\n\nGoldman Sachs, a big bank, is using a new kind of artificial intelligence (AI) from a company called Anthropic. This AI, known as the Claude model, is being used to make their work easier and faster, especially when dealing with money and helping new clients get started.\n\nMany large banks are starting to use AI to do their jobs better. For Goldman Sachs, this means using AI to handle things like counting money and setting up accounts for new customers. The goal is to make everything more efficient, which means getting things done more quickly and with fewer mistakes.\n\nThis change is part of a larger trend where banks are trying to use new technology to improve how they work. By using AI, they hope to save time and money, and also give better service to their customers.\n\nIn simple terms, AI is helping Goldman Sachs do their work more smoothly, which is good for the bank and its customers.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-ai-deploys-anthropic-systems-with-success/",
+          "publishedAt": "2026-02-17T12:29:00.000Z"
+        },
+        {
+          "title": "Insurance giant AIG deploys agentic AI with orchestration layer",
+          "summary": "American International Group (AIG) has reported faster than expected gains from its use of generative AI, with implications for underwriting capacity, operating cost, and portfolio integration. The company’s recent disclosures at an Investor Day merit attention from AI decision-makers as they contai...",
+          "simplifiedContent": "**Title: AIG Uses New AI Technology to Improve Its Services**\n\nAIG, a big insurance company, has started using a new kind of computer technology called AI (Artificial Intelligence) to help improve its services. This technology is making things faster and cheaper for the company, which is good news for both the business and its customers.\n\nAI is like a super-smart computer that can learn and make decisions. AIG is using this to help with things like deciding who gets insurance and managing their different services. Because of this technology, AIG can work more efficiently, saving time and money.\n\nAt a recent event, AIG shared that their AI is working even better than they expected. This is important because it shows how AI can really help big companies improve what they do. For customers, this might mean better service and possibly even lower costs in the future.\n\nOverall, AIG's use of AI is a big step forward in how insurance companies can use technology to provide better services to people.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
+          "publishedAt": "2026-02-17T14:13:00.000Z"
+        },
+        {
+          "title": "Alibaba Qwen is challenging proprietary AI model economics",
+          "summary": "The release of Alibaba’s latest Qwen model challenges proprietary AI model economics with comparable performance on commodity hardware. While US-based labs have historically held the performance advantage, open-source alternatives like the Qwen 3.5 series are closing the gap with frontier models. Th...",
+          "simplifiedContent": "Title: Alibaba's New AI Model is Shaking Up the Tech World\n\nAlibaba, a big technology company from China, has released a new AI model called Qwen. This model is causing a stir because it works just as well as some of the most advanced AI models, but it doesn't need super expensive computers to run.\n\nIn the past, the best-performing AI models were mostly made by American companies and needed very powerful and costly machines. But now, Alibaba's Qwen is showing that you can get similar results without spending a fortune on fancy equipment. This is a big deal because it means more people and companies can use advanced AI without breaking the bank.\n\nQwen is part of a growing trend of open-source AI models. \"Open-source\" means that the technology is available for anyone to use and improve. This openness is helping to level the playing field, allowing more people around the world to develop and use AI technology.\n\nFor everyday people, this could lead to more affordable and accessible AI tools in the future, making advanced technology a part of everyday life for more people.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/",
+          "publishedAt": "2026-02-17T13:45:59.000Z"
+        },
+        {
+          "title": "SS&C Blue Prism: On the journey from RPA to agentic automation",
+          "summary": "For organizations who are still wedded to the rules and structures of robotic process automation (RPA), then considering agentic AI as the next step for automation may be faintly terrifying. SS&C Blue Prism, however, is here to help, taking customers on the journey from RPA to agentic automation at ...",
+          "simplifiedContent": "**Title: How SS&C Blue Prism is Making Work Easier with New Automation Tools**\n\nIf you work in a place that uses computers to do lots of repetitive tasks, you might have heard of something called RPA, which stands for Robotic Process Automation. It's a way to get computers to do simple, repetitive jobs for us, like entering data or sending emails. But there's something new and exciting coming up called \"agentic automation.\"\n\nSS&C Blue Prism is a company that helps businesses use these automation tools to make work easier. They're now helping companies move from using simple automation (RPA) to this new kind of smarter automation. Imagine having a computer program that not only does simple tasks but also makes decisions and learns over time. That's what agentic automation is all about.\n\nFor everyday people, this means that the boring parts of your job can be done by computers, leaving you more time to focus on interesting and creative work. SS&C Blue Prism is guiding businesses to make this change smoothly, so employees can benefit from smarter technology without feeling overwhelmed. It's like having a super helpful assistant who gets better at the job the more they do it!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
+          "publishedAt": "2026-02-17T15:27:34.000Z"
+        },
+        {
+          "title": "Password managers' promise that they can't see your vaults isn't always true",
+          "summary": "Contrary to what password managers say, a server compromise can mean game over....",
+          "simplifiedContent": "**Title: Are Your Passwords Really Safe? What You Need to Know**\n\nDid you know that the apps you use to keep track of your passwords might not be as secure as you think? Many people use password managers (apps that store all your passwords in one place) because they promise to keep your information safe and private. They say that not even they can see what's inside your \"vault\" (the secure place where your passwords are stored).\n\nBut here's the catch: if a hacker breaks into the company's servers (the computers where the company stores data), they might be able to see your passwords. This is like someone finding the key to your safe and looking inside.\n\nSo, what does this mean for you? It's a reminder to be careful with how you store your passwords. Even though password managers are generally safer than writing passwords down or using the same one everywhere, they’re not perfect.\n\nTo stay extra safe, make sure you use strong, unique passwords for each account and turn on two-factor authentication (a second step to verify it's really you) whenever possible. This way, even if someone does get your password, they can’t easily access your accounts.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+          "publishedAt": "2026-02-17T20:43:01.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-17",
       "articles": [
         {
