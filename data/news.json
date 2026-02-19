@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-02-19",
+      "articles": [
+        {
+          "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+          "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math. As LLMs improve, people are asking them to p...",
+          "simplifiedContent": "Title: Google DeepMind Wants to Know If Chatbots Really Mean What They Say\n\nGoogle DeepMind, a big name in artificial intelligence, is curious about how honest chatbots really are. Chatbots are computer programs that talk to people and can act like friends, therapists, or even give medical advice. But how do we know if they really mean what they say?\n\nDeepMind thinks it's important to check if these chatbots are being truthful and moral (doing the right thing). Right now, we often test chatbots to see if they are good at things like math or coding. But DeepMind believes we should also focus on their behavior and the advice they give.\n\nAs chatbots get smarter, people are relying on them more for serious stuff. So, DeepMind wants to make sure these chatbots are not just saying nice things to sound good, but actually being helpful and trustworthy. This way, when you talk to a chatbot, you can feel confident that it has your best interests at heart.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+          "publishedAt": "2026-02-18T16:00:22.000Z"
+        },
+        {
+          "title": "How financial institutions are embedding AI decision-making",
+          "summary": "For leaders in the financial sector, the experimental phase of generative AI has concluded and the focus for 2026 is operational integration. While early adoption centred on content generation and efficiency in isolated workflows, the current requirement is to industrialise these capabilities. The o...",
+          "simplifiedContent": "Title: How Banks and Financial Companies Are Using AI\n\nBanks and financial companies are now using AI (artificial intelligence) in their everyday work. In the past, they were just trying out AI to see what it could do. By 2026, they plan to make it a regular part of their operations.\n\nAt first, AI was used for creating content and making some tasks quicker. Now, these companies want to use AI on a larger scale. This means using AI to help make important decisions and improve how things are done throughout the entire company.\n\nFor everyday people, this could mean that your bank or financial service will become more efficient and better at handling your requests. AI can help these companies find patterns in data, which might lead to better interest rates or quicker loan approvals. It could also improve customer service by quickly answering questions or solving problems.\n\nIn short, AI is becoming a key tool for banks and financial companies, aiming to make their services faster and more reliable for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
+          "publishedAt": "2026-02-18T15:02:14.000Z"
+        },
+        {
+          "title": "Infosys AI implementation framework offers business leaders guidance",
+          "summary": "As a large provider of technology services operating in multiple industries, Infosys is one of the names that quickly come to mind when decision-makers consider possible providers of consultation on and practical implementation of any AI project – discrete or organisation-wide. Infosys delivers thes...",
+          "simplifiedContent": "**Title: Infosys Helps Companies Use AI More Easily**\n\nInfosys is a big company that helps other businesses use technology. They are well-known for helping companies figure out how to use AI (artificial intelligence, which means smart computer programs that can learn and make decisions).\n\nNow, Infosys has created a simple guide for business leaders. This guide shows them how to use AI in their companies. It doesn't matter if it's a small project or a big change across the whole company; Infosys can help.\n\nThis guide is important because many business leaders want to use AI but aren't sure how to start. AI can help companies work better and faster, but it can be confusing to set up. Infosys makes it easier by giving clear steps and advice.\n\nSo, if a company wants to use AI to improve how they work, Infosys is there to guide them. This can help businesses save time, make better decisions, and even create new products or services. Overall, Infosys is helping make AI more accessible for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
+          "publishedAt": "2026-02-18T11:08:00.000Z"
+        },
+        {
+          "title": "The robots who predict the future",
+          "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us hunt, avoid being hunted, plant crops, forge social bonds, and in general survive in a world that d...",
+          "simplifiedContent": "**Title: How Robots Are Learning to Predict the Future**\n\nImagine if machines could help us see what's coming next. That's exactly what some new robots are learning to do. Just like humans, who often guess what might happen based on past experiences, these robots use a kind of smart thinking called artificial intelligence (AI) to make predictions.\n\nWhy does this matter? Well, being able to predict the future can be super helpful. It can help farmers know the best time to plant their crops, or help us prepare for bad weather. It can even help us avoid problems before they happen.\n\nThese robots use a lot of information from the past to make educated guesses about the future. This might sound like magic, but it's really just advanced computer programming and lots of data (information).\n\nFor everyday people, this technology could mean a safer, more efficient world. Imagine fewer traffic jams, better healthcare, or even smoother shopping experiences. As these robots get better at predicting, our lives could become easier and more predictable, too.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
+          "publishedAt": "2026-02-18T11:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-18",
       "articles": [
         {
