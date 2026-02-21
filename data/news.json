@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-02-21",
+      "articles": [
+        {
+          "title": "Exploring AI in the APAC retail sector",
+          "summary": "AI in the APAC retail sector is transitioning from analytics and pilots into workflows and daily operations. Dense urban stores, high labour churn, and competitive quick-commerce ecosystems are driving the uptake. A Q4 2025 survey by GlobalData found that 45 percent of consumers in Asia and Australa...",
+          "simplifiedContent": "**Title: How AI is Changing Shopping in Asia and Australia**\n\nIn Asia and Australia, stores are starting to use AI (artificial intelligence) in their everyday operations. This means that technology is helping shops run more smoothly and efficiently. \n\nMany stores in busy cities are adopting AI because it can help with the challenges they face, like high staff turnover and the need to deliver products quickly. With AI, stores can manage their stock better, serve customers faster, and even predict what shoppers might want to buy next.\n\nAccording to a survey done in late 2025 by a company called GlobalData, about 45% of people in Asia and Australia are noticing these changes in their shopping experiences. \n\nFor shoppers, this could mean getting what they need faster and having a more personalized shopping experience. For example, AI can help online stores suggest products you might like based on your past purchases. \n\nOverall, AI is making shopping more convenient and efficient for everyone in the region.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/",
+          "publishedAt": "2026-02-20T17:19:04.000Z"
+        },
+        {
+          "title": "AI: Executives’ optimism about the future",
+          "summary": "The most rigorous international study of firm-level AI impact to date has landed, and its headline finding is more constructive than many expected. Across nearly 6,000 verified executives in four countries, AI has delivered modest aggregate shifts in productivity or employment over the past three ye...",
+          "simplifiedContent": "**Title: Business Leaders Feel Positive About AI's Future**\n\nA recent study looked at how AI (artificial intelligence, which means computers doing smart tasks) is affecting businesses. This study involved nearly 6,000 business leaders from four different countries. The main takeaway is that AI is having a positive impact, but not as dramatic as some people thought it would be.\n\nOver the last three years, AI has helped companies work a bit more efficiently and hasn't caused big changes in job numbers. This means that while AI is making some tasks easier, it's not taking over jobs or drastically changing how businesses run just yet.\n\nBusiness leaders are generally optimistic, meaning they feel good about what AI can do in the future. They believe AI will continue to help improve how companies operate. For everyday people, this means we might see AI make our work lives a little easier without worrying too much about losing jobs to machines.\n\nIn summary, AI is slowly but surely helping businesses, and many leaders are hopeful about what it can do in the coming years.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/",
+          "publishedAt": "2026-02-20T10:56:24.000Z"
+        },
+        {
+          "title": "Coca-Cola turns to AI marketing as price-led growth slows",
+          "summary": "Shifting from price hikes to persuasion, Coca-Cola’s latest strategy signals how AI is moving deeper into the core of corporate marketing. Recent coverage of the company’s leadership discussions shows that Coca-Cola is entering what executives describe as a new phase focused on influence not pricing...",
+          "simplifiedContent": "**Title: Coca-Cola Uses AI to Boost Its Marketing**\n\nCoca-Cola is changing how it sells its drinks. Instead of just raising prices to make more money, the company is now using artificial intelligence (AI) to improve its marketing. This means they're focusing on convincing people to buy their products in new and interesting ways.\n\nCoca-Cola's leaders recently talked about this new plan. They believe using AI will help them understand what customers want and how to better connect with them. This could mean more personalized ads or finding new ways to reach out to people.\n\nFor everyday people, this means you might start seeing Coca-Cola ads that feel more tailored to your tastes and interests. The company hopes that by using AI, they can make their marketing more effective and engaging.\n\nOverall, Coca-Cola is trying to stay ahead by using technology to better understand and appeal to its customers. So next time you see a Coke ad, it might just be the result of some smart AI work behind the scenes!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/",
+          "publishedAt": "2026-02-20T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-19",
       "articles": [
         {
