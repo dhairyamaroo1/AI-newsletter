@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-02-24",
+      "articles": [
+        {
+          "title": "The human work behind humanoid robots is being hidden",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intellig...",
+          "simplifiedContent": "**Title: The Hidden Human Effort Behind Human-Like Robots**\n\nIn January, Jensen Huang, the leader of Nvidia, a big tech company, announced that we are starting a new age of \"physical AI.\" This means we're now making robots that can move and act like people. But there's something important you might not know: it takes a lot of human work to make these robots seem smart and lifelike.\n\nWhen we see robots doing amazing things, it looks like they are doing it all by themselves. However, behind the scenes, many people are working hard to teach these robots how to act. They program (give instructions) and test the robots, making sure they can understand and respond to the world around them.\n\nWhy does this matter to you? Well, as robots become more common, they might start appearing in places like stores, hospitals, or even homes. Understanding that people are behind these machines can help us appreciate the technology more and see the human effort involved.\n\nSo, while robots are getting smarter, let's not forget about the dedicated humans who make it all possible!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+          "publishedAt": "2026-02-23T17:05:00.000Z"
+        },
+        {
+          "title": "Hitachi bets on industrial expertise to win the physical AI race",
+          "summary": "Physical AI – the branch of artificial intelligence that controls robots and industrial machinery in the real world – has a hierarchy problem. At the top, OpenAI and Google are scaling multimodal foundation models. In the middle, Nvidia is building the platforms and tools for physical AI development...",
+          "simplifiedContent": "**Title: Hitachi Aims to Lead in Smart Machines**\n\nHitachi, a big technology company, wants to be the best at making smart machines. These machines, which are controlled by artificial intelligence (AI), can do things like run factories and build cars. This area of AI is called \"physical AI\" because it deals with real-world machines and not just computers or software.\n\nRight now, companies like OpenAI and Google are working on advanced AI models that can do many different things. Meanwhile, Nvidia is creating the tools needed to build and improve these smart machines.\n\nHitachi believes its long experience with industrial machines will help it succeed in this field. They want to make sure these smart machines are reliable and can work well in factories and other industrial settings.\n\nFor everyday people, this means that in the future, factories could be more efficient, products could be made faster, and perhaps even cheaper. This could lead to better availability of goods and possibly lower prices. Hitachi's work could make our daily lives easier by improving how things are made and moved around.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/hitachi-physical-ai-industrial-expertise/",
+          "publishedAt": "2026-02-23T07:00:00.000Z"
+        },
+        {
+          "title": "Mastercard’s AI payment demo points to agent-led commerce",
+          "summary": "A recent demonstration from Mastercard suggests that payment systems may be heading toward a future where software agents, not people, complete purchases. During the India AI Impact Summit 2026, Mastercard showed what it described as its first fully authenticated “agentic commerce” transaction. In t...",
+          "simplifiedContent": "**Title: Mastercard Shows How AI Could Make Shopping Easier**\n\nMastercard recently showed off a new way to shop that could make our lives simpler. At an event in India, they demonstrated a system where software, not people, handles buying things. This means that in the future, computers could do the shopping for us.\n\nHere's how it works: imagine telling a digital assistant (like Alexa or Siri) to buy groceries for you. The software would then find the best deals, check out, and pay for the items without you needing to lift a finger. Mastercard's demo showed the first time this was done with full security checks in place, which means it was safe and reliable.\n\nFor everyday people, this could mean less time spent on routine shopping and more time for things you enjoy. It might also lead to more personalized shopping experiences, as these digital helpers learn your preferences.\n\nThis technology is still in the early stages, but Mastercard’s demonstration gives us a glimpse into a future where shopping could be as easy as asking a computer to handle it for you.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/",
+          "publishedAt": "2026-02-23T10:00:00.000Z"
+        },
+        {
+          "title": "How Amul is using AI dairy farming to put 36 million farmers first",
+          "summary": "AI dairy farming has found its most ambitious deployment yet – not in a Silicon Valley lab nor a European agri-tech campus, but in the villages of Gujarat, India, where 36 lakh (3.6 million) women milk producers are now being served by an AI assistant named Sarlaben. Amul, the world’s largest dairy ...",
+          "simplifiedContent": "**Title: How Amul is Using AI to Help Millions of Farmers in India**\n\nIn the villages of Gujarat, India, a big change is happening for dairy farmers, thanks to technology. Amul, a huge dairy company, is using something called \"AI\" (which stands for artificial intelligence, a kind of smart computer program) to help 3.6 million women who produce milk. This AI assistant is named Sarlaben.\n\nSarlaben helps farmers by making their work easier and more efficient. It can give advice on how to take care of cows, when to milk them, and how to get the best milk. This means farmers can get more milk and better quality milk, which helps them earn more money.\n\nBy using this AI technology, Amul is putting farmers first. It's not happening in a fancy tech company but right in the heart of rural India, where it's needed most. This is a big step forward for these farmers, as it helps them improve their lives and supports their families. It's a great example of how technology can make a real difference in everyday people's lives.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/amul-ai-dairy-farming-platform-india/",
+          "publishedAt": "2026-02-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-21",
       "articles": [
         {
