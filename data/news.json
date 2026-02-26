@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-02-26",
+      "articles": [
+        {
+          "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
+          "summary": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network...",
+          "simplifiedContent": "**Title: Nokia and AWS Test New AI Technology to Improve 5G Networks**\n\nNokia and Amazon Web Services (AWS) are working on a new way to make 5G networks better and faster using artificial intelligence (AI). \n\n5G is the latest technology for mobile networks. It promises super-fast internet speeds for phones and other devices. But sometimes, these networks can get crowded or slow. That’s where AI comes in. \n\nNokia and AWS are testing a system where AI can help manage the network. Think of it like a smart traffic controller for the internet. The AI can watch the network and make quick decisions to keep things running smoothly. For example, if too many people are using the network at the same time, the AI can adjust things to make sure everyone still gets good service.\n\nThis technology could mean fewer dropped calls and faster internet on our phones. It's like having a super-smart assistant making sure everything works just right. \n\nIf successful, this could make our online experiences smoother and more reliable, especially as more people and devices connect to 5G networks.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
+          "publishedAt": "2026-02-25T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-25",
       "articles": [
         {
