@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-02-27",
+      "articles": [
+        {
+          "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+          "summary": "That guest network you set up for your neighbors may not be as secure as you think....",
+          "simplifiedContent": "Title: New AirSnitch Attack Could Let Hackers Peek into Your Wi-Fi\n\nIf you think your Wi-Fi network is safe, think again. A new problem called \"AirSnitch\" can let hackers break into Wi-Fi connections at homes, offices, and businesses.\n\nYou might have a guest Wi-Fi set up for visitors, thinking it keeps your main network safe. But this new trick can still let bad guys sneak in. They can listen to the information being sent over your Wi-Fi without you knowing. This means they might see things like personal messages or sensitive work files.\n\nWhy should you care? Well, if someone gets into your Wi-Fi, they could steal important information or even mess with your internet. This could lead to problems like identity theft or losing important data.\n\nTo stay safe, experts suggest updating your Wi-Fi router with the latest security settings. It's also a good idea to use strong passwords and change them regularly. While this news might sound scary, taking these simple steps can help protect your online life from hackers.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+          "publishedAt": "2026-02-26T15:45:18.000Z"
+        },
+        {
+          "title": "Finding value with AI and Industry 5.0 transformation",
+          "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur...",
+          "simplifiedContent": "**Title: How AI is Changing the Way We Work with Industry 5.0**\n\nFor a while now, businesses have been using smart technologies like artificial intelligence (AI), the internet, and robots to improve how they work. This was called Industry 4.0. But now, something new is happening: Industry 5.0.\n\nIndustry 5.0 is about bringing these technologies together and making them work better with people. Instead of just using machines to do tasks, it's about finding the best way for humans and machines to work side by side. This means that the technology will not just be tools but will help us be more creative and efficient at work.\n\nFor everyday people, this could mean working with machines that can help us think of new ideas, solve problems faster, and make our jobs easier. It also means that businesses might start producing better products, and services could become more personalized to our needs.\n\nIn short, Industry 5.0 is about making technology work better with us, not just for us, which could change the way we work and live in exciting ways.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+          "publishedAt": "2026-02-26T15:00:59.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-02-26",
       "articles": [
         {
