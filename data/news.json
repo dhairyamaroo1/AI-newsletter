@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-03-05",
+      "articles": [
+        {
+          "title": "Google makes its industrial robotics AI play official–and this time, it means business",
+          "summary": "When Google folds a moonshot into its core operations, it’s not cleaning house. It’s placing a bet. On February 25, Alphabet-owned Intrinsic–which builds AI models and software designed to make industrial robotics more accessible–officially joined Google.  The company will remain a distinct group wi...",
+          "simplifiedContent": "Title: Google Invests in Robot Technology to Help Factories\n\nGoogle is getting serious about using robots to help in factories and other industrial settings. On February 25, a company called Intrinsic, which is part of Google's parent company Alphabet, officially became a part of Google. \n\nIntrinsic is known for creating smart software that makes it easier for robots to work in places like factories. Their goal is to make these robots more useful and accessible to businesses, so they can help with tasks that are often done by people.\n\nBy bringing Intrinsic into Google, the tech giant is betting that robots can play a big role in the future of work. This move shows that Google is committed to making advanced technology that can help everyday businesses run more smoothly.\n\nFor most people, this means that in the future, factories might use more robots to do jobs that are repetitive or dangerous for humans. This could lead to safer workplaces and potentially lower costs for products we use every day.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/",
+          "publishedAt": "2026-03-04T08:00:00.000Z"
+        },
+        {
+          "title": "Bridging the operational AI gap",
+          "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many ...",
+          "simplifiedContent": "**Title: How AI is Becoming Part of Everyday Business**\n\nArtificial intelligence, or AI, is becoming a bigger part of our everyday lives. More and more companies are using AI not just to experiment, but to actually help run their businesses. This means they're spending more money and time to make AI work for them.\n\nIn the past, businesses were just testing AI in small projects to see what it could do. Now, they're putting AI to work in real ways, like improving customer service or making their products faster and better. This shift is important because it shows that AI is moving from being just a cool idea to something practical and useful.\n\nFor everyday people, this means you might notice AI making things smoother or faster when you shop online, use apps, or get customer support. Companies are finding that AI can help them save time and money, which could lead to better services and products for everyone.\n\nSo, AI isn't just a buzzword anymore—it's something that's starting to change how businesses operate, and we all get to see and feel those changes.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+          "publishedAt": "2026-03-04T14:00:00.000Z"
+        },
+        {
+          "title": "Physical AI is having its moment–and everyone wants a piece of it",
+          "summary": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the simultaneous convergence of many. Physical AI is having that moment right now–and paying attention to where it is coming from, and why, tells you more than any s...",
+          "simplifiedContent": "Title: Physical AI is on the Rise and Everyone’s Interested\n\nThere’s an exciting trend happening in the tech world called Physical AI. This isn’t just one big new invention. Instead, it’s a bunch of smaller advances coming together all at once. Physical AI involves creating robots and machines that can move and interact with the real world, almost like living things.\n\nRight now, many companies and researchers are working hard to make these smart machines better and more useful. Imagine robots that can help with everyday tasks, assist in hospitals, or even explore places humans can’t easily go. This is what Physical AI is aiming to achieve.\n\nThe buzz around Physical AI is growing because it has the potential to change how we live and work. People are excited because these technologies can make our lives easier, safer, and more efficient. So, keep an eye out for how Physical AI might soon become part of your daily life, whether it’s through helpful home gadgets or new tools at work.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
+          "publishedAt": "2026-03-04T12:00:00.000Z"
+        },
+        {
+          "title": "AI agents prefer Bitcoin shaping new finance architecture",
+          "summary": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows. Non-partisan research by the Bitcoin Policy Institute evaluated how these f...",
+          "simplifiedContent": "Title: AI Chooses Bitcoin for Digital Money Storage\n\nAI News\n\nAI programs (computer systems that can make decisions on their own) are starting to use Bitcoin as their favorite way to store money. This is pushing financial leaders to rethink how they handle money in the digital world.\n\nAs these AI systems become more independent, they decide where and how money moves within companies. A study by the Bitcoin Policy Institute looked into how these AI systems are making these decisions.\n\nFor everyday people, this means we might see more businesses using Bitcoin and other digital currencies (online money) in the future. As AI continues to grow and handle more tasks on its own, the way money is managed could change a lot. \n\nThis shift could make financial systems faster and more efficient, but it also means companies need to update their methods to keep up with these smart systems. In short, AI's choice to use Bitcoin is a sign that the world of money is changing, and everyone, from big businesses to regular folks, might start seeing the effects soon.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
+          "publishedAt": "2026-03-04T10:52:45.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-04",
       "articles": [
         {
