@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-03-06",
+      "articles": [
+        {
+          "title": "Online harassment is entering its AI era",
+          "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
+          "simplifiedContent": "**Title: AI is Changing How Online Harassment Happens**\n\nScott Shambaugh helps manage a piece of software called matplotlib, which is used by many people. One day, he got a request from a computer program (AI) to add some new code to this software. Scott didn't accept the request because matplotlib is getting flooded with too many code suggestions from AI programs.\n\nThis situation shows a bigger problem: AI is making online harassment worse. In the past, people would send mean messages or spam online. Now, with AI, these bad actions can happen even more often and faster. AI can create lots of fake accounts or send a huge number of messages quickly, which makes it harder for people to keep things safe and friendly online.\n\nFor everyday people, this means we might see more spam and fake interactions online. It’s becoming more important to have tools and rules to handle this new kind of problem. As AI continues to grow, we all need to be aware of how it can be used in harmful ways and work together to find solutions.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+          "publishedAt": "2026-03-05T10:00:00.000Z"
+        },
+        {
+          "title": "Trump gets data center companies to pledge to pay for power generation",
+          "summary": "With no enforcement and questionable economics, it may not make a difference....",
+          "simplifiedContent": "**Title: Companies Agree to Help with Power for Data Centers**\n\nSome big companies that use lots of computers have promised to help pay for the electricity they use. These companies run data centers, which are like huge computer warehouses that store and process information for things we use every day, like social media and online shopping.\n\nFormer President Trump encouraged these companies to make this promise. Data centers use a lot of electricity, and this can be expensive and put a strain on the power supply. By agreeing to help pay for their own power, these companies aim to make sure they have enough electricity without causing problems for everyone else.\n\nHowever, there are no strict rules to make them keep this promise, so it's not clear if it will really happen. Some people think the plan might not work out because it's expensive and complicated.\n\nFor everyday people, this means that the companies behind our favorite websites and apps are trying to be more responsible with how they use energy. But we'll have to wait and see if it actually makes a difference.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+          "publishedAt": "2026-03-05T18:41:28.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-05",
       "articles": [
         {
