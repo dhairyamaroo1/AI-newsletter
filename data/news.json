@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-03-07",
+      "articles": [
+        {
+          "title": "Is the Pentagon allowed to surveil Americans with AI?",
+          "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after E...",
+          "simplifiedContent": "**Can the U.S. Military Use AI to Spy on Americans?**\n\nThere’s a big debate going on about whether the U.S. government, specifically the military, can use artificial intelligence (AI) to watch over Americans. AI is super smart technology that can analyze huge amounts of data, like videos, messages, or even online activity, to find patterns or track people. But here’s the issue: is it even legal for the government to use AI in this way?\n\nRight now, no one seems to know for sure. The rules about spying on Americans are pretty old, and they don’t clearly say if AI can be used for this kind of surveillance (watching people’s activities). A lot of people are worried this could lead to mass spying, where the government tracks everyone, not just people who are suspected of crimes.\n\nRecently, a company called Anthropic, which works with AI, has been arguing with the Department of Defense about this very topic. The argument has brought up big questions about privacy and whether AI could be misused.\n\nWhy does this matter to you? Well, it’s about your rights and how much privacy you have in a world where AI is becoming more common. Should the government be allowed to use AI to keep an eye on everyone? That’s the big question—and for now, there’s no clear answer.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+          "publishedAt": "2026-03-06T19:21:22.000Z"
+        },
+        {
+          "title": "Scaling intelligent automation without breaking live workflows",
+          "summary": "Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives fro...",
+          "simplifiedContent": "**Title: Making Automation Work Without Messing Things Up**\n\nImagine using smart software to handle boring, repetitive tasks at work, like organizing files or responding to emails. It sounds great, right? But when companies try to use this kind of automation on a big scale, things can get tricky. If they don’t do it carefully, the software can mess up important systems that people rely on every day.\n\nAt a recent event called the Intelligent Automation Conference, experts talked about why some companies struggle to make automation work smoothly. Many businesses start small and get great results at first, but when they try to expand, problems pop up. The key, they say, is building systems that can grow and adapt (like stretchy elastic) instead of just adding more bots (software programs that do tasks).\n\nFor everyday people, this means businesses might get better at using smart tools without causing delays or errors in the services you use—whether that’s your bank, your online shopping, or even healthcare. Smarter automation could make life easier for everyone, but only if it’s done right!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
+          "publishedAt": "2026-03-06T13:15:41.000Z"
+        },
+        {
+          "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
+          "summary": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other. Every time a new deal crosses a firm’s des...",
+          "simplifiedContent": "**Title: New AI Tool Could Help Big Investors Make Smarter Decisions**\n\nA new company called Rowspace just got $50 million to create an AI tool that helps big investment firms, like private equity groups, make better decisions. Private equity firms are businesses that invest money into other companies to help them grow and make a profit. But these firms deal with tons of information—years of notes, reports, data, and models—that are scattered across different systems. It’s hard for them to organize all this and use it effectively.\n\nRowspace’s AI is designed to gather and organize all this messy information so investors can find what they need quickly and make smarter choices. For example, if a firm is deciding whether to buy a company, they could use Rowspace’s tool to easily pull up past deals, notes, and data to see if it’s a good idea.\n\nWhy does this matter? It could make investing more efficient and less risky, which means better results for the businesses these firms invest in—and ultimately, for the economy. Rowspace wants to make sure big decisions are backed by clear, organized information, not guesswork.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
+          "publishedAt": "2026-03-06T10:00:00.000Z"
+        },
+        {
+          "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+          "summary": "The long, strange trip of a large assembly of advanced iOS exploits....",
+          "simplifiedContent": "**Title: Government Investigates iPhone Security Problems**\n\nA group of serious security flaws in iPhones has caught the attention of U.S. officials. These flaws, called \"vulnerabilities,\" are weaknesses in the phone’s software that hackers can use to break in. What’s worrying is that these issues were being secretly exploited (used) in ways nobody fully understands yet.\n\nHere’s the big picture: hackers could use these flaws to spy on people’s phones without them knowing. This means they could see private messages, photos, or even track someone’s location. Apple usually works quickly to fix problems like this, but these attacks were advanced and very sneaky. They happened in mysterious circumstances, and experts still don’t know who is behind them or why.\n\nThe government is now looking into it because security flaws like this could be dangerous for regular people, businesses, or even national security. If you’re an iPhone user, make sure your phone is updated to the latest software version. Updates often include fixes for these kinds of problems.\n\nThe bottom line: this story shows how important it is to stay on top of phone updates and be aware of how hackers can target even the most secure devices.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+          "publishedAt": "2026-03-06T19:41:33.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-06",
       "articles": [
         {
