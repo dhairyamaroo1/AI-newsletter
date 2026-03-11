@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-03-11",
+      "articles": [
+        {
+          "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+          "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squ...",
+          "simplifiedContent": "**Title: Pokémon Go Helps Delivery Robots See the World Better**\n\nPokémon Go, the popular game where players search for virtual Pokémon in the real world, is now helping delivery robots! The game, created by a company called Niantic in 2016, became a huge hit because it used augmented reality (AR). AR is technology that mixes digital things, like Pokémon, with the real world using your phone’s camera.\n\nHere’s the cool part: Niantic has collected tons of detailed maps of streets, parks, and other places from players walking around with their phones. Now, these maps are being used to help delivery robots navigate better. Robots need to understand their surroundings to move safely and efficiently, and Niantic’s data gives them a super clear view of the world.\n\nFor everyday people, this means delivery robots (like ones that bring food or packages) could soon work faster and avoid obstacles like curbs or tricky pathways. Pokémon Go was all about exploring, but now it’s making technology smarter in ways we didn’t expect. So, the next time you play Pokémon Go, you’re not just having fun—you might be helping robots get your pizza delivered on time!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+          "publishedAt": "2026-03-10T13:47:26.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-10",
       "articles": [
         {
