@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-03-14",
+      "articles": [
+        {
+          "title": "E.SUN Bank and IBM build AI governance framework for banking",
+          "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The new...",
+          "simplifiedContent": "**Title: E.SUN Bank Teams Up with IBM to Make AI Safer for Banking**\n\nE.SUN Bank is partnering with IBM to create clear rules for how artificial intelligence (AI) should be used in banking. AI is already helping banks with things like spotting fraud, deciding who qualifies for loans, and answering customer questions. But as AI becomes more common, it’s important to make sure it’s used responsibly and fairly.\n\nThis project is part of a bigger trend in the financial world. Banks want to make sure AI doesn’t make mistakes or treat people unfairly. For example, if AI is deciding whether someone can get a loan, it needs to be accurate and unbiased. E.SUN Bank and IBM are working together to build a framework (a set of guidelines) to ensure AI is trustworthy, safe, and works well for everyone.\n\nFor everyday people, this means more reliable and fair banking services in the future. You can feel confident that banks using AI will follow stricter rules to protect your money and treat you fairly.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+          "publishedAt": "2026-03-13T10:00:00.000Z"
+        },
+        {
+          "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+          "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice....",
+          "simplifiedContent": "**Title: Sneaky Hack Targets Popular Coding Sites Like GitHub**\n\nA new kind of cyberattack is making waves, and it’s all about hiding in plain sight. Hackers have found a way to sneak harmful code (instructions for computers) into popular websites where programmers share their work, like GitHub. What’s scary is that this hidden code is invisible to the human eye, so it’s easy for people to accidentally use it without knowing something is wrong.\n\nHere’s how it works: the attackers use something called \"Unicode,\" which is a system that helps computers understand text from different languages. They tweak this system to insert invisible instructions into the code. Programmers who see the code might think it looks fine, but the hidden instructions can secretly mess with how software works—sometimes stealing information or causing damage.\n\nThis attack is especially dangerous because GitHub and similar websites are used by millions of developers around the world. If someone unknowingly adds this sneaky code to their app or website, it could affect regular people who use those apps.\n\nExperts are now working hard to find ways to spot and block these hidden tricks. For now, it’s a reminder to be extra careful about online security—because hackers are always finding new ways to hide.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+          "publishedAt": "2026-03-13T20:18:08.000Z"
+        },
+        {
+          "title": "Why physical AI is becoming manufacturing’s next advantage",
+          "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and i...",
+          "simplifiedContent": "**Title: How AI-powered robots are changing factories for the better**\n\nFor years, factories have used machines to help get work done faster and cheaper. This has worked well, but it’s not enough anymore. Today, factory owners are dealing with new problems, like not having enough workers, more complicated tasks, and higher costs.\n\nThis is where \"physical AI\" comes in. Physical AI means robots and machines that are smart enough to do more than just basic tasks. These advanced robots can think and learn (using artificial intelligence, or AI) to handle tricky jobs, make decisions, and work alongside humans. For example, they can sort products, assemble parts, or check for mistakes in ways that humans can’t do as quickly or accurately.\n\nWhat does this mean for everyday people? It could lead to better products, faster delivery times, and possibly lower prices. It also means fewer boring or dangerous jobs for workers, since robots can take on those tasks. However, it also raises questions about jobs—will robots replace workers, or will they create new opportunities? \n\nFactories are getting smarter, and physical AI is a big part of the future. It’s changing how things are made and could make life easier for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+          "publishedAt": "2026-03-13T15:16:55.000Z"
+        },
+        {
+          "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
+          "summary": "Europe’s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.  It is the first automotive deployment of AEON anywhere ...",
+          "simplifiedContent": "**Title: BMW’s Robot Helpers Are Changing How Cars Are Made**\n\nBMW’s factories in Germany have some new workers—robots that look and move like humans! For the first time, BMW is using these humanoid robots, called AEON, in their car-making process at a plant in Leipzig. AEON was created by a company called Hexagon Robotics, and this is the first time it’s being used in the car industry.\n\nThese robots aren’t replacing human workers—they’re here to help with tasks that are repetitive or physically tiring. For example, AEON can move around on wheels and handle jobs that involve heavy lifting or precise movements. This makes the work easier and safer for people.\n\nBMW’s use of AEON is part of a test project, but other factories across Europe are watching closely. If it works well, more companies might start using similar robots to improve their own production lines.\n\nFor everyday people, this means robots could help make things faster and more efficiently, like cars, appliances, or other products. It also shows how technology is working alongside humans instead of taking over jobs. Who knows—one day, robots like AEON might be helping out in all kinds of industries!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+          "publishedAt": "2026-03-13T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-11",
       "articles": [
         {
