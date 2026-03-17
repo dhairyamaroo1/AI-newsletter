@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-03-17",
+      "articles": [
+        {
+          "title": "Where OpenAI’s technology could show up in Iran",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still press...",
+          "simplifiedContent": "**Title: How OpenAI’s AI Could Be Used in Iran**\n\nRecently, OpenAI, the company behind ChatGPT, made a big decision that’s causing a lot of debate. They agreed to let the Pentagon (the U.S. military’s headquarters) use their artificial intelligence (AI) technology for secret, classified projects. This has raised questions about how AI might be used in sensitive situations, including in countries like Iran.\n\nAI is powerful because it can analyze huge amounts of information very quickly and find patterns that humans might miss. In this case, OpenAI’s technology could help governments with things like tracking activities, gathering intelligence (information about other countries or threats), or even helping with military strategies. Some people think this could improve security, but others worry about privacy and how this technology might be used.\n\nThe big question is: should companies like OpenAI share their advanced AI tools with governments, especially when it comes to situations involving international politics? It’s a tricky topic because AI can do amazing things, but it also needs to be used responsibly.\n\nThis story matters because decisions like this could affect how AI is used around the world—and how it impacts everyday people’s lives.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+          "publishedAt": "2026-03-16T17:06:21.000Z"
+        },
+        {
+          "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
+          "summary": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry. Frontier is designed to act as a semantic layer in an organisation’s existing s...",
+          "simplifiedContent": "**Title: OpenAI’s New Frontier Could Change How Businesses Use AI**\n\nIn February, OpenAI introduced something called Frontier, and it might shake up the way companies use software. Frontier is a tool designed to help businesses use AI (artificial intelligence) more effectively. It lets AI agents (computer programs that can act like assistants) work with the tools a company already uses, like spreadsheets or databases, to get tasks done faster and smarter.\n\nThis is a big deal because it could change how businesses pay for software. Right now, companies often buy or subscribe to specific software programs to do their work. But Frontier makes it easier for AI to take over some of those tasks, meaning businesses might rely less on traditional software and more on AI-powered tools.\n\nFor everyday people, this could mean businesses will run more efficiently, potentially lowering costs or offering better services. For example, customer service could become faster, or products might be delivered quicker because AI is handling things behind the scenes.\n\nOpenAI’s Frontier is showing how powerful AI can be, and it’s challenging the way companies have worked for years. It’s still early days, but it’s clear that AI is changing the business world in big ways.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+          "publishedAt": "2026-03-16T10:00:00.000Z"
+        },
+        {
+          "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+          "summary": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link). The CRI Financial Services AI Risk Management Fram...",
+          "simplifiedContent": "**Title: US Treasury Shares Guide to Help Banks Use AI Safely**\n\nThe US Treasury has released new advice to help banks and financial companies use artificial intelligence (AI) in a safe and responsible way. AI is the technology that helps machines or computers act smart—like making decisions, spotting patterns, or predicting outcomes. Many banks already use AI for things like detecting fraud, approving loans, or managing money. But with great power comes great responsibility!\n\nAI isn’t perfect, and it can make mistakes. For example, it might accidentally block someone from getting a loan because of a biased (unfair) system or make decisions that are hard for humans to understand. That’s why the Treasury created a guide to help these companies understand the risks of using AI and how to manage them.\n\nThe guide gives steps to make sure AI is used in a fair and transparent way. It encourages companies to test their systems carefully, avoid bias, protect sensitive customer data, and have human oversight (real people watching over the AI’s decisions).\n\nThis is important because it helps keep the financial system safe and fair for everyone. It’s a way to make sure AI helps people without causing harm.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+          "publishedAt": "2026-03-16T16:15:00.000Z"
+        },
+        {
+          "title": "Nurturing agentic AI beyond the toddler stage",
+          "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health co...",
+          "simplifiedContent": "**Title: Helping AI Grow Up: What It Means for Us**\n\nRaising kids can be scary. Parents worry about when their babies should start walking or talking and use these milestones to check if everything is okay. Now, some experts think we should look at AI (artificial intelligence) the same way. \n\nAI is getting smarter every day, but right now, it’s like a toddler—it can do some cool things, but it’s far from perfect. For example, AI can write essays, create art, or help with customer service, but it still makes silly mistakes or doesn’t fully understand what humans want. To make AI truly helpful, scientists need to “raise” it to the next stage, so it can make better decisions and understand the bigger picture.\n\nThis matters because smarter AI could improve our lives in big ways. It could help doctors find diseases faster, make our cars safer, or even help us solve problems like climate change. But just like raising kids, it takes time, patience, and care to make sure AI grows up responsibly—and doesn’t cause harm.\n\nIn short, the goal is to turn AI from a toddler into a wise adult that makes life better for all of us.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+          "publishedAt": "2026-03-16T13:00:00.000Z"
+        },
+        {
+          "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
+          "summary": "NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI. The offering integrates NVIDIA’s GPU-accelerated computing and high-performance networking with NVIDIA AI Enterprise software, including NeMo a...",
+          "simplifiedContent": "**Title: Big News! Companies Can Now Build AI Faster and Smarter**  \n\nNTT DATA and NVIDIA are teaming up to make it easier for businesses to use AI (artificial intelligence) in a big way. They’ve created a system that helps companies quickly build and use AI tools, like chatbots or programs that analyze data, without starting from scratch every time.  \n\nHere’s how it works: NVIDIA provides the tech power, including super-fast computers (called GPUs) and special software designed for AI. NTT DATA helps businesses put it all together into a ready-to-use system. Think of it like a factory for AI – companies can now “mass-produce” AI tools faster and more efficiently.  \n\nThis is a big deal because it means businesses can use AI to solve problems, save time, and improve services much more easily. For example, a hospital could use AI to analyze patient records or a retailer could use it to predict what products customers want.  \n\nIn short, this partnership makes AI more accessible for companies everywhere, helping them work smarter and serve people better. It’s another step toward AI becoming a bigger part of everyday life!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
+          "publishedAt": "2026-03-16T12:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-14",
       "articles": [
         {
