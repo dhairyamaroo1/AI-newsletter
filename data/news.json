@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-03-18",
+      "articles": [
+        {
+          "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+          "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applic...",
+          "simplifiedContent": "**Title: The U.S. Military Wants AI Companies to Work with Secret Data**  \n\nThe U.S. Department of Defense (the Pentagon) is making plans to let AI companies use secret military information to improve their systems. Right now, AI tools like Anthropic’s Claude are already being used to help answer questions in secure settings, but the military wants to take it further.  \n\nHere’s the idea: AI companies would be given access to classified (top-secret) data in a safe and controlled environment. This would allow them to train their AI models to better understand and solve problems that are specific to the military. For example, these AI systems could help analyze threats, improve decision-making, or even assist in planning missions.  \n\nOf course, working with secret information is tricky. The Pentagon is figuring out how to make sure the data stays safe and isn’t misused. If this plan works, it could make the military smarter and faster, but it also raises big questions about privacy and security.  \n\nIn short, the military is exploring how AI can help protect the country while keeping sensitive information safe.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+          "publishedAt": "2026-03-17T22:30:46.000Z"
+        },
+        {
+          "title": "Goldman Sachs sees AI investment shift to data centres",
+          "summary": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as a “...",
+          "simplifiedContent": "**Title: Big Changes Ahead: AI Spending Focuses on Data Centers**  \n\nArtificial intelligence (AI) is changing how businesses work, but the way companies spend money on AI is also evolving. At first, there was a lot of excitement, and companies invested heavily in developing AI tools and systems. Now, they’re realizing that these powerful systems need big, expensive computers and data centers (special buildings filled with machines that store and process information) to work properly.  \n\nGoldman Sachs, a major financial company, recently shared that businesses are focusing less on the flashy side of AI and more on building the infrastructure (the behind-the-scenes systems) that keeps AI running smoothly. This shift means spending more on data centers and the technology that powers AI, like advanced chips and servers.  \n\nFor everyday people, this could mean AI will keep improving, but it might take a little longer to see new tools and apps. Companies are making sure the foundation for AI is solid before they try to create the next big thing. In the long run, this focus on the basics could lead to smarter, faster, and more reliable AI systems that help in areas like healthcare, education, and customer service.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+          "publishedAt": "2026-03-17T10:00:00.000Z"
+        },
+        {
+          "title": "Trustpilot partners with AI companies as traditional search declines",
+          "summary": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair said that AI agents acting on behalf of consumers require lots of information about the businesses they’...",
+          "simplifiedContent": "**Title: Trustpilot Teams Up with AI Companies to Keep Up with Changing Shopping Trends**\n\nTrustpilot, the popular website where people review businesses and products, is joining forces with big online shopping companies to stay ahead in the world of AI-powered shopping. These days, more people are relying on AI (artificial intelligence) to help them make buying decisions, instead of searching for things the old-fashioned way.\n\nAdrian Blair, Trustpilot’s boss, explained that AI tools, like virtual shopping assistants, need tons of information about businesses and their products to work well. That’s where Trustpilot comes in—it has millions of reviews from real customers, which can help these AI tools give better advice to shoppers.\n\nThis shift is happening because traditional online searches, like typing questions into Google, are becoming less popular. Instead, people are turning to AI systems that can do the searching and comparing for them. Trustpilot wants to make sure its reviews are part of this new way of shopping.\n\nFor everyday people, this means smarter, faster shopping with advice that’s tailored to what you need. Trustpilot’s move could make AI shopping assistants even more useful and reliable.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+          "publishedAt": "2026-03-17T12:26:00.000Z"
+        },
+        {
+          "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+          "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?...",
+          "simplifiedContent": "**Title: Security Flaws Found in Devices That Let People Control Computers Remotely**  \n\nResearchers have discovered serious problems in devices made by four different companies that let people control computers from far away. These devices, called IP KVMs (short for Keyboard, Video, Mouse switches), are often used by IT workers to fix computers or servers, even if they’re not in the same location. They allow users to access a computer’s BIOS (the software that runs when a computer starts up), which gives them deep control over the system.  \n\nThe problem? Some of these devices are connected to the internet without enough protection, making them easy targets for hackers. If someone with bad intentions gains access, they could take over the computer completely, steal sensitive information, or even shut systems down.  \n\nThis is a big deal because these devices are often used by companies to manage important systems, like servers that store data or run websites. Hackers could cause serious damage if they exploit these weaknesses.  \n\nExperts recommend that companies check their devices, update their software, and limit who can access them online. For everyday people, this is a reminder that anything connected to the internet needs to be secured properly to keep hackers out.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+          "publishedAt": "2026-03-17T17:07:12.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-17",
       "articles": [
         {
