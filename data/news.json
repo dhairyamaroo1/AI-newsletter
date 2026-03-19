@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-03-19",
+      "articles": [
+        {
+          "title": "Mastercard keeps tabs on fraud with new foundation model",
+          "summary": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, with the in...",
+          "simplifiedContent": "**Title: Mastercard’s New AI Tool Fights Fraud in Payments**  \n\nMastercard has created a powerful new AI tool to make payments safer and stop fraud (when someone tries to steal money or use a card without permission). Unlike other AI systems that focus on text or pictures, this one is built to understand patterns in payment data—like how people normally use their credit or debit cards.  \n\nThe tool was trained using billions of transactions, which helps it learn what “normal” payments look like and what might be suspicious. For example, if someone suddenly spends a lot of money in a place they’ve never visited, the AI might flag it as fraud and take action to protect the cardholder.  \n\nThis technology is a big step forward in keeping your payments secure, whether you’re shopping online or in stores. It means fewer headaches dealing with stolen card information and more peace of mind knowing Mastercard is working behind the scenes to keep your money safe.  \n\nIn short, this AI tool helps Mastercard catch problems faster and make payments more reliable for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+          "publishedAt": "2026-03-18T15:31:00.000Z"
+        },
+        {
+          "title": "For effective AI, insurance needs to get its data house in order",
+          "summary": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance concerns. Insurance Op...",
+          "simplifiedContent": "**Title: Insurance Companies Need to Organize Their Data to Use AI Better**  \n\nA new report says insurance companies are missing out on the full benefits of AI because their data is too messy. Autorek, a company that helps businesses use AI, found that many insurance companies have outdated systems and inefficient processes. This slows them down and makes it harder to use AI effectively.  \n\nAI (artificial intelligence) works best when it has clean, organized, and accurate data to learn from. But if a company’s data is scattered, incomplete, or hard to access, AI can’t do its job properly. For example, AI could help insurance companies quickly process claims or spot fraud, but only if it can easily find and understand the right information.  \n\nThe report encourages insurance companies to focus on cleaning up their data and fixing old systems. Doing this would not only make their work faster and smoother but also allow AI tools to help them better serve customers.  \n\nIn short, if insurance companies want AI to save them time and money, they first need to get their data in order. This could mean faster claims and better service for everyday people who rely on insurance.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+          "publishedAt": "2026-03-18T14:37:00.000Z"
+        },
+        {
+          "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+          "summary": "One Microsoft product was approved despite years of concerns about its security....",
+          "simplifiedContent": "**Headline: Government Experts Had Big Concerns About Microsoft’s Cloud Security, But Approved It Anyway**\n\n**Article:**  \nMicrosoft’s cloud service (a system that stores and processes information online) has been under the spotlight recently, and not in a good way. Government cybersecurity experts have been raising red flags about its security for years, even calling it a “pile of junk” in one report. Despite these serious concerns, the product was still approved for use.\n\nWhy does this matter? Microsoft’s cloud is used by many organizations, including parts of the government. If the system isn’t secure, sensitive information could be at risk, including personal data and national security files. Hackers could take advantage of weak spots to steal or expose this information.\n\nSome people are now questioning why the government went ahead with approving the product, even though experts warned it wasn’t safe. This highlights a bigger issue: Are the tools we rely on every day, especially for important things like security, really up to the job?\n\nAt the end of the day, this story is a reminder to keep asking tough questions about the technology we trust.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+          "publishedAt": "2026-03-18T17:36:40.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-18",
       "articles": [
         {
