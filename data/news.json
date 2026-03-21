@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-03-21",
+      "articles": [
+        {
+          "title": "OpenAI is throwing everything into building a fully automated researcher",
+          "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open...",
+          "simplifiedContent": "**Title: OpenAI Wants to Build an AI That Can Solve Big Problems on Its Own**  \n\nOpenAI, the company behind ChatGPT, is working on something big. It wants to create an advanced AI system that can act like a super-smart researcher. The goal? To build an AI that can figure out tough problems all by itself without needing humans to guide it.  \n\nImagine an AI that could help discover new medicines, find ways to fight climate change, or even come up with solutions to complex scientific questions—completely on its own. That’s what OpenAI is aiming for. Instead of humans doing the hard work step by step, this AI could handle big challenges from start to finish, like a super-smart, tireless scientist.  \n\nThis is a huge shift for OpenAI, which is now focusing most of its efforts and resources on making this idea a reality. If they succeed, it could change how we approach big problems in science, health, and technology.  \n\nOf course, building something this powerful won’t be easy, and it might take years to get it right. But if OpenAI pulls it off, it could lead to groundbreaking discoveries that impact everyone’s lives.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+          "publishedAt": "2026-03-20T11:57:16.000Z"
+        },
+        {
+          "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+          "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend....",
+          "simplifiedContent": "**Title: Popular Tech Tool Hacked – What It Means for You**  \n\nA popular tool used by companies to keep their software safe has been hacked in a serious cyberattack. The tool, called Trivy, helps scan software for security problems. Many businesses rely on it to make sure their programs are safe and trustworthy.  \n\nHackers managed to sneak into Trivy and change it, which could let them spread harmful code (bad instructions for computers) to the people using the tool. This type of attack is called a “supply-chain attack,” where hackers target a tool or service that lots of people use.  \n\nFor companies that use Trivy, this means they may need to fix their systems quickly. Security experts are warning them to change their passwords, update their software, and check for anything suspicious.  \n\nWhile this attack mainly affects businesses, it’s a reminder to all of us that hackers are always looking for ways to cause trouble. For everyday people, it’s a good idea to keep your devices updated and use strong, unique passwords.  \n\nCyberattacks like this show how important it is to stay on top of security – whether you’re a big company or just someone using a smartphone.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+          "publishedAt": "2026-03-20T20:50:46.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-20",
       "articles": [
         {
