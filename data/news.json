@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-03-24",
+      "articles": [
+        {
+          "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+          "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.  In the common area, a w...",
+          "simplifiedContent": "**Title: How AI Could Help Save Animals in the Bay Area**  \n\nAnimal lovers and tech experts are teaming up in San Francisco to find new ways to protect animals using artificial intelligence (AI). In February, they met in a cozy coworking space to brainstorm ideas. The space was colorful and inviting, filled with rugs, plants, and glowing lamps—a perfect spot for creative thinking.  \n\nThe goal of this meeting was simple: figure out how AI can make life better for animals. AI, or artificial intelligence, is a type of technology that helps computers \"think\" and make decisions like humans. For example, AI could track stray animals or monitor endangered species more effectively. It could also help shelters find homes for pets faster by matching them with the right families.  \n\nThis partnership between animal advocates and tech experts is exciting because it combines heart and innovation. By using AI, we might be able to solve problems that humans struggle with, like managing large amounts of data or spotting trends we can’t see ourselves.  \n\nFor people who care about animals, this could mean better protection, faster help, and more happy endings for pets and wildlife. It’s a reminder that technology isn’t just about gadgets—it can make a real difference in the world.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+          "publishedAt": "2026-03-23T09:00:00.000Z"
+        },
+        {
+          "title": "The hardest question to answer about AI-fueled delusions",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com...",
+          "simplifiedContent": "**Title: The Big Question About AI and Misinformation**\n\nArtificial intelligence (AI) is changing the world, but it’s also raising big questions about how we tell truth from lies. This week, experts have been talking about a growing problem: how AI can spread false information and make it harder for people to know what’s real. \n\nFor example, AI can create fake photos, videos, and even entire stories that look and sound real. These are called “deepfakes.” Imagine seeing a video of a famous person saying something shocking, but it turns out they never said it – AI made it up. This kind of technology can confuse people, cause arguments, and even mess with important events like elections.\n\nWhat’s even scarier is that AI tools are becoming more advanced and easier for anyone to use. That means more people could use them to spread false information on purpose. Experts are trying to figure out how to stop this, but it’s not an easy problem to solve.\n\nFor everyday people, this means we all need to be extra careful about what we see online. If something seems too strange or dramatic to be true, it might be worth double-checking before believing or sharing it.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+          "publishedAt": "2026-03-23T16:31:20.000Z"
+        },
+        {
+          "title": "Palantir AI to support UK finance operations",
+          "summary": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities. The FCA is currently testing the Foundry platfor...",
+          "simplifiedContent": "**Title: AI Tool to Help Keep UK Money Safe**\n\nThe UK is turning to advanced technology to make its financial system safer and more efficient. The government is working with a company called Palantir, which makes powerful computer tools that use artificial intelligence (AI). AI is a type of smart technology that can find patterns, spot problems, and make decisions faster than humans.\n\nOne of the UK’s financial watchdogs, the Financial Conduct Authority (FCA), is testing Palantir’s software, called Foundry. This tool is being used to track and stop illegal activities, like money laundering (hiding stolen money) or fraud (tricking people out of their money). It works by analyzing huge amounts of financial data to quickly find suspicious behavior.\n\nWhat does this mean for everyday people? It’s all about keeping the UK’s financial system safer and protecting your money. By using AI, the FCA hopes to catch criminals faster and ensure that banks, businesses, and even personal finances are more secure.\n\nThis is just the beginning of how AI could help improve the way money is managed and protected in the UK.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
+          "publishedAt": "2026-03-23T13:14:23.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-21",
       "articles": [
         {
