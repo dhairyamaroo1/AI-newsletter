@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-03-25",
+      "articles": [
+        {
+          "title": "Automating complex finance workflows with multimodal AI",
+          "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise compl...",
+          "simplifiedContent": "**Title: New AI Tools Are Making Finance Easier**  \n\nFinance teams are now using smarter AI (artificial intelligence) technology to make their jobs easier and faster. One big problem they’ve faced is dealing with messy documents, like invoices or contracts, that aren’t organized in a neat way. Computers have struggled to read and understand these kinds of documents in the past.  \n\nBut now, new AI systems are much better at this. These tools can handle different types of information at once, like text, images, and even charts (this is called “multimodal AI”). They can quickly pull out important details, like numbers or dates, from tricky documents.  \n\nThis means less time spent on boring, manual tasks like sorting through paperwork. Instead, finance teams can focus on bigger things, like planning budgets or finding ways to save money.  \n\nFor everyday people, it means businesses may run smoother, and errors in things like billing or payments could happen less often. These smarter AI tools could also make things faster when you apply for loans or handle other money-related tasks.  \n\nIt’s another example of how AI is helping make life more efficient!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
+          "publishedAt": "2026-03-24T17:03:48.000Z"
+        },
+        {
+          "title": "Securing AI systems under today’s and tomorrow’s conditions",
+          "summary": "Evidence cited in an eBook titled “AI Quantum Resilience”, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI’s value depends on data amassed by an organisation. However, there are security risks to ...",
+          "simplifiedContent": "**Title: Keeping AI Safe Now and in the Future**  \n\nAI (artificial intelligence) is changing the way businesses work, but there’s one big problem holding it back: keeping it secure. A new report called *AI Quantum Resilience* explains that many companies are worried about the safety of their data when using AI.  \n\nHere’s why this matters: AI relies on huge amounts of information (called data) to work properly. For example, a company might use AI to analyze customer trends or improve products, but they need to feed it their private data to do that. If this data isn’t protected, hackers could steal it or misuse it.  \n\nThe report also talks about future risks, like quantum computers (super-powerful computers still being developed) that could easily break today’s security systems. This means companies need to think about how to protect their data not just now, but years down the road.  \n\nFor everyday people, this matters because AI is becoming a bigger part of our lives—from online shopping to healthcare. If companies can keep AI systems safe, it means your personal information is less likely to fall into the wrong hands. So, protecting AI isn’t just about businesses—it’s about keeping everyone’s data secure.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
+          "publishedAt": "2026-03-24T15:22:00.000Z"
+        },
+        {
+          "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+          "summary": "Development houses: It's time to check your networks for infections....",
+          "simplifiedContent": "**Title: Dangerous Malware Spreads Through Free Software and Deletes Data in Iran**  \n\nA new type of computer virus is causing trouble by sneaking into free software that anyone can download online. This virus, called malware (short for “malicious software”), has been spreading itself automatically, which means it keeps infecting more systems without needing much help.  \n\nWhat’s scary is that this malware doesn’t just spy or steal information—it completely wipes data from computers in Iran, leaving them unusable. It’s also targeting open-source software (free tools that developers use to build apps and websites), which could cause problems for people around the world if those tools get infected.  \n\nExperts are warning companies to check their systems and make sure they’re safe. If businesses don’t catch this malware early, it could spread even further and damage important projects.  \n\nFor everyday people, this highlights why it’s so important to only download software from trusted sources and keep your devices updated with the latest security protections. Hackers are always looking for ways to break into systems, and this is a reminder to stay cautious online.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+          "publishedAt": "2026-03-24T12:38:09.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-24",
       "articles": [
         {
