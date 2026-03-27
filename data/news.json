@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-03-27",
+      "articles": [
+        {
+          "title": "RPA matters, but AI changes how automation works",
+          "summary": "RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems. By using software bots to follow fixed rules, companies can automate repetitive tasks like data entry and invoice processing, and to a certain extent, report generation. Ado...",
+          "simplifiedContent": "**Title: How AI Is Making Automation Smarter**\n\nCompanies have been using software bots (computer programs that follow instructions) to handle boring, repetitive tasks like entering data or organizing invoices. This is called RPA, or robotic process automation. It’s been around for a while and helps businesses save time and money by letting computers take over these jobs.\n\nBut now, AI (artificial intelligence) is changing the game. Unlike RPA, which follows strict rules, AI can actually learn and make decisions on its own. This means automation is getting smarter. For example, instead of just organizing invoices, AI could figure out which ones need urgent attention or spot mistakes. It can also help businesses analyze reports or predict future trends without a human having to do all the work.\n\nFor everyday people, this means businesses can run more efficiently and provide better services. Imagine faster customer support, fewer mistakes in your bills, or even smarter apps that know what you need before you ask.\n\nIn short, AI is taking automation to the next level, making technology more helpful in ways we can all benefit from.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
+          "publishedAt": "2026-03-26T09:11:08.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-25",
       "articles": [
         {
