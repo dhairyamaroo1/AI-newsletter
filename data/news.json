@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-04-02",
+      "articles": [
+        {
+          "title": "Hershey applies AI across its supply chain operations",
+          "summary": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company’s latest strategy updat...",
+          "simplifiedContent": "**Title: Hershey Uses AI to Make Candy Production Smarter**  \n\nHershey, the company behind your favorite chocolates like Reese’s and Hershey’s bars, is using artificial intelligence (AI) to improve how it makes and delivers candy. Instead of just using AI for big-picture planning, Hershey is now using it to help with everyday decisions in its factories and supply chain (how products move from the factory to stores).  \n\nHere’s what this means: AI can quickly analyze tons of data, like how many ingredients are available, how fast machines are running, or even how much demand there is for certain candies. With this information, Hershey can make smarter choices, like speeding up production when demand is high or solving problems faster when something goes wrong.  \n\nFor chocolate lovers, this is great news! It means Hershey can keep shelves stocked with your favorite treats and deliver them faster. Plus, using AI can reduce waste and make operations more efficient, which is better for the environment.  \n\nThis is just one example of how AI is quietly working behind the scenes to make businesses run smoother—and in this case, it’s helping ensure you never run out of chocolate!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
+          "publishedAt": "2026-04-01T10:00:00.000Z"
+        },
+        {
+          "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+          "summary": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG’s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of $186 mil...",
+          "simplifiedContent": "**Title: Big Companies Are Spending Millions on AI, But Is It Paying Off?**\n\nBig businesses around the world are pouring money into artificial intelligence (AI), hoping it will help them work faster, save money, and make smarter decisions. But according to a new report from KPMG, a major consulting company, many of these businesses aren’t seeing the results they expected.\n\nKPMG surveyed companies about their AI plans and found that, on average, they’re planning to spend $186 million on AI this year. That’s a huge amount of money! The problem? A lot of companies are struggling to turn that spending into real benefits, like higher profits or smoother operations.\n\nWhy is this happening? KPMG says it’s because companies often jump into AI without a clear plan. They might invest in fancy tools and software, but without knowing how to use them effectively, it’s hard to see results.\n\nFor everyday people, this means businesses are still figuring out how to use AI in ways that improve products, services, and customer experiences. While AI has big potential, it’s not an instant fix—it takes time, effort, and smart strategies to make it work.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
+          "publishedAt": "2026-04-01T15:24:01.000Z"
+        },
+        {
+          "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+          "summary": "AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on March 10. Despite broad AI investment across business functions, the report reveals t...",
+          "simplifiedContent": "**Title: Most Businesses Aren’t Using AI for Language Translation Yet, Report Says**\n\nA new report from DeepL, an AI company known for its translation tools, shows that many businesses are falling behind when it comes to using artificial intelligence (AI) to break language barriers. The report, called “Borderless Business,” was published on March 10 and looks at how companies use AI for translation.\n\nEven though AI is becoming a big deal in businesses for things like improving customer service and boosting productivity, 83% of companies still don’t fully use AI to help with translating languages. This means businesses are missing out on tools that could help them work better with people in different countries.\n\nWhy does this matter? In today’s world, companies often need to communicate with international customers, partners, and teams. AI-powered translation tools, like DeepL, can make this much easier and faster. But many businesses haven’t adopted these tools yet, which could hold them back from growing globally.\n\nFor everyday people, this means you might still face delays or confusion when dealing with businesses across borders. As AI tools improve, companies that embrace them could make international communication smoother for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+          "publishedAt": "2026-04-01T12:00:00.000Z"
+        },
+        {
+          "title": "The gig workers who are training humanoid robots at home",
+          "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…...",
+          "simplifiedContent": "**Title: How Regular People Are Helping Robots Learn From Home**  \n\nImagine coming home after a long day and helping train a robot from your living room. That’s exactly what Zeus, a medical student in Nigeria, does. After work, he sets up a light and straps his iPhone to his head to record himself doing everyday movements, like raising his hands or pretending to pick things up.  \n\nWhy does he do this? Robots need to learn how humans move and act so they can help us in the future—like assisting doctors, caring for patients, or even doing chores. Zeus is part of a growing group of gig workers (people who take short-term jobs) around the world who are helping robots understand human behavior by showing them how we move.  \n\nCompanies pay workers like Zeus to record these movements because it’s cheaper and faster than using big labs or expensive equipment. This work is important because it helps robots get smarter and more useful.  \n\nSo next time you see a robot doing something impressive, remember—everyday people like Zeus might be the ones teaching them!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+          "publishedAt": "2026-04-01T11:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-03-27",
       "articles": [
         {
