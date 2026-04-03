@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-04-03",
+      "articles": [
+        {
+          "title": "KiloClaw targets shadow AI with autonomous agent governance",
+          "summary": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees a...",
+          "simplifiedContent": "**Title: New Tool Helps Companies Keep Rogue AI Under Control**  \n**Source: AI News**  \n\nA new tool called KiloClaw is here to help businesses take control of how AI is being used within their organizations. Over the past year, many companies worked hard to manage AI tools like ChatGPT and set up proper rules for using them. But while they were doing that, some employees started using AI on their own, without permission or oversight. This is known as \"shadow AI,\" and it can lead to big risks, like sensitive data leaks or AI tools being used in harmful ways.\n\nKiloClaw is designed to fix this problem. It helps companies track and manage AI tools being used across their teams, even the ones employees might be using secretly. It also makes sure AI tools follow company rules and don’t cause problems.  \n\nFor everyday people, this means businesses will be able to use AI safely and responsibly without worrying about unexpected risks. Tools like KiloClaw could help protect your private information and make sure AI works for everyone’s benefit, not against it.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+          "publishedAt": "2026-04-02T16:30:53.000Z"
+        },
+        {
+          "title": "5 best practices to secure AI systems",
+          "summary": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, c...",
+          "simplifiedContent": "**Title: How to Keep AI Safe and Secure**\n\nArtificial intelligence (AI) has become super powerful over the past few years. It can do amazing things, like help doctors spot diseases or make cars drive themselves. But with all this power comes new risks. Hackers and bad actors are finding ways to mess with AI systems, and older security tools aren’t strong enough to stop them. \n\nThis is a big deal because AI is now being used in important areas, like hospitals, banks, and even government systems. If someone attacks an AI system, it could cause major problems, like wrong medical diagnoses or financial fraud.\n\nExperts say there are five smart ways to protect AI: build systems that are harder to hack, test them regularly for weaknesses, train AI to spot threats, keep an eye on how the AI behaves, and always update security measures as new threats appear. \n\nThe takeaway? AI is incredible, but it needs to be protected. By following these steps, we can make sure AI stays safe and keeps working for us—not against us.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+          "publishedAt": "2026-04-02T14:45:03.000Z"
+        },
+        {
+          "title": "China’s Five-Year Plan details the targets for AI deployment",
+          "summary": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quant...",
+          "simplifiedContent": "**China’s Big Plan for AI Over the Next Five Years**  \n\nChina has announced a new five-year plan that outlines its goals for the economy, education, and technology. A big part of this plan is focused on artificial intelligence (AI), which is technology that helps machines “think” and solve problems like humans do.  \n\nThe plan shows that China wants to use AI in many areas, like improving schools, running businesses, and even helping the environment. AI is seen as one of the key tools to make life better and keep the country growing. For example, AI could be used to create smarter factories, improve healthcare, or make transportation safer and faster.  \n\nThis plan also highlights how serious China is about becoming a global leader in AI. By investing in this technology now, China hopes to stay ahead in innovation and set an example for other countries.  \n\nFor everyday people, this means we could see more advanced tech products coming from China—like smart devices, apps, and services that make life easier. It also shows how important AI has become in shaping the future of the world.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+          "publishedAt": "2026-04-02T13:23:00.000Z"
+        },
+        {
+          "title": "Autonomous AI systems depend on data governance",
+          "summary": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system’s behaviou...",
+          "simplifiedContent": "**Title: Why AI Needs Good Data to Make Smart Choices**\n\nWhen we think about making AI safe, most people focus on how the technology itself is built and managed. But as AI systems start working more on their own—without needing constant human input—there’s something even more important to think about: the data they use.\n\nAI systems rely on data to learn and make decisions. If the information they’re fed is messy, old, or not checked carefully, the AI could make mistakes or behave in ways we don’t want. For example, imagine teaching a GPS app with old maps—it might send you the wrong way because it doesn’t know about new roads.\n\nAs AI becomes more independent, experts are now saying we need better rules and systems to manage the data these technologies use. This is called \"data governance,\" which just means keeping the information accurate, up-to-date, and well-organized.\n\nIn short, for AI to make good decisions that help people in everyday life—like predicting the weather, driving cars, or answering questions—it needs clean, reliable data. And that’s something we all benefit from!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+          "publishedAt": "2026-04-02T10:00:00.000Z"
+        },
+        {
+          "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+          "summary": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in t...",
+          "simplifiedContent": "**Title: How AI is Helping Banks Fight Fraud – and Causing New Problems**\n\n**Here’s What’s Happening:**  \nBanks and financial companies are using smart computer systems (AI, or artificial intelligence) to catch scammers and protect your money. But there’s a twist: scammers are also using AI to outsmart these systems. This creates a tricky situation, according to a report from Experian, a company that specializes in fraud prevention.\n\n**Why Does This Matter?**  \nAI can spot suspicious activity faster than humans, like someone trying to steal your identity or hack into your account. That’s great for keeping your money safe. But criminals are getting smarter too—they’re using AI to create fake IDs, trick systems, and even mimic real people online. It’s like a high-tech game of cat and mouse.\n\n**What Does This Mean for You?**  \nWhile banks are working hard to stay ahead of scammers, this report shows there’s still a risk. It’s a reminder to stay cautious with your personal info, like passwords or credit card details. The fight against fraud is getting more advanced, but it’s also getting more complicated.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+          "publishedAt": "2026-04-02T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-02",
       "articles": [
         {
