@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-04-08",
+      "articles": [
+        {
+          "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
+          "summary": "The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude from ...",
+          "simplifiedContent": "**Title: Why the UK Wants Anthropic’s “Safe AI” Approach**\n\nImagine a company that makes sure its AI (artificial intelligence) stays safe and responsible, even if it means saying no to big government deals. That’s Anthropic, a tech company behind an AI tool called Claude. They’re focused on creating AI that helps people while avoiding risky or harmful uses.\n\nRecently, Anthropic’s CEO, Dario Amodei, faced pressure from the U.S. government to loosen the safety rules on Claude. These rules are like guardrails—they stop the AI from being used for dangerous purposes. The U.S. wanted fewer restrictions, but Anthropic refused, sticking to its principles.\n\nThis caught the UK’s attention. The UK is looking to become a leader in AI development, but they want companies that prioritize safety. Anthropic’s commitment to responsible AI makes them a perfect fit. So now, Anthropic is expanding into the UK, where their focus on ethical AI is being celebrated.\n\nFor everyday people, this means AI tools like Claude are designed to be helpful without crossing ethical boundaries. It’s a reminder that technology can be powerful and safe when companies stick to their values.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+          "publishedAt": "2026-04-07T10:00:00.000Z"
+        },
+        {
+          "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+          "summary": "Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edge s...",
+          "simplifiedContent": "**Title: Robots and AI Team Up to Make Businesses Safer**  \nBig news in the world of security! Two companies, Thrive Logic and Asylon, are working together to make protecting businesses easier and smarter. Thrive Logic uses artificial intelligence (AI) to help businesses stay on top of safety and operations, while Asylon builds robots that can patrol and keep an eye on things.  \n\nNow, they’re teaming up to create “physical AI” — which basically means combining smart software with robots to improve security. These robots can patrol the outside areas of businesses (called the perimeter) and use AI to watch for anything suspicious, like someone sneaking into places they shouldn’t be.  \n\nFor businesses, this means better security without needing as many human guards. The robots and AI can work 24/7, don’t get tired, and can quickly alert people when something isn’t right.  \n\nThis partnership is a big step forward in using technology to keep businesses safe. In the future, you might see more robots keeping watch at warehouses, factories, and office buildings!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "publishedAt": "2026-04-07T14:40:42.000Z"
+        },
+        {
+          "title": "Enabling agent-first process redesign",
+          "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around age...",
+          "simplifiedContent": "**Title: How Smart AI Can Make Work Easier**  \nSource: MIT Technology Review  \n\nImagine having a super helpful assistant that never gets tired, learns as it goes, and can handle tasks all on its own. That’s what AI agents can do. These are not like old systems that follow fixed rules—they’re smarter. They can figure out better ways to do things by learning from data, working with people, and even teaming up with other AI agents in real-time.  \n\nFor example, an AI agent could manage an entire project, like tracking orders in a busy store or scheduling deliveries. It doesn’t need someone to tell it every step; it adapts and finds the best way to get things done.  \n\nBut to make this happen, companies need to rethink how their workflows (the steps to complete tasks) are set up. Instead of designing processes for people or basic software, they need to create systems that work with these advanced AI helpers.  \n\nWhat does this mean for you? It could make businesses run faster, save time, and reduce mistakes. AI agents might soon handle boring or complicated tasks, freeing up people to focus on more creative or meaningful work.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+          "publishedAt": "2026-04-07T14:00:00.000Z"
+        },
+        {
+          "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+          "summary": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across dozen...",
+          "simplifiedContent": "**Title: Why Messy Data Could Be Holding Back AI**\n\n**Imagine trying to build a puzzle with pieces scattered all over your house. That’s what many companies are dealing with when it comes to using AI.**\n\nAI systems need data to work—lots of it. But for many businesses, their data is a mess. It’s stored in different places, labeled in confusing ways, or just not organized well. This makes it hard for AI to do its job properly, no matter how smart it is.\n\nBoomi, a company that helps businesses manage their data, calls this problem “data activation.” They say it’s the missing step in making AI work the way it should. Without clean, connected, and easy-to-access data, even the best AI systems won’t perform well.\n\nThis matters because AI is becoming a big part of how companies solve problems, make decisions, and create new tools. If businesses can’t fix their messy data, AI won’t live up to its potential—and that affects all of us. Better AI could mean smarter apps, faster customer service, and even breakthroughs in health and science.\n\nBoomi’s solution? Help companies clean up and organize their data so AI can shine.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "publishedAt": "2026-04-07T12:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-03",
       "articles": [
         {
