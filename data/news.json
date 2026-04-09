@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-04-09",
+      "articles": [
+        {
+          "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+          "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I ...",
+          "simplifiedContent": "**AI Expert Says AI Progress Isn’t Slowing Down Anytime Soon—Here’s Why**\n\nMost of us are used to thinking about progress in a straightforward way. For example, if you walk for one hour, you cover a certain distance. Walk for two hours, and you go twice as far. That’s a simple, predictable way of thinking. But when it comes to artificial intelligence (AI), things don’t work like that. AI grows and improves at an *exponential* rate (meaning it speeds up faster and faster over time), and that’s hard for many people to wrap their heads around.\n\nMustafa Suleyman, a big name in the AI world, says we shouldn’t expect AI progress to slow down anytime soon. In fact, it’s accelerating. He explains that AI is powered by trends like faster computers, smarter algorithms (instructions for computers to follow), and access to more data. These things allow AI to learn and do more every day.\n\nWhat does this mean for regular people? AI is going to keep getting better—whether it’s helping doctors diagnose diseases, improving online search engines, or creating smarter tools for businesses. The bottom line: AI is here to stay, and it’s growing faster than we realize.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+          "publishedAt": "2026-04-08T14:00:00.000Z"
+        },
+        {
+          "title": "AI’s software development success and central management needs",
+          "summary": "A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The survey was based on the responses of 1,879 IT leaders, and warns that adoption of AI is in danger of run...",
+          "simplifiedContent": "**Title: AI is Changing How Companies Build Software, But It Needs Better Oversight**  \n\nA recent survey shows that companies are starting to use AI (artificial intelligence) to help create software. This means AI tools are being used to write code, test programs, and make software development faster and easier. The study, which asked nearly 1,900 IT experts, found that many businesses are in the early stages of using AI for this purpose.  \n\nWhile this sounds exciting, there’s a catch. The survey warns that if companies don’t manage their AI tools properly, things could get messy. Without clear rules and oversight, AI could create problems like buggy software or security risks.  \n\nWhat does this mean for you? Well, better software means apps and websites you use every day might work faster and have fewer glitches. But if AI isn’t managed carefully, it could lead to apps that don’t work right or even expose your personal data to hackers.  \n\nThe takeaway? AI is making big changes in how businesses build technology, but it needs responsible management to make sure it helps, not hurts, everyday people.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+          "publishedAt": "2026-04-08T10:43:00.000Z"
+        },
+        {
+          "title": "Microsoft open-source toolkit secures AI agents at runtime",
+          "summary": "A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now executing code and hitting corporate networks way faster than traditional policy controls can keep up. ...",
+          "simplifiedContent": "**Title: Microsoft’s New Tool Keeps AI Safe While It’s Working**\n\nMicrosoft has launched a new tool to make sure AI systems stay safe while they’re running. This toolkit, which is free and open for anyone to use, is designed to stop AI from doing things it shouldn’t—like accessing sensitive company information or running unsafe computer code.\n\nWhy does this matter? Well, AI programs, like the ones that generate text or answer questions, are becoming more advanced. Some can now perform tasks on their own, like writing code or accessing networks. While this is super useful, it also raises concerns. What if the AI accidentally does something harmful, like breaking security rules or leaking data?\n\nMicrosoft’s toolkit steps in to prevent this. It acts like a security guard for AI, keeping an eye on what it’s doing and making sure it follows strict rules.\n\nFor businesses and developers, this means they can use AI more confidently without worrying about it going rogue. For regular people, it means safer technology in the apps and tools we use every day!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+          "publishedAt": "2026-04-08T10:23:53.000Z"
+        },
+        {
+          "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+          "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites....",
+          "simplifiedContent": "**Title: Hackers Linked to Iran Target Important US Facilities**\n\nIn recent weeks, hackers believed to be connected to Iran have been causing problems at key facilities in the United States. These facilities are part of what’s called “critical infrastructure,” which includes important systems like power plants, water supplies, and transportation networks that people rely on every day. \n\nThe attacks seem to be tied to rising tensions between the US and Israel. Experts say the hackers are trying to disrupt operations and create chaos, but so far, the damage has been limited. Still, these attacks are a serious concern because they target places that keep the country running smoothly.\n\nCybersecurity experts are working hard to stop these hackers and protect these important systems. They warn that as conflicts around the world heat up, cyberattacks like this could happen more often. \n\nWhat does this mean for you? It’s a reminder of how much we depend on technology in our daily lives—and how important it is to keep those systems safe from bad actors. The government and tech companies are taking steps to strengthen defenses, but staying alert is key in a world where cyber threats are becoming more common.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+          "publishedAt": "2026-04-08T20:49:11.000Z"
+        },
+        {
+          "title": "Thousands of consumer routers hacked by Russia's military",
+          "summary": "End-of-life routers in homes and small offices hacked in 120 countries....",
+          "simplifiedContent": "**Title: Russian Hackers Break Into Thousands of Home Internet Routers**\n\nHackers working for Russia’s military have broken into thousands of internet routers in homes and small businesses across 120 countries. These routers, which are the devices that connect you to the internet, are older models that no longer get security updates. This makes them easier for hackers to attack.\n\nOnce inside, the hackers can use the routers to secretly spy on internet traffic, steal information, or even launch cyberattacks on other systems. This kind of activity can put your personal data, like passwords and financial information, at risk.\n\nExperts say the routers targeted are \"end-of-life\" devices, meaning their manufacturers have stopped supporting them. Many people still use these outdated routers because they don’t realize they’re unsafe.\n\nTo protect yourself, it’s important to check if your router is old and replace it with a newer model that gets regular security updates. You can also change your router’s password to something strong and unique to make it harder for hackers to get in.\n\nThis news is a reminder that keeping your internet equipment updated is just as important as locking your doors—it helps keep you safe online.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+          "publishedAt": "2026-04-08T11:00:08.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-08",
       "articles": [
         {
