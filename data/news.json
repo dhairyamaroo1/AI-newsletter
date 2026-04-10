@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-04-10",
+      "articles": [
+        {
+          "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+          "summary": "Western Union exec says there were \"challenges\" working with Broadcom....",
+          "simplifiedContent": "**Title: Thousands of Companies Are Switching from VMware Because of Concerns About Broadcom**\n\nBig changes are happening in the tech world, and they could affect how businesses manage their computer systems. VMware, a popular tool that helps companies run software and store data, is losing customers. Why? Many businesses are worried about Broadcom, the company that recently bought VMware.\n\nBroadcom is a huge technology company, but some people feel it’s not easy to work with. A Western Union executive said there were “challenges” when his company dealt with Broadcom. He didn’t go into detail, but this seems to be a common concern. As a result, businesses are moving their systems away from VMware and looking for other options.\n\nThis switch isn’t small—thousands of companies are making the move. For everyday people, this matters because it could change how businesses like banks, stores, and other services manage their technology. It might also lead to better tools and services in the future as companies explore new tech solutions.\n\nIn short, businesses want to make sure their technology works well and is easy to manage, and right now, many think Broadcom might not be the best fit.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+          "publishedAt": "2026-04-09T19:44:31.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-09",
       "articles": [
         {
