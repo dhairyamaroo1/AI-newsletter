@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-04-14",
+      "articles": [
+        {
+          "title": "Strengthening enterprise governance for rising edge AI workloads",
+          "summary": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to externa...",
+          "simplifiedContent": "**Title: Companies Face New Challenges Keeping AI Safe and Secure**\n\nAs AI tools get smarter and faster, businesses are struggling to keep everything safe and under control. New AI systems, like Google’s Gemma 4, are making it harder for companies to manage and secure how these tools work, especially when they’re being used outside the usual central systems (this is called “edge workloads,” which just means AI being used in smaller, spread-out devices or locations instead of one big hub).\n\nFor years, businesses have worked hard to protect their cloud systems (where data is stored online) by building strong security measures. They’ve created tools to keep bad actors out and monitor what’s happening. But now, as AI spreads across more devices and locations, it’s becoming harder to keep track of everything.\n\nThis is a big deal because if security isn’t tight, sensitive company data could be stolen or misused. Experts are working on ways to improve security for these new, fast-moving AI systems, but it’s clear that businesses will need to stay alert and adapt quickly.\n\nFor everyday people, this matters because better security means safer technology for everyone—whether it’s your work tools, online banking, or smart devices at home.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+          "publishedAt": "2026-04-13T13:02:01.000Z"
+        },
+        {
+          "title": "Want to understand the current state of AI? Check out these charts.",
+          "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts th...",
+          "simplifiedContent": "**Title: What’s Going On With AI? These Charts Explain Everything**\n\nAI (artificial intelligence) is everywhere right now, and it feels like everyone has a different opinion about it. Some say it’s going to change the world, while others think it’s overhyped. You might hear people worrying that AI will take jobs or laughing at how it still messes up simple things, like reading a clock.\n\nSo, how do we figure out what’s really happening? A big report called the \"AI Index\" just came out. It’s created by experts at Stanford University, and it’s like a yearly report card for AI. It uses charts and data to show where AI is succeeding, where it’s struggling, and how it’s affecting jobs, education, and everyday life.\n\nFor regular people, this report can help make sense of the AI buzz. Are we close to seeing robots take over? Not really. But AI is getting better at some tasks, and it’s starting to show up in tools we use every day, like search engines and apps. This report helps us understand what’s real and what’s just hype.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+          "publishedAt": "2026-04-13T13:00:00.000Z"
+        },
+        {
+          "title": "Why opinion on AI is so divided",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a s...",
+          "simplifiedContent": "**Why People Have Mixed Feelings About AI**  \nSource: MIT Technology Review  \n\nArtificial intelligence (AI) is changing the world in big ways, but not everyone agrees on whether that’s good or bad. Some people are excited about how AI can make life easier, while others worry about the risks it brings.  \n\nStanford University recently shared its yearly report on AI trends, which gives us a snapshot of how things are going. It shows that AI is growing super fast, with new tools and discoveries popping up all the time. For example, AI can now write essays, create art, and even help doctors spot diseases. These are exciting breakthroughs, but they also raise big questions.  \n\nOne concern is how AI might affect jobs. Many worry that computers could replace human workers in some industries. Others are nervous about privacy, since AI systems often collect huge amounts of personal data. And some experts warn that AI could be misused, like spreading fake news or creating harmful content.  \n\nThe truth is, AI isn’t all good or all bad—it’s how we choose to use it that matters. This report reminds us to think carefully about what kind of future we want with AI.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+          "publishedAt": "2026-04-13T15:48:28.000Z"
+        },
+        {
+          "title": "Companies expand AI adoption while keeping control",
+          "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs. This approach is especially clear in sectors where...",
+          "simplifiedContent": "**Title: Businesses are Using AI Carefully to Help People Make Better Choices**  \n\nMore and more companies are using artificial intelligence (AI), but they’re being cautious about how they do it. Instead of letting AI make big decisions all by itself, many businesses are choosing tools that work alongside people, helping them make smarter choices.  \n\nFor example, in industries like healthcare or banking, where decisions can have a big impact on people’s lives, companies want to make sure AI doesn’t go off track. They’re using AI to provide suggestions or analyze data, but humans still have the final say. This means workers stay in control and can double-check the AI’s work to avoid mistakes.  \n\nThis careful approach to AI is growing because it helps businesses take advantage of the technology without risking errors or losing trust. For everyday people, it means AI is being used in ways that improve services, like faster customer support or better medical advice, but your doctor or bank manager will still be the one making the big decisions.  \n\nIn short, AI is here to help, not take over—at least for now!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+          "publishedAt": "2026-04-13T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-10",
       "articles": [
         {
