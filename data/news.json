@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-04-15",
+      "articles": [
+        {
+          "title": "SAP brings agentic AI to human capital management",
+          "summary": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across ...",
+          "simplifiedContent": "**Title:** SAP’s New AI Tool Could Make Work Run Smoother  \n\n**Content:** SAP, a company that makes software for businesses, is adding smarter AI tools to help companies manage their employees more easily. These new tools are designed to spot problems before they happen, like paperwork delays or tasks that slow down daily operations.  \n\nThink of it like having a team of virtual assistants working behind the scenes. These AI helpers can predict when something might go wrong and help fix it before it causes bigger issues. For example, they could help managers organize schedules better or make sure important tasks aren’t forgotten.  \n\nSAP plans to release these AI-powered updates in 2026 as part of its SuccessFactors software, which businesses already use to handle things like hiring, payroll, and employee performance. The goal is to save time and money by cutting down on unnecessary work and making everything run more smoothly.  \n\nFor employees, this could mean less frustration with slow processes and fewer delays at work. For companies, it’s a chance to be more efficient and focus on what matters most.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+          "publishedAt": "2026-04-14T12:55:09.000Z"
+        },
+        {
+          "title": "Canada’s Scotiabank preps for its AI future",
+          "summary": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially cli...",
+          "simplifiedContent": "**Title: Scotiabank is Getting Ready for an AI-Powered Future**  \n\nScotiabank, one of Canada’s big banks, is making a big move with artificial intelligence (AI). It has introduced something called \"Scotia Intelligence,\" which is like a smart system that brings together all the bank’s data, tools, and software into one organized place.  \n\nWhy does this matter? Well, Scotiabank wants to make life easier for both its employees and its customers. With this new system, workers will be able to access information faster and make better decisions. For customers, this could mean things like quicker help with your banking questions, smarter recommendations for your finances, and maybe even fewer mistakes.  \n\nScotiabank is preparing for the future, where AI will play a bigger role in how banks work. By organizing their data and tools now, they’re making sure they’re ready to offer better service in the years ahead. It’s all about being more efficient, accurate, and helpful.  \n\nThis is just one example of how AI is changing the way big companies work—and how it might make everyday tasks, like banking, simpler for all of us.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+          "publishedAt": "2026-04-14T11:20:00.000Z"
+        },
+        {
+          "title": "Coming soon: 10 Things That Matter in AI Right Now",
+          "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus...",
+          "simplifiedContent": "**Title: 10 Big AI Ideas That Could Change Your Life**\n\nEvery year, experts at MIT Technology Review put together a list of 10 amazing technologies they believe will shape the future. These are breakthroughs—new ideas or inventions—that could make a big difference in how we live and work.\n\nThis year, they faced a tough choice. There’s so much happening in areas like energy, medicine, and artificial intelligence (AI) that it was hard to pick just 10. AI, in particular, is advancing so quickly that it’s touching nearly every part of our lives, from how we shop online to how doctors diagnose illnesses.\n\nThe list highlights what’s coming next—things like smarter AI systems that can help solve big problems, cleaner energy solutions, and medical breakthroughs that could save lives. These technologies aren’t just for scientists; they’re going to affect everyday people in ways we might not even realize yet.\n\nStay tuned—these ideas could change how we live, work, and even take care of the planet!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+          "publishedAt": "2026-04-14T11:00:00.000Z"
+        },
+        {
+          "title": "Hyundai expands into robotics and physical AI systems",
+          "summary": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai’...",
+          "simplifiedContent": "**Hyundai Is Building Smarter Robots to Work in Real Life**  \n\nHyundai, the car company you probably know, isn’t just about making cars anymore. Now, it’s diving into robots and smart machines that can move around and do things in the real world.  \n\nThese robots use something called \"physical AI.\" That’s just a fancy way of saying they have built-in artificial intelligence (AI) that helps them understand and react to their surroundings. Imagine a robot that can pick up items in a factory or help move things around without needing constant human supervision.  \n\nRight now, Hyundai is focusing on using these robots in places like factories and warehouses. The goal is to make work faster, safer, and more efficient. For example, these robots could handle heavy lifting or repetitive tasks, freeing up people to focus on more creative or complex jobs.  \n\nHyundai’s step into robotics shows how companies are using AI to make everyday work easier and smarter. In the future, we might see these intelligent robots helping out not just in factories but in homes, stores, and even hospitals!  \n\nHyundai isn’t just making cars anymore—they’re building the future.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+          "publishedAt": "2026-04-14T10:00:00.000Z"
+        },
+        {
+          "title": "Redefining the future of software engineering",
+          "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed...",
+          "simplifiedContent": "**Title: How AI is Changing the Way We Build Software**\n\nSoftware development—the process of creating apps, websites, and programs—has gone through big changes in recent years. First, there was the rise of \"open source,\" which means programmers started sharing their code for free online. This made it easier for people everywhere to learn and create new software without starting from scratch.\n\nThen came new ways of working, like \"DevOps\" and \"agile methods\" (basically teamwork strategies that help developers build and improve software faster). These approaches made software updates quicker and more flexible, so apps could adapt to users’ needs more easily.\n\nNow, artificial intelligence (AI) is shaking things up again. AI tools can write code, find bugs, and even suggest improvements to software. This means developers can work faster and focus on solving bigger problems instead of spending hours on small tasks. For everyday people, this could mean better apps, fewer glitches, and more innovative technology in the future.\n\nIn short, AI is helping make software smarter, faster, and easier to use—and that’s good news for all of us!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+          "publishedAt": "2026-04-14T18:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-14",
       "articles": [
         {
