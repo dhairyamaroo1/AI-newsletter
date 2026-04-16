@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-04-16",
+      "articles": [
+        {
+          "title": "The US-China AI gap closed. The responsible AI gap didn’t",
+          "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial ...",
+          "simplifiedContent": "**Title: The US and China Are Neck-and-Neck in AI, But Big Questions Remain**\n\nA new report from Stanford University shows that the US is no longer ahead of China when it comes to how powerful its AI systems are. For years, many believed the US had a big lead in AI technology, but the 2026 AI Index Report suggests that gap has closed. Both countries now have similar abilities when it comes to creating advanced AI models (the software behind things like ChatGPT or self-driving cars).\n\nWhile this might sound like good news for competition, the report points out something more serious: neither country is doing enough to make sure AI is used responsibly. This includes making sure AI doesn’t harm people, spread misinformation, or act unfairly.\n\nFor everyday people, this matters because AI is becoming a bigger part of our lives—helping us write emails, suggesting movies, and even making decisions about jobs or loans. If countries don’t focus on using AI responsibly, it could lead to problems that hurt society.\n\nThe report is a reminder that as AI gets smarter, we need to make sure it’s also safer and fairer for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+          "publishedAt": "2026-04-15T10:00:00.000Z"
+        },
+        {
+          "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+          "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Commva...",
+          "simplifiedContent": "**New Tool Lets Businesses “Undo” AI Mistakes in the Cloud**  \n\nImagine if you had a magic “undo” button for big AI systems. That’s exactly what a company called Commvault is offering with its new tool, AI Protect.  \n\nBusinesses today use AI to help manage their online systems and data in the cloud (basically, storing and working with information over the internet instead of on your computer). These AI programs can do things like organize files, update security settings, or even create new servers to handle extra work. But sometimes, they make mistakes—like deleting important files or changing settings in ways that cause problems.  \n\nCommvault’s AI Protect acts like a safety net. If an AI system messes something up, this tool helps companies quickly “undo” the damage and get back to normal.  \n\nWhy does this matter? As more businesses rely on AI to save time and money, tools like this make sure those systems stay safe and don’t accidentally cause chaos. For regular people, it means smoother experiences with things like online shopping, banking, or streaming—because the companies behind those services can fix problems fast.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+          "publishedAt": "2026-04-15T16:28:19.000Z"
+        },
+        {
+          "title": "Citizen developers now have their own Wingman",
+          "summary": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company’s press release states: “The best technology should be accessible to everyone”, and cites the difficulty that ...",
+          "simplifiedContent": "**Title: Meet Wingman: Your New Helper for Everyday Tasks**\n\nA company called Emergent has created something exciting called Wingman. It’s a smart tool designed to help everyday people manage their tasks more easily. Think of Wingman like a virtual assistant that can handle apps you use for work or life—stuff like organizing schedules, tracking projects, or keeping to-do lists in order.\n\nEmergent believes technology should be simple and easy for everyone to use, not just experts. That’s why they made Wingman: to give regular people a way to take control of their apps without needing to be tech-savvy. Instead of you having to figure out how different apps work, Wingman steps in and does the hard work for you.\n\nThis could make life a lot easier for anyone juggling lots of responsibilities—whether you’re managing a small business, keeping up with school projects, or just trying to stay organized at home. Emergent calls Wingman an \"autonomous agent,\" which basically means it can make decisions and do tasks for you, without you needing to guide it every step of the way.\n\nIn short, Wingman is here to make your apps smarter, your day smoother, and your life simpler.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+          "publishedAt": "2026-04-15T14:42:00.000Z"
+        },
+        {
+          "title": "Drones get smarter for large farm holdings",
+          "summary": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated befo...",
+          "simplifiedContent": "**Smarter Drones Are Coming to Help Big Farms**  \n\nTwo companies, DroneDash Technologies and GEODNET, are teaming up to make farming easier with a new type of drone. They’ve started a new project called GEODASH Aerosystems to create advanced drones that can spray crops on huge farms.  \n\nHere’s the cool part: these drones don’t need farmers to create maps of their fields before using them. Normally, farmers have to figure out exactly where to spray, which takes a lot of time and effort. But these drones are smart enough to figure it out on their own.  \n\nThis means farmers can save time, get their work done faster, and use fewer resources. Plus, it’s better for the environment because the drones can spray only where it’s needed instead of wasting chemicals.  \n\nFor everyday people, this technology could help make food production more efficient and eco-friendly. Big farms can grow crops with less hassle, and that could mean more affordable food in the future.  \n\nSmarter drones are just another example of how technology is changing the way we grow and produce food.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+          "publishedAt": "2026-04-15T11:03:00.000Z"
+        },
+        {
+          "title": "Building trust in the AI era with privacy-led UX",
+          "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercis...",
+          "simplifiedContent": "**Title: How Better Privacy in AI Can Build Trust**\n\nAs technology gets smarter with AI (artificial intelligence), it’s becoming more important to think about how our personal data is handled. A new approach called \"privacy-led user experience\" is helping companies be more open and honest about what they do with your data.\n\nHere’s what it means: Instead of hiding confusing privacy policies in tiny print or making you click \"I agree\" without explaining anything, companies are starting to make it clear how your data is collected and used. They’re treating your permission as something important—not just a box to check.\n\nThis could change how businesses connect with you online. If you know exactly what’s happening with your data and feel in control, you’re more likely to trust the company. For example, imagine a shopping app that shows you why it’s asking for your location and lets you decide whether to share it.\n\nIn the AI era, trust matters more than ever. Privacy-led designs could help people feel safer and more confident when using apps, websites, or smart devices. It’s a step toward making technology work better for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+          "publishedAt": "2026-04-15T06:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-15",
       "articles": [
         {
