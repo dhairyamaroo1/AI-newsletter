@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-04-18",
+      "articles": [
+        {
+          "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+          "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"...",
+          "simplifiedContent": "**Title: US-Sanctioned Money Exchange Says Hackers Stole $15 Million**\n\nA company called Grinex, which helps people exchange money, says hackers stole $15 million from them. Grinex claims the cyberattack (a hacking event) was so advanced that only “unfriendly states” — countries the US doesn’t get along with — could have pulled it off. They believe the tools and technology used in the hack are not available to regular criminals and likely came from governments.\n\nGrinex is already under US sanctions (official punishments), which means Americans aren’t allowed to do business with them. The company didn’t give many details about how the hackers got into their systems, but they say the attack was carefully planned and highly sophisticated.\n\nFor regular people, this story highlights how cyberattacks are becoming more common and even more dangerous. Hackers, whether they’re criminals or working for governments, can steal huge amounts of money by targeting online systems. It’s a reminder to companies and individuals to protect their online accounts and information because hackers are getting smarter and more advanced every day.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+          "publishedAt": "2026-04-17T21:28:35.000Z"
+        },
+        {
+          "title": "How robots learn: A brief, contemporary history",
+          "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robo...",
+          "simplifiedContent": "**Title: How Robots Are Learning to Be Smarter**\n\nFor years, scientists who build robots dreamed of creating machines as advanced as humans—like C-3PO from Star Wars. But in reality, most robots ended up doing simpler tasks, like vacuuming floors (hello, Roomba!) or working in factories.\n\nNow, things are changing. Thanks to advances in artificial intelligence (AI), robots are learning to do more complicated things. AI is like a computer brain that helps robots figure things out on their own. Instead of just following a set of instructions, they can now learn by watching, practicing, or even solving problems.\n\nThis means robots could soon take on jobs that require more skill, like helping in hospitals, delivering packages, or even assisting in emergencies. It’s exciting, but it also raises questions about how robots will fit into our lives and workplaces. \n\nThe good news? Smarter robots could make life easier for everyone. The tricky part? We need to make sure they’re safe, fair, and don’t replace humans in ways that hurt people.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+          "publishedAt": "2026-04-17T10:00:00.000Z"
+        },
+        {
+          "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+          "summary": "Here's which players are winning the race to transition to post-quantum crypto....",
+          "simplifiedContent": "**Title: Big Tech Prepares for the Future of Super-Powered Computers**\n\nBig tech companies are racing to get ready for a major change in technology caused by something called \"quantum computers.\" These super-fast computers, which are still being developed, will be able to solve problems that today’s computers can’t handle. That sounds exciting, but there’s a catch: they could also break the security systems that protect our online data, like passwords, bank accounts, and personal information.\n\nRight now, companies like Google, IBM, and Microsoft are working hard to create new types of security called “post-quantum cryptography” (a fancy term for quantum-proof locks). These systems will be designed to keep our data safe even when quantum computers become powerful enough to crack old methods.\n\nThis is important because quantum computers aren’t here yet, but experts say they could arrive in the next decade. If companies don’t prepare in time, hackers might use quantum computers to steal sensitive information.\n\nFor everyday people, this means Big Tech is working to make sure your online life stays safe in the future. It’s a race against time, but the good news is that progress is being made to protect us before quantum computers become a reality.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+          "publishedAt": "2026-04-17T11:00:50.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-17",
       "articles": [
         {
