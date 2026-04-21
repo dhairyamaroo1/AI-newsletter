@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-04-21",
+      "articles": [
+        {
+          "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+          "summary": "When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff Su...",
+          "simplifiedContent": "**Title: Why AI Company Anthropic Just Met with the White House**\n\nLast week, the CEO of an AI company called Anthropic had an important meeting at the White House. The company is working on a powerful new AI system named \"Mythos.\" This system is so advanced that experts worry it could be dangerous if not handled carefully. Instead of releasing it to the public, Anthropic is focusing on how to use it responsibly.\n\nThe meeting was about making sure AI technology, like Mythos, doesn’t harm people or society. The White House is paying close attention to AI because it’s becoming a big part of our lives, from how we work to how we interact online. Leaders want to set rules to keep AI safe and fair.\n\nThis is a big deal because it shows how seriously the government is taking AI and its impact. Companies like Anthropic are being asked to help shape the future of AI in a way that benefits everyone. It’s about making sure powerful technology helps people, not hurts them.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+          "publishedAt": "2026-04-20T08:00:00.000Z"
+        },
+        {
+          "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+          "summary": "AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landscapi...",
+          "simplifiedContent": "**Title: Bobyard 2.0 Makes Construction Budgeting Faster and Smarter**  \n\nBobyard, a company that makes AI tools for construction and landscaping projects, just launched a big update called Bobyard 2.0. This new version is designed to help people who estimate project costs (basically, those who figure out how much a project will cost) do their jobs faster and more easily.  \n\nOne of the coolest things about Bobyard 2.0 is that it speeds up a process called “takeoffs.” Takeoffs are when estimators look at project plans and figure out how much material, labor, and money will be needed. This used to take a lot of time, but Bobyard 2.0 makes it quicker and smoother.  \n\nThe update also includes a new \"unified AI workbench.\" This is like a smart toolkit that combines all the AI features estimators need in one easy-to-use place. It helps them stay organized and work more efficiently.  \n\nIn short, Bobyard 2.0 makes budgeting for construction projects simpler and saves time. This means faster planning and potentially fewer delays for big projects like building homes, offices, or landscaping outdoor spaces.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+          "publishedAt": "2026-04-20T13:15:51.000Z"
+        },
+        {
+          "title": "How to prepare for and remediate an AI system incident",
+          "summary": "For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised. In the event of an AI system crisis, new research from ISACA has found that the majority of organisations surveyed couldn’t explain how quickly they could stop an AI system emerg...",
+          "simplifiedContent": "**Title: What Happens When AI Goes Wrong—and How We Can Be Ready**\n\nAI is amazing—it helps us with everything from recommending movies to driving cars. But like any technology, it’s not perfect. Sometimes AI can mess up or even be hacked, and when that happens, it can cause big problems.\n\nA recent study found that many businesses don’t really know how to handle an AI crisis. For example, if an AI system suddenly stops working or starts making bad decisions, most companies aren’t sure how long it would take to fix the problem or shut it down. That’s a big deal because AI is becoming a bigger part of our daily lives, and we need to trust it.\n\nExperts say companies need to have clear plans for dealing with AI emergencies, like testing systems often and having backup plans ready. For regular people, this means we can feel safer using AI-powered tools, knowing there’s a plan if something goes wrong. \n\nAs AI grows, it’s important for businesses to stay prepared—and for all of us to ask questions about how they’re keeping things safe.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+          "publishedAt": "2026-04-20T11:39:41.000Z"
+        },
+        {
+          "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+          "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their co...",
+          "simplifiedContent": "**Title: Workers in China Are Training AI to Replace Them—And They're Not Happy**\n\nImagine being asked to train a robot to do your job. That’s what’s happening to tech workers in China right now. Companies are telling employees to teach artificial intelligence (AI) systems how to do their work. These AI systems, sometimes called \"digital doubles,\" could eventually replace the very people who trained them.\n\nEarlier this month, a project called \"Colleague Skill\" popped up online. It promised workers they could use it to share their knowledge and turn it into AI tools. But instead of being excited, many workers are feeling uneasy. They’re asking themselves big questions: Will this help me, or will it push me out of a job? Is this fair?\n\nThis situation is creating a lot of debate. Some people think AI can make life easier by taking over boring tasks. Others worry it will lead to job losses and less human connection at work.\n\nFor everyday people, this is a reminder that AI isn’t just about cool gadgets—it’s also changing the way we work and live. And not everyone feels ready for those changes.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+          "publishedAt": "2026-04-20T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-18",
       "articles": [
         {
