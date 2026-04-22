@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-04-22",
+      "articles": [
+        {
+          "title": "LLMs+",
+          "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The as...",
+          "simplifiedContent": "**Title: ChatGPT Changed Everything – Here’s Why It Matters**\n\nIn late 2022, OpenAI introduced ChatGPT, a computer program that can talk to people and help them with all kinds of questions. At first, it was just an experiment, but it quickly became super popular. Millions of people started using it every day to write emails, answer tricky questions, brainstorm ideas, and even have fun conversations.\n\nChatGPT is powered by something called an \"LLM,\" which stands for Large Language Model. That’s just a fancy way of saying it’s really good at understanding and using human language. It doesn’t think like a person, but it’s trained on a ton of text from books, websites, and more, so it can guess what words to say next in a way that sounds natural.\n\nAfter ChatGPT’s success, tech companies rushed to create their own versions of this technology. Now, it’s changing how we work, learn, and even interact with machines. For everyday people, tools like ChatGPT mean faster answers, easier writing, and new ways to solve problems. It’s like having a helpful assistant right in your pocket—and it’s just the beginning of what AI can do!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+          "publishedAt": "2026-04-21T20:45:00.000Z"
+        },
+        {
+          "title": "Supercharged scams",
+          "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—bot...",
+          "simplifiedContent": "**Title: AI is Helping Scammers Create Sneakier Emails**  \n\nWhen ChatGPT came out in late 2022, people were amazed at how it could write realistic, human-like text with just a few instructions. But while many use it for good—like writing essays or helping with work—some criminals saw an opportunity to use this technology for bad purposes.  \n\nScammers are now using tools like ChatGPT to write convincing emails designed to trick people. These emails might pretend to be from your bank, a company you trust, or even a friend, asking for personal information or money. Because AI can write in a very natural and believable way, these fake messages can be harder to spot than the poorly written scams we’re used to seeing.  \n\nThis means we all need to be extra careful when reading emails or messages from unknown sources. Look for signs of scams, like requests for sensitive information or urgent demands. As AI gets smarter, scammers may get more creative, but staying cautious can help keep you safe.  \n\nWhile AI has the power to do amazing things, it’s important to understand how it can also be misused—and to protect yourself from these risks.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+          "publishedAt": "2026-04-21T20:45:00.000Z"
+        },
+        {
+          "title": "Agent orchestration",
+          "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs…...",
+          "simplifiedContent": "**Title: How AI Could Change the Way We Work and Solve Big Problems**\n\nWhen people talk about AI helping to make new medicines faster or worry about robots taking jobs, they’re really talking about “AI agents.” These are super-smart computer programs that don’t just answer questions like ChatGPT does—they can actually take action and make decisions.\n\nChatGPT is a great example of AI that talks to people, but experts say AI needs to go further. Imagine an AI that doesn’t just give advice, but helps scientists discover life-saving drugs or organizes tasks to make businesses run better. These AI agents could handle complex jobs that usually take humans a lot of time.\n\nWhat does this mean for everyday life? It could make things like healthcare, business, and even education faster and more efficient. But it also raises big questions about jobs and how much we should rely on machines to make decisions.\n\nAI is getting smarter every day, and it’s not just about chatting anymore—it’s about creating tools that could truly change the world.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+          "publishedAt": "2026-04-21T20:45:00.000Z"
+        },
+        {
+          "title": "Artificial scientists",
+          "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it.  Already, LLMs can assist scienti...",
+          "simplifiedContent": "**Title: Can AI Become a Scientist?**\n\nImagine a world where computers help us cure diseases like cancer or figure out how to stop climate change. That’s the big dream behind many AI (artificial intelligence) projects today. Some companies say their advanced technology could lead to huge breakthroughs in science—solving problems that humans have struggled with for years.\n\nAlready, AI programs called LLMs (short for \"large language models\") are lending a hand to scientists. These programs can quickly read and analyze huge amounts of information, suggest ideas, and even help write research papers. It’s like having a super-smart assistant who never gets tired.\n\nWhile this sounds amazing, it’s still early days. AI isn’t replacing human scientists yet, but it’s giving them powerful tools to work faster and smarter. If these AI systems keep improving, they could help answer big questions about health, energy, and the environment.\n\nFor now, AI is showing us what’s possible. And if it can really help solve problems like cancer or climate change, it might be worth all the effort people are putting into building it.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
+          "publishedAt": "2026-04-21T20:45:00.000Z"
+        },
+        {
+          "title": "Resistance",
+          "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—among ...",
+          "simplifiedContent": "**Title: Not Everyone is Happy About AI’s Future**  \n**Source: MIT Technology Review**  \n\nArtificial intelligence (AI) is changing the world, but not everyone is excited about it. People are starting to raise concerns about the problems AI might be causing.  \n\nFor example, AI companies use huge data centers (big buildings full of computers) to train their systems, and these require a lot of electricity. Some people worry this is driving up energy costs. Others are upset that AI might take away jobs, like customer service roles or creative work.  \n\nParents are also questioning how AI tools, like chatbots, could affect teenagers' mental health. Some worry these bots might replace real human connections or give harmful advice. And there’s concern about AI being used by the military, which raises questions about safety and ethics.  \n\nArtists, writers, and musicians are speaking out too. They say some AI systems are copying their work without permission, which isn’t fair.  \n\nAI has the power to do amazing things, but it’s clear that it’s also creating challenges. As AI grows, people are pushing for rules and protections to make sure it helps, not harms, society.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
+          "publishedAt": "2026-04-21T20:45:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-21",
       "articles": [
         {
