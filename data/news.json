@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-04-24",
+      "articles": [
+        {
+          "title": "The billion-dollar startup with a different idea for AI",
+          "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way thro...",
+          "simplifiedContent": "**Title: A New AI Idea Gets Big Money Backing**\n\nA small company with just 12 employees has raised an incredible $1 billion to work on a bold new idea for artificial intelligence (AI). The company, called AMI Labs, is led by Yann LeCun, a famous AI expert. He thinks the way AI works right now isn’t the best approach for the future.\n\nMost of today’s AI tools, like ChatGPT, are based on something called “large language models.” These models are trained to understand and respond to text, but LeCun believes they have big limits. He wants to create a completely different kind of AI that can think and learn more like humans do.\n\nThis huge investment shows that people are still very excited about AI and its potential to change the world. If AMI Labs succeeds, it could mean smarter AI that’s better at solving complex problems and making decisions. For everyday people, this could lead to more helpful and reliable technology in areas like healthcare, education, and even how we interact with gadgets at home.\n\nIt’s still early days, but this could be the start of a major breakthrough in how AI works.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "publishedAt": "2026-04-23T12:30:00.000Z"
+        },
+        {
+          "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+          "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in ...",
+          "simplifiedContent": "**Sony’s Ping-Pong Robot Outsmarts Human Players**\n\nSony has created a robot that’s really good at playing table tennis—so good, it can beat skilled human players! The robot, powered by artificial intelligence (AI), was tested in official matches, and it came out on top, according to Reuters.\n\nThis isn’t just any robot—it’s part of a new trend called “physical AI.” That means it’s not just a computer doing smart things behind the scenes; it’s a machine that can move, react, and interact with the world like a person. In this case, it can hit a ping-pong ball perfectly, no matter how fast or tricky the shot is.\n\nWhy does this matter? Well, it shows how far robots have come. They’re not just good at thinking—they’re learning to move and act in ways that could help people in the future. Imagine robots that can assist in sports training, physical therapy, or even household chores.\n\nSony’s ping-pong robot is just one example of how technology is pushing boundaries. It’s a glimpse into a future where robots might become more common in everyday life. Cool, right?",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "publishedAt": "2026-04-23T10:00:00.000Z"
+        },
+        {
+          "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+          "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this...",
+          "simplifiedContent": "**Title: Google and NVIDIA Team Up to Make AI Faster and Cheaper**\n\nGoogle and NVIDIA are working together to make AI technology more affordable and efficient for businesses. At a recent event, Google shared plans to use special new computer systems powered by NVIDIA’s advanced hardware. These systems are designed to help AI programs run faster and use less energy, which also lowers costs.\n\nHere’s why this matters: AI is becoming more important in everyday life, from helping apps understand your voice to recommending shows on streaming platforms. But running AI programs, especially on a large scale, can be expensive. By improving the technology behind the scenes, Google and NVIDIA are making it easier for companies to use AI without spending a fortune.\n\nFor everyday people, this could mean smarter apps, better recommendations, and even new AI-powered tools in the future—all at lower prices. This partnership is a big step forward in making AI accessible for more businesses, which ultimately benefits us all.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "publishedAt": "2026-04-23T12:19:36.000Z"
+        },
+        {
+          "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+          "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?...",
+          "simplifiedContent": "**Title: Hackers Start Using Extra-Secure Technology—Here’s What That Means for You**\n\nA new type of ransomware (a kind of malicious software that locks your files and demands money to unlock them) is using cutting-edge technology to make itself harder to stop. This is the first time hackers have been confirmed to use something called \"quantum-safe encryption.\" That’s a fancy term for encryption (a way of hiding information) designed to stay secure even against super-powerful future computers called quantum computers.\n\nWhile quantum computers aren’t widely available yet, they’re expected to become a big deal in the future. They could break today’s security systems, which protect everything from your online banking to private messages. That’s why experts are already working on “quantum-safe” methods to stay ahead of the game.\n\nSo, why are hackers using this now? It doesn’t make their attacks stronger today, but it could make them harder to stop in the future. This shows how cybercriminals are keeping an eye on new technology to stay ahead.\n\nFor everyday people, this is a reminder to stay careful online. Always back up your files and keep your devices secure, because technology—and threats—are always evolving.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+          "publishedAt": "2026-04-23T20:41:23.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-22",
       "articles": [
         {
