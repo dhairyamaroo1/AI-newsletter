@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-04-28",
+      "articles": [
+        {
+          "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+          "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris...",
+          "simplifiedContent": "**Title: Elon Musk and OpenAI’s CEO Are Going to Court Over Big AI Decisions**\n\nElon Musk and Sam Altman, the head of OpenAI (the company behind ChatGPT), are facing off in court this week. The big question? Whether OpenAI should stay a for-profit company. OpenAI started out as a nonprofit, meaning its main goal was to help people and advance AI in a safe way—not to make money. But in 2019, it switched to being \"for-profit,\" which means it can make money and attract big investors.\n\nNow, as OpenAI prepares to sell shares to the public (an IPO, or \"initial public offering\"), this legal battle could change everything. Musk, who helped create OpenAI but later stepped away, believes the company has drifted from its original mission. Altman, on the other hand, says the switch was necessary to fund expensive AI research.\n\nWhy does this matter? OpenAI has created tools like ChatGPT that millions of people use every day. This court decision could affect how OpenAI operates in the future—and how much power big companies have over the AI tools we use. Stay tuned!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+          "publishedAt": "2026-04-27T22:52:57.000Z"
+        },
+        {
+          "title": "Rebuilding the data stack for AI",
+          "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a...",
+          "simplifiedContent": "**Title: Fixing Data Problems to Make AI Work Better for Businesses**  \n**Source: MIT Technology Review**  \n\nAI (artificial intelligence) is becoming a hot topic for businesses, but many companies are realizing something important: their data isn’t ready for it. While tools like ChatGPT and other AI apps are impressing everyday users with how fast and helpful they are, big companies are facing challenges when trying to use AI in their work.  \n\nHere’s the issue: AI needs good data to work well, and many businesses don’t have their data organized properly. Their information might be messy, outdated, or stored in ways that AI can’t easily understand. This makes it hard for companies to use AI to solve problems, improve customer service, or make smarter decisions.  \n\nExperts say businesses need to rebuild their “data stack” (basically, the way they store and organize information) to make it easier for AI to use. It’s like cleaning out a messy closet so you can find what you need quickly.  \n\nIf companies can fix these data problems, AI could help them work faster, save money, and create better experiences for customers. But until then, businesses will have to focus on cleaning up their data before they can unlock AI’s full potential.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+          "publishedAt": "2026-04-27T13:00:00.000Z"
+        },
+        {
+          "title": "Google warns malicious web pages are poisoning AI agents",
+          "summary": "Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrators...",
+          "simplifiedContent": "**Title: Google Warns About Dangerous Websites Tricking AI Tools**\n\nGoogle has discovered that some websites are setting traps to trick AI tools. These traps, called “prompt injections,” are sneaky bits of text hidden on websites. They confuse AI systems into doing things they shouldn’t, like giving out wrong answers or behaving in unexpected ways.\n\nHere’s how it works: Many AI tools, especially ones used by businesses, gather information from public websites to help answer questions or perform tasks. But if an AI reads one of these tricky websites, it might accidentally follow the hidden instructions and act in a harmful or misleading way.\n\nGoogle researchers found this problem while studying a huge collection of websites called the Common Crawl. They’re now warning companies to be careful when using AI tools that rely on online information.\n\nFor everyday people, this means businesses and developers need to make sure their AI systems are protected against these tricks. If not, it could lead to AI tools making mistakes or spreading false information. Google is encouraging everyone to be extra cautious when using AI connected to the internet.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
+          "publishedAt": "2026-04-27T11:12:52.000Z"
+        },
+        {
+          "title": "The missing step between hype and profit",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B...",
+          "simplifiedContent": "**Title: The Real Challenge with AI: Turning Hype into Real Value**\n\nAI (artificial intelligence) is everywhere these days. It’s in the news, in your apps, and even sparking debates about its impact on jobs and society. But here’s the big question: how do we move from all the excitement about AI to actually making it useful and profitable?\n\nRight now, AI is like a trendy new invention everyone’s talking about, but not everyone knows how to use it in a way that truly makes life better or helps businesses grow. While AI tools like ChatGPT can write essays or answer questions, figuring out how to use AI to solve real-world problems (like improving healthcare or making transportation safer) is still tricky.\n\nAt a recent anti-AI protest in London, people raised concerns about AI’s risks—like job loss or misinformation. These worries are valid, but experts say the real challenge is finding a middle ground: using AI responsibly while also making it practical and valuable.\n\nIn short, AI is full of potential, but we’re still figuring out how to make it work for everyone in ways that matter.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+          "publishedAt": "2026-04-27T16:13:41.000Z"
+        },
+        {
+          "title": "Open source package with 1 million monthly downloads stole user credentials",
+          "summary": "If you're one of millions using element-data, it's time to check for compromise....",
+          "simplifiedContent": "**Title: Popular Software Used by Millions Found Stealing Passwords**\n\nIf you use a program called \"element-data,\" you might want to pay attention. This software is downloaded over a million times each month by people who use it to build apps and websites. But recently, experts found out it was doing something sneaky—stealing user passwords and other private information.\n\nHere’s how it works: the software had hidden code that secretly sent people’s sensitive details, like login info, to hackers. This means your accounts, whether for work or personal use, could be at risk if you used this tool.\n\nThe problem has been fixed now, but it’s a reminder that even trusted tools can sometimes be dangerous. If you’re using \"element-data,\" experts recommend uninstalling it and checking your accounts for unusual activity, like unauthorized logins. You might also want to change your passwords just to be safe.\n\nFor everyday people, this shows how important it is to stay alert about the apps and tools you use, especially ones you download from the internet. Always make sure they come from a safe and reliable source!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+          "publishedAt": "2026-04-27T21:04:03.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-24",
       "articles": [
         {
