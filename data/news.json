@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-04-30",
+      "articles": [
+        {
+          "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+          "summary": "OpenAI launched GPT-5.5 on April 23 as what it calls “a new class of intelligence for real work and powering agents,” and the framing is deliberate. OpenAI says it’s the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output, and work through tasks i...",
+          "simplifiedContent": "**Title: OpenAI’s New GPT-5.5 Is Smarter Than Ever**  \n**Source: AI News**\n\nOpenAI has just launched a new AI model called GPT-5.5, and it’s designed to be the smartest and most helpful version yet. Think of it like a super assistant that’s great at planning, solving problems, and even checking its own work to make sure it’s getting things right.\n\nReleased on April 23, GPT-5.5 is built to handle tasks more efficiently than previous versions of OpenAI’s models. It can not only answer questions or write things for you, but it can also use tools and figure out how to complete more complicated jobs. For example, it could help businesses organize projects or even assist people with personal tasks like managing schedules or finding the best deals online.\n\nWhat’s exciting is that this AI model isn’t just about giving answers—it’s about taking action. OpenAI calls it “agentic,” which means it’s designed to act like an agent that helps get things done.\n\nFor everyday people, this means smarter, faster, and more reliable AI tools in apps and services we already use. GPT-5.5 could make life easier by helping us work, plan, and problem-solve in ways we’ve never seen before!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
+          "publishedAt": "2026-04-29T09:08:13.000Z"
+        },
+        {
+          "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+          "summary": "Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing. Companies poured capital into large language models and machine learning, expecting...",
+          "simplifiedContent": "**How Businesses in Europe Can Get AI Projects Back on Track**  \n\nOver the past year and a half, many companies in Europe, the Middle East, and Africa (EMEA) have been working hard to use artificial intelligence (AI) to improve their business. They’ve invested a lot of money into powerful tools like large language models (which are AI systems that can understand and create text) and machine learning (AI that learns from data).  \n\nBut now, some of these projects have hit a roadblock. Businesses are struggling to move past the testing phase and make AI truly useful in their day-to-day work. According to experts, Chief Information Officers (CIOs)—the people in charge of technology at companies—need to take a closer look at their systems. This means checking what’s working, what isn’t, and making sure they’re ready to handle AI properly.  \n\nIf they can figure out what’s slowing them down, companies will be able to use AI to save time, improve customer service, and make smarter decisions. The sooner they fix these problems, the faster they can start seeing the benefits of AI.  \n\nFor everyday people, this means businesses might get better at solving problems, answering questions faster, or even creating new products and services!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+          "publishedAt": "2026-04-29T14:02:45.000Z"
+        },
+        {
+          "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+          "summary": "Security firms find themselves especially exposed....",
+          "simplifiedContent": "**Title: Hackers Target Security Companies in Sneaky Attack**\n\nHackers recently launched a clever attack aimed at two well-known security companies, Checkmarx and Bitwarden. These companies help businesses and individuals stay safe online, but this attack shows that even the protectors can be vulnerable.\n\nHere’s what happened: The hackers used a technique called a “supply-chain attack.” This means they didn’t go directly after Checkmarx or Bitwarden. Instead, they secretly tampered with tools or software that these companies use or share with their customers. When the companies or their customers used these tools, the hackers could sneak in and gain access to sensitive information.\n\nWhy does this matter to you? Checkmarx and Bitwarden are trusted by many people and companies to keep their data secure. If hackers can compromise tools used by security companies, it puts everyone who relies on them at risk. It’s like finding out the lock on your front door was secretly replaced with one the burglars can open.\n\nThese attacks are a reminder that no one is 100% safe online—even the experts. It’s important to stay cautious, keep your software updated, and use strong passwords to protect yourself. Security companies are working hard to fix issues like this and make sure they stay one step ahead of the hackers.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+          "publishedAt": "2026-04-29T11:00:24.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-28",
       "articles": [
         {
