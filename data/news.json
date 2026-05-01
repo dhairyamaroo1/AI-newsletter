@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-05-01",
+      "articles": [
+        {
+          "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+          "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this...",
+          "simplifiedContent": "**Title: New Tool Helps Fix and Improve AI Models**\n\nA startup called Goodfire, based in San Francisco, has created a new tool named Silico that makes it easier to understand and fix how AI systems work. AI models, like the ones behind chatbots or search engines, learn by adjusting a bunch of settings (called parameters) that shape how they think and respond. But figuring out what’s going on inside these models can be really tricky.\n\nSilico acts like a “debugging” tool—kind of like fixing errors in computer code. It lets researchers and developers take a closer look at the AI’s decision-making process and make adjustments while the model is still learning. This means they can fix problems, make the AI smarter, and even ensure it behaves the way they want it to.\n\nFor everyday people, this is exciting because it could lead to AI tools that are more reliable, accurate, and safe to use. Whether it’s improving virtual assistants, smarter online searches, or better recommendations, tools like Silico help make AI work better for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+          "publishedAt": "2026-04-30T15:59:41.000Z"
+        },
+        {
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more....",
+          "simplifiedContent": "**Title: A Serious Computer Security Problem is Causing Big Concerns**\n\nA new and dangerous computer security issue called “CopyFail” has been discovered, and experts are worried. It’s being called one of the worst threats to Linux systems in years. (Linux is an operating system, like Windows or macOS, that powers many servers, websites, and apps behind the scenes.)\n\nThis problem puts a lot of important technology at risk, including the systems that companies use to run websites, apps, and online services. It can affect things like shared servers (where multiple users store their information), tools that help developers build and update software (called CI/CD workflows), and platforms like Kubernetes (used to manage apps in the cloud).\n\nIf hackers take advantage of this security flaw, they could gain control of these systems, steal sensitive data, or disrupt services that people rely on every day—like online banking, shopping, or streaming.\n\nThe good news? Security teams are already working hard to fix the issue. But it’s a reminder of how important it is to keep technology safe and secure because so much of our daily lives depends on it.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "publishedAt": "2026-04-30T20:20:48.000Z"
+        },
+        {
+          "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+          "summary": "LG is currently engaged in exploratory discussions with NVIDIA concerning physical AI, data centres, and mobility. Following a meeting in Seoul between LG CEO Ryu Jae-cheol and Madison Huang, Senior Director of Product Marketing for Omniverse and Robotics at NVIDIA, the core operational dependencies...",
+          "simplifiedContent": "**Title: LG and NVIDIA Are Teaming Up – Here's Why It Matters**\n\nBig tech companies LG and NVIDIA are talking about how to make smarter robots, better data centers (places that store huge amounts of information), and advanced technology for cars and other vehicles. These discussions could lead to exciting changes in how we use technology in everyday life.\n\nRecently, LG’s CEO met with a top leader from NVIDIA in Seoul, South Korea, to explore how their companies can work together. They’re focusing on “physical AI,” which is basically how artificial intelligence (AI) can be used in real-world objects like robots and machines—not just in computers or apps. \n\nThis partnership could mean robots that are even smarter and more helpful, cars that drive themselves more safely, and faster, more efficient ways to handle the massive amount of data we all use every day. While it’s still early, these talks show how two major companies are thinking about the future of technology—and how it might make our lives easier.\n\nKeep an eye on this collaboration. It could lead to big changes in the gadgets and tools we rely on!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+          "publishedAt": "2026-04-30T15:59:54.000Z"
+        },
+        {
+          "title": "A guide to APIs, MCPs, and MCP Gateways",
+          "summary": "APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is main...",
+          "simplifiedContent": "**Title: How Apps and Systems \"Talk\" to Each Other**\n\nHave you ever wondered how different apps or websites seem to magically work together? For example, when you use a fitness app that connects to your smartwatch or a travel site that pulls hotel prices from other platforms? This happens thanks to something called APIs and MCPs – fancy tools that help systems share information.\n\nLet’s break it down: an API (short for Application Programming Interface) is like a menu at a restaurant. It tells one app or system what it can \"order\" from another app, like pulling weather updates or sending a payment request. It’s how apps communicate behind the scenes to make things easier for you.\n\nMCPs (Multi-Channel Platforms) are a bit different. They’re like a hub or control center, helping big systems manage lots of information across different channels. Think of it like a delivery service that organizes packages going to multiple places.\n\nMCP Gateways are the connectors that make sure everything flows smoothly, like traffic lights that keep cars moving without crashes.\n\nWhy does this matter? These tools make life easier by helping apps and systems work together seamlessly. Whether you’re streaming music, shopping online, or booking trips, APIs and MCPs are the hidden helpers making it all happen. Cool, right?",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+          "publishedAt": "2026-04-30T11:18:00.000Z"
+        },
+        {
+          "title": "AI agent governance takes focus as regulators flag control gaps",
+          "summary": "Australia’s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations. The Australian Prudential Regulation Authority said it conduct...",
+          "simplifiedContent": "**Title: Regulators Warn Banks to Be Careful with AI Tools**\n\nAustralia’s financial watchdog has told banks and other money-handling companies to be more careful with how they manage their AI systems. These systems are being used more and more to help with things like customer service and running businesses behind the scenes. But the regulator, called the Australian Prudential Regulation Authority (APRA), says some companies aren’t doing enough to keep these tools in check.\n\nAI (artificial intelligence) is like smart computer programs that can make decisions, answer questions, or even predict things. While it can make life easier, it can also make mistakes or cause problems if it’s not properly managed.\n\nAPRA is worried that banks and other financial companies don’t have strong enough rules to make sure their AI tools work the way they should. If these systems fail or make bad decisions, it could hurt customers or even the economy.\n\nThe regulator is now asking companies to tighten up their controls and be more transparent about how they use AI. For everyday people, this means banks will need to be extra careful with the technology they use to handle money and personal information.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+          "publishedAt": "2026-04-30T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-04-30",
       "articles": [
         {
