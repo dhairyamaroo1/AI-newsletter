@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-05-05",
+      "articles": [
+        {
+          "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha...",
+          "simplifiedContent": "**Week One of the Musk vs. Altman Trial: What’s Happening?**\n\nLast week, two big names in artificial intelligence (AI)—Elon Musk and Sam Altman—met in court in California. Musk is suing OpenAI, the company Altman leads, claiming it broke promises and caused harm. OpenAI is famous for creating ChatGPT, the tool many people use to ask questions, write essays, and more.\n\nMusk has been critical of OpenAI for a while. He helped start the company years ago, but now he says it’s not doing what it promised. He thinks the company has become too focused on making money and isn’t being as open about its AI research as it should be.\n\nAltman, on the other hand, says OpenAI is following its mission to make AI useful and safe for everyone.\n\nThis trial is important because it’s about who controls AI and how it’s developed. AI is becoming a bigger part of everyday life, so decisions made here could affect the future of technology for all of us.\n\nPeople are watching closely to see what happens next. Stay tuned!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+          "publishedAt": "2026-05-04T15:51:27.000Z"
+        },
+        {
+          "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+          "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay....",
+          "simplifiedContent": "**Title: GameStop Wants to Buy eBay for $56 Billion, But Can They Afford It?**\n\nGameStop, the video game store you see in malls, is going through tough times. Fewer people are buying games in stores, and more are buying online or downloading them. Because of this, GameStop’s sales have dropped, and some of its stores have even closed.\n\nNow, GameStop has a big plan to turn things around: it wants to buy eBay, the huge online marketplace where people buy and sell everything from clothes to collectibles. The problem? eBay is much bigger than GameStop, and the price tag is $56 billion. That’s a lot of money—way more than GameStop has right now.\n\nGameStop hasn’t explained how it will pay for this. Some experts think it might try to borrow money or find investors to help, but that could be risky. If the deal works, GameStop could become a big player in online shopping. If it doesn’t, the company could be in even more trouble.\n\nFor now, it’s unclear how this will end, but one thing’s for sure: it’s a bold move for GameStop.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+          "publishedAt": "2026-05-04T17:57:46.000Z"
+        },
+        {
+          "title": "Physical AI raises governance questions for autonomous systems",
+          "summary": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial...",
+          "simplifiedContent": "**Title: How AI in Physical Machines Could Affect Everyday Life**\n\nRobots, sensors, and machines powered by Artificial Intelligence (AI) are becoming more common in the real world. They can do things like help in factories, monitor the environment, or even assist in hospitals. But as these \"smart\" machines get more advanced, people are starting to ask important questions: How do we make sure they’re safe? How can we stop them if something goes wrong?\n\nThis is tricky because these AI systems don’t just exist inside computers anymore—they’re now controlling physical machines that interact with the real world. For example, imagine a robot working in a factory. If the AI controlling it makes a mistake, how do we catch it in time? And who’s responsible for making sure it doesn’t harm people or property?\n\nExperts are working on ways to test, monitor, and control these systems to prevent problems. As AI continues to grow, governments, companies, and researchers will need to figure out how to create rules and protections so everyone stays safe. For now, it’s a reminder that with big advances in technology come big responsibilities.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+          "publishedAt": "2026-05-04T11:00:00.000Z"
+        },
+        {
+          "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+          "summary": "Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Pla...",
+          "simplifiedContent": "**Title: Google’s New AI Tool Helps Businesses Use AI Safely**\n\nTwo weeks ago, Google announced something big at its tech event in Las Vegas. They introduced a new tool to help businesses use AI responsibly. This tool is built into their system, which means companies don’t have to figure out how to manage AI safety on their own anymore—it’s already part of the package.\n\nThe main feature is called the Gemini Enterprise Agent. Think of it like a smart assistant designed for businesses. It helps companies use AI in a way that’s safe, fair, and trustworthy. For example, it can make sure AI isn’t accidentally sharing sensitive information or making biased decisions.\n\nWhy does this matter? AI is becoming more powerful and more common in workplaces. But it’s also tricky to control, and mistakes can cause serious problems. Google’s new tool makes it easier for companies to stay in control and avoid issues.\n\nIn short, Google is making it simpler for businesses to use AI without worrying about the risks. It’s a big step forward for safer, smarter technology.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+          "publishedAt": "2026-05-04T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-01",
       "articles": [
         {
