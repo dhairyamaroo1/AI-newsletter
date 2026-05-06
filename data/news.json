@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-05-06",
+      "articles": [
+        {
+          "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+          "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat....",
+          "simplifiedContent": "**Title: Popular Computer Tool Hacked – Check Your Devices Now!**\n\nIf you use Daemon Tools, a well-known program for managing files and virtual disks (like digital copies of DVDs or CDs), there’s important news: hackers may have secretly added harmful software to it. This sneaky attack lasted for a month and could have infected computers worldwide.\n\nHere’s what happened: cybercriminals managed to break into the company’s system and tampered with the program. When people downloaded or updated Daemon Tools during this time, they might have unknowingly installed dangerous software (called malware) onto their computers. This malware can hide in your system, steal personal information, or even give hackers control of your computer.\n\nWhat should you do? If you’ve used Daemon Tools recently, it’s smart to scan your computer for viruses or malware right away. Use a trusted antivirus program to check for any problems.\n\nAttacks like this are called “supply-chain attacks,” and they target popular software to spread harmful programs. It’s a reminder to be cautious when downloading apps, even ones you trust.\n\nStay safe by keeping your programs updated and running security checks often!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+          "publishedAt": "2026-05-05T19:46:15.000Z"
+        },
+        {
+          "title": "Why Reddit blocked my daily visit to its mobile website",
+          "summary": "Reddit REALLY wants you to use its app....",
+          "simplifiedContent": "**Title: Why Reddit Wants You to Use Its App Instead of the Website**\n\nIf you’ve tried visiting Reddit on your phone recently, you might’ve noticed something frustrating. Instead of letting you browse the site like normal, Reddit now blocks its mobile website and asks you to download its app instead. So, what’s going on?\n\nReddit is pushing hard to get people to use its app. The company says the app gives users a better experience, like faster loading and extra features. But there’s another reason behind this move: Reddit makes more money through its app. Apps can show more ads and collect more data about how people use them, which helps Reddit make money from advertisers.\n\nSome users are upset, though. They liked using the website because it’s simple and doesn’t take up space on their phones. Others feel like Reddit is forcing them into something they don’t want.\n\nFor everyday people, this means you might have to download the Reddit app if you want to keep browsing. But if you don’t want to, you could try using Reddit on a computer instead.\n\nReddit’s decision is part of a bigger trend—many companies are making apps the main way to use their services. Whether that’s good or bad depends on what you prefer.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+          "publishedAt": "2026-05-05T11:20:08.000Z"
+        },
+        {
+          "title": "A blueprint for using AI to strengthen democracy",
+          "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele...",
+          "simplifiedContent": "**Title: How AI Could Help Make Democracy Stronger**\n\nBig changes in how we share information have always shaped the way societies work. Hundreds of years ago, the printing press helped people read and share ideas, which eventually led to big political changes like democracy. Later, the invention of the telegraph made it easier for governments to manage large countries, like the United States.\n\nNow, artificial intelligence (AI) might be the next big thing to change how we run our societies. AI is a type of technology that can learn and make decisions, sort of like how humans do. Experts believe it could help improve democracy—how we make decisions together as a group.\n\nFor example, AI could help governments understand what people really care about by analyzing huge amounts of feedback quickly. It could also make voting easier and more secure, or even stop the spread of fake news online.\n\nOf course, there are risks. If used the wrong way, AI could also be abused to spread misinformation or limit freedom. That’s why researchers are working on ideas to make sure AI is used fairly and responsibly. If done right, this technology could help create stronger, more connected communities for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+          "publishedAt": "2026-05-05T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-05",
       "articles": [
         {
