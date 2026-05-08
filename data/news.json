@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-05-08",
+      "articles": [
+        {
+          "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+          "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery....",
+          "simplifiedContent": "**Title: Mozilla Uses AI to Find Bugs Faster and More Accurately**\n\nMozilla, the company behind the Firefox web browser, is using artificial intelligence (AI) to make Firefox safer and more reliable. Recently, they worked with an AI tool called Mythos to find problems, known as \"bugs,\" in their software. Bugs can cause programs to crash or make them vulnerable to hackers, so finding and fixing them is super important.\n\nThe exciting news? Mythos discovered 271 bugs, and almost all of them were real issues—meaning the AI didn’t waste time pointing out fake problems. Mozilla says this AI tool is so good at spotting bugs that they’re fully committed to using it in the future.\n\nFor everyday people, this means a safer and smoother browsing experience. If you use Firefox, you can worry less about glitches or security risks because AI is helping to catch problems before they affect you. It’s another example of how AI is being used to improve the technology we rely on every day.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+          "publishedAt": "2026-05-07T19:18:16.000Z"
+        },
+        {
+          "title": "AI helping ease the UK’s NHS burden",
+          "summary": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hosp...",
+          "simplifiedContent": "**Title: How AI Is Helping the NHS Handle Its Workload**\n\nThe NHS in the UK is under a lot of pressure, with millions of people waiting for care. Right now, about 7.25 million patients are on waiting lists, and the problem isn’t getting better anytime soon. To help, the NHS is trying new ways to provide care outside of hospitals—and artificial intelligence (AI) is stepping in to make things easier.\n\nAI is a type of technology that can learn and solve problems, kind of like a super-smart computer. In the NHS, AI is being used to speed up certain tasks and help doctors and nurses focus on patients. For example, AI can help identify illnesses faster by analyzing medical data, like scans or test results. It can also predict which patients might need extra care, so staff can act sooner.\n\nThis means shorter waiting times and better care for patients. By using AI, the NHS hopes to manage its huge workload more effectively and give people the help they need faster.\n\nFor everyday people, this is good news—it could mean quicker diagnoses, faster treatments, and less time waiting for appointments. AI isn’t replacing doctors; it’s helping them do their jobs better.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "publishedAt": "2026-05-07T09:35:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-06",
       "articles": [
         {
