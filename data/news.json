@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-05-09",
+      "articles": [
+        {
+          "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+          "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t...",
+          "simplifiedContent": "**Title: Elon Musk and OpenAI Battle Over Big AI Decisions**\n\nElon Musk and OpenAI are caught up in a big legal fight, and the drama keeps growing. Musk, who helped start OpenAI years ago, says he was tricked into giving the company $38 million. He claims OpenAI’s CEO, Sam Altman, and another leader, Greg Brockman, weren’t honest about how the money would be used. Musk isn’t happy with how OpenAI has grown, especially since it became a for-profit company.\n\nThis week, OpenAI fired back. They said Musk’s accusations aren’t true and pointed out that he left the company years ago. Meanwhile, Shivon Zilis, who works with Musk, revealed that Musk tried to convince Altman to leave OpenAI and work for him instead.\n\nSo, why does this matter? OpenAI is the company behind ChatGPT, the AI tool millions of people use to write, learn, and get help. The outcome of this fight could affect how AI companies like OpenAI are run and who gets to control them. For everyday people, it’s a peek into how the leaders of tech are shaping the future of AI—and arguing about it along the way.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+          "publishedAt": "2026-05-08T23:59:19.000Z"
+        },
+        {
+          "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+          "summary": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now ha...",
+          "simplifiedContent": "**RingCentral’s AI Assistant Gets Even Smarter with New Features**  \n\nRingCentral, a company that makes communication tools, has upgraded its virtual assistant to do even more. This AI-powered helper, called AI Receptionist (or AIR), can now connect with popular apps like Shopify, Calendly, and WhatsApp.  \n\nSo, what does this mean for everyday people? Imagine calling a business and needing help scheduling an appointment, checking on a product order, or messaging them through WhatsApp. Instead of waiting for a person to assist you, AIR can handle these tasks quickly and smoothly.  \n\nFor businesses, this upgrade is a big deal. It makes customer service faster and easier, saving time for both employees and customers. For example, a store using Shopify can have AIR check your order status right away, or a company can use Calendly to let AIR help you book an appointment without any hassle.  \n\nBy adding these features, RingCentral is turning its AI assistant into a super-helpful tool for handling everyday requests. It’s all about making things more convenient for everyone!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "publishedAt": "2026-05-08T14:54:00.000Z"
+        },
+        {
+          "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+          "summary": "Across the country, schools and colleges postpone year-end tests....",
+          "simplifiedContent": "**Title: Big Problem! Cyberattack Shuts Down School Learning App During Finals**\n\nSchools and colleges across the U.S. are scrambling after a major cyberattack hit Canvas, a popular online learning app. Canvas is used by students and teachers to share assignments, take tests, and track grades. But now, it’s not working for many schools during one of the most important times of the year—final exams.\n\nHackers (people who break into computer systems) targeted the app, causing it to crash and leaving students unable to access their tests or study materials. Some schools have been forced to delay exams, which is stressful for students and teachers trying to finish the school year.\n\nExperts are working to fix the problem, but it’s a reminder of how much we rely on technology—and how vulnerable it can be to attacks. For students, this means more waiting and uncertainty during an already nerve-wracking time.\n\nThis situation highlights the importance of keeping online tools safe and secure, especially when they’re used by millions of people for something as important as education.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+          "publishedAt": "2026-05-08T18:33:48.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-08",
       "articles": [
         {
