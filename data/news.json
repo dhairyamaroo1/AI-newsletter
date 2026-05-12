@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-05-12",
+      "articles": [
+        {
+          "title": "AI automates HR compliance, except for the area tech companies need",
+          "summary": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regulator...",
+          "simplifiedContent": "**Title: AI Is Changing How Companies Manage HR Rules—But It’s Not Perfect Yet**  \n\nAI (artificial intelligence) is making it easier for companies to follow workplace rules and handle employee-related tasks. For example, computers powered by AI can now check someone’s background instantly, like when hiring new employees. They can also keep an eye on payroll (how people get paid) and quickly spot mistakes. On top of that, AI can even predict when workers might leave their jobs, helping companies plan ahead.  \n\nThese AI tools save time and reduce human errors, which is great for businesses and their employees. But here’s the catch: while AI can handle many tasks, it still struggles with tricky situations. Some tech companies need AI to help them follow complicated government rules, but that’s one area where AI isn’t quite ready to step in.  \n\nSo, while AI is making HR jobs faster and easier, it’s not perfect yet. For now, human experts are still needed to deal with the tougher stuff. But as AI keeps improving, it could take on even more responsibilities in the future.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+          "publishedAt": "2026-05-11T14:34:05.000Z"
+        },
+        {
+          "title": "Three things in AI to watch, according to a Nobel-winning economist",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ...",
+          "simplifiedContent": "**Title: A Nobel Prize Winner Shares 3 Big Things to Know About AI**  \n\nA famous economist, Daron Acemoglu, recently won the Nobel Prize for his work, but before that, he made waves with his thoughts on artificial intelligence (AI). He wrote a paper that challenged how tech companies are using AI, and not everyone in Silicon Valley (where many tech companies are based) was happy about it.  \n\nAcemoglu says there are three important things to watch when it comes to AI:  \n\n1. **Jobs Are Changing:** AI can do tasks that people used to do, like answering questions or writing reports. This might mean fewer jobs for humans in some areas, but it could also create new ones.  \n\n2. **Big Companies Are Getting Bigger:** AI is giving major tech companies like Google and Amazon even more power. Acemoglu warns this could hurt smaller businesses and limit competition.  \n\n3. **AI Should Be Used to Help Everyone:** Instead of focusing on making money, Acemoglu thinks AI should be developed in ways that benefit society—like improving education or healthcare.  \n\nWhat does this mean for you? AI is growing fast, and while it can make life easier, it’s important to ask if it’s being used in ways that are fair and helpful for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+          "publishedAt": "2026-05-11T17:35:12.000Z"
+        },
+        {
+          "title": "Fostering breakthrough AI innovation through customer-back engineering",
+          "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a...",
+          "simplifiedContent": "**Title: How Starting with Customer Needs Can Make AI Work Better for Everyone**\n\nMany companies have spent years investing in digital tools and technology, but they’re not getting as much value from it as they hoped. Research shows they’re only capturing about one-third of the benefits they expected. Why? Because they often focus on the technology first and add features later, instead of asking, “What do our customers actually need?”\n\nA new approach called “customer-back engineering” is flipping this process. Instead of starting with fancy tech, businesses begin by understanding their customers’ problems and goals. Once they know what people really want, they build AI tools and digital solutions to fit those needs.\n\nFor example, imagine a company creates an AI chatbot (a virtual assistant that talks to you online) but doesn’t think about how customers might use it. If it’s too complicated or doesn’t answer the right questions, it won’t be helpful. By focusing on the customer first, companies can design smarter, easier-to-use tools that make life better for everyone.\n\nThis shift is helping businesses create AI that’s more practical, effective, and focused on solving real-world problems. And that means better services and experiences for all of us!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+          "publishedAt": "2026-05-11T13:33:06.000Z"
+        },
+        {
+          "title": "Implementing advanced AI technologies in finance",
+          "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of...",
+          "simplifiedContent": "**Title: How AI Is Changing the Way Money Is Managed**\n\nAI, or artificial intelligence, is quietly shaking up how companies handle money. In places like finance departments, where everything has to be super accurate and carefully controlled, AI is being used more and more—but not in a totally organized way. \n\nHere’s what’s happening: employees are already using AI tools to make their jobs easier. These tools can quickly sort through massive amounts of data, spot patterns, and even make predictions about things like budgets or investments. But the leaders in charge are still figuring out how to set up rules and strategies for using AI properly. It’s kind of like everyone started driving new cars before the roads and traffic rules were ready.\n\nThis is creating a strange situation. On one hand, AI is helping people work faster and smarter. On the other hand, companies need to make sure they’re using it responsibly, so mistakes don’t happen. The big takeaway? AI is becoming a powerful tool for managing money, but it’s also forcing businesses to rethink how they work. For everyday people, this could mean smarter financial services and better tools to manage your own money in the future.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+          "publishedAt": "2026-05-11T13:00:00.000Z"
+        },
+        {
+          "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+          "summary": "Bain & Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The estimate comes from the second report in Bain’s five-part series on the software industry in the age of AI. ...",
+          "simplifiedContent": "**Title: AI Tools Could Create a $100 Billion Market for Smarter Software**\n\nA new report by Bain & Company says software powered by advanced AI could become a massive $100 billion market in the U.S. These tools are designed to make businesses run smoother by automating tasks that usually take a lot of time and effort. \n\nThink of it like having a super-smart assistant that can handle organizing schedules, managing projects, or keeping track of important details — all without needing constant supervision. This type of AI, called \"agentic AI,\" is great at figuring out what needs to be done and getting it done on its own.\n\nBain’s report is part of a series that looks at how AI is changing the software industry. They believe these AI tools could save businesses time and money by making day-to-day work much more efficient.\n\nWhat does this mean for you? It could lead to smarter apps at work and even in your personal life — apps that can do more for you with less effort. As AI grows, it’s likely to change how we work and organize our lives in big ways!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+          "publishedAt": "2026-05-11T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "articles": [
         {
