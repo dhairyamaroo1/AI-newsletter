@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-05-13",
+      "articles": [
+        {
+          "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+          "summary": "A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the attac...",
+          "simplifiedContent": "**Title: Fake AI Software Tricks People into Downloading Dangerous Programs**  \n\nA popular website called Hugging Face, where people share tools and programs for AI, accidentally hosted a dangerous program pretending to be an official release from OpenAI (the company behind ChatGPT). This fake program secretly installed malware (bad software) on Windows computers. The malware was designed to steal personal information from users, like passwords and other sensitive data.  \n\nBefore it was removed, the fake program was downloaded around 244,000 times, though experts think some of those downloads might have been faked by the attackers to make the program seem more popular and trustworthy.  \n\nThis incident highlights how important it is to be careful when downloading software—even from trusted websites. Cybercriminals are getting smarter and finding new ways to trick people. To stay safe, always double-check the source of anything you download and make sure it’s from the real company.  \n\nThe good news? Hugging Face acted quickly to remove the dangerous program, and security experts are working hard to prevent this kind of problem in the future.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+          "publishedAt": "2026-05-12T13:52:00.000Z"
+        },
+        {
+          "title": "Laserfiche unveils AI agents for natural language workflows",
+          "summary": "Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche’s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche, said, “...",
+          "simplifiedContent": "**Title: New AI Tools Make Office Tasks Easier and Safer**\n\nLaserfiche, a company that helps businesses manage their documents, has introduced new AI tools to make work faster and simpler. These tools act like smart assistants, letting people get things done just by typing or speaking in plain language—no need for complicated steps or special skills.\n\nFor example, imagine asking the AI to organize files, send reports, or pull up important information just by saying or typing what you need. It’s like having a super-efficient helper right at your fingertips.\n\nWhat’s even better is that these AI tools are designed to keep sensitive information safe. They follow strict security rules so that private data stays private, which is especially important for businesses that handle things like personal records or financial information.\n\nKarl Chan, the company’s CEO, says this technology will make work smoother for everyone. These AI assistants are not just smart—they’re also reliable and secure, helping people save time and focus on more important tasks.\n\nIn short, Laserfiche’s new AI tools mean less stress and more productivity for workplaces everywhere.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+          "publishedAt": "2026-05-12T08:57:13.000Z"
+        },
+        {
+          "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+          "summary": "Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has to be perfect before you do any of these types of workloads,” he explains. As a recent article in AI ...",
+          "simplifiedContent": "**Title: Why AI Doesn’t Need Perfect Data to Be Useful**  \n\nWhen it comes to using AI (artificial intelligence), many people think you need flawless, perfectly organized data to make it work. But Joe Rose, the president of tech company JBS Dev, says that’s not true.  \n\nJoe explains that even if your data isn’t perfect, AI can still do a great job. For example, generative AI (like chatbots that create text or images) and agentic AI (AI that can make decisions or take actions) are designed to work with messy, real-world data. This is important because most businesses don’t have perfect data — and spending tons of time and money to clean it up isn’t always realistic.  \n\nThe key is to focus on how you’re using AI, not just on the data itself. Joe emphasizes that companies need to think about whether their AI projects are cost-effective and sustainable over time. In other words, AI should make life easier, not harder or more expensive.  \n\nFor everyday people, this means AI tools can still be helpful, even if they’re working with less-than-perfect information — and that’s good news for businesses and consumers alike!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+          "publishedAt": "2026-05-12T15:37:43.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-12",
       "articles": [
         {
