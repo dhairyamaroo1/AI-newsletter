@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-05-14",
+      "articles": [
+        {
+          "title": "AI chatbots are giving out people’s real phone numbers",
+          "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.  A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a...",
+          "simplifiedContent": "**Title: AI Chatbots Are Accidentally Sharing People’s Phone Numbers**\n\nImagine getting nonstop calls from strangers asking for a lawyer, even though you’re not one. That’s what happened to one person recently, and the reason is pretty surprising: an AI chatbot accidentally shared their phone number.\n\nHere’s what’s going on. AI chatbots (computer programs that answer questions and have conversations) are really smart, but they sometimes make mistakes. In this case, someone asked Google’s AI a question, and it gave out a real phone number—belonging to a random person who had nothing to do with the question. Now, that person is stuck dealing with strangers calling them every day.\n\nThe problem is, there’s no easy fix for this. AI chatbots are trained to pull information from the internet, but they don’t always check if the information is private or correct. This raises big concerns about privacy and how safe it is to use these tools.\n\nFor everyday people, this means we need to be careful with AI. It’s helpful, but it’s not perfect, and mistakes like this show why companies need to do more to protect our personal information.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+          "publishedAt": "2026-05-13T18:09:03.000Z"
+        },
+        {
+          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ",
+          "summary": "The Physical AI Conference shaping the future of robotics, autonomous systems and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.  Physical AI Expo North America will take place on May 18–...",
+          "simplifiedContent": "**Title: Big AI and Robotics Event Coming to San Jose This May**\n\nSan Jose is hosting an exciting event this May that’s all about robots and AI (artificial intelligence). The Physical AI Conference will bring together some of the smartest people in the world—engineers, inventors, and tech leaders—to talk about how AI is being used in the real world to do physical tasks.\n\nWhat does that mean? Well, think about self-driving cars, delivery drones, or robots that help in hospitals. These are examples of “physical AI,” where smart machines don’t just think—they actually do things. This event will focus on how these technologies are being built, improved, and used in everyday life.\n\nThe conference is happening on May 18 at the Physical AI Expo North America. It’s a big deal because robots and AI are becoming more common in our lives. This event will highlight what’s coming next, from smarter machines to technology that can make life easier for everyone.\n\nIf you’re curious about how robots and AI could change the world, this is the place to be!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+          "publishedAt": "2026-05-13T13:43:38.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-13",
       "articles": [
         {
