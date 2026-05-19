@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-05-19",
+      "articles": [
+        {
+          "title": "Here’s why Elon Musk lost his suit against OpenAI",
+          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc...",
+          "simplifiedContent": "**Why Elon Musk Lost His Case Against OpenAI**  \n\nElon Musk recently tried to take legal action against OpenAI, the company behind ChatGPT, but it didn’t go his way. A jury decided that Musk waited too long to file his lawsuit, and because of this, the law says he can’t move forward with his claims.  \n\nHere’s what happened: Musk sued OpenAI, saying they had done something wrong. However, there’s a rule called the “statute of limitations,” which is basically a time limit for when you can bring certain legal cases. The jury unanimously agreed that Musk missed this deadline, and the judge quickly accepted their decision.  \n\nThis ruling is important because it shows that even big names like Elon Musk have to follow the same rules as everyone else. It also raises questions about how businesses handle disputes over AI technology, especially as tools like ChatGPT become more popular and powerful.  \n\nFor everyday people, this is a reminder that AI is shaping the world around us—and even major players in the tech world are navigating its challenges.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+          "publishedAt": "2026-05-19T00:53:10.000Z"
+        },
+        {
+          "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+          "summary": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eligib...",
+          "simplifiedContent": "**Title: Amazon’s Alexa Now Helps You Shop Smarter**\n\nAmazon has made shopping easier with a new feature called “Alexa for Shopping.” This upgrade turns Alexa, the voice assistant many people use on devices like Echo Show, into a helpful shopping buddy. Now, Alexa can answer questions about products, compare items, track prices, and even remind you about things you need to buy.\n\nYou can use Alexa for Shopping on Amazon’s app, website, or Echo Show devices. For example, if you’re looking for a new coffee maker, Alexa can show you options, tell you the differences between them, and let you know if the price drops. You can also set reminders, like asking Alexa to let you know when it’s time to buy groceries or a birthday gift.\n\nThis feature combines Alexa with a special chatbot Amazon had been working on behind the scenes. The chatbot, called Rufus, helps Alexa be even smarter when it comes to shopping. For regular shoppers, this means faster and easier ways to find what you need without scrolling through endless options.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+          "publishedAt": "2026-05-18T10:00:00.000Z"
+        },
+        {
+          "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+          "summary": "Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it’s sometimes the smaller considerations that need to play big – at least, in the minds of ente...",
+          "simplifiedContent": "**Title: Why AI Isn’t Just About Cool Gadgets – It’s About Power and Safety**\n\nWhen we think about artificial intelligence (AI), we often picture robots, smart assistants, or other futuristic technology. But at TechEx North America, experts reminded us that AI is about much more than flashy tools—it’s about the behind-the-scenes stuff that makes it work, like power, infrastructure, and security.\n\nHere’s why this matters: AI systems need a lot of electricity and computing power to run. Think of it like charging your phone, but on a massive scale. Without the right infrastructure (the buildings, servers, and networks that support AI), it simply wouldn’t work. And then there’s security—AI handles sensitive data like personal information or even health records. Keeping that data safe from hackers is a huge priority.\n\nThese “invisible” parts of AI are just as important as the cool technology we see on the surface. Experts at the event stressed that if we don’t get the foundation right, AI can’t deliver on its promises. So while AI might seem like magic, it takes a lot of work behind the scenes to make it happen—and to keep it safe for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+          "publishedAt": "2026-05-19T01:36:26.000Z"
+        },
+        {
+          "title": "What to expect from Google this week",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G...",
+          "simplifiedContent": "**What’s Coming from Google This Week?**\n\nBig news from Google is on the way! Tomorrow, the company is hosting its big yearly event called I/O, where it shows off its latest tech and ideas. This year, everyone’s talking about how Google is doing in the AI race. Right now, they’re in third place behind two big names, OpenAI (the creators of ChatGPT) and Microsoft. \n\nA year ago, Google seemed like the leader in artificial intelligence, but things have changed fast. Other companies have launched super advanced AI tools, and now Google is working hard to catch up. At I/O, we’re expecting Google to reveal new AI-powered tools and updates to show they’re still in the game. \n\nFor everyday people, this means more smart features in Google products like Search, Maps, and maybe even your Android phone. It could also mean more AI tools to help with things like writing, organizing, or learning. \n\nSo, keep an eye out—Google might surprise us with something big that makes life easier or more fun!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+          "publishedAt": "2026-05-18T17:35:43.000Z"
+        },
+        {
+          "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+          "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c...",
+          "simplifiedContent": "**Title: High-Tech Glasses Could Change the Future of Military Work**\n\nImagine glasses that can help soldiers do their jobs better and faster—almost like something out of a sci-fi movie. That’s what two companies, Anduril and Meta (the makers of Facebook), are working on. They’re creating special smart glasses designed for the military.\n\nThese glasses are more than just cool-looking eyewear. They use augmented reality (a technology that adds computer-generated images to what you see in real life) to help soldiers see important information right in front of their eyes. For example, they could use these glasses to control drones with simple voice commands or even by looking at specific targets.\n\nThe goal is to make military operations safer and more efficient. Instead of relying on complicated devices or screens, soldiers could get everything they need through these glasses. While this technology is still in the early stages, it shows how advanced tools like AI and smart glasses could change how people work—even in high-stakes situations like warfare.\n\nFor everyday folks, this is another sign of how wearable tech is becoming smarter and more powerful, and it might someday influence devices we use at home or work too.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+          "publishedAt": "2026-05-18T16:01:39.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-16",
       "articles": [
         {
