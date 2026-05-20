@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-05-20",
+      "articles": [
+        {
+          "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+          "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.\nAt its annual I/O developer conference, Google an...",
+          "simplifiedContent": "**Google’s Search Box Just Got a Big Makeover — Here’s Why It’s a Big Deal**\n\nFor 25 years, Google’s search box has looked pretty much the same: a simple white bar where you type in your question and get a list of links. But now, Google is changing how it works — and it could make searching the internet a whole lot easier.\n\nAt its big annual event, Google announced the new search box will use advanced AI (artificial intelligence, or computer systems that can think and learn like humans) to give smarter and more helpful answers. Instead of just showing links, Google will try to directly answer your question, explain things, or even help you figure out what to ask next.\n\nFor example, if you’re planning a trip, Google might give you a full breakdown of flights, hotels, and things to do — all in one place. Or if you’re shopping, it could show you comparisons and reviews without making you click around.\n\nThis update means search will feel more like talking to a helpful assistant than just digging through websites. It’s a big step forward, and it could save you time and effort when looking for answers online.",
+          "source": "AI | VentureBeat",
+          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+          "publishedAt": "2026-05-19T17:45:00.000Z"
+        },
+        {
+          "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+          "summary": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the “AI graveyard” – that is, AI projects that seem to perform well in pilot, but don’t seem […]...",
+          "simplifiedContent": "**Title: What’s Holding AI Back in Businesses? Insights from Day Two at TechEx**\n\nOn the second day of the TechEx event in North America, experts talked about why AI (artificial intelligence) isn’t always working as well as it could in big companies. They started by discussing the “AI graveyard” — a term for AI projects that look great in testing but fail when it’s time to use them in the real world. This happens more often than you might think.\n\nThe speakers explained that AI is powerful, but it’s not magic. Many businesses struggle to get their AI systems to work smoothly with their other technology or to scale them up (make them work for larger tasks or more people). Another big challenge is security. AI systems need to be protected from hackers and other risks, which can be tricky.\n\nDespite the challenges, the mood at the event was hopeful. Experts shared tips and plans to help businesses use AI successfully. They also explored exciting ideas like “physical AI” — robots or machines that use AI to interact with the world in smart ways.\n\nThe takeaway? AI has huge potential, but businesses need to plan carefully and solve these problems to make the most of it.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+          "publishedAt": "2026-05-19T19:18:00.000Z"
+        },
+        {
+          "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+          "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025....",
+          "simplifiedContent": "**Title: Important Government Security Info Accidentally Posted Online**\n\nSome important government passwords and security codes were accidentally shared on the internet, where anyone could see them. These included things like SSH keys (which are like special digital locks for computers), plain text passwords (regular passwords written out for anyone to read), and other sensitive information.\n\nThe mistake happened in a public GitHub repository. GitHub is a website where people store and share computer code. This information was left there by accident and had been publicly visible since November 2025. That’s a long time for something so sensitive to be exposed.\n\nThe security codes belonged to CISA, a government agency responsible for protecting the U.S. from cyberattacks and other online threats. Experts are concerned because if the wrong people found these passwords, they could have used them to break into important systems.\n\nThis mistake shows how important it is to be extra careful with sensitive information online. For regular people, it’s a reminder to always keep passwords safe and private—and to expect those in charge of security to do the same!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+          "publishedAt": "2026-05-19T18:27:08.000Z"
+        },
+        {
+          "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+          "summary": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that “something could happen” on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025, and US Trade R...",
+          "simplifiedContent": "**Title: Nvidia’s Latest Chips Still Can’t Be Sold to China After Big Trade Talks**\n\nBig news in the world of technology and politics: the U.S. recently held important meetings with China about trading high-tech products, but things didn’t go as planned. Nvidia, a company that makes super-powerful computer chips (the brains behind AI and advanced technology), had hoped to sell its newest chip, called the H200, to China. These chips are important because they help run cutting-edge AI systems and big data projects.\n\nPresident Trump traveled to Beijing for talks and even brought Nvidia’s CEO, Jensen Huang, along. But after two days of discussions, no agreement was reached. Even though the U.S. had approved sales of the H200 chips back in December 2025, not a single one has been sent to China yet.\n\nWhy does this matter? These chips are a big deal for AI progress, and China is one of the biggest markets for them. This delay shows how political tensions between countries can affect how technology spreads around the world. For everyday people, it’s a reminder that global politics can shape the future of the technology we use every day.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+          "publishedAt": "2026-05-19T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-19",
       "articles": [
         {
