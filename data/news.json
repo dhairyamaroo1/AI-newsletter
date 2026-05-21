@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-05-21",
+      "articles": [
+        {
+          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+          "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890...",
+          "simplifiedContent": "**Title: Alibaba’s New AI Chip Could Make Smart Assistants Even Smarter**\n\nAlibaba, the big tech company from China, has announced a new computer chip designed specifically to power AI assistants (like chatbots or virtual helpers). This chip, called the Zhenwu M890, is part of a bigger plan to create stronger and faster AI technology over the next few years.\n\nWhat’s interesting is that Alibaba isn’t just making one chip or product — they’re building an entire system to help AI work better together. They’ve also introduced a new advanced AI program, similar to tools like ChatGPT, that can understand and respond to human questions more naturally.\n\nThis move is important because it shows Alibaba is focused on creating its own AI technology instead of relying on products from other countries, especially since some tech exports are restricted. For everyday people, this could mean smarter virtual assistants, better customer service chatbots, and possibly new AI tools that make life easier.\n\nIn short, Alibaba is stepping up its AI game, and it could lead to big changes in how we use technology in the future.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+          "publishedAt": "2026-05-20T10:00:00.000Z"
+        },
+        {
+          "title": "Google publishes exploit code threatening millions of Chromium users",
+          "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed....",
+          "simplifiedContent": "**Title: Google Reveals a Security Problem That Could Affect Millions of Web Users**  \n\nGoogle has shared details about a security issue that could put many people at risk when using web browsers like Chrome or other browsers based on Chromium (the technology behind Chrome). The problem was first reported to them more than two years ago, but it still hasn’t been fully fixed.  \n\nHere’s what this means: hackers could use this security flaw (a bug in the software) to break into your browser and possibly steal personal information or take control of your computer. By publishing the details of the issue, Google is encouraging other developers to help fix it faster.  \n\nThe downside? Now that the problem is public, hackers could also use this information to cause harm until a fix is ready. This could affect millions of people who use browsers built on Chromium.  \n\nFor everyday users, it’s a good idea to keep your browser updated and be careful about clicking on suspicious links or downloading unknown files. Updates usually include fixes for security problems like this one.  \n\nIn short, Google wants to speed up finding a solution, but this situation shows why staying on top of software updates is so important!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+          "publishedAt": "2026-05-20T19:10:36.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "articles": [
         {
