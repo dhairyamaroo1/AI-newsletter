@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-05-22",
+      "articles": [
+        {
+          "title": "Roundtables: Can AI Learn to Understand the World?",
+          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
+          "simplifiedContent": "**Can AI Truly Understand the World?**\n\nAI companies are working on a big challenge: teaching artificial intelligence (AI) to really understand the world around it. Right now, most AI systems, like ChatGPT, are based on something called \"large language models\" (LLMs). These are tools that can read and write amazingly well, but they don’t actually “know” much about the real world—they only guess based on patterns in the data they've been trained on.\n\nTo improve this, researchers are exploring something called \"world models.\" These are systems designed to help AI make sense of how things work in the real world, not just words on a screen. The idea is to create smarter AI that can think in a way that's closer to how humans understand the world.\n\nExperts recently had a discussion about this exciting topic. They talked about how these world models could help AI overcome its current limits, like struggling with common sense or understanding physical spaces.\n\nIf successful, this could lead to AI that’s better at solving real-world problems, like helping doctors diagnose diseases or improving disaster response. It’s a big step toward making AI more useful in everyday life!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+          "publishedAt": "2026-05-21T20:41:05.000Z"
+        },
+        {
+          "title": "Scaling creativity in the age of AI",
+          "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
+          "simplifiedContent": "**Title: How AI is Changing the Way We Tell Stories**  \n\nStorytelling has always been a big part of being human. It’s how we share our ideas, dreams, warnings, and life experiences. Over time, technology has helped us tell those stories in new ways, from ancient cave paintings to movies and social media.  \n\nNow, artificial intelligence (AI) is taking storytelling to a whole new level. AI is a type of computer program that can learn and create things, like writing, art, and even music. It can help people come up with ideas faster or make it easier to create something amazing. For example, AI tools can write stories, design artwork, or even help filmmakers imagine new worlds.  \n\nThis doesn’t mean AI will replace human creativity—it’s more like a helper that works alongside us. It can take some of the hard work out of creating so people can focus on their big ideas.  \n\nFor everyday people, this means we’ll see cooler movies, read interesting books, and discover art that feels fresh and exciting. AI is changing creativity, and it’s opening up new ways for everyone to share their stories.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+          "publishedAt": "2026-05-21T19:16:43.000Z"
+        },
+        {
+          "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+          "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
+          "simplifiedContent": "**Title: Anthropic’s AI is Changing How Computers Write Code**\n\nImagine a computer that can help write programs and fix mistakes for you. That’s what Anthropic, a company working on advanced artificial intelligence (AI), showed off at their event in London called “Code with Claude.” This event was all about their AI tool, Claude, which is designed to help people who create software. \n\nClaude is like a super-smart assistant for software developers. It can write pieces of code (the instructions that make computers and apps work) and even check for errors. This could save developers a lot of time and effort. At the event, Anthropic showed how Claude works and how it could change the way people build technology.\n\nWhy does this matter to you? Well, tools like Claude could make technology faster and more reliable. It might also mean fewer bugs or glitches in the apps you use every day. And who knows—maybe one day, AI like Claude could help regular people learn to code or create their own apps.\n\nAnthropic’s event proves that AI isn’t just for experts anymore—it’s becoming something that could improve technology for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+          "publishedAt": "2026-05-21T14:30:45.000Z"
+        },
+        {
+          "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+          "summary": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street’s US$86.84 billion forecast–the numbers d...",
+          "simplifiedContent": "**Title: Nvidia’s New Vera Chip Could Be a Game-Changer**\n\nWhen people talk about Nvidia, they usually focus on its big profits or the powerful graphics cards it makes for gaming and AI. But there’s something new and exciting happening behind the scenes: Nvidia’s Vera chip.\n\nThis tiny chip might not grab headlines, but it’s part of a huge $200 billion investment by Nvidia to shape the future of technology. It’s designed to handle incredibly complex tasks, like powering artificial intelligence (AI) systems that help computers think and learn faster than ever before.\n\nWhy does this matter to you? Well, chips like Vera are what make things like smarter phones, better online shopping recommendations, and even self-driving cars possible. Nvidia’s latest financial results show that this technology is in high demand, and the company expects even bigger sales in the future.\n\nIn short, Nvidia isn’t just making computer parts—it’s creating the tools that could transform everyday life. While Vera might not be famous yet, it’s quietly paving the way for a smarter, more connected world.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+          "publishedAt": "2026-05-21T08:00:00.000Z"
+        },
+        {
+          "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+          "summary": "Beneficiaries include startup backed by firm with links to the Trump family....",
+          "simplifiedContent": "**Title: US Government Invests Big Money in Future Tech Called Quantum Computing**\n\nThe U.S. government is putting $2 billion into nine companies working on quantum computing. Quantum computing is a new type of super-powerful computer that could solve problems regular computers can’t handle, like improving medicine, making better technology, or boosting cybersecurity.\n\nThese companies include startups (new businesses) trying to turn this advanced science into real tools that people and businesses can use. One of the companies getting money is backed by a group connected to the Trump family, but the government hasn’t said much about that.\n\nWhy does this matter? Quantum computers could change the way we live and work. They could help discover new drugs faster, make online systems safer, and even create smarter artificial intelligence. But right now, quantum computing is still in its early stages, and it’s expensive to develop. That’s why the government is investing so much—it’s betting this technology could be a big deal in the future.\n\nThis investment shows the U.S. wants to stay ahead in the race to build these supercomputers, as other countries like China are working hard on this technology too.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+          "publishedAt": "2026-05-21T13:48:38.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-21",
       "articles": [
         {
