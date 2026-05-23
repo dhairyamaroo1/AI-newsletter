@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-05-23",
+      "articles": [
+        {
+          "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+          "summary": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million....",
+          "simplifiedContent": "**OpenAI Opens AI Lab in Singapore to Boost Local Technology**\n\nBig news for Singapore! OpenAI, the company behind ChatGPT, is setting up a special AI lab in the country—their first one outside the United States. This new lab is part of a partnership with Singapore’s government agency that focuses on digital development. Together, they want to help Singapore grow its technology skills and make the most of AI (artificial intelligence) tools.\n\nCalled \"OpenAI for Singapore,\" the plan was announced at a big tech event, the ATx Summit. OpenAI is investing over S$300 million to make this happen. That’s a lot of money, and it shows how serious they are about supporting Singapore’s tech future.\n\nSo, what does this mean for regular people? It could bring exciting new AI tools to Singapore, help local businesses use AI to improve their services, and create more tech-related jobs. It also means Singapore could become a leader in AI innovation in Asia.\n\nIn short, OpenAI’s new lab is a big step toward making AI technology more useful and accessible for everyone in Singapore.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+          "publishedAt": "2026-05-22T10:00:00.000Z"
+        },
+        {
+          "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+          "summary": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country’s largest grid operator, have risen more than tenfold in two years, with data-centr...",
+          "simplifiedContent": "**China’s AI Just Mapped Its Renewable Energy System—Here’s Why It Matters for Everyone**\n\nCountries around the world are facing a big challenge: how to keep up with the growing demand for electricity, especially with technology like artificial intelligence (AI) using so much energy. In places like the U.S., the cost of making sure the electricity grid can handle demand has skyrocketed.\n\nChina, however, is tackling this issue in a smart way. They used AI to map their entire renewable energy system—this includes power from sources like solar panels and wind turbines. The AI looked at where energy is being made, how it’s being used, and how to manage it better. This helps the country make the most of its clean energy without wasting it.\n\nWhy does this matter to the rest of the world? AI needs a lot of power to run, and as AI becomes more common everywhere, countries will need better ways to manage their electricity. China’s approach shows how technology can help us switch to greener energy while keeping up with demand. If other countries follow their lead, it could mean cheaper energy, less pollution, and a more reliable power supply for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+          "publishedAt": "2026-05-22T10:00:00.000Z"
+        },
+        {
+          "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+          "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate....",
+          "simplifiedContent": "**Texas Sues Facebook’s Parent Company Over WhatsApp Privacy Concerns**\n\nThe state of Texas is taking Facebook’s parent company, Meta, to court, claiming that WhatsApp isn’t keeping people’s messages as private as it promises. WhatsApp is a popular app used by millions to send texts, photos, and videos. It says it uses “end-to-end encryption,” which is supposed to make sure that only the sender and receiver can see the messages—no one else, not even WhatsApp.\n\nBut Texas Attorney General Ken Paxton says that’s not really happening. He claims WhatsApp doesn’t fully protect messages as it promises, and that this could put people’s privacy at risk. Critics, however, argue that the lawsuit doesn’t have enough evidence to back up these claims.\n\nWhy does this matter? Many people trust WhatsApp to keep their conversations private, especially when sharing sensitive information. If the app isn’t as secure as it says, it could mean strangers—or even companies—might access private chats.\n\nFor now, Meta hasn’t commented on the lawsuit, but it’s something to keep an eye on if you use WhatsApp to stay in touch with friends and family.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+          "publishedAt": "2026-05-22T18:13:05.000Z"
+        },
+        {
+          "title": "A hacker group is poisoning open source code at an unprecedented scale",
+          "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks....",
+          "simplifiedContent": "**Title: Hackers Are Messing with Free Software People Use Every Day**  \n\nA group of hackers called TeamPCP is causing big problems by sneaking harmful code into free software that many people and companies use. This free software, called \"open source,\" is made by developers who share their work with the public so anyone can use or improve it.  \n\nTeamPCP is targeting websites like GitHub, where much of this open source code is stored. They secretly add bad code that can harm computers or steal information. This is especially dangerous because open source code is often used as building blocks for other software, meaning their attacks could spread far and wide.  \n\nExperts are calling this one of the biggest \"supply chain attacks\" (when hackers mess with the tools used to make other software) ever seen. This could affect regular people because companies and apps we rely on might unknowingly use this poisoned code.  \n\nThe good news? Developers and security teams are working hard to find and fix the bad code before it causes too much damage. But this reminds us all to be careful about what software we trust, even if it’s free and widely used.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+          "publishedAt": "2026-05-22T10:30:14.000Z"
+        },
+        {
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...",
+          "simplifiedContent": "**Title: Google Says AI Could Soon Change Science Forever**  \n\nAt a big event called Google I/O, the head of Google DeepMind, Demis Hassabis, shared some exciting news about artificial intelligence (AI). He said we’re at the very beginning of a huge moment in history—something called “the singularity.” That’s a fancy way of saying there might come a time when AI becomes much smarter than humans and changes the world in ways we can’t even imagine.  \n\nBut what does this mean for everyday people? Hassabis explained that AI is already helping scientists make big discoveries faster than ever before. For example, it’s helping researchers figure out how proteins work in the human body, which could lead to new medicines and cures for diseases. AI might also help solve problems like climate change or even uncover new laws of physics.  \n\nWhile this sounds amazing, it also raises big questions. What happens if AI becomes too powerful? Who will control it? Experts say it’s important to plan carefully as AI keeps getting smarter.  \n\nFor now, Google wants us to know that AI isn’t just about cool gadgets—it could actually change how science works and improve lives all around the world.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "publishedAt": "2026-05-22T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-22",
       "articles": [
         {
