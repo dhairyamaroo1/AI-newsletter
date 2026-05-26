@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-05-26",
+      "articles": [
+        {
+          "title": "US's big bet on quantum computing may not be entirely legal",
+          "summary": "Deal also launched the first quantum foundry company, but is there a need for it?...",
+          "simplifiedContent": "**Title: Is the US Breaking the Rules with Its Big Quantum Computing Plans?**\n\nThe US government is investing a lot of money into quantum computing, a futuristic type of technology that could make computers millions of times faster. Recently, they helped launch the first company focused on building quantum \"foundries\" (places where special materials for quantum computers are made). This sounds exciting, but some experts are questioning if it's really necessary—or even legal.\n\nHere’s the issue: the US has strict rules about how government money can be spent. Some think this project might not follow those rules. Quantum computing is still in its early days, and it’s unclear how quickly it will be useful for regular people or businesses. Critics wonder if this is the right way to spend taxpayer dollars.\n\nIf quantum computing works as planned, it could change everything—from how we solve big science problems to how we keep data secure online. But for now, it’s still a work in progress, and some are asking if the US might be rushing ahead too fast.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+          "publishedAt": "2026-05-25T12:00:15.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-23",
       "articles": [
         {
