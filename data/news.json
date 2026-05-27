@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-05-27",
+      "articles": [
+        {
+          "title": "It’s time to address the looming crisis in entry-level work.",
+          "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac...",
+          "simplifiedContent": "**Title: Is AI Changing Entry-Level Jobs? Here’s What You Should Know**\n\nArtificial intelligence (AI) isn’t causing massive job losses like some people feared. In fact, the number of jobs overall hasn’t changed much in countries like the US. But experts say something important might be happening behind the scenes, especially for entry-level jobs.\n\nEntry-level jobs are the kinds of positions people often start with when they’re new to a career or don’t have much experience yet. Think about jobs in customer service, data entry, or basic office tasks. These roles are often the first step for young workers or people switching careers. AI tools, like chatbots or software that automates repetitive tasks, are starting to replace some of these jobs. This means fewer opportunities for people to get their foot in the door and build skills.\n\nWhy does this matter? If AI keeps taking over these beginner-level jobs, it could make it harder for people to start a career and grow professionally. Experts think it’s time to pay attention and figure out ways to make sure AI helps people, instead of leaving them behind.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+          "publishedAt": "2026-05-26T09:00:00.000Z"
+        },
+        {
+          "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+          "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads....",
+          "simplifiedContent": "**Title: Major Flaw Found in Popular AI Tool Could Cause Big Problems**\n\nA serious problem has been discovered in a tool used by millions of AI programs around the world. The issue, nicknamed “BadHost,” was found in Starlette, a piece of software that helps AI systems communicate online. This software is incredibly popular—it’s downloaded over 325 million times every week.\n\nHere’s the concern: the flaw could let hackers trick AI systems into connecting to dangerous websites or sharing sensitive information. This could lead to stolen data, broken systems, or other security risks. Since Starlette is used in so many AI tools, the problem could affect businesses, apps, and websites that rely on AI every day.\n\nThe good news is that experts are already working to fix the issue. They’ve released updates to Starlette that can block hackers and make the software safe again. If companies act quickly to install these updates, they can avoid most problems.\n\nFor everyday people, this shows why staying alert about software updates is important. Fixing these problems helps keep the apps and tools we use secure and running smoothly!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "publishedAt": "2026-05-26T19:50:33.000Z"
+        },
+        {
+          "title": "Rethinking organizational design in the age of agentic AI",
+          "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite ...",
+          "simplifiedContent": "**Title: How AI Is Changing the Way Companies Work**\n\nBig changes are coming to how companies organize themselves, thanks to powerful new AI tools. These tools, called AI agents, can do things like make decisions, solve problems, and even take on tasks that used to need human workers. Many businesses are excited about this and want to use AI agents to become more efficient and innovative. In fact, 85% of companies say they hope to fully embrace these tools within the next three years.\n\nBut there’s a problem. Most companies (76%) say they aren’t ready yet. Their systems and ways of working aren’t built to handle such advanced technology. It’s like wanting a super-fast sports car but only having dirt roads to drive it on. To make the most of AI, companies will need to rethink how they’re set up and invest in better tools and processes.\n\nFor everyday people, this could mean faster customer service, smarter products, and new job opportunities—but also big changes in workplaces everywhere. AI is shaping the future, and businesses are racing to keep up!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+          "publishedAt": "2026-05-26T14:54:10.000Z"
+        },
+        {
+          "title": "Autonomous AI systems test governance in physical environments",
+          "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focuse...",
+          "simplifiedContent": "**Title: AI Robots Are Moving Into Real-World Spaces – Are the Rules Ready?**\n\nRobots powered by AI (artificial intelligence) are starting to show up in more real-world places like warehouses, delivery trucks, and even public areas. These machines don’t just live in computers anymore—they’re working alongside humans and making decisions on their own. This has people wondering: are the current rules for AI good enough to keep things safe and fair when these robots operate in physical spaces?\n\nRight now, most of the rules around AI focus on software—things that happen online or inside a computer. But when AI systems start driving cars, delivering packages, or helping out in stores, there are new questions to consider. For example, what happens if an AI-powered robot makes a mistake or causes harm? Who’s responsible?\n\nAs AI technology becomes more advanced and shows up in everyday life, experts say we need better guidelines to make sure it works for everyone. This could mean updating laws and creating new safety checks to protect people while letting innovation move forward. For now, it’s an exciting time—but also one that needs careful planning!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+          "publishedAt": "2026-05-26T10:00:00.000Z"
+        },
+        {
+          "title": "A reality check on the AI jobs hysteria",
+          "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—...",
+          "simplifiedContent": "**Title: Is AI Really Taking Over Jobs? Here's What You Need to Know**\n\nYou’ve probably heard people say that artificial intelligence (AI) is going to take over office jobs. Tech companies like Meta, Coinbase, and Cisco have been laying off workers recently, and some folks think this is just the beginning. They worry AI might replace jobs like software developers, financial analysts, and other roles that involve thinking and problem-solving.\n\nBut hold on—before you start panicking, let’s take a closer look. Yes, AI is getting smarter and can handle tasks like analyzing data or writing reports. But experts say this doesn’t mean it’s coming for *everyone’s* job. Instead of replacing workers entirely, AI is more likely to change the way we work. For example, it might handle boring, repetitive tasks, leaving humans free to focus on creative or complex work.\n\nSome industries might see bigger changes than others, but for now, AI isn’t wiping out jobs—it’s helping people work smarter. So don’t worry too much. The future of work will probably involve humans and AI teaming up, rather than one replacing the other.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+          "publishedAt": "2026-05-26T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-26",
       "articles": [
         {
