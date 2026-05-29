@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-05-29",
+      "articles": [
+        {
+          "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+          "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output....",
+          "simplifiedContent": "**Title: Sneaky Code Tricks AI into Breaking Apps**\n\nA software developer recently pulled a clever trick on AI-powered coding tools, and it’s raising eyebrows in the tech world. These AI tools are designed to help write code faster and make programming easier. However, this developer secretly added a sneaky instruction into their project that caused the AI to mess up. Specifically, the hidden command told the AI to delete important parts of the app it was working on.\n\nWhy did they do this? It seems they were frustrated with how these AI tools sometimes act more like guessers than real problem-solvers. Instead of improving the app, the AI often just churns out code that “feels right” but isn’t always useful. The developer’s stunt was a way to highlight these flaws in a dramatic way.\n\nThis situation shows that while AI is powerful, it’s not perfect and can be tricked if people aren’t careful. For everyday people, it’s a reminder that technology isn’t always as smart or reliable as it seems—and that we still need human oversight to keep things running smoothly.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+          "publishedAt": "2026-05-28T20:29:53.000Z"
+        },
+        {
+          "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+          "summary": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, positioning Google Pay as a central clearinghouse for purchases executed by autonomous agents rather ...",
+          "simplifiedContent": "**Google Pay Gets Ready for AI Shopping Helpers**  \n\nGoogle Pay is making big changes to prepare for a future where artificial intelligence (AI) could help us shop and pay for things. The company is updating how its payment system works to handle purchases made by “AI agents” — basically smart software that can buy things for you online.  \n\nTo do this, Google Pay is introducing something called the Universal Commerce Protocol. Think of it as a new set of rules that makes it easier for different apps and services to work together when handling payments. They’re also improving their behind-the-scenes technology to make everything faster and more reliable.  \n\nWhy does this matter? Imagine an AI assistant that can order your groceries, book a hotel, or buy concert tickets without you lifting a finger. Google Pay wants to be ready to handle all those transactions smoothly and securely.  \n\nThis is a step toward a future where AI can take care of everyday tasks for you, saving you time and hassle. While it’s still early days, these updates show how Google is preparing for a world where AI becomes a bigger part of our lives.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+          "publishedAt": "2026-05-28T14:55:43.000Z"
+        },
+        {
+          "title": "NBA plans AI system for automatic out-of-bounds calls",
+          "summary": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession. Silver compared the approach to Hawk-Eye, the tracking technology...",
+          "simplifiedContent": "**Title: NBA Wants to Use AI to Make Faster and Fairer Calls**\n\nThe NBA has big plans to make basketball games even better with the help of artificial intelligence (AI). Commissioner Adam Silver announced that the league is working on a system that will automatically decide who gets the ball when it goes out of bounds. \n\nHere’s how it works: Special cameras will be set up around the court to track the ball and players. AI (a smart computer program) will then analyze the footage to quickly figure out which team should get possession. This means referees won’t need to review video footage for minutes at a time, and fans won’t be left waiting for the game to resume.\n\nSilver said this technology is similar to something called Hawk-Eye, which is already used in sports like tennis to track where the ball lands. The goal is to make games faster and ensure calls are as accurate as possible.\n\nFor fans, this means fewer delays, fewer arguments over close calls, and more time to enjoy the action. The NBA hasn’t said exactly when this will start, but it’s clear that AI is changing how sports are played and watched!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+          "publishedAt": "2026-05-28T10:00:00.000Z"
+        },
+        {
+          "title": "The AI Hype Index: AI gets booed in graduation season",
+          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…...",
+          "simplifiedContent": "**Title: AI Gets Booed During Graduation Speech—Here’s Why**\n\nArtificial Intelligence (AI) is often talked about as the future of technology, with promises of changing the world. But not everyone is excited about it. During a graduation ceremony at the University of Arizona, Eric Schmidt, the former CEO of Google, gave a speech encouraging graduates to help shape AI’s future. Instead of cheering, the crowd booed him.\n\nWhy the negative reaction? Many people are worried about AI. They fear it could take over jobs, spread misinformation, or even cause harm if it’s not carefully controlled. Some graduates may feel anxious about entering a world where AI is taking center stage.\n\nThis moment highlights a growing divide: while some see AI as an exciting opportunity, others see it as a potential problem. As AI continues to develop, these mixed feelings will likely stick around. For everyday people, this means there’s a lot of debate about how AI should be used—and whether it will truly help or hurt society in the long run.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+          "publishedAt": "2026-05-28T09:51:11.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-27",
       "articles": [
         {
