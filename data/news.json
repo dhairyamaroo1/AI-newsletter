@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-05-30",
+      "articles": [
+        {
+          "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+          "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente...",
+          "simplifiedContent": "**Title: What the Pope Says About AI and Why It Matters to All of Us**  \n\nThe Pope has shared his thoughts on artificial intelligence (AI), and it’s something everyone should pay attention to. In a new letter called *Magnifica Humanitas* (which means \"Magnificent Humanity\"), he reminds us of an important truth: technology is never just a tool—it always affects people and society.  \n\nHe’s asking everyone, from regular folks to tech experts and leaders, to think carefully about how we use AI. His message is clear: we need to be brave and work together to make sure AI helps humanity, not harms it.  \n\nWhy does this matter? AI is already part of our everyday lives, from the way we shop online to how our phones suggest what to watch next. But it’s also powerful enough to shape big decisions, like who gets hired or how healthcare works. The Pope wants us to make sure AI is used in ways that respect human dignity and bring people together, not divide them.  \n\nThis is a reminder that AI isn’t just for tech experts—it’s about all of us and the kind of world we want to live in.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+          "publishedAt": "2026-05-29T10:00:00.000Z"
+        },
+        {
+          "title": "Botnet of more than 17 million devices dismantled",
+          "summary": "The botnet was reportedly tied to a Russia-based residential proxy network....",
+          "simplifiedContent": "**Title: Massive Network of Hacked Devices Shut Down**\n\nA huge network of hacked devices, known as a \"botnet,\" has been taken offline. This botnet was made up of over 17 million devices, like phones, computers, and even smart gadgets in people’s homes. It worked by secretly taking control of these devices without their owners knowing. Once hacked, the devices were used to send spam, steal data, or launch cyberattacks.\n\nThe botnet was linked to a company in Russia that ran a \"proxy network\" (a system that reroutes internet traffic to hide its source). Cybersecurity experts worked hard to stop it, and now this dangerous network has been shut down.\n\nWhy does this matter? If your device is part of a botnet, hackers can use it for bad purposes—and it could make your internet slower or even put your personal information at risk. This shutdown is a big win for online safety, but it’s also a reminder to keep your devices secure. Updating your software and using strong passwords can help protect you from hackers.\n\nThis news is a step forward in the fight against cybercrime, making the internet a safer place for everyone!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+          "publishedAt": "2026-05-29T18:46:33.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-29",
       "articles": [
         {
