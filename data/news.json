@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-06-02",
+      "articles": [
+        {
+          "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+          "summary": "A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment. It is restructuring the pipeline from concept...",
+          "simplifiedContent": "**Title: AI Is Changing How Video Games Are Made**\n\nDid you know that artificial intelligence (AI) is now a big part of making video games? A recent survey found that 90% of game developers are using AI in their work, and thousands of games on the popular platform Steam mentioned using AI in 2025—a huge jump from the year before.\n\nSo, what does this mean? AI is helping game creators in all sorts of ways. It can design realistic characters, create smarter enemies, and even build whole worlds faster than humans could do alone. Instead of spending months on small details, developers can use AI to speed up the process and focus on making games more fun and exciting.\n\nFor players, this means games might look better, feel more realistic, and offer unique experiences. Imagine characters that learn how you play and adapt to challenge you, or worlds that feel alive and change over time.\n\nIn short, AI isn’t just a tool for developers—it’s helping create the next generation of amazing games we’ll all get to enjoy!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
+          "publishedAt": "2026-06-01T08:46:19.000Z"
+        },
+        {
+          "title": "The future of automated trading with the best forex robot reviews",
+          "summary": "Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice. As the tech world improves, more traders are looking for ways to stay involved in the market without the need to sit in front of charts for hours at a ...",
+          "simplifiedContent": "**Title: How Robots Are Changing the Way People Trade Money**\n\nTechnology is making big changes in the world of money trading, especially in forex (foreign exchange) markets, where people trade currencies like dollars, euros, and yen. These days, you don’t need to spend hours staring at charts and graphs to figure out when to buy or sell. Automated trading tools, also called forex robots, are doing the hard work for you.\n\nForex robots are computer programs that analyze the market and make trades based on data and trends. They don’t get tired or emotional, so they can make decisions quickly and stick to a plan. Many traders are using these robots to save time and reduce stress.\n\nThis means everyday people who want to invest in currency trading don’t need to be experts or spend all day watching the market. By using these robots, they can focus on other things while still staying involved in trading.\n\nAs technology gets better, these tools are becoming more advanced and easier to use. For people interested in growing their money, forex robots might be worth checking out!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
+          "publishedAt": "2026-06-01T08:51:42.000Z"
+        },
+        {
+          "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+          "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately....",
+          "simplifiedContent": "**Title:** Warning: Red Hat Software Hacked—Here’s What You Need to Know  \n\n**Content:**  \n\nIf you use software from Red Hat, there’s important news you should know. Hackers have broken into Red Hat’s official NPM channel (a website where developers share tools for building software). They secretly added malicious code, called a \"backdoor,\" to dozens of Red Hat’s programs. This backdoor lets hackers sneak into systems and potentially steal data or cause other harm.  \n\nWhat does this mean for you? If you’ve downloaded Red Hat tools recently—especially if you’re a developer or work with software—you might be at risk. Experts are urging people to check if their systems are affected and remove any compromised programs right away.  \n\nThis hack is part of a growing trend where cybercriminals target popular software used by businesses and developers. It’s a reminder for everyone to be extra careful about where they get their software and to stay up-to-date on security fixes.  \n\nIf you’re not sure what to do, ask your IT team or someone tech-savvy for help. Staying alert and acting quickly can help protect your devices and data.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+          "publishedAt": "2026-06-01T19:49:09.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-05-30",
       "articles": [
         {
