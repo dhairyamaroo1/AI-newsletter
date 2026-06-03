@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-06-03",
+      "articles": [
+        {
+          "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+          "summary": "Anthropic’s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles. Taking a foundational...",
+          "simplifiedContent": "**Title: Big AI Company Plans to Go Public – Here’s Why It Matters**\n\nA major AI company called Anthropic has announced plans to go public, which means it wants to sell shares of its business to the public through the stock market. This is a big deal because it shows that AI is becoming more than just an exciting experiment—it’s turning into a stable and useful tool for businesses.\n\nIn the past, companies that made AI models (the systems that create text, images, or make decisions) focused mostly on testing new ideas and using as much computer power as possible to make their AI smarter. But now, businesses want AI tools they can rely on, with predictable costs and steady results. Anthropic’s move to go public signals that AI is growing up—it’s not just something researchers play with; it’s becoming an important part of how businesses get work done.\n\nFor everyday people, this means AI tools could soon become even more common in the apps, websites, and services you use. From smarter customer support to better recommendations for movies or products, AI is likely to keep improving—and companies like Anthropic are leading the way.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+          "publishedAt": "2026-06-02T18:04:03.000Z"
+        },
+        {
+          "title": "GitHub Copilot users see token-based price hikes",
+          "summary": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day into the changeover to t...",
+          "simplifiedContent": "**Title: GitHub Copilot’s Pricing Changes Could Cost You More**  \n\nGitHub Copilot, an AI tool that helps people write code faster, just changed how it charges users. Instead of paying a fixed monthly fee, users now pay based on how much they use the tool. This new system is called “token-based pricing,” which means you buy tokens (kind of like credits) and use them up as the AI helps you write code.  \n\nFor some people, this change could make Copilot cheaper if they don’t use it much. But for others—especially businesses or frequent users—it might get more expensive. The switch has caused some frustration because it’s hard to predict how many tokens you’ll need ahead of time, and some users feel like they’re being charged more than before.  \n\nIf you use Copilot occasionally, this might not affect you much. But if you rely on it every day, it’s worth keeping an eye on your costs. GitHub says this change will make pricing more fair, but not everyone agrees. For now, users are adjusting to the new system and figuring out if it’s worth the price.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+          "publishedAt": "2026-06-02T11:09:00.000Z"
+        },
+        {
+          "title": "How small businesses can leverage AI",
+          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...",
+          "simplifiedContent": "**How AI Can Help Small Businesses Succeed**  \n\nRunning a small business can be tough. Owners often have to juggle many tasks, like managing money, creating products, marketing, and researching what customers want. But here’s the good news: artificial intelligence (AI) can make these jobs easier.  \n\nAI is like having a super-smart assistant that can help with all kinds of tasks. For example, it can quickly analyze data to spot trends, like what products are selling well or what customers are saying online. It can also help with boring, repetitive tasks like organizing receipts or scheduling social media posts, saving business owners time.  \n\nEven creative tasks, like designing a logo or writing ads, can be made easier with AI tools. And for businesses that want to grow, AI can help predict what customers might want in the future, so owners can plan ahead.  \n\nThe best part? Many AI tools are affordable and easy to use, even if you’re not a tech expert. For small businesses, AI isn’t just for big companies anymore—it’s a way to work smarter, not harder.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+          "publishedAt": "2026-06-02T09:00:00.000Z"
+        },
+        {
+          "title": "Rehumanizing global health care with agentic AI",
+          "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ...",
+          "simplifiedContent": "**Title: How AI Could Help Fix the Growing Health Care Crisis**\n\nThe health care system around the world is struggling. For years, there hasn’t been enough money or staff to keep up, and now, with more people needing care—especially older adults—it’s getting worse. Many people can’t get the help they need, and doctors and nurses are feeling overwhelmed.\n\nThis is where a new type of artificial intelligence (AI) could step in. AI is like super-smart software that can think and make decisions. Experts are working on “agentic AI,” which means AI that acts like an assistant with a sense of purpose. It can help health care workers by taking over repetitive tasks, like organizing patient records or scheduling appointments. It might also help patients directly by answering questions or reminding them to take their medicine.\n\nThe goal isn’t to replace doctors or nurses but to give them more time to focus on what really matters—caring for people. If used wisely, AI could make health care more personal and less stressful for everyone involved.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+          "publishedAt": "2026-06-02T11:23:34.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-02",
       "articles": [
         {
