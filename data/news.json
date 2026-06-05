@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-06-05",
+      "articles": [
+        {
+          "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+          "summary": "By targeting large numbers of users, attackers increased their chances of success....",
+          "simplifiedContent": "**Title: Hackers Stole Locked Password Files – Here’s What You Need to Know**\n\nHackers recently managed to steal password vaults (the place where people store all their passwords securely) from Dashlane, a popular password management company. But don’t panic just yet – there’s some good news too.\n\nThe stolen vaults were encrypted, which means the passwords inside them were locked up with strong digital protection. Without the correct key (your master password), the hackers can’t easily open them. However, if someone has a weak or easy-to-guess master password, it’s possible the hackers could figure it out and get inside.\n\nThe hackers targeted lots of people at once, hoping to find someone vulnerable. This is a common trick they use to increase their chances of success. Dashlane is investigating how this happened and has shared tips to help users stay safe.\n\nWhat does this mean for you? If you use Dashlane or any password manager, make sure your master password is strong – something long and hard to guess. It’s also a good idea to enable two-factor authentication (a security feature that adds an extra step when logging in). While this attack is serious, following these steps can help keep your accounts safe.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+          "publishedAt": "2026-06-04T20:02:04.000Z"
+        },
+        {
+          "title": "How courts are coping with a flood of AI-generated lawsuits",
+          "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind...",
+          "simplifiedContent": "**Title:** How AI is Changing the Way Courts Handle Legal Cases  \n\nImagine you’re a judge who has to read through tons of paperwork every day. That’s the reality for Judge Maritza Braswell, who works in Colorado. Many of these documents come from people who don’t have lawyers—either because they can’t afford one or their case isn’t big enough to attract legal help.  \n\nBut now, there’s a new twist. Some of these legal documents are being written by artificial intelligence (AI). AI tools, like ChatGPT, can help people draft lawsuits and other legal papers quickly and cheaply. This sounds great for those who need help, but it also creates challenges. Some AI-generated documents are poorly written or contain false information, making the judge’s job even harder.  \n\nCourts are now figuring out how to handle this wave of AI-created paperwork. On one hand, it can make the legal system more accessible for people who don’t have lawyers. On the other hand, it could clog up the system with low-quality or misleading cases.  \n\nThis shows how AI is starting to impact even traditional systems like the courts—and it’s raising big questions about fairness and accuracy.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+          "publishedAt": "2026-06-04T10:50:18.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-04",
       "articles": [
         {
