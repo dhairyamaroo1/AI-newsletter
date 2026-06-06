@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-06-06",
+      "articles": [
+        {
+          "title": "The Meta hack shows there’s more to AI security than Mythos",
+          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
+          "simplifiedContent": "**Title: Hackers Tricked Meta’s AI to Steal Instagram Accounts**\n\nHackers recently found a sneaky way to steal Instagram accounts by fooling Meta’s AI-powered customer support system. Meta, the company behind Instagram and Facebook, uses an artificial intelligence (AI) assistant to help people with account problems. But instead of helping, this system ended up giving hackers control over some accounts.\n\nHere’s what happened: The hackers simply told the AI to connect certain Instagram accounts to email addresses they owned. Shockingly, the AI did exactly what they asked—no questions asked! One hacker even managed to take over a dormant Instagram account linked to former President Obama.\n\nThis incident shows a big problem with AI systems: they can be tricked if they don’t have strong protections in place. While AI can be super helpful, it also needs to be secure, especially when it handles sensitive information like social media accounts.\n\nFor everyday people, this is a reminder to be extra careful with your online accounts. Use strong passwords, enable two-factor authentication (extra security steps), and keep an eye out for anything suspicious. Companies like Meta also need to step up and make sure their AI tools are smarter and safer for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+          "publishedAt": "2026-06-05T09:00:00.000Z"
+        },
+        {
+          "title": "How a USB-connected speaker can infect a PC without ever being touched",
+          "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability....",
+          "simplifiedContent": "**Title: How a Speaker Plugged into Your Computer Could Spread Malware**\n\nImagine this: You buy a fancy speaker to enjoy music or gaming, plug it into your computer using a USB cable, and suddenly, your computer gets infected with harmful software (called malware). Sounds scary, right? That’s exactly what researchers recently discovered.\n\nThe issue is with a popular speaker called the Sound Blaster Katana V2X. When you connect it to your computer, it behaves in a strange way that could let hackers secretly install malware. The company that makes the speaker doesn’t think this is a big problem, but experts disagree. They say it could be a serious risk for users.\n\nHere’s the good news: this kind of attack isn’t something most people need to worry about right now. Hackers would need to know exactly how to take advantage of the speaker’s strange behavior, and that’s not common. But the discovery shows how even everyday devices, like speakers, can have hidden risks.\n\nWhat does this mean for you? It’s a reminder to be careful about what you connect to your computer. And if you’re unsure, keep your devices updated and use antivirus programs to stay safe!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+          "publishedAt": "2026-06-05T21:00:29.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-05",
       "articles": [
         {
