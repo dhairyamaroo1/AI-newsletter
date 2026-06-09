@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-06-09",
+      "articles": [
+        {
+          "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+          "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent....",
+          "simplifiedContent": "**Title: Microsoft Finds Dangerous Files That Could Steal Passwords**\n\nMicrosoft has discovered something worrying: fake files that can steal passwords and other private information. These files are disguised as normal software packages, but when opened, they immediately start stealing data. Even worse, they can copy themselves and spread further, making the problem grow quickly.\n\nThis is the second time in just a few weeks that Microsoft has found these harmful files. The fake packages were made to trick AI tools into opening them. AI tools (like programs that help businesses or developers automate tasks) sometimes download software without realizing it’s dangerous. Once the bad files are opened, they can steal login details or other sensitive information.\n\nWhy does this matter? If hackers get access to passwords or private accounts, it could lead to serious problems, like stolen money or leaked personal data. Microsoft is working hard to stop these attacks and protect users, but it’s also a reminder for everyone to be careful about what software or files they download—especially if AI tools are involved.\n\nIn short: hackers are getting smarter, and we all need to stay alert!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+          "publishedAt": "2026-06-08T18:34:23.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-06",
       "articles": [
         {
