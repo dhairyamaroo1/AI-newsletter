@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-06-10",
+      "articles": [
+        {
+          "title": "Learning to lead in a hybrid human-AI enterprise",
+          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
+          "simplifiedContent": "**Title: How AI is Changing the Way We Work Together**\n\nImagine working side by side with a smart computer program that can think, plan, and make decisions on its own. That’s the future many companies are preparing for as the use of AI (artificial intelligence) tools is expected to grow by 300% in the next two years. These AI tools, called “AI agents,” are not like the machines we’re used to. Instead of waiting for humans to tell them what to do, they can handle tasks on their own, like organizing schedules, solving problems, or even helping teams work better together.\n\nThis shift means businesses will have a mix of human employees and AI agents working together. Leaders are now figuring out how to make this partnership work. They’re asking important questions, like how to divide tasks between humans and AI, how to make sure the AI is helpful (not confusing), and how to train employees to work with these new tools.\n\nFor everyday people, this could mean less boring, repetitive work and more time for creative or important tasks. It’s an exciting change, but it also means we’ll all need to learn how to team up with AI in the workplace.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+          "publishedAt": "2026-06-09T10:20:06.000Z"
+        },
+        {
+          "title": "Five things you need to know about AI",
+          "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…...",
+          "simplifiedContent": "**Title: 5 Things You Should Know About AI Right Now**\n\nLast week at a big event in London, an expert gave a talk about artificial intelligence (AI). AI is the technology that helps machines and computers act smart—kind of like humans. The talk was about the most important things happening in AI today, and here’s what you should know:\n\n1. **AI is Everywhere** – From your phone’s voice assistant to the way Netflix suggests movies, AI is part of your daily life, even if you don’t realize it.\n\n2. **It’s Getting Smarter** – AI is learning faster than ever. It can write essays, create art, and even help doctors find diseases earlier.\n\n3. **Jobs Might Change** – Some jobs could be replaced by AI, but it might also create new types of work we haven’t even thought of yet.\n\n4. **It’s Not Perfect** – AI can make mistakes, like spreading fake news or misunderstanding what we want. That’s why experts are working hard to make it safer.\n\n5. **We All Play a Role** – Governments, companies, and everyday people need to think carefully about how AI is used so it helps us, not harms us.\n\nAI is growing fast, and it’s something we’ll all need to pay attention to in the years ahead!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+          "publishedAt": "2026-06-09T09:16:45.000Z"
+        },
+        {
+          "title": "How to sign PDFs easily online with a PDF signer",
+          "summary": "Signing PDFs has become an important task for businesses and individuals alike. Whether you’re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential. Fortunately, with the rise of online PDF signers, signing PDFs has never been easier. Comm...",
+          "simplifiedContent": "**Title: How to Sign PDFs Online in Just a Few Clicks**\n\nIf you’ve ever needed to sign a document, like a contract or a form, you know how frustrating it can be to print it, sign it by hand, and then scan it back in. Good news—there’s an easier way! You can now sign PDFs (digital documents) online quickly and securely without all the hassle.\n\nOnline tools called PDF signers let you add your signature to a document right on your computer or phone. You don’t need a printer or scanner—just upload your PDF, type or draw your signature, and save the signed document. It’s fast, simple, and safe.\n\nThese tools are super helpful for things like signing work contracts, filling out school forms, or agreeing to terms for online services. Many of them also protect your information, so you don’t have to worry about security.\n\nSo, whether you’re working from home or just want to save time, online PDF signers make signing documents a breeze. No more paper jams or hunting for pens—just a few clicks and you’re done!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
+          "publishedAt": "2026-06-09T09:01:51.000Z"
+        },
+        {
+          "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+          "summary": "Autonomous AI agents are altering the speed at which software is shipped. Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe, creating a dangerous blind spot in many security strategies. The threat no longer comes just from external ransomware or malicious...",
+          "simplifiedContent": "**Title: How AI Mistakes Could Put Your Data at Risk—and What Can Be Done About It**\n\nAI tools are helping companies create software faster than ever before. That’s great news because it means we get new apps and updates quicker. But there’s a downside: these tools can also make mistakes happen faster, and small errors can turn into big problems before anyone notices.\n\nHere’s the issue: many businesses use AI to help manage their technology, but they often don’t have strong enough safety checks in place. If something goes wrong—like an accidental data loss—it can happen so quickly that it’s hard to stop. And this isn’t just about hackers or ransomware (programs that lock up your data and demand money). Sometimes, the problem comes from within, like a glitch in the AI itself.\n\nExperts are working on ways to fix this by building better defenses. This means creating smarter tools that can catch problems early or stop them before they get out of hand. For everyday people, it’s a reminder that while AI is powerful, it still needs to be handled carefully to keep our data safe.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
+          "publishedAt": "2026-06-09T08:50:39.000Z"
+        },
+        {
+          "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+          "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well....",
+          "simplifiedContent": "**Title: Microsoft Fixes Serious Security Problem After Rival Researcher Calls Them Out**\n\nMicrosoft has fixed a big security problem in its software after a researcher made the issue public. The problem was what’s called a “zero-day vulnerability,” which is a flaw in software that hackers can use to break into computers before the company knows about it. These kinds of issues are especially dangerous because they leave people’s computers and data open to attacks.\n\nThe researcher, known online as Nightmare Eclipse, revealed the problem, putting pressure on Microsoft to act quickly. It seems that another security issue disclosed by the same researcher has also been fixed.\n\nThis is a reminder that companies like Microsoft constantly have to fight against hackers and fix problems in their software to keep people safe. It also highlights how researchers, even when not working for big companies, can play an important role in finding and fixing these flaws.\n\nFor everyday users, the takeaway is simple: always keep your software updated. These updates often include fixes for problems like this, making it harder for hackers to get into your devices.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+          "publishedAt": "2026-06-09T20:56:52.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-09",
       "articles": [
         {
