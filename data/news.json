@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-06-12",
+      "articles": [
+        {
+          "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+          "summary": "Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will now process user prompts, evaluate merchant catalogu...",
+          "simplifiedContent": "**Title: Visa Teams Up with ChatGPT to Make Shopping Easier**\n\nVisa has found a new way to make online shopping faster and simpler by connecting its payment system to ChatGPT, a popular AI tool. Here’s how it works: ChatGPT can now help you find products you might like and even buy them for you—without you needing to do much at all.\n\nLet’s say you’re chatting with ChatGPT and mention you’re looking for a new pair of shoes. ChatGPT can suggest options, check stores for you, and even handle the payment if you decide to buy. It’s like having a personal shopping assistant that takes care of everything, from browsing to checkout.\n\nThis means less time spent searching for what you need and fewer steps to make a purchase. You don’t have to fill out forms or click through multiple pages anymore—ChatGPT can take care of it for you.\n\nWhile this sounds convenient, it also raises questions about how much control we’re giving to AI when it comes to spending our money. For now, Visa and ChatGPT are making shopping smarter, faster, and easier for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+          "publishedAt": "2026-06-11T11:08:17.000Z"
+        },
+        {
+          "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+          "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
+          "simplifiedContent": "**Title: Google DeepMind is Studying What Happens When Lots of AIs Work Together Online**\n\nGoogle DeepMind, a leading AI company, is looking into what could go wrong when millions of AI programs start interacting with each other online. These programs, called \"agents,\" are designed to do tasks on their own, like answering questions, helping with work, or even shopping. But what happens when huge numbers of them are all working and talking to each other at the same time? That’s what DeepMind wants to understand.\n\nRohin Shah, who leads safety research at DeepMind, says the company is preparing for a future where these AI agents become common. They want to make sure the technology doesn’t accidentally cause problems, like spreading misinformation or acting in ways people don’t expect.\n\nThis research matters because AI tools are becoming more advanced and popular every day. If not managed carefully, large-scale AI interactions could create challenges for websites, businesses, or even social media. By studying this now, DeepMind hopes to prevent problems before they happen and keep AI safe and helpful for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+          "publishedAt": "2026-06-11T11:00:45.000Z"
+        },
+        {
+          "title": "Xebia: Why AI agents fail without the right data foundation",
+          "summary": "If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation – and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains. “If you don’t think about ...",
+          "simplifiedContent": "**Why AI Tools Struggle Without Good Data**\n\nImagine you’re building a robot to help you with everyday tasks, like organizing your schedule or answering questions. For it to work properly, you need to give it the right information first. That’s exactly the challenge businesses face when they try to use AI tools to speed up their work.\n\nAccording to Niels Zeilemaker, a technology expert at the company Xebia, AI tools rely heavily on good, clean data to function well. Think of data as the fuel for AI—it’s what helps these tools make decisions and solve problems. If the data is messy, incomplete, or hard to access, the AI can’t do its job properly.\n\nFor companies, this means they need to make sure their data is organized and easy for AI to use. Without a strong foundation of data, even the smartest AI tools won’t be very helpful.\n\nIn short, if businesses want AI to truly make life easier, they need to start by getting their data in order. It’s like tidying up before inviting a guest over—you want everything ready to go!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+          "publishedAt": "2026-06-11T10:42:38.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-10",
       "articles": [
         {
