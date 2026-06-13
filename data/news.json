@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-06-13",
+      "articles": [
+        {
+          "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+          "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come....",
+          "simplifiedContent": "**Title: Major Software Flaw Lets Hackers Steal Tons of Data from Companies**\n\nA serious problem has been found in PeopleSoft, a software used by hundreds of organizations to manage things like payroll, hiring, and other business tasks. Hackers have discovered a way to break into this software and steal huge amounts of data, including sensitive information about employees and company operations. \n\nThe flaw, called a “zero-day vulnerability,” means there’s no fix yet, so companies using PeopleSoft are at risk until the software’s owner, Oracle, creates a solution. This issue is especially concerning because PeopleSoft is used by big organizations, including government agencies and large corporations, which makes the stolen data incredibly valuable to cybercriminals.\n\nFor everyday people, this could mean that personal information—like your name, address, or paycheck details—might end up in the wrong hands if your employer uses this software. Experts are urging companies to take steps to protect their systems and limit the damage while waiting for a fix.\n\nThis is a reminder to everyone: protecting data is a big deal, and even trusted software can have flaws. Companies need to stay alert and act fast to keep our information safe.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+          "publishedAt": "2026-06-12T19:26:47.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-12",
       "articles": [
         {
