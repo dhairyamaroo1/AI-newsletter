@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-06-15",
+      "articles": [
+        {
+          "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+          "summary": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-born employees, and set off alarm bells across...",
+          "simplifiedContent": "**Title: Big Changes in AI Rules Cause Global Concerns**  \n\nImagine if a company suddenly had to turn off its most advanced AI tools for people around the world. That’s exactly what happened recently with Anthropic, a company that creates powerful AI systems. On June 13, 2026, the U.S. government made a new rule that forced Anthropic to shut down its two best AI models for everyone, even for some of its own employees who weren’t born in the U.S.  \n\nThis decision has caused a lot of worry in countries outside the U.S. They’re asking, “What happens if we rely on AI tools from other countries and they get shut off?” It’s making governments think more about creating their own AI systems instead of depending on foreign companies.  \n\nFor everyday people, this could mean big changes in how AI is used worldwide. Countries might push for “AI independence,” which means having their own tools instead of borrowing from others. It also raises questions about who controls AI and how rules like this might affect businesses, jobs, and technology in the future.  \n\nThe story shows how important AI is becoming and why governments are starting to treat it like something they need to protect and manage carefully.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+          "publishedAt": "2026-06-15T08:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-13",
       "articles": [
         {
