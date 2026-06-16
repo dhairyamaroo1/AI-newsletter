@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-06-16",
+      "articles": [
+        {
+          "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+          "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offerin...",
+          "simplifiedContent": "**Title: Why Testing AI for Weak Spots Is So Important**\n\nAs AI (artificial intelligence) becomes a bigger part of our lives, it’s important to make sure these systems are safe and reliable. That’s where something called “AI red teaming” comes in. Think of it like hiring someone to try to break into your house—not because they want to steal anything, but to help you find weak points so you can fix them.\n\nAI red teaming is a way to test AI systems by putting them in tricky situations or trying to fool them on purpose. This helps uncover problems before the technology is released to the public. For example, it can spot issues like bias (when an AI treats some groups unfairly) or mistakes that could cause harm.\n\nBig companies like Google and OpenAI are already using this method to make their AI tools safer. For everyday people, this means fewer glitches and safer AI in things like chatbots, virtual assistants, or even self-driving cars.\n\nIn short, red teaming helps make sure AI works the way it’s supposed to—and doesn’t cause unexpected problems when we use it. It’s like giving AI a safety check before it’s put to work in the real world.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+          "publishedAt": "2026-06-16T08:06:43.000Z"
+        },
+        {
+          "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+          "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, siloed ...",
+          "simplifiedContent": "**Title: How AI Is Making It Easier for Businesses to Manage Online Content**  \n\nFor a long time, big companies struggled with keeping their websites and apps updated with the right information. Imagine trying to get the perfect article, video, or image onto a website, app, or social media page in dozens of different countries—without causing chaos. It was often done manually, which took a lot of time and effort.  \n\nNow, AI (artificial intelligence) is helping make this process much faster and smoother. AI-powered tools can organize, edit, and share content automatically. These tools can figure out the best way to format the content and where to post it so it reaches the right audience. They can even suggest improvements, like better headlines or photos, to make the content more appealing.  \n\nThis is great news for businesses because it saves time, cuts down on mistakes, and helps them stay consistent across all their platforms. For everyday people, it means seeing fresher, more relevant content online—whether it’s shopping sites, news apps, or social media. Thanks to AI, companies can keep up with the fast pace of the digital world without getting overwhelmed.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+          "publishedAt": "2026-06-16T07:49:07.000Z"
+        },
+        {
+          "title": "Why do South Koreans love AI so much?",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an...",
+          "simplifiedContent": "**Why Are South Koreans So Excited About AI?**\n\nSouth Korea is one of the most tech-savvy countries in the world, and they’re embracing artificial intelligence (AI) like no other. AI is technology that helps machines think and act like humans, such as recognizing faces, answering questions, or even driving cars.\n\nHere’s an example: When a journalist arrived in Seoul after a long flight, they didn’t have to wait in line at immigration. Instead, a machine scanned their face, checked their details, and let them through—no humans needed! This is just one of the many ways South Korea is using AI to make life easier.\n\nAI isn’t just at the airport. In South Korea, you’ll find AI-powered tools everywhere—helping doctors with medical diagnoses, powering smart home gadgets, and even creating new music and art. The country is investing heavily in this technology because they believe it will improve everyday life and keep them ahead in the global tech race.\n\nFor South Koreans, AI isn’t just futuristic—it’s already part of their daily lives. Who knows? The way they’re using it might inspire the rest of the world to catch up soon!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+          "publishedAt": "2026-06-15T18:46:08.000Z"
+        },
+        {
+          "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+          "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes The...",
+          "simplifiedContent": "**Title: Huawei’s New Software Brings Smarter AI Features to China**\n\nBig news in the world of technology! Apple recently announced that its Siri AI (the voice assistant that answers questions and helps with tasks) won’t be launching new features in China. Just a few days later, Huawei, a major Chinese tech company, stepped in with its own big update: HarmonyOS 7.\n\nHuawei introduced HarmonyOS 7 at an event in Dongguan, calling it the start of a new era for smart technology. This new software is designed to work better with AI (artificial intelligence), which means it can learn from users and do more helpful things, like understanding your preferences and making your devices work together more smoothly.\n\nFor people in China, this is exciting because it fills the gap Apple left open by not updating Siri there. HarmonyOS 7 could make smartphones, smart homes, and other gadgets much easier to use. Huawei’s move shows how it’s stepping up to bring better AI features to Chinese users.\n\nIn short, Huawei is giving people in China smarter tools for their everyday lives, right when Apple decided not to. It’s a big win for Huawei—and for anyone who loves smarter technology!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+          "publishedAt": "2026-06-15T11:00:00.000Z"
+        },
+        {
+          "title": "Accenture: Consumers show growing trust in AI shopping agents",
+          "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent mor...",
+          "simplifiedContent": "**Title: More People Are Starting to Trust AI for Online Shopping**  \n\nA new study shows that people are getting more comfortable letting artificial intelligence (AI) help them shop. AI is a type of computer program that can learn and make decisions, kind of like a helpful assistant.  \n\nThe research, done by the company Accenture, asked over 25,000 people from 16 different countries how they feel about using AI for shopping. It found that nearly 3 out of 4 people (74%) said they would trust an AI \"shopping assistant\" to help them.  \n\nThese AI assistants could do things like recommend products, find the best deals, or even make purchases for you. For example, imagine having a smart helper that knows your favorite brands, sizes, and prices—and does all the hard work for you.  \n\nExperts say this could make shopping faster and easier, especially for busy people. However, it’s important to make sure these AI tools are safe, reliable, and protect your personal information.  \n\nAs technology keeps improving, it looks like AI might become a bigger part of how we shop in the future!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+          "publishedAt": "2026-06-15T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-15",
       "articles": [
         {
