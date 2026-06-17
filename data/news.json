@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-06-17",
+      "articles": [
+        {
+          "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+          "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over....",
+          "simplifiedContent": "**Title: Big AI Bug Could Let Hackers Steal Your Security Codes**\n\nA serious problem was recently discovered in a popular AI tool called Copilot. This tool helps people write code, but hackers found a way to trick it into stealing sensitive information, like the special security codes (called 2FA codes) that many of us use to protect our accounts.\n\nHere’s how it worked: Hackers could ask Copilot sneaky questions and make it give out private information it wasn’t supposed to. This flaw, called \"SearchLeak,\" shows that companies need to do a better job of keeping AI tools safe from hackers.\n\nWhy does this matter? Many apps and websites use two-factor authentication (2FA) to keep your accounts secure. These are those extra codes you get via text or email to log in. If hackers can steal these, they could break into your accounts and steal your personal info or even money.\n\nThe good news is that the problem was fixed, but this is a wake-up call. As AI tools become more common, companies need to work harder to keep them safe. For everyday people, it’s a reminder to always stay alert and protect your online accounts.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+          "publishedAt": "2026-06-16T11:15:46.000Z"
+        },
+        {
+          "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+          "summary": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the busine...",
+          "simplifiedContent": "**Title: EU Shares New Guidelines to Label AI-Generated Content**\n\nThe European Union (EU) has introduced a new guide to help companies clearly label content created by artificial intelligence (AI). This is part of a bigger plan to make AI more transparent and trustworthy for everyday people. Starting August 2, new rules will require businesses across Europe to clearly show when something—like a photo, video, or text—has been made using AI.\n\nThe guide, called a “Code of Practice,” was released on June 10. It gives companies practical tips on how to follow these rules, such as adding labels or disclaimers to AI-generated content. For now, using the guide is optional, but it’s meant to help businesses prepare for when the rules officially become law.\n\nWhy does this matter? AI is becoming a bigger part of our lives, creating everything from realistic-looking images to fake videos (known as “deepfakes”). By labeling this content, the EU hopes to make it easier for people to spot AI-made materials and trust the information they see online.\n\nThis is a step toward keeping AI use safe and transparent for everyone, especially as the technology continues to grow.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+          "publishedAt": "2026-06-16T10:00:00.000Z"
+        },
+        {
+          "title": "Insurers pivot AI strategy toward core risk underwriting",
+          "summary": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation. Christian Pree...",
+          "simplifiedContent": "**Title: Insurance Companies Are Using AI to Make Smarter Decisions**\n\nInsurance companies are starting to use AI (artificial intelligence) in ways that directly help their business, not just to save time or cut costs. By 2026, experts predict that AI will play a big role in how these companies decide who to insure and how much to charge. \n\nHere’s what this means: AI can analyze huge amounts of information quickly, like a person’s health records, driving history, or even weather patterns. With this data, it helps insurance companies figure out risks more accurately. For example, instead of guessing how likely someone is to file a claim, AI can give a much clearer picture based on facts.\n\nThis shift is important because it could make insurance fairer for customers. People with lower risks might get better rates, while those with higher risks will be charged more appropriately. It also means companies can avoid big losses by being smarter about how they handle money.\n\nIn short, AI is helping insurance companies make better choices, which could benefit both businesses and everyday people.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+          "publishedAt": "2026-06-16T15:55:02.000Z"
+        },
+        {
+          "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+          "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses....",
+          "simplifiedContent": "**HPE Gives Away Free Software to Compete with VMware**\n\nHewlett Packard Enterprise (HPE), a big tech company, is offering a year of free access to one of its software products called VM Essentials. This move is part of HPE’s effort to compete with another tech company, VMware, which is known for its popular tools that help businesses run virtual machines (software that acts like a computer inside another computer).\n\nVirtual machines are important for businesses because they let them run multiple systems on one computer, saving money and space. VMware has been the go-to choice for many companies, but now HPE is stepping up by giving away its software for free to attract new users.\n\nSome experts think this is a smart move for HPE, but they also believe the company could do even more, like offering more free tools to help businesses switch from VMware.\n\nFor everyday people, this competition means businesses could save money on the tools they need, and it might lead to better technology options in the future. In the world of tech, competition like this usually leads to more innovation and better deals for customers.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+          "publishedAt": "2026-06-16T22:11:15.000Z"
+        },
+        {
+          "title": "Want to get a data center online quickly? Give it some flex.",
+          "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different…...",
+          "simplifiedContent": "**Title: How a Cup of Tea Could Help Data Centers Work Faster**  \n\nDuring a big soccer game between England and Germany, something funny happened. At halftime, millions of people in the UK felt stressed because the score was tied. So, they did what Brits often do to calm down—they made tea! Everyone turning on their electric kettles at the same time created a huge spike in electricity demand.  \n\nThis got experts thinking about how energy use can suddenly change, and they came up with a clever solution for data centers (the buildings full of computers that store and process all the information we use online). Data centers need a lot of electricity to run, but sometimes they don’t need full power all the time. With new technology, data centers can adjust how much power they use depending on what’s happening—kind of like how your lights might dim to save energy.  \n\nThis flexibility could make data centers faster to set up and cheaper to run. It also helps keep the electricity grid (the system that delivers power to homes and businesses) balanced and stable. So, the next time you make a cup of tea, think about how smart energy use is shaping the future!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+          "publishedAt": "2026-06-16T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-16",
       "articles": [
         {
