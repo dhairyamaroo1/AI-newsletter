@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-06-18",
+      "articles": [
+        {
+          "title": "\"Dangerous\" AI models are coming no matter what",
+          "summary": "AI models with advanced hacking capabilities will soon be the norm....",
+          "simplifiedContent": "**Title: Powerful AI Tools Could Be Used for Hacking—Here’s Why That Matters**\n\nImagine a computer program so smart it could find ways to break into online accounts, steal personal information, or even shut down websites. Experts are warning that advanced AI (artificial intelligence) tools like this might soon become more common, and that could be dangerous for everyone.\n\nThese AI systems are designed to be super powerful, capable of solving very tricky problems. But in the wrong hands, they could be used for harmful purposes, like hacking into secure systems or spreading misinformation. The scary part? Once these tools are developed, it’s almost impossible to stop people from using them.\n\nSome researchers are calling for stricter rules to make sure these kinds of AI tools don’t get abused. But controlling them is tricky because the technology spreads quickly, and anyone with enough knowledge could use it.\n\nWhat does this mean for everyday people? It’s a reminder to stay cautious online. Use strong passwords, avoid sharing personal information, and keep an eye out for scams. The world of AI is growing fast, and while it brings exciting possibilities, it also comes with risks we all need to understand.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+          "publishedAt": "2026-06-17T17:50:46.000Z"
+        },
+        {
+          "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+          "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings....",
+          "simplifiedContent": "**Tesco Leaves VMware After Huge Price Hike**\n\nTesco, one of the UK’s biggest supermarket chains, is making a big tech change. It’s moving 40,000 of its computer systems to different software because VMware, the company that runs its current setup, drastically raised its prices. According to Tesco, VMware’s new owner, Broadcom, increased costs by a whopping 175%. \n\nIn simple terms, VMware helps Tesco’s computers work smoothly behind the scenes, like organizing deliveries, tracking stock, and managing online orders. But with prices jumping so much, Tesco decided it wasn’t worth it anymore. Instead, they’re switching to other software providers to save money and avoid what they called “unfair” treatment.\n\nThis change isn’t small—it’s a big task to move so many systems, but Tesco says it’s worth it in the long run. For everyday shoppers, this likely won’t affect how you shop at Tesco. However, it’s a reminder of how important technology is for big businesses and how price increases can lead to big decisions. \n\nTesco’s move also shows how companies are standing up to what they see as unfair business practices.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+          "publishedAt": "2026-06-17T19:43:13.000Z"
+        },
+        {
+          "title": "Massive breach spills credentials for thousands of sensitive networks",
+          "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet....",
+          "simplifiedContent": "**Title: Major Security Breach Exposes Passwords for Big Companies**\n\nA huge online security problem has exposed passwords and other sensitive information from big organizations, including Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet. This means hackers could potentially access private systems belonging to these companies.\n\nThe breach happened when someone posted a list of usernames, passwords, and other details online. This list could let bad actors (hackers) break into secure networks and steal valuable data, spy on activities, or cause major disruptions.\n\nThis is worrying because the affected companies work in important areas like shipping, technology, and even defense. If hackers get into their systems, it could lead to stolen customer information, delays in services, or even risks to national security.\n\nExperts are urging companies and individuals to take steps to protect themselves. For example, changing passwords, using two-factor authentication (extra security when logging in), and keeping software updated can help prevent similar attacks.\n\nFor everyday people, this is a reminder to stay cautious online and protect your accounts. Companies are working to fix the problem, but it’s a good idea to use strong passwords and avoid reusing the same ones across different sites.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+          "publishedAt": "2026-06-17T19:54:31.000Z"
+        },
+        {
+          "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+          "summary": "What you need to know about the expiration of keys securing your machine's boot sequence....",
+          "simplifiedContent": "**Important Update for Windows and Linux Users: Don’t Ignore This Deadline!**\n\nIf you use a Windows or Linux computer, there’s an important update you need to know about. Your computer uses something called Secure Boot to keep it safe when it starts up. This feature checks to make sure only trusted software runs when you turn on your device, helping to block viruses or other harmful programs.\n\nBut here’s the catch: the “keys” that Secure Boot uses to check that software are expiring soon. Think of these keys like passwords your computer uses to verify if the software is safe. If you don’t update them before the deadline, your computer could become vulnerable to security risks—or it might not work as it should.\n\nThe deadline is coming up fast, so it’s time to act! Check your computer’s settings or the manufacturer’s website for instructions on how to update Secure Boot keys. It might sound complicated, but it’s usually just a matter of downloading and installing the update. Doing this will help keep your device safe and running smoothly.\n\nDon’t wait—take a few minutes to make sure your computer stays protected!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+          "publishedAt": "2026-06-17T11:15:17.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-17",
       "articles": [
         {
