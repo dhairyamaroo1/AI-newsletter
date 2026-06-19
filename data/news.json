@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-06-19",
+      "articles": [
+        {
+          "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+          "summary": "Crypto Clipper spreads over USB and communicates over Tor....",
+          "simplifiedContent": "**Title: Microsoft Finds Sneaky Software That Steals Cryptocurrency**  \n\nMicrosoft has discovered a tricky new program designed to steal cryptocurrency, like Bitcoin or Ethereum. This malicious software, called \"Crypto Clipper,\" works by sneaking onto people’s computers through USB drives (those small sticks people use to move files between devices).  \n\nOnce it’s on a computer, Crypto Clipper secretly changes wallet addresses when people try to send cryptocurrency. Wallet addresses are like account numbers for cryptocurrency. So, instead of sending money to the correct person, the program redirects it to the hackers’ wallet instead!  \n\nTo stay hidden, the software uses something called Tor, which helps disguise where it's sending stolen information. This makes it harder for anyone to track down the criminals.  \n\nFor everyday people, this means you should be extra careful when plugging in USB drives from unknown sources. Also, double-check wallet addresses before sending any cryptocurrency to make sure they haven’t been tampered with.  \n\nMicrosoft is working on ways to stop this sneaky program, but staying cautious and using antivirus software can help keep your computer safe. Cryptocurrency is valuable, and hackers are always looking for new ways to steal it—so staying alert is key!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+          "publishedAt": "2026-06-18T23:28:52.000Z"
+        },
+        {
+          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+          "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers....",
+          "simplifiedContent": "**Title: Apple Fixes Bug That Could Let Others Listen Through Beats Studio Buds**  \n\nApple has fixed a serious problem with its Beats Studio Buds headphones that could have let someone secretly listen to you without your permission. The issue, which was discovered a year ago, didn’t just affect Beats headphones—it also impacted products from other companies.  \n\nHere’s how it worked: A flaw in the way the earbuds connected to your phone or other devices could have been exploited by hackers (people who try to break into technology). If someone found this flaw and used it, they could eavesdrop on your conversations or hear what you were listening to without you knowing.  \n\nThankfully, Apple has released a fix to stop this from happening. If you own Beats Studio Buds, it’s important to update your device as soon as possible to make sure it’s secure. Most updates happen automatically, but you can check your phone settings to make sure you’re protected.  \n\nThis is a good reminder to always keep your devices updated. Updates don’t just add new features—they also fix problems that could make your personal information less safe.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+          "publishedAt": "2026-06-18T19:41:35.000Z"
+        },
+        {
+          "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+          "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors....",
+          "simplifiedContent": "**Title: Chinese Investors Secretly Bought Stakes in SpaceX Before Its Big Launch**\n\nA surprising new report has revealed that some investors in SpaceX, the rocket company started by Elon Musk, have connections to businesses linked to the Chinese military. This has raised concerns about who is investing in one of America’s most important space companies.\n\nSpaceX is famous for building reusable rockets and working on projects like Starlink, which aims to provide internet access from space. The company is growing fast and could soon make even more money if it decides to go public (meaning people can buy shares of the company on the stock market). But before that happens, some investors from China quietly bought pieces of the company through a fund that pools money from different people.\n\nThis discovery is causing worry because SpaceX works on projects that are important for national security, like launching satellites for the U.S. military. Some experts think letting foreign investors—especially ones connected to the Chinese government—get involved could be risky.\n\nFor regular people, this story highlights how global politics can affect even companies that seem focused on science and technology. It also shows how important it is to pay attention to who’s behind the scenes in big businesses.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+          "publishedAt": "2026-06-18T17:42:18.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-18",
       "articles": [
         {
