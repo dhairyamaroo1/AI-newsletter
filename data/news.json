@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-06-20",
+      "articles": [
+        {
+          "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta...",
+          "simplifiedContent": "**Startup Says It Found a Way to Make AI Faster and Smarter**\n\nA new company called Subquadratic, based in Miami, just announced something big. They say they’ve solved a problem that’s been slowing down large language models (LLMs) — the kind of AI tools behind chatbots like ChatGPT — for almost 10 years.\n\nHere’s the issue: these AI systems rely on math to process and understand huge amounts of information. But as the AI gets bigger and more advanced, the math takes longer and uses more computer power. This makes it harder to keep improving them. Subquadratic claims they’ve come up with a new method to speed things up and make the process much more efficient.\n\nThe company hasn’t shared all the details yet, so not everyone is convinced. But if their solution works, it could mean faster, smarter AI tools that are cheaper to run. This could make AI more accessible for businesses and everyday people — from better customer service chatbots to smarter personal assistants.\n\nFor now, it’s an exciting possibility, but the world will have to wait and see if Subquadratic can deliver on its promise.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "publishedAt": "2026-06-19T10:40:24.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-19",
       "articles": [
         {
