@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-06-23",
+      "articles": [
+        {
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode...",
+          "simplifiedContent": "**Title: Why Anthropic’s Disagreement with the Government Matters to You**\n\nAnthropic, a company that builds powerful AI tools, isn’t seeing eye to eye with the US government right now. Here’s what’s happening and why it matters.\n\nBack in April, Anthropic announced it had created a new type of AI system (a computer program that can think and make decisions). This system is designed to be super advanced but also really safe, which is a big focus for Anthropic. They believe AI should be carefully controlled to avoid risks.\n\nBut here’s the issue: the government wants stricter rules for how companies like Anthropic create and use AI. They’re worried about what might happen if AI becomes too powerful or is used irresponsibly. Anthropic, however, thinks some of the government’s ideas might slow down innovation or make it harder for companies to compete.\n\nSo, why does this matter to you? AI is becoming a bigger part of daily life, from chatbots to tools that help doctors and businesses. How it’s regulated will shape how safe and helpful it is for everyone. This debate is about finding the right balance between progress and protecting people. Stay tuned—it could impact the future of technology we all use!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "publishedAt": "2026-06-22T18:00:00.000Z"
+        },
+        {
+          "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+          "summary": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal content...",
+          "simplifiedContent": "**Maybelline Teams Up With ChatGPT for Virtual Makeup Try-On**\n\nBig news for makeup lovers! Maybelline New York, a famous beauty brand, is teaming up with ChatGPT, the popular AI chatbot, to make shopping for makeup even more fun. Soon, you’ll be able to try on Maybelline products virtually just by chatting with ChatGPT.\n\nHere’s how it works: Imagine asking ChatGPT for makeup tips or product recommendations. Not only will it suggest items, but it will also let you see how they look on you using a virtual try-on tool. No need to guess if that lipstick shade will suit you—you’ll get a sneak peek right from your phone or computer!\n\nThis exciting feature was announced by Maybelline’s parent company, L’Oréal, at a big tech event called VivaTech 2026. It’s part of a larger plan to make shopping easier and more interactive. \n\nFor everyday people, this means less hassle when buying makeup online. You can explore products, find your perfect shade, and get advice—all in one place. It’s like having a personal beauty assistant available 24/7!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+          "publishedAt": "2026-06-22T10:00:00.000Z"
+        },
+        {
+          "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+          "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentration...",
+          "simplifiedContent": "**Title: A New Tool to Help Businesses Avoid Being Stuck with One AI Provider**\n\nA Japanese company called Sakana AI has created something called \"Fugu\" to help businesses use AI more flexibly. Right now, many companies rely on one provider for their AI tools, which can cause problems. If that provider stops working well, raises prices, or changes their services, businesses might be stuck with no good options. This is called \"vendor lock-in,\" and it can be risky.\n\nFugu is designed to fix this problem. It lets businesses use multiple AI tools at the same time and helps them work together smoothly. Think of it like having different apps on your phone that all talk to each other instead of being forced to use just one app for everything. This gives companies more control and fewer headaches if one tool stops being useful.\n\nFor everyday people, this might mean faster improvements in AI tools we use, like customer service chatbots or shopping recommendations, since businesses can mix and match the best options. Sakana AI's Fugu makes it easier for companies to stay flexible and prepared for whatever the future brings.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+          "publishedAt": "2026-06-22T16:11:21.000Z"
+        },
+        {
+          "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+          "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips....",
+          "simplifiedContent": "**Title: AMD Brings Back Important Security Feature After Customer Complaints**  \n\nChipmaker AMD is making changes after customers spoke out. The company had removed a security feature called “memory encryption” from its latest consumer processors (the computer’s brain). This feature helps protect sensitive information, like passwords and personal data, from hackers.  \n\nWhen AMD removed it, many people were upset. Some critics said it felt like AMD was trying to push customers to buy its more expensive products, which still had the feature. After hearing the complaints, AMD decided to bring memory encryption back to its consumer chips.  \n\nThis is good news for everyday people who use AMD processors in their computers. Memory encryption adds an extra layer of security to help keep your personal information safe. With cyberattacks becoming more common, having stronger protection built into your computer is a big deal.  \n\nAMD’s decision shows that companies do listen to their customers. It’s a reminder that speaking up can make a difference!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+          "publishedAt": "2026-06-22T19:16:52.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "articles": [
         {
