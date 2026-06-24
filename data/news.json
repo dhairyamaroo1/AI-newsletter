@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-06-24",
+      "articles": [
+        {
+          "title": "Omio scales travel product development using OpenAI models",
+          "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition...",
+          "simplifiedContent": "**Omio Uses AI to Make Travel Planning Easier**\n\nOmio, a company that helps people book travel across different types of transportation, is using advanced AI (artificial intelligence) tools to make things faster and easier for travelers. With connections to over 3,000 travel companies in 47 countries, Omio already helps people plan trips by combining trains, buses, flights, and more into one simple platform.\n\nNow, Omio is using AI technology from OpenAI (the company behind ChatGPT) to improve how it creates new travel tools. This means they can quickly design better ways for people to search for tickets, compare options, and book trips. Instead of just adding AI for show, Omio is focusing on practical ways to make travel planning smoother and less stressful.\n\nFor travelers, this could mean faster searches, smarter recommendations, and a more user-friendly experience. Whether you're planning a weekend getaway or a big international trip, Omio’s AI-powered upgrades could save you time and effort.\n\nIn short, Omio is using cutting-edge technology to make planning your next adventure simpler and more enjoyable!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+          "publishedAt": "2026-06-23T16:32:28.000Z"
+        },
+        {
+          "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+          "summary": "Oracle is spending billions on data center infrastructure to support AI....",
+          "simplifiedContent": "**Title: Oracle Cuts Jobs to Invest Big in AI**\n\nOracle, a major technology company, is making big changes to focus more on artificial intelligence (AI). The company recently laid off around 21,000 workers. While job cuts are tough news for those affected, Oracle says this move is helping them invest heavily in building advanced data centers (big facilities that store and process information). These data centers are key for running AI systems.\n\nOracle is spending billions of dollars to make sure they have the tools and space to support AI technology. They believe AI will be a big part of the future, helping businesses work faster and smarter. For example, AI can be used to analyze data, improve customer service, or even help doctors make better decisions.\n\nWhile this shift is exciting for AI development, it also highlights how some companies are making tough choices, like cutting jobs, to stay competitive in the fast-changing tech world. For everyday people, this shows how AI is becoming more important in our lives—and how businesses are racing to keep up.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+          "publishedAt": "2026-06-23T20:17:38.000Z"
+        },
+        {
+          "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+          "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Canada, Australia, an...",
+          "simplifiedContent": "**Title: Spy Agencies Warn AI Cyber Threats Are Coming Soon—Here’s What You Need to Know**\n\nBig changes are coming to how hackers work, and they could affect your life sooner than you think. On June 22, 2026, top cybersecurity experts from five countries—the US, UK, Canada, Australia, and New Zealand—warned that cyber threats powered by artificial intelligence (AI) are growing fast. These experts say regular people, not just big companies, could soon be targeted by smarter, more dangerous online attacks.\n\nSo, what’s happening? Hackers are starting to use AI tools to make their attacks quicker and harder to spot. For example, AI can help them write fake emails that look very real or break into online accounts more easily. This means it might be harder to tell if you’re clicking on something safe or if your personal information is at risk.\n\nThe experts are urging everyone to be extra careful online. This includes using strong passwords, turning on two-factor authentication (a security feature that asks for a code in addition to your password), and thinking twice before clicking on links in emails or texts. Staying alert now could save you from big headaches later.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+          "publishedAt": "2026-06-23T08:00:00.000Z"
+        },
+        {
+          "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+          "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time....",
+          "simplifiedContent": "**Title: U.S. Government Speeds Up Plans to Protect Online Security from Future Technology**\n\nThe White House is asking government agencies to move faster to upgrade their online security systems. Why? Because a powerful new type of technology, called quantum computers, could one day break the encryption (a way to protect data) that keeps our information safe online. \n\nRight now, encryption is what stops hackers from stealing your sensitive information, like passwords or banking details. But quantum computers, which are still being developed, will be so powerful that they could easily crack these security systems. Experts say this could become a big problem in the future, especially for national security.\n\nTo prepare, the government wants to switch to \"quantum-proof\" security systems as soon as possible. They’ve given agencies a much shorter deadline to make the change because waiting too long could leave important information vulnerable.\n\nWhat does this mean for everyday people? It’s part of a larger effort to make sure your data stays safe in the future as technology evolves. While you might not notice these changes right away, they’re critical for keeping things like banking, healthcare, and even government systems secure in the years to come.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+          "publishedAt": "2026-06-23T22:30:57.000Z"
+        },
+        {
+          "title": "The $400 million machine powering the future of chipmaking",
+          "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the groun...",
+          "simplifiedContent": "**Title: The $400 Million Machine Changing How Computer Chips Are Made**\n\nImagine a machine as big as a two-story bus, packed with shiny metal, colorful wires, and lots of tubes. This isn’t just any machine—it’s one of the most advanced tools ever built to make computer chips, and it costs $400 million. Jos Benschop, one of the experts behind it, had to climb a ladder just to reach the top!\n\nComputer chips are tiny but powerful pieces that make all our electronics work—like phones, laptops, and even cars. As technology gets better, we need chips that are faster, smarter, and smaller. That’s where this giant machine comes in. It uses a special kind of light to print incredibly tiny patterns onto chips, helping them run faster and use less power.\n\nThis breakthrough could change the future of electronics, making devices better for everyone. Phones could last longer, computers could run faster, and new gadgets could be invented. While it’s a big step for technology, it’s also a reminder of how much effort goes into the tools we rely on every day!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+          "publishedAt": "2026-06-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-23",
       "articles": [
         {
