@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-06-25",
+      "articles": [
+        {
+          "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+          "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX divis...",
+          "simplifiedContent": "**Title: Samsung Lets Employees Use Powerful AI Tools Like ChatGPT**\n\nSamsung is now allowing its employees to use advanced AI tools, like ChatGPT Enterprise, to help them with their work. ChatGPT is an AI assistant that can answer questions, write documents, and even help solve tricky problems. Samsung employees can also use Codex, another AI tool that’s great for coding and technical tasks.\n\nThis change means workers at Samsung in South Korea, as well as employees in its Device Experience division around the world, can now use these tools to make their jobs easier. For example, engineers might use Codex to write and fix computer programs faster, while marketing teams could ask ChatGPT to help write emails or brainstorm ideas.\n\nSamsung had previously been cautious about AI tools due to security concerns, but now it’s giving employees access to these powerful technologies under tighter safety rules. The move shows how big companies are starting to trust AI more and use it to get work done quicker and smarter.\n\nFor everyday people, this means AI tools like ChatGPT are becoming more common, not just for fun, but for real-world jobs too!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+          "publishedAt": "2026-06-24T10:00:00.000Z"
+        },
+        {
+          "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+          "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.  The integration ...",
+          "simplifiedContent": "**AI Helper Joins Slack to Make Work Easier**  \n\nImagine having a super-smart assistant right inside your work chat. That’s exactly what Anthropic, a company that builds AI tools, has done with its new feature called Claude Tag. It’s like adding a helpful robot to your team’s conversations in Slack, a popular app where people chat and collaborate at work.  \n\nHere’s how it works: Instead of chatting with the AI in a separate box, you can now bring it directly into your group conversations by typing @Claude. The AI can jump in to help answer questions, summarize long discussions, or even brainstorm ideas with your team.  \n\nThis is part of a test version (called beta) for companies and teams using Slack. It’s designed to save time, keep everyone on the same page, and make work smoother.  \n\nIn short, this tool could make teamwork faster and easier by giving you instant help right where you need it. It’s like having a virtual coworker who’s always ready to assist!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+          "publishedAt": "2026-06-24T09:00:00.000Z"
+        },
+        {
+          "title": "The math behind the OpenAI Jalapeño chip",
+          "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital ex...",
+          "simplifiedContent": "**Title: OpenAI Creates New Chip to Make AI Cheaper and Faster**  \n**Source: AI News**\n\nOpenAI, the company behind ChatGPT, has created a special computer chip called the \"Jalapeño chip.\" Why? Because running advanced AI programs like ChatGPT is really expensive, and they want to make it faster and cheaper.  \n\nRight now, OpenAI spends a lot of money on the technology that powers its AI tools. So, they teamed up with another company, Broadcom, to design this chip. It’s custom-built just for AI tasks, which means it can handle the work more efficiently than regular chips.  \n\nWhat does this mean for you? It could make AI tools, like ChatGPT, more affordable and accessible for everyone. Companies that use AI might save money too, which could lead to better apps and services for people like us.  \n\nThis new chip is a step forward in making AI smarter, faster, and cheaper to run. It’s like upgrading from an old, slow computer to a super-fast one—but for AI!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+          "publishedAt": "2026-06-25T06:00:00.000Z"
+        },
+        {
+          "title": "The emergence of the web data infrastructure layer for AI",
+          "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.  To understand this challenge, consider the foundation of...",
+          "simplifiedContent": "**Title: How AI is Changing the Way We Use Online Information**\n\nAI (artificial intelligence) is growing fast and being used in more ways every day. From chatbots to tools that can write essays or analyze pictures, AI has amazing potential. But to work well, AI needs a lot of data—basically, tons of information to learn from and make smart decisions.\n\nHere’s the problem: much of the information online is messy or hard to access. It might be unorganized or hidden behind paywalls, making it tricky for AI tools to use it properly. Think of it like trying to build a puzzle when half the pieces are missing or scattered everywhere.\n\nTo fix this, companies are creating new systems to organize and unlock all that messy data. These systems act like a “helper layer” between the internet and AI tools, making it easier for AI to find and use the information it needs.\n\nFor everyday people, this could mean better AI tools that work faster and smarter. It might help businesses create more personalized services, improve online searches, or even solve big problems like health care or climate change. In short, the way AI uses online information is getting a big upgrade!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+          "publishedAt": "2026-06-24T11:59:54.000Z"
+        },
+        {
+          "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+          "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools....",
+          "simplifiedContent": "**Title: Major Global Operation Strikes a Blow Against Online Crime**\n\nA big international effort called \"Operation Endgame\" just took down two major tools used by online criminals to commit fraud and steal money. This operation targeted a pair of dangerous programs that criminals relied on like an assembly line—making it easier for them to trick people, hack accounts, and steal sensitive information.\n\nThe first tool, called Qakbot, was like a delivery system for viruses (malicious software). It helped criminals spread harmful programs to people’s computers, often through fake emails or links. The second tool was a marketplace where hackers could sell stolen passwords and other personal data.\n\nBy shutting down these tools, authorities have made it much harder for cybercriminals to do business. This is a big win for regular people, businesses, and organizations that are constantly targeted by scams and hacks. It means fewer phishing emails (fake messages trying to steal your info), fewer hacked accounts, and safer online experiences overall.\n\nThis operation was a global team effort, showing how countries are working together to fight cybercrime. For everyday users, it’s a reminder to stay cautious online but also a reason to feel a little safer.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+          "publishedAt": "2026-06-24T21:03:34.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-24",
       "articles": [
         {
@@ -3050,51 +3095,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
           "publishedAt": "2026-01-26T15:23:57.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-23",
-      "articles": [
-        {
-          "title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
-          "summary": "For the past two decades, there’s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice was so common that it gained the pejorative moniker “Dr. Google.” But times are changing, and many medical-information seekers are now using LLMs. Acco...",
-          "simplifiedContent": "**Title: Can ChatGPT Be a Better Online Doctor Than Google?**\n\nFor the last 20 years, when people started feeling unwell, they often turned to Google to look up their symptoms. This became so common that people jokingly called it \"Dr. Google.\" But now, things are changing.\n\nInstead of just using Google, many people are turning to something called ChatGPT for health advice. ChatGPT is a kind of smart computer program that can understand and respond to questions in a very human-like way. It’s part of a new wave of technology that can chat with people and give them information.\n\nPeople are curious to see if ChatGPT can do a better job than Google when it comes to health questions. It can provide detailed answers and even explain things in a way that's easy to understand. However, it's important to remember that while ChatGPT can be helpful, it’s not a real doctor. It’s always best to see a healthcare professional for medical advice.\n\nAs more people use ChatGPT for health information, it could change how we learn about our health and make decisions about visiting the doctor.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
-          "publishedAt": "2026-01-22T17:38:09.000Z"
-        },
-        {
-          "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-          "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of lega...",
-          "simplifiedContent": "**Title: New Tech Company Raises $100 Million to Compete with Amazon's Cloud Services**\n\nA company called Railway, based in San Francisco, just got a big financial boost. They raised $100 million to expand their business. Railway helps developers (people who create software and apps) work more easily with artificial intelligence (AI) by offering special cloud services.\n\nWhat's interesting is that Railway has already attracted two million developers without spending any money on advertising. This shows that many people are interested in what they offer.\n\nThe new funding will help Railway compete with big companies like Amazon's AWS, which is a giant in cloud services (places where data and applications are stored and accessed over the internet). As more and more businesses want to use AI to improve their products and services, they need better cloud solutions. Railway is trying to meet this demand by making it easier and faster for developers to use AI.\n\nFor everyday people, this means that more businesses will be able to use AI to create better apps and services, making our digital experiences smoother and more efficient.",
-          "source": "AI | VentureBeat",
-          "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-          "publishedAt": "2026-01-22T14:00:00.000Z"
-        },
-        {
-          "title": "Yann LeCun’s new venture is a contrarian bet against large language models  ",
-          "summary": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry’s current obsession with large language models is wrong-headed and will ultimately fail to solve many pressing problems.  Instead, he thinks we sh...",
-          "simplifiedContent": "**Title: AI Expert Challenges Popular Tech Trends**\n\nYann LeCun, a well-known expert in artificial intelligence, has a different opinion from many people in the tech world. While lots of companies are excited about large language models (big computer programs that understand and create text), Yann thinks they aren't the best solution for many real-world problems.\n\nYann has won big awards for his work in AI, so his opinions carry weight. He believes that instead of focusing on these large language models, we should explore other approaches to solve important issues. According to him, these big programs might not be as useful as everyone thinks and could be a dead end for some challenges we face today.\n\nFor everyday people, this means that the technology we often hear about might not always be the best answer. Yann encourages looking for different methods that could lead to better and more effective solutions. His ideas remind us that in technology, it's important to keep questioning and exploring new possibilities.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-          "publishedAt": "2026-01-22T10:00:00.000Z"
-        },
-        {
-          "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-          "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile....",
-          "simplifiedContent": "**Title: cURL Stops Bug Bounties Due to AI Confusion**\n\ncURL, a tool used by many people to transfer data on the internet, has decided to stop its bug bounty program. A bug bounty is when a company pays people to find and report problems or \"bugs\" in their software. \n\nRecently, a lot of reports about supposed problems have been coming in, but many of them are not real issues. This is because AI (artificial intelligence) tools are being used to find these bugs. These AI tools often make mistakes, spotting problems that don't actually exist.\n\nThis has made things very stressful for the people who work on cURL. They have to spend a lot of time checking reports that turn out to be false. It's been hard on their mental health (how they feel emotionally).\n\nSo, to keep things manageable and less stressful, cURL has decided to stop the bug bounty program for now. This means they won't be paying people to find bugs until they can figure out a better way to handle the situation.\n\nFor everyday users, this means the cURL team can focus more on making sure the tool works well, rather than dealing with incorrect bug reports.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-          "publishedAt": "2026-01-22T22:46:30.000Z"
-        },
-        {
-          "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-          "summary": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform....",
-          "simplifiedContent": "**Title: eBay Cracks Down on Unapproved Shopping Bots**\n\neBay, the popular online shopping site, is making changes to keep its platform safe and fair for everyone. Recently, there has been a rise in automated shopping tools, often called \"bots.\" These are computer programs that can quickly buy things online without human help. While some people use them to snag deals, they can also cause problems, like buying up all the stock of a popular item before regular shoppers have a chance.\n\nTo address this, eBay now requires any \"buy for me\" bots or chatbots (computer programs that chat with users) to get permission before they can shop on the site. This means these tools must follow eBay’s rules, ensuring they don’t give some buyers an unfair advantage or disrupt the shopping experience for others.\n\nFor everyday shoppers, this is good news. It means more items should be available to everyone, not just those using special software. eBay’s new policy aims to make online shopping fairer and more enjoyable for all its users.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
-          "publishedAt": "2026-01-22T15:56:33.000Z"
         }
       ]
     }
