@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-06-30",
+      "articles": [
+        {
+          "title": "AI agents are not your “coworkers”",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex...",
+          "simplifiedContent": "**Title: AI Tools Are Here to Help, But They’re Not Your Coworkers**\n\nImagine showing up to work and finding out you’ll be managing a new “team member.” But here’s the twist: this new worker isn’t a person—it’s an AI tool that your company has decided to call Alex.\n\nMore and more companies are using AI tools to handle tasks like organizing data, answering questions, or even helping with creative projects. Some businesses give these tools names, like Alex, to make them feel more relatable. But experts say we shouldn’t think of AI as coworkers or teammates. Why? Because they don’t think, feel, or understand things the way humans do. They’re just advanced programs following instructions.\n\nThis matters because treating AI like people could lead to confusion. It might make us expect too much from them or forget that humans are still the ones making big decisions. AI can be really helpful for speeding up work, but it’s not a replacement for human judgment.\n\nSo, if you ever find yourself working with something like “Alex,” remember: it’s just a tool to make your job easier—not a new colleague.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "publishedAt": "2026-06-29T18:00:00.000Z"
+        },
+        {
+          "title": "Agent confidence on the technical frontier",
+          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out...",
+          "simplifiedContent": "**Title: How AI Could Help Businesses Get Smarter by 2026**  \n\nBusinesses are spending a lot of money on artificial intelligence (AI) right now, and experts believe that by 2026, many companies will be using it in smarter ways to reach their big goals. A research group called Gartner says 2026 will be an important year for businesses to show how AI is making a difference and bringing in real results, like higher profits or saving time.  \n\nSo, what’s the big deal? Companies are turning to something called \"agentic AI\" (AI that can act and make decisions on its own, like a virtual assistant). This kind of AI is being seen as a way to solve big problems, like figuring out how to spend money wisely or improve how things get done.  \n\nFor everyday people, this means that by 2026, you might see businesses offering faster customer service, smarter products, or even better prices, all thanks to AI. It’s like giving businesses a super-smart helper to make things easier for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+          "publishedAt": "2026-06-29T14:44:01.000Z"
+        },
+        {
+          "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+          "summary": "Operation by two Russia-state groups has been ongoing since at least March....",
+          "simplifiedContent": "**US Offers $10 Million Reward for Info on Hackers Targeting Signal and WhatsApp**\n\nThe US government is offering a huge reward—$10 million—for any information about hackers who have been breaking into popular messaging apps like Signal and WhatsApp. These apps are used by millions of people around the world to send private messages, so this hacking spree is a big deal.\n\nThe hackers are believed to be connected to the Russian government and have been active since at least March. They’ve been targeting smartphones and apps to spy on people and steal sensitive information. It’s not clear yet who their exact targets are, but experts say these attacks could hurt everyday people, businesses, or even government officials.\n\nThe reward is part of a US program designed to stop cyberattacks and catch hackers who work for foreign governments. If someone knows who’s behind these attacks and shares that information with US officials, they could walk away with $10 million.\n\nThis news highlights how important it is to protect your online privacy. Always be careful about what you share online and make sure to keep your apps and devices updated for better security.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+          "publishedAt": "2026-06-29T22:05:33.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-29",
       "articles": [
         {
@@ -3026,51 +3055,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/",
           "publishedAt": "2026-01-28T10:06:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-28",
-      "articles": [
-        {
-          "title": "OpenAI’s latest product lets you vibe code science",
-          "summary": "OpenAI just revealed what its new in-house team, OpenAI for Science, has been up to. The firm has released a free LLM-powered tool for scientists called Prism, which embeds ChatGPT in a text editor for writing scientific papers. The idea is to put ChatGPT front and center inside software that scient...",
-          "simplifiedContent": "Title: OpenAI's New Tool Makes Writing Science Papers Easier\n\nOpenAI has come up with a new tool called Prism to help scientists write their papers. This tool uses ChatGPT, which is a smart computer program that can understand and generate text. Prism is like a super helper inside a text editor (a program where you type documents) that makes writing and editing scientific papers easier.\n\nHere's how it works: When scientists are writing their papers, they can use Prism to get suggestions, improve their writing, and even check for mistakes. It's like having a smart assistant right there to help make the paper clear and well-written.\n\nThis tool is free, which means any scientist can use it without paying. It's especially useful for those who need help organizing their thoughts or making their writing more professional.\n\nFor everyday people, this means scientists can spend more time focusing on important research and less time worrying about writing. This could lead to faster discoveries and better communication of new ideas. It's one more way technology is making life a bit easier and more efficient.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
-          "publishedAt": "2026-01-27T18:00:43.000Z"
-        },
-        {
-          "title": "Databricks: Enterprise AI adoption shifts to agentic systems",
-          "summary": "According to Databricks, enterprise AI adoption is shifting to agentic systems as organisations embrace intelligent workflows. Generative AI’s first wave promised business transformation but often delivered little more than isolated chatbots and stalled pilot programmes. Technology leaders found the...",
-          "simplifiedContent": "**Title: Businesses Start Using Smarter AI Tools**\n\nBusinesses are beginning to use smarter AI (artificial intelligence) tools to make their work easier and more efficient. In the past, companies hoped that AI would change everything for the better, but often, they just ended up with simple chatbots (computer programs that talk to you) or projects that didn't go anywhere.\n\nNow, companies are turning to something called \"agentic systems.\" These are advanced AI tools that can do more complex tasks and make better decisions on their own. This shift means that businesses can create smarter workflows (the way tasks are organized and completed), which can help them save time and work more effectively.\n\nFor everyday people, this means that when you interact with a company—like calling customer service or shopping online—you might notice things work more smoothly and quickly. These smarter systems can handle more complex requests and give you better answers.\n\nOverall, businesses using these advanced AI tools could lead to better customer experiences and more efficient operations. It's an exciting change that could make technology more helpful in our daily lives.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/databricks-enterprise-ai-adoption-shifts-agentic-systems/",
-          "publishedAt": "2026-01-27T17:26:45.000Z"
-        },
-        {
-          "title": "Anthropic selected to build government AI assistant pilot",
-          "summary": "Anthropic has been selected to build government AI assistant capabilities to modernise how citizens interact with complex state services. For both public and private sector technology leaders, the integration of LLMs into customer-facing platforms often stalls at the proof-of-concept stage. The UK’s...",
-          "simplifiedContent": "**Title: New AI Assistant to Make Government Services Easier for Everyone**\n\nA company called Anthropic has been chosen to create a new AI helper for the government. This AI assistant is designed to make it easier for people to use government services, which can often be confusing and complicated.\n\nRight now, when businesses and government try to use AI tools to help customers, they sometimes get stuck and don't fully use them. But the UK government wants to change that by trying out this new AI assistant.\n\nThe goal is to help people interact with government services more smoothly. Imagine if you could get answers to your questions about taxes, benefits, or other services just by chatting with a smart computer program. That's what this AI assistant aims to do.\n\nIf it works well, it could make dealing with government tasks a lot less stressful and more straightforward for everyone. This project is still in the early stages, but it could lead to big improvements in how we get help from the government in the future.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/anthropic-selected-build-government-ai-assistant-pilot/",
-          "publishedAt": "2026-01-27T13:31:22.000Z"
-        },
-        {
-          "title": "Lowering the barriers databases place in the way of strategy, with RavenDB",
-          "summary": "If database technologies offered performance, flexibility and security, most professionals would be happy to get two of the three, and they might have to expect to accept some compromises, too. Systems optimised for speed demand manual tuning, while flexible platforms can impose costs when early des...",
-          "simplifiedContent": "**Title: How RavenDB Makes Databases Easier for Everyone**\n\nImagine databases as giant digital filing cabinets where all your important information is stored. Usually, these databases make you choose between being fast, easy to use, or super secure. It's like having to pick only two out of three great things.\n\nRavenDB is a new type of database that tries to give you the best of all worlds. It aims to be fast, flexible, and secure all at once. This means you don't have to settle for just two benefits and miss out on the third.\n\nFor everyday people and businesses, this is a big deal. It means they can store and access their information quickly without needing a tech expert to make it work smoothly. Plus, they can trust that their data is safe.\n\nBy making databases easier to use and more reliable, RavenDB helps companies focus more on their goals and less on tech problems. This can lead to better services and products for everyone. So, in simple terms, RavenDB is making it easier for businesses to manage information, which benefits us all.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/",
-          "publishedAt": "2026-01-27T11:46:00.000Z"
-        },
-        {
-          "title": "Cold snap highlight’s airlines’ proactive use of AI",
-          "summary": "The severe weather experienced at present in the US has placed significant strain on the airline industry in the country, with knock-on effects of changes to schedules and routes affecting the rest of the world. It’s at times like this that companies have to respond to queries from customers at a mu...",
-          "simplifiedContent": "**Title: How AI is Helping Airlines Handle Bad Weather**\n\nRight now, the US is dealing with some really cold and tough weather. This is causing big problems for airlines. Flights are getting delayed or canceled, and this is affecting travel plans not just in the US, but around the world. \n\nTo manage this chaos, airlines are using something called AI, which stands for Artificial Intelligence. Think of AI as smart computer programs that help make decisions. These programs can predict weather changes and help airlines adjust their flight schedules more quickly. This means they can better inform passengers about delays or changes.\n\nAI also helps customer service teams handle the flood of questions from worried travelers. With AI, airlines can respond faster and more efficiently, so people aren’t left waiting for answers. \n\nIn short, AI is making it easier for airlines to keep things running smoothly, even when the weather is not on their side. This helps passengers get the information they need and reduces travel headaches.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/",
-          "publishedAt": "2026-01-27T10:55:00.000Z"
         }
       ]
     }
