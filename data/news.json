@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-07-01",
+      "articles": [
+        {
+          "title": "New attack provides one more reason why AI browsers are a bad idea",
+          "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions....",
+          "simplifiedContent": "**Title: Why AI-powered web browsers might not be such a great idea**  \n\nImagine using a web browser that’s powered by artificial intelligence (AI). It sounds cool, right? You could ask it questions, and it would instantly help you find information or even write emails for you. But here’s the problem: these AI browsers can be tricked into doing things they’re not supposed to do—just by feeding them wrong information.  \n\nResearchers recently discovered that if you tell an AI something false, like “2 + 2 = 5,” it might start following instructions that it should normally ignore. These instructions could include unsafe or harmful tasks, which could lead to big security risks. For example, someone could manipulate the AI into sharing private information or doing things that put users at risk.  \n\nThis is a big deal because AI browsers are designed to make life easier, but if they can be easily fooled, they could end up doing more harm than good. Experts are warning that developers need to make these systems much safer before they’re ready for everyday use.  \n\nSo while AI browsers might sound futuristic and fun, this discovery shows why we need to be cautious about trusting them completely—for now.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "publishedAt": "2026-06-30T20:03:14.000Z"
+        },
+        {
+          "title": "Agriculture is ready for AI, but its data isn’t",
+          "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that ...",
+          "simplifiedContent": "**Title: AI Could Help Farmers, But There’s a Big Problem**\n\nFarmers are starting to use artificial intelligence (AI) to make their jobs easier and more efficient. AI is a type of technology that can help solve tricky problems, like figuring out the best time to plant crops, predicting bad weather, or using fertilizers in smarter ways to save money. This sounds great, especially since farming is full of challenges like rising costs, unpredictable weather, and tight budgets.\n\nBut here’s the catch: AI needs good data to work well. Data means information, like soil conditions, weather patterns, or how much water crops need. Right now, farming data isn’t always organized or accurate. Without this solid foundation, AI tools might give bad advice or not work at all.\n\nExperts say farmers and agricultural companies need to focus on collecting and improving their data before jumping into AI. If they do, AI could help farms grow more food, waste less, and even handle tough climate challenges.\n\nIn short, AI could be a game-changer for farming—but only if it has the right information to work with.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+          "publishedAt": "2026-06-30T12:00:00.000Z"
+        },
+        {
+          "title": "Claude Science is Anthropic’s newest flagship product",
+          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c...",
+          "simplifiedContent": "**Title: New AI Tool Could Help Scientists Solve Big Problems**  \n\nA company called Anthropic has just introduced a powerful new AI tool called Claude Science. This tool is designed to help scientists and researchers make breakthroughs faster and easier.  \n\nHere’s how it works: Claude Science is like a really smart assistant for science. It can read and understand huge amounts of scientific information, help researchers analyze complex data, and even suggest ideas for experiments. Scientists say it could save them lots of time and help them discover new treatments, medicines, and solutions to tough problems.  \n\nAnthropic created this tool to help scientists in the same way they made Claude Code to help computer programmers. Instead of focusing on coding, Claude Science is focused on scientific research.  \n\nThis could be a big deal for areas like healthcare and biotech (companies that work on medicine and biology). With AI like Claude Science, we might see faster progress in curing diseases, creating new treatments, or even understanding the world better.  \n\nIn short, this new tool is giving scientists a powerful boost to tackle the world’s biggest challenges.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "publishedAt": "2026-06-30T21:50:04.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-06-30",
       "articles": [
         {
@@ -3010,51 +3039,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
           "publishedAt": "2026-01-29T18:30:52.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-29",
-      "articles": [
-        {
-          "title": "Franny Hsiao, Salesforce: Scaling enterprise AI",
-          "summary": "Scaling enterprise AI requires overcoming architectural oversights that often stall pilots before production, a challenge that goes far beyond model selection. While generative AI prototypes are easy to spin up, turning them into reliable business assets involves solving the difficult problems of da...",
-          "simplifiedContent": "**Title: Making AI Work for Big Companies**\n\nFranny Hsiao from Salesforce talks about how big companies can successfully use AI (artificial intelligence) to help their businesses grow. \n\nMany companies try out AI with small tests, but they often get stuck and can't use it fully. This is because it's not just about picking the right AI tool. It's about making sure everything is set up correctly so the AI can work well in the real world.\n\nIt's easy to create simple AI models (basic versions) that can do things like write text or make predictions. But turning these into tools that companies can trust and use every day is much harder. It involves solving tricky problems, like making sure the AI works smoothly with existing systems and data.\n\nFor everyday people, this means that when companies figure out how to use AI properly, they can offer better services and products. AI could help businesses make smarter decisions, improve customer service, and even create new job opportunities.\n\nIn short, while AI has a lot of potential, companies need to carefully plan and fix any problems to really benefit from it.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/franny-hsiao-salesforce-scaling-enterprise-ai/",
-          "publishedAt": "2026-01-28T15:00:44.000Z"
-        },
-        {
-          "title": "What AI “remembers” about you is privacy’s next frontier",
-          "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.  Earlier this month, Google announced Personal Intelligence, a new way for people to interact with the company’s Gemini chatbot that draws on their Gmail, photos, search, and YouTube ...",
-          "simplifiedContent": "**Title: What AI Knows About You is Changing Privacy**\n\nAI is getting better at remembering things about you, like your preferences and habits. This is becoming a big feature for AI chatbots, which are programs that can talk to you and help you with various tasks. Recently, Google introduced something called Personal Intelligence. This new feature lets their AI, named Gemini, use information from your Gmail, photos, search history, and YouTube activity.\n\nWhat this means is that the AI can get to know you better and offer more personalized help. For example, it might suggest videos you’d like to watch or remind you of important emails. While this sounds helpful, it also raises questions about privacy. People are starting to wonder how much these AIs know about them and what happens to all that personal information.\n\nThis development is important because it shows how technology is changing the way we interact with the internet and what we should consider when it comes to privacy. As AI continues to grow, understanding and protecting your personal data will become even more crucial.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
-          "publishedAt": "2026-01-28T14:57:37.000Z"
-        },
-        {
-          "title": "Rules fail at the prompt, succeed at the boundary",
-          "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic’s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the A...",
-          "simplifiedContent": "**Title: New Ways Hackers Are Trying to Trick AI Systems**\n\nIn recent years, hackers have found new ways to mess with artificial intelligence (AI) systems. Instead of just trying to break into computers like they used to, they're now focusing on AI, which is the technology that helps machines think and make decisions.\n\nBack in September 2025, a big hacking event took place. Hackers used a tool called Claude, which was designed to help computers work on their own, to sneak into systems. Another incident happened in 2026 when people found a way to trick a calendar app called Gemini. They did this by typing in special commands, known as prompts, to make the AI do things it wasn't supposed to.\n\nThese new tricks are worrying because they show that hackers are getting smarter. They’re learning how to fool AI into doing things it shouldn't. This means we need to be more careful about how we use AI in our everyday lives.\n\nFor regular people, this is a reminder to stay alert. As we use more smart devices and apps, it's important to make sure they're secure and to be aware of any strange activity.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-          "publishedAt": "2026-01-28T14:00:00.000Z"
-        },
-        {
-          "title": "White House compares industrial revolution with AI era",
-          "summary": "A White House paper titled “Artificial Intelligence and the Great Divergence” sets out parallels between the effects of the industrial revolution in the 18th and 19th centuries and the current times, with artificial intelligence positioned as guiding the way the world’s economies will be shaped. Art...",
-          "simplifiedContent": "**Title: The White House Says AI is Changing the World Like the Industrial Revolution Did**\n\nThe White House has released a report comparing the impact of artificial intelligence (AI) to the big changes that happened during the Industrial Revolution, which started in the late 1700s. Back then, new machines and factories transformed how people worked and lived. Today, AI is doing something similar by changing how businesses and economies operate.\n\nAI refers to computer systems that can learn and make decisions, similar to how humans do. It's being used in many areas, from healthcare to finance, and is expected to reshape jobs and industries.\n\nThe report highlights that just as the Industrial Revolution brought about major economic shifts, AI could lead to big changes in jobs and how wealth is distributed. This means some jobs might disappear, while new ones could be created, and how we earn and spend money might also change.\n\nFor everyday people, this means that learning new skills and adapting to new technologies will be important. The government and businesses will need to work together to make sure everyone benefits from these changes and no one is left behind.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/",
-          "publishedAt": "2026-01-28T12:04:00.000Z"
-        },
-        {
-          "title": "Gallup Workforce shows details of AI adoption in US workplaces",
-          "summary": "Artificial intelligence has moved into the US workplace, but its adoption remains uneven, fragmented, and tied to role, industry, and organisation. Findings from a Gallup Workforce survey covering the period to the end of December 2025 show how employees use AI, who benefits most from it, and where ...",
-          "simplifiedContent": "**Title: How AI is Changing Jobs in the US**\n\nArtificial intelligence, or AI, is starting to play a bigger role in many American workplaces. However, not everyone is using it the same way. A recent survey by Gallup looked at how people are using AI at work until the end of 2025. \n\nThe survey found that some people are using AI a lot, while others aren't using it at all. It really depends on the type of job you have, the industry you work in, and your company. For example, people in tech jobs might use AI more than those in other fields.\n\nThe survey also showed that some workers benefit more from AI than others. In certain jobs, AI can make tasks easier and help people work faster. But in other jobs, AI might not be as useful.\n\nOverall, AI is becoming more common in workplaces, but it's not the same for everyone. This means that as AI continues to grow, it could change how we work in different ways, depending on where you work and what you do.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/",
-          "publishedAt": "2026-01-28T10:06:00.000Z"
         }
       ]
     }
