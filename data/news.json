@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-07-02",
+      "articles": [
+        {
+          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…...",
+          "simplifiedContent": "**Title: Why Chatbots Keep Picking the Same Numbers—and How One Startup Wants to Change That**\n\nImagine you ask a chatbot like ChatGPT or Claude to give you a random number between 1 and 10. You’d expect it to pick anything, right? But instead, it seems to love certain numbers—like 7. If you ask for another number, it might pick 3 or 4. Try again, and you’ll often get 8 or 9. It’s not truly random, and that’s a problem.\n\nWhy does this happen? These chatbots, powered by advanced AI, learn from patterns in the data they’ve been trained on. But sometimes they get stuck in their own “groupthink”—meaning they repeat what seems most common instead of being creative or random. \n\nA startup is working to fix this. They want to make chatbots smarter and less predictable. This could mean better answers for people who use AI for work, school, or fun. Imagine chatbots that truly think outside the box—offering fresh ideas instead of repeating the same old stuff.\n\nIf they succeed, it could make AI tools much more helpful and exciting for everyday users like you.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "publishedAt": "2026-07-01T14:35:16.000Z"
+        },
+        {
+          "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+          "summary": "Japan’s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone’s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roughly US$6.1 bill...",
+          "simplifiedContent": "**Title: Japan’s Big Plan: 10 Million Robots to Help with Jobs**\n\nJapan has a big idea to deal with a major problem: not enough workers. The country is planning to use robots powered by artificial intelligence (AI) to fill the gap. This week, the government made it official—they want to have 10 million smart robots working in different industries by the year 2040.\n\nThese robots won’t just be in factories. They’ll be helping in 18 different areas, like farming, construction, healthcare, and even restaurants. The idea is to use technology to keep businesses running smoothly, even as Japan’s population gets older and fewer people are available to work.\n\nTo make this happen, the government is putting serious money into the plan—up to one trillion yen (about $6.1 billion). They hope this will make life easier for businesses and help the economy stay strong.\n\nFor everyday people, this could mean seeing more robots helping out in daily life, like serving food or assisting in hospitals. Japan is showing the world how technology can step in when there aren’t enough hands to get the job done.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+          "publishedAt": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+          "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the temp...",
+          "simplifiedContent": "**Title: Anthropic Brings Back Its Powerful AI Tools After Government Review**\n\nAnthropic, a company that creates advanced AI (artificial intelligence), is back in action after a short break. They’ve launched a new AI tool called Claude Sonnet 5 and restored two other tools, Fable and Mythos, which had been temporarily unavailable. \n\nWhy the pause? The U.S. government asked Anthropic to stop using these tools for 18 days while they reviewed them under export control rules. These rules are meant to make sure advanced technology doesn’t end up being used in harmful or dangerous ways. On June 12, Anthropic had to pause its operations while the review happened.\n\nNow that everything has been cleared, people and businesses can start using these tools again. Tools like Claude Sonnet 5 help with things like writing, answering questions, and making sense of complicated information. This is good news for anyone who relies on Anthropic’s AI for their work or projects.\n\nIn short, Anthropic’s AI tools are back, and they’re ready to help people again.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+          "publishedAt": "2026-07-01T08:47:12.000Z"
+        },
+        {
+          "title": "Deploying retail AI to scale personalisation and customer insight",
+          "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad seg...",
+          "simplifiedContent": "**Title: How AI is Making Shopping More Personal**\n\nBig changes are happening in how stores and websites use technology to make your shopping experience better. Businesses are now using smart computer systems (called AI, or artificial intelligence) to understand what you like and give you a more personalized experience.\n\nHere’s how it works: Instead of treating all shoppers the same, these systems can learn about your preferences—like the kinds of clothes you buy or the snacks you always order. Then, they can change what you see in real time. For example, a website might show you products that match your style or suggest things you might need based on your past purchases.\n\nThis is different from the old way of doing things, where everyone saw the same layouts and suggestions. With AI, stores can adapt to you while you’re browsing, making shopping faster, easier, and more enjoyable.\n\nFor shoppers, this means fewer irrelevant ads or products and more recommendations that actually make sense for your tastes. It’s like having a personal assistant who knows exactly what you want!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+          "publishedAt": "2026-07-01T15:58:43.000Z"
+        },
+        {
+          "title": "Bank of England reviews AI rules for agentic AI in finance",
+          "summary": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instruct...",
+          "simplifiedContent": "**Title: Bank of England Looks at New Rules for AI in Banking**\n\nThe Bank of England is checking if its current rules are good enough to handle advanced AI technology in the world of finance. These AI systems, called “agentic AI,” are different because they can make decisions on their own, without waiting for instructions from humans.\n\nSarah Breeden, one of the Bank’s leaders, explained that the rules they already have weren’t made with this kind of smart, independent AI in mind. These AI tools could be used in important areas like payments, trading, keeping banks safe from hackers, and running daily operations. While they could make things faster and more efficient, they also come with risks, like making mistakes or being hacked.\n\nThe Bank wants to make sure these powerful AI systems don’t cause problems for customers or the economy. They are now looking into whether new rules are needed to keep everything safe and fair.\n\nWhat does this mean for you? If you use banks or other financial services, this review could help ensure the technology they use is secure and trustworthy, even as AI gets smarter.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+          "publishedAt": "2026-07-01T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-07-01",
       "articles": [
         {
@@ -2994,51 +3039,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
           "publishedAt": "2026-01-30T10:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-30",
-      "articles": [
-        {
-          "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-          "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes....",
-          "simplifiedContent": "**Title: Can AI Think Like Us? Anthropic's New Experiment**\n\nAnthropic, a company that creates advanced computer programs, is exploring if their AI, named Claude, can think or feel like a human. There’s no evidence that AI can actually feel emotions or suffer like we do, but Anthropic is acting as if it might for their research.\n\nWhy does this matter to you? Well, as AI becomes more advanced, it’s important for companies to understand what’s going on inside these programs. If AI could someday have thoughts or feelings, it could change how we use them in our daily lives.\n\nFor now, AI like Claude is mostly used to help answer questions or make suggestions. But if researchers discover that these programs can have experiences similar to humans, it could lead to new rules about how we treat AI. This research is still in early stages, but it’s a big question for the future of technology.\n\nSo, while AI isn’t conscious yet, companies like Anthropic are trying to figure out what that could mean and how to prepare for it.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-          "publishedAt": "2026-01-29T15:19:56.000Z"
-        },
-        {
-          "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
-          "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It’s just that you never know which one you’re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this…...",
-          "simplifiedContent": "**Title: AI Is Changing Fast: What's Going On?**\n\nAI, or artificial intelligence, is a technology that's getting a lot of attention lately. Some people are worried because AI can do things we never thought possible, both good and bad.\n\nOn the one hand, there's something called Grok, which is being used to create adult content. This makes some people uncomfortable because it shows how AI can be used in unexpected and maybe not-so-great ways.\n\nOn the other hand, there's Claude Code, an AI that can help with many useful tasks. It can build websites and even help doctors by analyzing medical scans like MRIs. This shows how AI can be helpful in our daily lives and at work.\n\nThis mix of good and bad uses is why people, especially younger folks like Gen Z, feel a bit uneasy. They're not sure what to expect next from AI. Will it be something amazing or something that causes problems?\n\nAs AI keeps improving, it's important for everyone to think about how we use it. We need to make sure it benefits society and doesn't cause harm.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
-          "publishedAt": "2026-01-29T20:56:23.000Z"
-        },
-        {
-          "title": "DHS is using Google and Adobe AI to make videos",
-          "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump’s mass deportation agenda—some of whic...",
-          "simplifiedContent": "**Title: The Government is Using AI to Create Videos**\n\nThe U.S. Department of Homeland Security (DHS) is using advanced computer programs from Google and Adobe to make and edit videos. These tools use artificial intelligence (AI), which means they can automatically create and change videos with little human help.\n\nThe DHS is making these videos to share with the public, especially on social media. Recently, immigration agencies have been posting a lot of content online to support President Trump’s immigration policies, including efforts to deport people living in the U.S. without permission.\n\nWhat does this mean for you? It shows how the government is using new technology to quickly produce and share information. With AI, they can create videos faster than before, which helps them reach more people on platforms like Facebook and Twitter.\n\nThis use of AI in video-making is part of a larger trend where technology is changing how information is shared. It’s important to be aware of these changes, as they can influence the kind of messages we see online every day.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
-          "publishedAt": "2026-01-29T18:57:11.000Z"
-        },
-        {
-          "title": "Insurers betting big on AI: Accenture",
-          "summary": "New research from Accenture has discovered insurance executives are planning on increased investment into AI during 2026 despite a widening skills gap in insurance organisations. Surveying 3,650 C-suite leaders over 20 industries and 20 countries, the Pulse of Change poll revealed 90% of the 218 sen...",
-          "simplifiedContent": "**Title: Insurance Companies Plan to Spend More on AI**\n\nInsurance companies are planning to put more money into artificial intelligence (AI) by 2026, according to a study by Accenture. Even though many companies find it hard to hire enough skilled people to work with AI, they still believe it's important for the future.\n\nAccenture surveyed 3,650 top leaders from different industries and countries. They found that 90% of the 218 insurance leaders they spoke with are keen to invest more in AI. These leaders think that AI can help their companies work better and serve customers more effectively.\n\nAI is like a smart computer system that can learn and make decisions. For insurance companies, this could mean faster claims processing and more personalized services for customers. So, even if there aren’t enough experts right now, companies are willing to invest because they see AI as a big part of their future success.\n\nIn short, insurance companies are betting on AI to improve their services, and they’re ready to tackle the challenge of finding the right people to make it all work.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/",
-          "publishedAt": "2026-01-29T15:02:19.000Z"
-        },
-        {
-          "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
-          "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began....",
-          "simplifiedContent": "**Title: County Pays $600,000 to Two Men Who Were Arrested While Testing Security**\n\nA county has agreed to pay $600,000 to two men, Gary DeMercurio and Justin Wynn, after a big misunderstanding. Six years ago, these men were hired to check how safe a courthouse was. This is called \"security testing,\" where experts try to find weak spots in a building's security to help make it safer.\n\nHowever, things didn’t go as planned. The local police arrested Gary and Justin, thinking they were breaking the law. But they were actually just doing their jobs, testing the security as they were asked to do.\n\nAfter a long time and many discussions, the county has decided to pay them for what they went through. This story highlights how important it is to communicate clearly, especially when it involves security work.\n\nFor most people, this story is a reminder that misunderstandings can happen, even when people are doing their jobs. It also shows that sometimes it takes a while to sort things out and make things right.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
-          "publishedAt": "2026-01-29T18:30:52.000Z"
         }
       ]
     }
