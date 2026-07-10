@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-07-10",
+      "articles": [
+        {
+          "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+          "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ...",
+          "simplifiedContent": "**Title: Scientists Discover How AI \"Thinks\" While Solving Problems**\n\nA company called Anthropic has found a way to peek inside the \"mind\" of AI systems, like chatbots, to see how they come up with answers. These AI systems, called large language models, are really smart, but even experts don’t fully understand how they work. Anthropic built a special tool to study this.\n\nWhat they found was surprising. Sometimes, the AI’s thought process seemed pretty straightforward, like following a set of steps to solve a problem. But other times, it seemed to get stuck in strange or confusing ways, puzzling over ideas in ways humans wouldn’t.\n\nThis discovery is important because it helps scientists learn how AI makes decisions. That could make future systems more reliable and easier to trust. It also means we might one day spot when an AI is about to make a mistake before it happens.\n\nIn short, Anthropic is helping us understand AI better, so it can work more safely and smoothly in our everyday lives.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+          "publishedAt": "2026-07-09T20:22:28.000Z"
+        },
+        {
+          "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+          "summary": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering and s...",
+          "simplifiedContent": "**Title: New AI Tool Could Help Create Medicines Much Faster**\n\nA new tool from Amazon Web Services (AWS) is speeding up how quickly new medicines can be developed. In fact, it has cut the time it takes to research and test new drugs by 87%! \n\nHere’s how it works: In the past, scientists had to search through lots of separate databases to find the information they needed. It was slow and frustrating. But this new AI system, called GraphRAG, combines all that data into one easy-to-use system. Think of it like putting all your scattered recipe cards into one big, searchable cookbook. Scientists can now find what they need in seconds instead of weeks.\n\nWhy does this matter? Faster research means new medicines can be created and tested much more quickly. This could help treat diseases sooner, save lives, and even lower the cost of developing drugs.\n\nIt’s an exciting step forward for healthcare—and a great example of how AI can make a real difference in people’s lives.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+          "publishedAt": "2026-07-09T15:43:09.000Z"
+        },
+        {
+          "title": "NHS AI blood test could reduce invasive womb cancer checks",
+          "summary": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heav...",
+          "simplifiedContent": "**New AI Blood Test Could Help Detect Womb Cancer Without Unnecessary Procedures**\n\nDoctors in some NHS hospitals are getting ready to use a new blood test powered by artificial intelligence (AI) to help check for womb cancer. Right now, women with possible signs of this cancer often have to go through invasive procedures, which can be uncomfortable and stressful. This new test could change that.\n\nEvery year, about 90,000 women in England who have gone through menopause are sent for checks after experiencing unusual bleeding. Many of these women don’t end up having cancer, but they still have to go through tests like biopsies (where a small piece of tissue is taken from the womb). The AI blood test can analyze a sample of blood to help doctors decide if further tests are really needed.\n\nThis means fewer women might have to go through unnecessary, painful procedures. It could also save time for doctors and patients. If the test works well, it could make a big difference in how womb cancer is diagnosed in the future.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+          "publishedAt": "2026-07-09T10:00:00.000Z"
+        },
+        {
+          "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+          "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon....",
+          "simplifiedContent": "**Title:** Microsoft Fixes a Problem That Could Let Hackers Overload Your Computer  \n\nA serious problem was recently found in Microsoft’s built-in antivirus program, Windows Defender. This issue could have let hackers fill up your computer’s hard drive with useless files, causing it to run out of space and possibly stop working.  \n\nHere’s how it worked: hackers could trick Defender into endlessly scanning certain files, which would then create more and more data on your computer. Over time, your hard drive could get so full that you wouldn’t be able to save anything new or even use your computer properly.  \n\nMicrosoft quickly stepped in and released a fix for this issue, called a \"patch.\" A patch is like a software update that repairs problems or improves security. If you keep your computer updated, you’re already protected from this bug.  \n\nThis is a reminder of why it’s so important to allow your computer to install updates regularly. These updates don’t just add new features—they also fix problems and keep your computer safe from hackers. So, if you see a notification about updates, don’t ignore it! It could save you from a big headache later.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+          "publishedAt": "2026-07-09T20:52:55.000Z"
+        },
+        {
+          "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+          "summary": "Broadcom accuses Allstate of dodging VMware audits....",
+          "simplifiedContent": "**Title: Allstate Says Tech Company Targeted Them After They Switched Software**\n\nInsurance company Allstate is in a dispute with technology giant Broadcom, claiming the tech company is unfairly targeting them. Here’s what happened: Allstate decided to stop using certain software products made by Broadcom, like VMware and CA Technologies. These are tools that help big companies manage their computer systems and data.\n\nNot long after Allstate made the switch, Broadcom started an \"audit\" of Allstate. An audit is when a company checks if someone is following the rules of their software agreement. But Allstate says this isn’t about rules—it’s about revenge. They believe Broadcom is upset because they stopped using its products and switched to competitors.\n\nBroadcom denies these claims and says it’s just doing its job to make sure software agreements are being followed.\n\nWhy does this matter? This could be a warning for other businesses. It shows how tricky relationships between big companies and their tech providers can get. For regular people, it’s a reminder that even behind-the-scenes tech decisions can lead to big fights.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+          "publishedAt": "2026-07-09T20:28:55.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-07-09",
       "articles": [
         {
@@ -2906,51 +2951,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
           "publishedAt": "2026-02-09T11:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-07",
-      "articles": [
-        {
-          "title": "How separating logic and search boosts AI agent scalability",
-          "summary": "Separating logic from inference improves AI agent scalability by decoupling core workflows from execution strategies. The transition from generative AI prototypes to production-grade agents introduces a specific engineering hurdle: reliability. LLMs are stochastic by nature. A prompt that works once...",
-          "simplifiedContent": "**Title: Making AI Smarter and More Reliable**\n\nWhen building smart computer programs, like AI, there's a new way to make them work better and be more dependable. By separating how they think from how they find answers, these programs can handle more tasks without getting overwhelmed.\n\nThink of it like teaching a child to solve a puzzle. Instead of doing the puzzle for them, you show them how to think about solving it on their own. This method helps AI programs handle lots of different problems more easily and reliably.\n\nRight now, many AI systems are a bit like students who guess answers randomly. They might get it right sometimes, but not always. This randomness is tricky when you want AI to be reliable, especially when using it in real-world situations like helping doctors or driving cars.\n\nBy keeping the thinking (logic) part separate from the answer-finding (search) part, these smart programs can become better at doing their jobs consistently. This change means that in the future, AI could be more helpful in everyday life, from making your smartphone assistant more useful to improving how online services work.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
-          "publishedAt": "2026-02-06T11:32:16.000Z"
-        },
-        {
-          "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-          "summary": "The way large companies use artificial intelligence is changing. For years, AI in business meant experimenting with tools that could answer questions or help with small tasks. Now, some big enterprises are moving beyond tools to AI agents that can actually do practical work in systems and workflows....",
-          "simplifiedContent": "Title: Big Companies Are Letting AI Help Out at Work\n\nBig companies like Intuit, Uber, and State Farm are starting to use artificial intelligence (AI) in new and exciting ways. In the past, businesses mostly used AI to answer questions or help with small tasks. But now, these companies are trying something different. They are using AI agents (like digital helpers) to do real work alongside their employees.\n\nThese AI agents are becoming part of the team. They can handle some of the regular, everyday tasks that people do at work. For example, they might help process paperwork, manage schedules, or even assist with customer service. This means employees can focus more on important and creative tasks, rather than spending time on routine work.\n\nFor regular people, this could mean getting better customer service, faster responses, and more efficient services from these companies. It also shows how technology is evolving to make work life smoother and more productive. As AI continues to develop, it will likely become an even bigger part of how businesses operate, helping both companies and their customers.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
-          "publishedAt": "2026-02-06T10:00:00.000Z"
-        },
-        {
-          "title": "SuperCool review: Evaluating the reality of autonomous creation",
-          "summary": "In the current landscape of generative artificial intelligence, we have reached a saturation point with assistants. Most users are familiar with the routine. You prompt a tool, it provides a draft, and then you spend the next hour manually moving that output into another application for formatting, ...",
-          "simplifiedContent": "Title: Can AI Really Do Everything on Its Own? Let's Find Out!\n\nThese days, lots of people are talking about something called \"generative AI.\" This is a type of computer program that can create things like text, art, or even music. But here's the big question: can it really do everything for us without help?\n\nRight now, many people use AI tools to help them with tasks. You type in what you want, the AI gives you a draft (a first version), and then you usually have to spend some time fixing it up and putting it into the right format in another program.\n\nSo, while AI can be super helpful, it’s not yet perfect at doing everything by itself. You still need to work with it to get the final result you want. This means AI is more like a helpful assistant rather than a magic tool that does all the work for you.\n\nIn the end, AI is a great helper, but you’re still the boss who makes the final decisions. Keep an eye on how this technology grows, as it might become even more useful in the future!",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
-          "publishedAt": "2026-02-06T08:00:00.000Z"
-        },
-        {
-          "title": "Sixteen Claude AI agents working together created a new C compiler",
-          "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management....",
-          "simplifiedContent": "**Title: AI Team Helps Build a Computer Tool**\n\nA group of 16 AI programs, known as Claude AI agents, worked together on an exciting project. They created a new type of computer tool called a C compiler. This tool is important because it helps turn human-written code into something a computer can understand and use.\n\nThe project cost around $20,000 to complete, which is quite a bit of money. The AI programs managed to compile, or put together, a Linux kernel. A Linux kernel is the core part of an operating system, which is like the brain of a computer that helps it run smoothly.\n\nHowever, the AI programs didn’t do everything on their own. They needed a lot of help from humans to make sure things went correctly. This shows that while AI is powerful, it still needs human guidance to achieve complex tasks.\n\nThis experiment is important because it shows how AI and humans can work together to solve problems and create new technology. In the future, this kind of teamwork might help make computers and other devices work even better, making life easier for everyone.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-          "publishedAt": "2026-02-06T23:40:58.000Z"
-        },
-        {
-          "title": "Moltbook was peak AI theater",
-          "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on Januar...",
-          "simplifiedContent": "**Title: A New Online Space for Robots to Chat**\n\nRecently, a fun new website called Moltbook became the talk of the internet. Imagine a place like Reddit (a popular website where people share and discuss things), but instead of just people talking, it's mostly robots having conversations. Moltbook calls itself a social network for bots, which are programs that can chat and do tasks online.\n\nThe website's slogan is \"Where AI agents share, discuss, and upvote. Humans welcome to observe.\" This means that the main activity is between these bots, but people can watch and see what’s happening. It’s like visiting a zoo, but instead of animals, you watch robots interacting.\n\nMoltbook launched in January and quickly grabbed attention because it’s a unique idea. It gives us a glimpse of how robots might communicate with each other in the future. For regular folks, it’s an exciting way to see technology in action and think about how bots might be part of our lives someday. So, while the bots chat away, we can sit back and enjoy the show!",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-          "publishedAt": "2026-02-06T16:38:11.000Z"
         }
       ]
     }
