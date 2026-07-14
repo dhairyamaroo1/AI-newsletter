@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-07-14",
+      "articles": [
+        {
+          "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo...",
+          "simplifiedContent": "**Title: What Anthropic’s New AI Discovery Means for You**  \n\nAnthropic, one of the biggest companies in artificial intelligence, has made a new discovery that’s getting people talking. The company, valued at nearly $1 trillion, is known for researching cutting-edge ideas about AI. While their work can sometimes seem complicated, this latest research gives us a glimpse into how AI might improve in the future.\n\nThe discovery looks at how AI systems make decisions and solve problems. Anthropic is trying to make AI smarter, safer, and more reliable. For example, they want to create AI that’s better at understanding what people mean, even if instructions are vague or unclear. This could lead to technology that’s easier for everyone to use—whether it’s helping you write an email, answer a tricky question, or even plan your day.\n\nBut experts say there’s still a lot of work to do. AI isn’t perfect, and it can make mistakes or misunderstand things. Anthropic’s research is just one step toward solving these challenges.  \n\nIn short, this discovery shows us what’s possible with AI in the future—but it’s not the final answer yet.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "publishedAt": "2026-07-13T18:00:00.000Z"
+        },
+        {
+          "title": "AI agent crawlers now need permission. Here’s how to get it",
+          "summary": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google. The more useful par...",
+          "simplifiedContent": "**Title: Some AI bots will need permission to visit websites starting September**\n\nBig changes are coming for the way some AI tools work online. Starting September 15, certain AI bots, called \"crawlers,\" will need permission before they can visit websites. Crawlers are little programs that search the internet to find information for AI tools, like chatbots, when you ask them a question.\n\nCloudflare, a company that helps protect websites, announced this new rule on July 1. They said these bots will now be blocked by default unless website owners specifically allow them. This change is important because it gives websites more control over how their content is used by AI systems.\n\nWhy does this matter? Well, many AI tools rely on these crawlers to gather information from the internet. If they can't access certain websites, they might not be able to provide the best answers. At the same time, this protects websites from having their content taken without permission.\n\nFor everyday people, this means AI tools might get smarter about how they collect information—or you might notice that some answers aren't as complete. It’s all part of making the internet fairer for everyone!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+          "publishedAt": "2026-07-13T11:00:00.000Z"
+        },
+        {
+          "title": "The US government warns that Russia state hackers are coming after your router",
+          "summary": "With residential proxies all the rage, CISA urges router users to be vigilant....",
+          "simplifiedContent": "**Title: The US Government Warns: Hackers Could Be Targeting Your Wi-Fi Router**\n\nThe US government is warning people to be extra careful with their home Wi-Fi routers. Hackers linked to the Russian government are trying to break into routers, which could let them spy on your internet activity or even cause bigger cyber problems.\n\nRouters are the small boxes in your home that connect all your devices to the internet. If hackers take control of your router, they could track what websites you visit, steal personal information, or use your internet connection for illegal activities.\n\nThe government agency CISA (Cybersecurity and Infrastructure Security Agency) is asking everyone to take simple steps to protect themselves. They recommend changing your router’s password to something strong and unique, keeping your router’s software (called firmware) up to date, and rebooting (turning off and on) your router regularly.\n\nThese steps don’t take long, but they can make a big difference in keeping your internet safe. With more people working and living online, protecting your Wi-Fi is more important than ever. Don’t let hackers sneak into your digital life—secure your router today!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+          "publishedAt": "2026-07-13T21:03:07.000Z"
+        },
+        {
+          "title": "Now, defenders are embracing the prompt injection, too",
+          "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm....",
+          "simplifiedContent": "**Title: A New Way to Stop Harmful AI Tools**\n\nHackers sometimes use tricks to mess with AI systems, like chatbots or other computer programs that rely on text instructions (called \"prompts\"). But now, defenders—people who protect systems from hackers—are using those same tricks to stop bad AI tools from causing harm.\n\nOne method is called \"context bombing.\" It’s like feeding an AI so much extra information that it gets confused and stops working properly. For example, if a harmful AI is trying to do something bad, defenders can overload it with messages that tell it to stop or shut down.\n\nThis approach is becoming a clever way to stop hacking programs before they can do damage. Instead of fighting hackers directly, defenders are tricking the harmful AI into stopping itself. It’s like throwing water on a fire before it spreads.\n\nThis is a big deal because AI tools are being used more and more, and keeping them safe is important for everyone. Whether it’s protecting personal data or stopping cyberattacks, this method shows how creativity can help keep technology safe for all of us.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "publishedAt": "2026-07-13T15:06:34.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-07-11",
       "articles": [
         {
@@ -2890,35 +2927,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/barclays-bets-on-ai-to-cut-costs-and-boost-returns/",
           "publishedAt": "2026-02-11T10:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "articles": [
-        {
-          "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
-          "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. T...",
-          "simplifiedContent": "**Title: People Are Being Encouraged to Cancel Their ChatGPT Subscriptions**\n\nIn September, Alfred Stephen, a software developer from Singapore, decided to pay $20 a month for a special version of ChatGPT, called ChatGPT Plus. This version is supposed to help with faster and better responses, especially for people who use it for work. Alfred hoped it would make his job easier by helping him write computer programs more quickly.\n\nHowever, Alfred soon became unhappy with ChatGPT. He found that the chatbot wasn’t very good at helping him with coding (writing computer programs). Plus, its answers were often too long and wandered off-topic, which made it frustrating to use.\n\nNow, there's a campaign called “QuitGPT” that is encouraging people like Alfred to cancel their subscriptions. The campaign is gaining attention because many people feel they’re not getting what they expected from the service.\n\nThis is important for everyday users because it shows that even though AI tools like ChatGPT can be helpful, they don’t always work perfectly. People need to think about whether these tools are worth the cost and if they truly meet their needs.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
-          "publishedAt": "2026-02-10T17:00:24.000Z"
-        },
-        {
-          "title": "Chinese hyperscalers and industry-specific agentic AI",
-          "summary": "Major Chinese technology companies Alibaba, Tencent, and Huawei are pursuing agentic AI (systems that can execute multi-step tasks autonomously and interact with software, data, and services without human instruction), and orienting the technology toward discrete industries and workflows. Alibaba’s ...",
-          "simplifiedContent": "**Title: Chinese Tech Giants are Developing Smart AI for Different Industries**\n\nBig Chinese tech companies like Alibaba, Tencent, and Huawei are working on advanced AI technology. This new type of AI can handle complex tasks on its own without needing people to give it instructions. Imagine a super-smart assistant that can do many steps of a task by itself, like managing schedules, sending emails, or analyzing data.\n\nThese companies are focusing on using this smart AI in specific industries. This means the AI will be tailored to help with the unique needs of different fields, like healthcare, finance, or manufacturing. For example, in healthcare, this AI could help doctors by organizing patient information or suggesting treatment options.\n\nThe goal is to make these industries work more smoothly and efficiently. This could lead to better services and products for everyone. So, whether it’s making your online shopping faster or improving medical care, this new AI technology aims to make life easier and more productive in various areas.\n\nIn the future, you might see more of these smart AI systems helping out in many parts of life, thanks to the work of these companies.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/",
-          "publishedAt": "2026-02-10T11:20:00.000Z"
-        },
-        {
-          "title": "Agentic AI in healthcare: How Life Sciences marketing could achieve $450B in value by 2028",
-          "summary": "Agentic AI in healthcare is graduating from answering prompts to autonomously executing complex marketing tasks – and life sciences companies are betting their commercial strategies on it. According to a recent report cited by Capgemini Invent, AI agents could generate up to $450 billion in economic...",
-          "simplifiedContent": "**Title: How Smart AI Could Boost Healthcare Marketing by $450 Billion by 2028**\n\nIn the world of healthcare, new smart AI (artificial intelligence) tools are making a big splash. These tools are getting better at doing complicated tasks on their own, especially in marketing for life sciences companies. Life sciences involve businesses that work with medicines, medical devices, and health-related products.\n\nA recent study by Capgemini Invent, a big consulting company, suggests that by 2028, these AI tools could help generate up to $450 billion in value. This means they could make healthcare marketing much more effective and efficient.\n\nSo, what does this mean for everyday people? Well, with smarter marketing, healthcare companies can better understand what patients need and how to reach them. This could lead to more personalized healthcare services and products. For example, you might see more tailored advertisements or get information about new treatments that are perfect for you.\n\nOverall, as these AI tools become more common, they could help make healthcare more accessible and effective, benefiting everyone who needs medical care.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/",
-          "publishedAt": "2026-02-10T10:00:00.000Z"
         }
       ]
     }
