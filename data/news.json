@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-07-16",
+      "articles": [
+        {
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+          "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”...",
+          "simplifiedContent": "**Title: Businesses Are Struggling to Make AI Work, and Many Call Chatbots “Agents”**\n\nA recent study looked at how over 100 businesses are using AI tools, and it turns out they’re running into some big challenges. Instead of struggling to find the right platform (the system that runs the AI), the real problem is figuring out how to actually use AI effectively in their day-to-day work.\n\nOne popular type of AI tool businesses are using is called “agents.” These are basically advanced chatbots or virtual assistants that can handle tasks by following multiple steps, like answering questions or helping with customer service. Right now, a tool called Claude (made by an AI company named Anthropic) is leading the pack as the most trusted option because it’s reliable and performs well.\n\nThe big issue? Companies are dreaming big about what these AI agents can do, but the technology isn’t quite there yet for many tasks. It’s clear businesses need better strategies for using AI tools—not just picking the best one—but figuring out how to make them work smoothly.\n\nFor everyday people, this means AI is still evolving, and while it’s showing promise, businesses are still figuring out how to use it to make life easier for everyone.",
+          "source": "AI | VentureBeat",
+          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+          "publishedAt": "2026-07-15T22:24:17.000Z"
+        },
+        {
+          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+          "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...",
+          "simplifiedContent": "**Title: OpenAI Built a \"Hacker\" AI to Make Its Other AIs Safer**\n\nOpenAI, the company behind popular AI tools like ChatGPT, has created a new AI called GPT-Red. But don’t worry—it’s not here to cause trouble. GPT-Red is designed to act like a “hacker” so it can test and challenge OpenAI’s other AI systems. Think of it like a sparring partner in a boxing match, but for computers. \n\nHere’s why this matters: AI tools are getting smarter, but that also means they need to be protected from bad actors who might try to use them in harmful ways, like launching cyberattacks. By training its new AI model (called GPT-5.6) to “fight” with GPT-Red, OpenAI has made it better at spotting and resisting tricks that hackers might try.\n\nThis approach helps make AI tools safer for everyone. It’s like training a guard dog by having it practice with a pretend intruder. For regular users, this means the AI-powered tools you use—whether for writing, customer service, or other tasks—will be more secure and reliable.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+          "publishedAt": "2026-07-15T17:09:37.000Z"
+        },
+        {
+          "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+          "summary": "The convenience store chain will use StorMagic instead....",
+          "simplifiedContent": "**Title: Sheetz Upgrades Its Tech to Make Things Run Smoother**\n\nSheetz, the popular convenience store chain, is making a big change to how it handles its technology behind the scenes. The company is moving away from using VMware, a platform that helps run virtual machines (basically, software that acts like a computer inside another computer). Instead, Sheetz will now use a new system called StorMagic.\n\nThis upgrade means Sheetz will move 11,000 virtual machines to the new system. While that sounds like a lot, what it really means is that the company is switching to a faster and more efficient way to keep its stores running smoothly. Virtual machines are used to manage things like inventory, payments, and other important store operations. By switching to StorMagic, Sheetz aims to make these processes simpler and save money on technology costs.\n\nFor customers, this upgrade might not be something you notice right away, but it could mean fewer hiccups at checkout and a smoother experience in stores over time. Sheetz is investing in smarter technology to stay ahead and make sure everything works better behind the scenes.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+          "publishedAt": "2026-07-15T21:41:56.000Z"
+        },
+        {
+          "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+          "summary": "Nokia’s AI-RAN platform arrived on July 15 with a claim worth examining: that it is the industry’s first. The vendor says the platform, built on its anyRAN software and NVIDIA’s Aerial system, will let operators pull far more capacity from the spectrum they already own, and it has framed the launch ...",
+          "simplifiedContent": "**Title: Nokia Teams Up with NVIDIA to Make Mobile Networks Faster**\n\nNokia just announced a new technology called AI-RAN that could make mobile networks work better and faster. It launched on July 15 and is being called the first of its kind. Here’s the exciting part: it uses smart software from Nokia and powerful tools from NVIDIA to help phone companies get more out of the network signals they already have.\n\nRight now, phone companies have a limited amount of spectrum (the invisible radio waves that carry calls and internet data). Nokia’s new system helps them use these waves more efficiently, meaning they can handle more calls, texts, and online activity without needing to buy extra spectrum.\n\nThis could be a big deal for everyday people. If phone companies adopt this technology, it might mean fewer dropped calls, faster mobile internet, and better service overall—especially in crowded areas like cities. Plus, it could keep costs lower since companies won’t need to spend as much money upgrading their networks.\n\nIn short, Nokia and NVIDIA are teaming up to make the mobile experience smoother, faster, and more reliable.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+          "publishedAt": "2026-07-15T08:30:00.000Z"
+        },
+        {
+          "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+          "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions....",
+          "simplifiedContent": "**Title: Big Windows Update Fixes Problems, But New Security Issue Pops Up**\n\nMicrosoft recently released a big update for Windows, fixing a record number of issues in the software. These updates are like repairs for your computer that keep it running smoothly and protect it from hackers. But, on the same day, experts discovered a new security problem called “HiveLegacy.” This issue could allow hackers to break into your computer and cause trouble.\n\n“HiveLegacy” is dangerous because it gives hackers a way to do bad things, like steal your personal information or mess up your computer. Microsoft hasn’t fixed this new problem yet, so people who use Windows need to be extra careful right now.\n\nIf you use Windows, make sure your computer is updated with the latest fixes from Microsoft. Also, be cautious about clicking on strange links or downloading files from unknown sources. These steps can help keep you safe until Microsoft solves this new issue.\n\nIn short, while Microsoft is working hard to protect users, there’s still a risk, so it’s a good idea to stay alert and keep your computer secure!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+          "publishedAt": "2026-07-15T19:59:48.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-07-15",
       "articles": [
         {
@@ -2858,51 +2903,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/",
           "publishedAt": "2026-02-13T12:33:33.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-13",
-      "articles": [
-        {
-          "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-          "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor....",
-          "simplifiedContent": "Title: OpenAI Creates a Super-Fast Coding Program\n\nOpenAI, a company known for creating smart computer programs, has just made a new tool called GPT-5.3-Codex-Spark. This tool helps write computer code much faster than before—15 times faster, to be exact!\n\nWhat makes this even more interesting is how they did it. Instead of using the usual big chips made by a company called Nvidia, OpenAI used smaller, plate-sized chips. Think of it like using a smaller, but more powerful engine in a car to make it go faster.\n\nSo, what does this mean for you? Well, this new tool can help developers (people who write computer programs) work quicker and more efficiently. This means apps and websites you use every day could be built faster and improved more quickly. It’s like getting a new feature in your favorite app much sooner than you’d expect.\n\nOverall, OpenAI’s new tool is a big step forward in making technology work faster and better for everyone.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-          "publishedAt": "2026-02-12T22:56:02.000Z"
-        },
-        {
-          "title": "AI is already making online crimes easier. It could get much worse.",
-          "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known...",
-          "simplifiedContent": "**Title: How AI is Helping Online Criminals and Why It Might Get Worse**\n\nAnton Cherepanov spends his time searching for unusual activity online. Last year, in late August, he found something that caught his attention. It was a file uploaded to a website called VirusTotal. This site is where people like Anton, who work to keep our computers safe, check files to see if they contain viruses or harmful software.\n\nThe file Anton found showed how artificial intelligence (AI) is making it easier for criminals to commit online crimes. AI is a kind of computer technology that can learn and make decisions. Unfortunately, bad guys are using it to create more convincing fake emails and scams, tricking people into giving away personal information or money.\n\nThis is worrying because it means online crime could become more common and harder to spot. As AI technology gets better, it might become even easier for criminals to use it for bad purposes.\n\nFor everyday people, this means we need to be more careful online. Double-check who is sending emails and be cautious about clicking on links or downloading files. Staying informed and alert can help keep you safe from these new AI-driven tricks.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-          "publishedAt": "2026-02-12T11:00:00.000Z"
-        },
-        {
-          "title": "What’s next for Chinese open-source AI",
-          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese co...",
-          "simplifiedContent": "**Title: The Future of AI in China**\n\nIn the past year, China has made big strides in artificial intelligence (AI), which is technology that lets computers learn and think like humans. This change started in January 2025 when a company called DeepSeek released a new AI model. This model is like a smart computer program that helps computers understand and reason about things better.\n\nChina is focusing on \"open-source\" AI. This means they're sharing their AI technology with others so anyone can use it to build new tools and applications. This approach can help speed up progress and make AI tools available to more people around the world.\n\nFor everyday people, this means we might soon see more advanced AI applications coming from China. These could include smarter apps on our phones, better online services, or even new gadgets that make life easier. By sharing their AI advances, China is helping to create a future where technology is more accessible and useful for everyone.\n\nOverall, keep an eye on China’s AI developments, as they might bring exciting changes to the technology we use every day.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-          "publishedAt": "2026-02-12T10:00:00.000Z"
-        },
-        {
-          "title": "Google identifies state-sponsored hackers using AI in attacks",
-          "summary": "State-sponsored hackers are exploiting highly-advanced tooling to accelerate their particular flavours of cyberattacks, with threat actors from Iran, North Korea, China, and Russia using models like Google’s Gemini to further their campaigns. They are able to craft sophisticated phishing campaigns a...",
-          "simplifiedContent": "Title: Google Spots Hackers Using AI for Sneaky Attacks\n\nGoogle has discovered that hackers supported by certain governments are using advanced technology to carry out cyberattacks more quickly and effectively. These hackers come from countries like Iran, North Korea, China, and Russia, and they're using smart computer programs, similar to Google’s own AI called Gemini, to help them.\n\nThese hackers are creating tricky emails, known as phishing, which are designed to fool people into sharing personal information like passwords or credit card details. With AI, these phishing attempts are becoming more convincing, making it harder for people to tell what's real and what's fake.\n\nFor everyday people, this means it's more important than ever to be cautious about emails or messages that ask for personal information. Always double-check the sender and never click on suspicious links. By being aware of these tactics, you can better protect yourself from falling victim to these sophisticated cyber tricks.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/state-sponsored-hackers-ai-cyberattacks-google/",
-          "publishedAt": "2026-02-12T09:00:00.000Z"
-        },
-        {
-          "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-          "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost....",
-          "simplifiedContent": "**Title: Hackers Tried to Copy Google's Gemini AI Over 100,000 Times**\n\nGoogle recently revealed that hackers attempted to create a fake version of its AI program, Gemini, over 100,000 times. Gemini is an advanced technology developed by Google, and these attackers were trying to make a cheap imitation of it.\n\nNormally, building something like Gemini takes a lot of time, money, and expertise. However, these hackers used a trick called \"distillation\" to try and copy it. Distillation is a method that lets people replicate complex systems at a much lower cost.\n\nFor everyday people, this means that hackers are getting better at creating fake versions of advanced technology. These fakes can cause problems if people use them without realizing they are not the real deal. It’s important for companies to protect their technology to keep everyone safe.\n\nGoogle’s report highlights how crucial it is to stay ahead of cyber threats and ensure that the technology we use is genuine and secure. As technology becomes more advanced, so do the tricks that hackers use, making security more important than ever.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
-          "publishedAt": "2026-02-12T19:42:08.000Z"
         }
       ]
     }
