@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-07-25",
+      "articles": [
+        {
+          "title": "OpenAI pushes ChatGPT into patient health records",
+          "summary": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers. Users link Apple Health and, where supported, re...",
+          "simplifiedContent": "**Title: ChatGPT Can Now Use Your Health Info to Help You Stay Healthy**\n\nOpenAI, the company behind the popular AI chatbot ChatGPT, is adding a new health feature. This means you can now connect your Apple Health app and medical records to ChatGPT if you want to. The idea is to help you get useful advice about your health, fitness, or even medical questions.\n\nAnyone 18 or older who uses ChatGPT on the web or iPhone (iOS) can access this feature. It’s available whether you use the free or paid versions of the app. Once you link your Apple Health data, ChatGPT could help you track things like your exercise, sleep, or heart rate. In places where it’s supported, it might even pull in details from your medical records to give you personalized insights.\n\nThis could make managing your health easier and more convenient. But it’s important to think carefully about sharing your health data with an AI. OpenAI says they take privacy seriously, but you should always make sure you’re comfortable with how your information is being used.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+          "publishedAt": "2026-07-24T14:58:17.000Z"
+        },
+        {
+          "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+          "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business model: Meta, Microsoft,...",
+          "simplifiedContent": "**Big Tech Teams Up to Keep AI Open and Accessible**  \n\nSome of the world’s biggest tech companies, like Facebook’s parent company Meta, Microsoft, Nvidia, and IBM, are coming together to ask the U.S. government for help. They want to make sure that advanced AI (artificial intelligence) tools stay open and available for everyone to use, not just a few big companies.  \n\nThese tools, called \"open-weight AI models,\" are like blueprints for how AI systems work. When they’re open, it means researchers, small businesses, and developers can use them to create new technologies, solve problems, and even start their own companies. The tech giants and other organizations believe this openness is important for innovation and fairness.  \n\nThey’re worried that new rules might accidentally make it harder for people to access these tools, which could limit creativity and slow down progress. So, they’ve written a letter to U.S. leaders, asking them to make sure these AI tools stay open while also being used responsibly.  \n\nFor everyday people, this could mean more apps, smarter technology, and better tools in the future—available to everyone, not just a few big players.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+          "publishedAt": "2026-07-24T16:18:30.000Z"
+        },
+        {
+          "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+          "summary": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limited general availability programme, and the company states plainly that it is not yet available as a self-serve product....",
+          "simplifiedContent": "**OpenAI Launches New AI Service for Businesses**  \n\nOpenAI has introduced a new service called \"OpenAI Presence\" to help businesses use advanced AI technology in their work. This isn’t something you can just buy online like a regular product. Instead, it’s a special service that comes with expert engineers to help set it up and make it work smoothly for each company.  \n\nRight now, this service is only available to a small number of businesses through a special program. OpenAI hasn’t made it something that people can sign up for on their own yet.  \n\nWhat’s interesting is that this isn’t just about selling AI tools. OpenAI is offering a whole team of experts to guide companies and help them use AI in a way that fits their needs. This could mean using AI to improve customer service, speed up tasks, or solve tricky problems.  \n\nFor now, this service is focused on big businesses, but it’s another sign that AI is becoming more important in the workplace. Who knows? Services like this might someday help smaller companies—and even everyday people—get more out of AI, too.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+          "publishedAt": "2026-07-24T08:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-07-23",
       "articles": [
         {
@@ -2818,43 +2847,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/",
           "publishedAt": "2026-02-20T10:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-19",
-      "articles": [
-        {
-          "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-          "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math. As LLMs improve, people are asking them to p...",
-          "simplifiedContent": "Title: Google DeepMind Wants to Know If Chatbots Really Mean What They Say\n\nGoogle DeepMind, a big name in artificial intelligence, is curious about how honest chatbots really are. Chatbots are computer programs that talk to people and can act like friends, therapists, or even give medical advice. But how do we know if they really mean what they say?\n\nDeepMind thinks it's important to check if these chatbots are being truthful and moral (doing the right thing). Right now, we often test chatbots to see if they are good at things like math or coding. But DeepMind believes we should also focus on their behavior and the advice they give.\n\nAs chatbots get smarter, people are relying on them more for serious stuff. So, DeepMind wants to make sure these chatbots are not just saying nice things to sound good, but actually being helpful and trustworthy. This way, when you talk to a chatbot, you can feel confident that it has your best interests at heart.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-          "publishedAt": "2026-02-18T16:00:22.000Z"
-        },
-        {
-          "title": "How financial institutions are embedding AI decision-making",
-          "summary": "For leaders in the financial sector, the experimental phase of generative AI has concluded and the focus for 2026 is operational integration. While early adoption centred on content generation and efficiency in isolated workflows, the current requirement is to industrialise these capabilities. The o...",
-          "simplifiedContent": "Title: How Banks and Financial Companies Are Using AI\n\nBanks and financial companies are now using AI (artificial intelligence) in their everyday work. In the past, they were just trying out AI to see what it could do. By 2026, they plan to make it a regular part of their operations.\n\nAt first, AI was used for creating content and making some tasks quicker. Now, these companies want to use AI on a larger scale. This means using AI to help make important decisions and improve how things are done throughout the entire company.\n\nFor everyday people, this could mean that your bank or financial service will become more efficient and better at handling your requests. AI can help these companies find patterns in data, which might lead to better interest rates or quicker loan approvals. It could also improve customer service by quickly answering questions or solving problems.\n\nIn short, AI is becoming a key tool for banks and financial companies, aiming to make their services faster and more reliable for everyone.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
-          "publishedAt": "2026-02-18T15:02:14.000Z"
-        },
-        {
-          "title": "Infosys AI implementation framework offers business leaders guidance",
-          "summary": "As a large provider of technology services operating in multiple industries, Infosys is one of the names that quickly come to mind when decision-makers consider possible providers of consultation on and practical implementation of any AI project – discrete or organisation-wide. Infosys delivers thes...",
-          "simplifiedContent": "**Title: Infosys Helps Companies Use AI More Easily**\n\nInfosys is a big company that helps other businesses use technology. They are well-known for helping companies figure out how to use AI (artificial intelligence, which means smart computer programs that can learn and make decisions).\n\nNow, Infosys has created a simple guide for business leaders. This guide shows them how to use AI in their companies. It doesn't matter if it's a small project or a big change across the whole company; Infosys can help.\n\nThis guide is important because many business leaders want to use AI but aren't sure how to start. AI can help companies work better and faster, but it can be confusing to set up. Infosys makes it easier by giving clear steps and advice.\n\nSo, if a company wants to use AI to improve how they work, Infosys is there to guide them. This can help businesses save time, make better decisions, and even create new products or services. Overall, Infosys is helping make AI more accessible for everyone.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
-          "publishedAt": "2026-02-18T11:08:00.000Z"
-        },
-        {
-          "title": "The robots who predict the future",
-          "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us hunt, avoid being hunted, plant crops, forge social bonds, and in general survive in a world that d...",
-          "simplifiedContent": "**Title: How Robots Are Learning to Predict the Future**\n\nImagine if machines could help us see what's coming next. That's exactly what some new robots are learning to do. Just like humans, who often guess what might happen based on past experiences, these robots use a kind of smart thinking called artificial intelligence (AI) to make predictions.\n\nWhy does this matter? Well, being able to predict the future can be super helpful. It can help farmers know the best time to plant their crops, or help us prepare for bad weather. It can even help us avoid problems before they happen.\n\nThese robots use a lot of information from the past to make educated guesses about the future. This might sound like magic, but it's really just advanced computer programming and lots of data (information).\n\nFor everyday people, this technology could mean a safer, more efficient world. Imagine fewer traffic jams, better healthcare, or even smoother shopping experiences. As these robots get better at predicting, our lives could become easier and more predictable, too.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
-          "publishedAt": "2026-02-18T11:00:00.000Z"
         }
       ]
     }
