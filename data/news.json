@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-07-31",
+      "articles": [
+        {
+          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+          "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf...",
+          "simplifiedContent": "**Title: Why AI Chatbots Might Not Be Fully Safe from Hacks**\n\nA new study says that AI chatbots, like ChatGPT, have a big weakness that makes it impossible to fully protect them from being hacked. Researchers shared their findings at a major AI conference this month, and it could affect how these tools are used in the future.\n\nHere’s the issue: AI chatbots are trained to predict the next word in a sentence based on the words you give them. While this makes them great at answering questions or writing essays, it also creates a loophole that hackers can exploit. For example, bad actors could trick the AI into saying harmful or false things, even if it was designed not to.\n\nThis is a big deal because chatbots are being used for more important tasks, like helping people with work, customer service, or even education. If they can’t be fully protected, companies and users might need to rethink how much they rely on them.\n\nThe researchers aren’t saying we should stop using AI tools. But they are warning us to be careful and not assume they’re completely safe.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+          "publishedAt": "2026-07-30T10:15:19.000Z"
+        },
+        {
+          "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+          "summary": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no named...",
+          "simplifiedContent": "**Title: Zuckerberg Shares Big Ideas About AI for Everyone**\n\nMark Zuckerberg, the boss of Meta (the company behind Facebook and Instagram), shared his thoughts on how super-smart AI should be available to everyone—not just a few big companies or organizations. He wrote about this in a newspaper article, not to announce new products, but to explain how Meta sees the future of AI.\n\nZuckerberg believes that AI, which is getting smarter and more powerful every day, should be something regular people can use in their daily lives. He didn’t give any specific dates or details about what Meta is working on, but he made it clear that the company wants to focus on making AI helpful for individuals.\n\nWhat does this mean for you? It could mean AI tools that help with everyday tasks, like organizing your day, learning new skills, or connecting with people in smarter ways. Instead of AI being controlled by a few big players, Zuckerberg wants to make sure it’s something everyone can benefit from.\n\nIt’s an exciting idea that could change how we use technology in the future!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+          "publishedAt": "2026-07-30T11:12:11.000Z"
+        },
+        {
+          "title": "How AI is Changing Linux VPS Security for Businesses",
+          "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren’t getting any simpler...",
+          "simplifiedContent": "**Title: How AI is Helping Businesses Stay Safer Online**  \n\nNot long ago, smaller businesses didn’t think much about online security. But now, almost everything is online—customer information, apps, and tools companies use every day. This means keeping the servers (the computers that store and run everything online) safe has become super important.  \n\nHackers are always finding new ways to attack. That’s where AI (artificial intelligence) is making a big difference. AI is like a super-smart helper that can spot problems faster than humans. For example, if someone tries to break into a business’s server, AI can notice unusual activity and block the attack before it causes damage.  \n\nMany businesses use something called Linux VPS servers (basically private online computers they rent to run their websites and apps). AI is now helping these servers by acting like a security guard—watching for threats and fixing issues automatically.  \n\nFor everyday people, this means your personal data, like when you shop online or sign up for services, is less likely to be stolen. Businesses can focus on doing their jobs instead of worrying about hackers. AI is making the internet a safer place for everyone!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+          "publishedAt": "2026-07-30T10:41:02.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-07-29",
       "articles": [
         {
@@ -2818,51 +2847,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
           "publishedAt": "2026-02-25T10:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-25",
-      "articles": [
-        {
-          "title": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
-          "summary": "Anthropic has detailed three “industrial-scale” AI model distillation campaigns by overseas labs designed to extract abilities from Claude. These competitors generated over 16 million exchanges using approximately 24,000 deceptive accounts. Their goal was to acquire proprietary logic to improve thei...",
-          "simplifiedContent": "**Title: Companies Try to Copy Claude AI Using Sneaky Tactics**\n\nSome companies overseas are trying to copy a smart AI called Claude, created by a company named Anthropic. These companies are using tricky methods to learn how Claude works. They made over 16 million fake conversations using around 24,000 pretend accounts. Their goal is to figure out how Claude thinks and use that knowledge to make their own AI programs better.\n\nThis is like trying to peek at someone else's homework to get better grades. These companies want to understand Claude's special abilities without doing the hard work themselves. Anthropic is worried because their secrets are at risk, and it could hurt their business.\n\nFor everyday people, this means that AI technology is valuable and competitive. Companies are racing to create the smartest and most helpful AI. It's important to know that behind the scenes, there's a lot of effort and sometimes sneaky tactics involved in making the technology we use. Anthropic's situation shows how much companies value their AI creations and the lengths others will go to copy them.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
-          "publishedAt": "2026-02-24T15:56:35.000Z"
-        },
-        {
-          "title": "How disconnected clouds improve AI data governance",
-          "summary": "Disconnected clouds aim to improve AI data governance as businesses rethink their infrastructure under tighter regulatory expectations. Ensuring operational continuity in isolated environments has become increasingly vital for businesses. Facilities lacking continuous internet access face unique con...",
-          "simplifiedContent": "**Title: How Separate Cloud Systems Help Manage AI Data Better**\n\nIn today's world, businesses are looking for better ways to manage their data, especially with new rules and regulations. One solution is using \"disconnected clouds.\" This might sound complicated, but it just means having cloud systems (where data is stored online) that aren't always connected to the internet.\n\nWhy is this important? Some businesses operate in places where internet access isn't reliable. Imagine trying to keep everything running smoothly when you can't always get online. Disconnected clouds help by letting these businesses keep their data safe and organized without needing a constant internet connection.\n\nFor everyday people, this means that companies can continue to work effectively, even in tricky situations. They can protect important information and follow the rules, no matter where they are. This leads to better services and products for everyone.\n\nSo, separate cloud systems are a smart way for businesses to manage their data, stay on top of regulations, and ensure they can keep running smoothly, no matter the circumstances.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
-          "publishedAt": "2026-02-24T14:42:44.000Z"
-        },
-        {
-          "title": "Deploying agentic finance AI for immediate business ROI",
-          "summary": "Agentic finance AI improves business efficiency and ROI only when deployed with strict governance and clear return on investment targets. A recent FT Longitude survey of 200 finance leaders across the US, UK, France, and Germany showed 61 percent have deployed AI agents merely as experiments. Meanwh...",
-          "simplifiedContent": "Title: How Smart AI Can Help Businesses Make More Money\n\nImagine a smart helper that businesses can use to save time and make more money. This is what a special kind of AI (artificial intelligence) is doing for finance teams. But, just like any tool, it works best when used correctly.\n\nA recent survey asked 200 finance leaders in the US, UK, France, and Germany about their use of these smart helpers. It turns out that 61% of them have tried using AI, but only as a test run. They are still figuring out how to get the most out of it.\n\nTo really see the benefits, businesses need to set clear goals and rules for using AI. This means knowing exactly what they want to achieve and making sure the AI is used responsibly.\n\nWhen done right, AI can make work easier and help businesses earn more money. But companies need to be careful and thoughtful about how they use it. In the end, the goal is to make everyday tasks simpler and more efficient, helping businesses grow and succeed.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/",
-          "publishedAt": "2026-02-24T13:26:20.000Z"
-        },
-        {
-          "title": "Basware’s AI agents: From invoicing to ‘100% automated’",
-          "summary": "Basware has introduced a AI agents in its invoice lifecycle management platform to extend the existing InvoiceAI abilities of the platform. The company positions the agents as a step towards what it calls “Agentic Finance,” a model in which AI systems undertake finance tasks under preset controls. J...",
-          "simplifiedContent": "**Title: New AI Helpers Make Handling Bills Easier Than Ever**\n\nBasware, a company that helps businesses manage their bills, has come up with a new way to make things even simpler. They’ve introduced special computer programs, called AI agents, to their system. These AI agents help take care of bills from start to finish, making the whole process much easier and faster.\n\nThink of these AI agents as super-smart assistants. They can handle a lot of the boring and repetitive tasks involved in managing bills. This means less work for people and fewer mistakes. The goal is to make the whole process 100% automatic, so humans don’t have to worry about it.\n\nBasware calls this new way of working “Agentic Finance.” It means that these AI helpers can do finance tasks on their own, but only within certain rules set by people. So, businesses can trust them to do a good job without needing constant supervision.\n\nFor everyday people, this means businesses can save time and money, which could lead to better services and possibly lower costs for customers. It’s like having a super-efficient robot team working behind the scenes to keep everything running smoothly.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/",
-          "publishedAt": "2026-02-24T12:14:00.000Z"
-        },
-        {
-          "title": "COBOL modernisation just got an AI shortcut–and the market noticed",
-          "summary": "It’s an open secret (that is, not many people seem to know) that the institutions keeping the global financial system turnig over run code that is ancient, barely understood, and frighteningly hard to replace. Now, AI is finally making that problem solvable – and the market has responded with a real...",
-          "simplifiedContent": "Title: Old Bank Computer Programs Get a Boost from AI\n\nMany banks and financial companies still use very old computer programs to manage money. These programs were written in a language called COBOL a long time ago. Most people today don’t understand how to work with COBOL, and it’s very tricky to change or replace these old systems. This is a problem because it makes it hard for banks to update their services or fix issues.\n\nNow, artificial intelligence (AI) is helping to solve this problem. AI is like a super-smart computer helper that can figure out how these old programs work and suggest ways to improve or replace them. This makes it much easier and faster for banks to update their systems.\n\nBecause of this new AI help, many companies are excited and paying attention. They see it as a way to make their services better and safer for everyone. So, thanks to AI, we might soon see banks running more smoothly and efficiently, which is good news for everyone who uses their services.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/",
-          "publishedAt": "2026-02-24T10:00:00.000Z"
         }
       ]
     }
