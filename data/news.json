@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-08-11",
+      "articles": [
+        {
+          "title": "These startups are chasing the next big thing in LLMs",
+          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they describe...",
+          "simplifiedContent": "**Title: The Next Big Thing in AI: Why Startups Are Racing to Improve Chatbots**\n\nA few years ago, in 2017, researchers at Google shared a groundbreaking idea in a paper called “Attention Is All You Need.” That idea led to the creation of a powerful kind of AI called large language models, or LLMs. These are the systems that power chatbots like ChatGPT, which can answer questions, write essays, and even help you brainstorm ideas.\n\nNow, many startups (new companies) are trying to make these AI systems even better. Why? Because LLMs are changing how we interact with technology. They’re becoming tools that people use for work, school, and everyday life. Imagine having an assistant that can help you with almost anything, 24/7!\n\nThese companies want to make LLMs faster, smarter, and more affordable so more people can use them. Some are working on improving how these AI tools understand tricky questions, while others are finding ways to make them safer and more reliable.\n\nFor everyday people, this means we could soon see chatbots and AI assistants that are even better at helping us solve problems, save time, and learn new things. The future of AI looks exciting—and it’s coming fast!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "publishedAt": "2026-08-10T09:00:00.000Z"
+        },
+        {
+          "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+          "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents...",
+          "simplifiedContent": "**Meta’s New AI Tool Lets You Run Powerful Tech on Everyday Computers**  \n\nMeta, the company behind Facebook, has introduced a new AI tool called Muse Glimmer that can work on regular computers with gaming-level graphics cards (GPUs). This is exciting because it means you don’t need expensive supercomputers or the internet to use advanced AI—it can run right on your own computer.  \n\nThe tool is being shared for free under an open license, which means developers and tech-savvy people can use it to create programs that work locally. For example, it could help with tasks like writing code, answering questions, or running smart assistants—all without sending your data to the cloud (online storage).  \n\nMeta has made the technology available on a popular website called Hugging Face, where AI tools are shared. The AI itself is very powerful, with 30 billion parameters (think of these as the “brain cells” that help the AI understand and respond to information).  \n\nWhat does this mean for regular people? In the future, you could use AI tools privately and securely on your own computer, without needing to rely on big companies’ servers. It’s a step toward making advanced technology more accessible for everyone!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+          "publishedAt": "2026-08-10T11:02:38.000Z"
+        },
+        {
+          "title": "AI for science needs reasoning, not just data",
+          "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi...",
+          "simplifiedContent": "**Title: Why AI Needs to Think, Not Just Crunch Numbers, to Help Science**\n\nEvery so often, people claim science has discovered everything it can. Back in 1903, a famous physicist named Albert Michelson said there was nothing new left to learn in physical science. In the 1980s, Stephen Hawking, another brilliant scientist, thought physics might be done making big discoveries by the year 2000. Yet, science keeps proving them wrong, uncovering new mysteries about the world.\n\nToday, artificial intelligence (AI) is playing a bigger role in science, helping researchers analyze huge amounts of data quickly. But some experts believe that AI needs to do more than just process information—it needs to \"reason\" or think more like humans. This means making connections, asking questions, and solving problems, not just finding patterns in data.\n\nWhy does this matter? If AI can learn to reason, it could help scientists tackle some of the world’s biggest challenges, like curing diseases or understanding climate change. AI could become a true partner in discovery, pushing science forward in ways we can’t even imagine yet. For everyday people, this could mean faster breakthroughs and better solutions to problems that affect us all.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+          "publishedAt": "2026-08-10T09:00:00.000Z"
+        },
+        {
+          "title": "AI professors are negotiating the new realities of academic research",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
+          "simplifiedContent": "**Title: How AI is Changing the Way Professors Do Research**\n\nArtificial intelligence (AI) is shaking up the way researchers at universities work, and many are figuring out how to keep up with the changes. Last week, some of the smartest minds in AI gathered at a hotel near San Francisco to talk about what’s happening and what it means for the future.\n\nAI is a powerful tool that can solve problems faster than humans, like analyzing huge amounts of data or finding patterns we might miss. Because of this, it’s becoming a big part of academic research in fields like science, medicine, and even art.\n\nBut with all this power comes big questions. For example, how do we make sure AI tools are used responsibly? Should professors focus more on teaching students how to use AI or on creating new AI technologies? These are the kinds of issues they’re working on.\n\nFor everyday people, this matters because the research done at universities often leads to new inventions or discoveries that can improve our lives. So, figuring out how to use AI the right way could shape the future in ways we all benefit from.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+          "publishedAt": "2026-08-10T20:00:00.000Z"
+        },
+        {
+          "title": "The limits of physics AI: where Siemens says the human stays in charge",
+          "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, an...",
+          "simplifiedContent": "**Title: Why AI Can’t Replace Humans in Important Safety Decisions**\n\nAI is getting really good at helping engineers design things like machines and structures. A company called Siemens says their new AI tool can test thousands of design ideas super quickly—about 1,000 times faster than older methods. This could save a ton of time and help create better designs faster.\n\nBut here’s the catch: AI isn’t allowed to make final decisions when it comes to things that affect people’s safety, like airplane parts or medical devices. That’s because these decisions are so important, they still need a human expert to double-check everything and make sure it’s safe. \n\nSo, while AI can help speed up the process and give humans great ideas to work with, it can’t replace human judgment when it comes to safety. This shows how AI and people can work together—AI does the heavy lifting, but humans stay in charge where it really matters.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+          "publishedAt": "2026-08-10T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-08-08",
       "articles": [
         {
@@ -2818,51 +2863,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
           "publishedAt": "2026-03-04T10:52:45.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-04",
-      "articles": [
-        {
-          "title": "Best AI security solutions 2026: Top enterprise platforms compared",
-          "summary": "Artificial intelligence is no longer just powering defensive cybersecurity tools, it is reshaping the entire threat landscape. AI is accelerating reconnaissance, improving the realism of phishing, automating malware mutation, and enabling adaptive attack techniques. At the same time, enterprises are...",
-          "simplifiedContent": "**Title: How AI is Changing Cybersecurity in 2026**\n\nIn 2026, artificial intelligence (AI) is doing more than just helping with cybersecurity (keeping computers and data safe). It's changing the way cyber threats (online dangers) work. \n\nAI is making it easier for hackers (people who try to break into computer systems) to gather information. It's also helping them create more convincing fake emails and messages (called phishing) to trick people. Hackers can now use AI to quickly change their viruses (malware) so they can keep attacking without being caught.\n\nBut it's not all bad news. Companies are using AI to fight back. AI can spot unusual activity that might be a threat and respond faster than humans can. This means businesses can better protect their sensitive information and keep their systems safe.\n\nFor everyday people, this means AI is playing a big role in both causing and stopping online threats. As AI technology gets smarter, both hackers and defenders are using it to outsmart each other. It's like a digital game of cat and mouse. But in the end, companies are working hard to keep our data secure with the help of AI.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
-          "publishedAt": "2026-03-03T14:27:19.000Z"
-        },
-        {
-          "title": "The integration of AI in modern forex automation",
-          "summary": "Try to think of just one area where artificial intelligence is not leaving a mark, and you’ll realise there’s almost none. And in the forex world, things have not been any different. It’s a big part of why Fortune Business Insights values the global AI market size at $375.93 billion. Looking ahead, ...",
-          "simplifiedContent": "**Title: How AI is Changing the Way We Trade Money**\n\nIn almost every part of our lives, artificial intelligence (AI) is making a difference, and trading foreign currencies (also known as forex) is no exception. AI is like a smart assistant that helps people make better decisions when buying and selling money from different countries. \n\nThe reason AI is so important in forex is that it can quickly analyze lots of data and predict what might happen next in the market. This helps traders (people who buy and sell currencies) make more informed choices, which can lead to better profits.\n\nThis growing use of AI in trading is one reason why experts think the global AI market could be worth over $375 billion. It's a big deal because it shows how much people trust AI to handle important tasks. \n\nFor everyday people, this means that AI is making it easier to trade currencies more effectively, potentially making it a more attractive option for investors looking to grow their money. As AI continues to improve, we might see even more changes in how we manage and trade money around the world.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
-          "publishedAt": "2026-03-03T14:20:17.000Z"
-        },
-        {
-          "title": "Santander and Mastercard run Europe’s first AI-executed payment pilot",
-          "summary": "An artificial intelligence system has, for the first time in Europe, completed a payment inside a live banking network without a human entering the final command. Banco Santander and Mastercard confirmed that they had executed a live end-to-end payment initiated and completed by an AI agent, a softw...",
-          "simplifiedContent": "**Title: Santander and Mastercard Test AI for Payments in Europe**\n\nFor the first time in Europe, an artificial intelligence (AI) system has made a payment all by itself in a real banking network. This happened without a person needing to give the final okay. Banco Santander and Mastercard, two big names in banking and credit cards, teamed up to do this.\n\nThey used a smart computer program, known as an AI agent, to start and finish a payment. This means the computer could handle the whole process, from beginning to end, without needing a human to step in.\n\nWhy does this matter to you? If AI can handle payments, it might make banking faster and more efficient in the future. Imagine not having to wait for someone to approve your payment or transfer. It could all happen instantly, thanks to AI.\n\nWhile this is just a test, it shows how technology is changing the way we do everyday tasks like managing money. We might soon see more AI helping with things like paying bills or sending money to friends, making our lives a bit easier.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/",
-          "publishedAt": "2026-03-03T10:00:00.000Z"
-        },
-        {
-          "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-          "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless....",
-          "simplifiedContent": "**Title: New Technology Can Reveal Online Identities More Easily**\n\nPrivacy on the internet is becoming harder to keep. A recent study has shown that advanced computer programs, called large language models (LLMs), can figure out who is behind fake online names with surprising accuracy. \n\nPeople often use pseudonyms (fake names) online to keep their real identities private. This is common on social media or in online communities where users want to share their thoughts without revealing who they are. However, these new LLMs can analyze the way people write and match it to their real identity. \n\nThis means that even if someone uses a fake name, this technology might still figure out who they are. It's like a digital detective that can spot unique writing patterns that are hard for humans to see. \n\nFor everyday internet users, this is a big deal. It raises questions about online privacy and how much control we really have over our personal information. As technology gets smarter, it might become more difficult to stay anonymous online. \n\nThis development is important because it could change how we think about privacy and safety on the internet. It reminds us to be mindful of what we share online, as it might not be as private as we think.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-          "publishedAt": "2026-03-03T12:30:24.000Z"
-        },
-        {
-          "title": "Physical AI adoption boosts customer service ROI",
-          "summary": "The adoption of physical AI drives ROI in frontline customer service by merging digital intelligence with human-like physical interaction. As businesses navigate shrinking labour pools, they are finding that simply automating routine workflows is no longer enough. A new partnership between KDDI and ...",
-          "simplifiedContent": "Title: Robots in Customer Service Help Companies Save Money\n\nBusinesses are starting to use robots and smart machines to help with customer service, and it’s proving to be a good investment. These machines combine digital smarts with the ability to interact like humans. Companies are facing a shortage of workers, so they're turning to these robots to do more than just simple, repetitive tasks.\n\nA new team-up between two companies, KDDI and another partner, is leading the way in this area. They’re showing that using these smart robots can help businesses save money and improve the way they serve customers.\n\nThis change means that when you visit a store or contact customer service, you might interact with a robot that can help answer questions or guide you through a process. These robots can work alongside humans, making sure that customers get help quickly and efficiently.\n\nIn short, by using these advanced machines, businesses are finding new ways to keep customers happy while also saving money, especially when there aren’t enough workers to do all the jobs.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
-          "publishedAt": "2026-03-03T11:32:47.000Z"
         }
       ]
     }
