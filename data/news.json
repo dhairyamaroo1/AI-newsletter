@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-08-13",
+      "articles": [
+        {
+          "title": "Terabytes of credentials leaked in massive supply-chain attack",
+          "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package....",
+          "simplifiedContent": "**Title: Huge Data Leak Exposes Thousands of Passwords**\n\nA major security breach has put thousands of people’s personal information at risk. Hackers managed to steal a massive amount of data—measuring in terabytes (that’s a lot!)—from a popular AI tool that many companies use to help with their work.\n\nHere’s what happened: An AI software package was hacked, affecting 2,500 users who relied on it. The stolen information includes usernames, passwords, and other sensitive details that could give hackers access to private accounts or systems. This kind of attack is called a “supply-chain attack,” which means hackers targeted a tool that many people and businesses depend on, rather than attacking them directly.\n\nFor everyday people, this is a reminder of how important it is to protect your online accounts. If you use AI tools or share information online, it’s a good idea to use strong passwords and enable two-factor authentication (a security feature that asks for a code in addition to your password).\n\nExperts are still investigating the attack, but it’s clear that cybercriminals are always finding new ways to target the technology we use every day.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "publishedAt": "2026-08-12T21:43:21.000Z"
+        },
+        {
+          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+          "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia....",
+          "simplifiedContent": "**Title: Top AI Experts Say Sharing AI Tools Can Keep Us Safe**\n\nAt a big AI event called Ai4, three famous experts – Geoffrey Hinton, Fei-Fei Li, and Andrew Ng – talked about how we can make AI safer for everyone. They believe that sharing AI technology openly (called \"open source\") is important. This means letting researchers and developers everywhere have access to AI tools, instead of keeping them locked away by big companies or governments.\n\nWhy does this matter? AI is becoming super powerful, and some people worry it could be used in harmful ways or give certain countries too much control. For example, China is making big progress in AI, which has made America nervous about falling behind. But these experts think that working together and sharing knowledge can help avoid dangerous situations and make AI fairer for everyone.\n\nThey also discussed the need for rules to keep AI safe. Think of it like traffic laws – they make sure everyone drives safely. The same idea applies to AI: clear rules can help prevent problems and make sure AI benefits people around the world.\n\nIn short, these experts believe openness and teamwork are key to making AI work for everyone, not just a few powerful groups.",
+          "source": "Artificial Intelligence (AI) | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+          "publishedAt": "2026-08-12T17:51:00.000Z"
+        },
+        {
+          "title": "Scaling AI agents with trustworthy data",
+          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o...",
+          "simplifiedContent": "**Title: Making Sure AI Agents Use Reliable Information**\n\nAI is becoming a bigger part of our lives, especially in businesses. Companies are starting to use AI agents—programs that can act on their own to help get things done. These AI agents have the power to change how work gets done, saving time and improving results. But there’s one big challenge: for AI to work well, it needs trustworthy data.\n\nThink of AI like a super-smart assistant. If you give it bad information, it will make bad decisions. That’s why businesses are focusing on giving AI agents high-quality, reliable data to work with. When the data is good, the AI can help solve problems faster, make smarter decisions, and even create new ideas.\n\nFor regular people, this means the AI-powered tools you use—like chatbots, voice assistants, or recommendation systems—will get better at understanding your needs and offering helpful solutions. Companies are learning that to make AI truly effective, they need to start with clean, accurate information. When they do, everyone benefits, from employees to customers.\n\nAI is here to stay, and making sure it works well is all about giving it the right tools to succeed. Reliable data is the key to unlocking AI’s full potential.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+          "publishedAt": "2026-08-12T16:51:57.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-08-12",
       "articles": [
         {
@@ -2834,27 +2863,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
           "publishedAt": "2026-03-06T19:41:33.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-06",
-      "articles": [
-        {
-          "title": "Online harassment is entering its AI era",
-          "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
-          "simplifiedContent": "**Title: AI is Changing How Online Harassment Happens**\n\nScott Shambaugh helps manage a piece of software called matplotlib, which is used by many people. One day, he got a request from a computer program (AI) to add some new code to this software. Scott didn't accept the request because matplotlib is getting flooded with too many code suggestions from AI programs.\n\nThis situation shows a bigger problem: AI is making online harassment worse. In the past, people would send mean messages or spam online. Now, with AI, these bad actions can happen even more often and faster. AI can create lots of fake accounts or send a huge number of messages quickly, which makes it harder for people to keep things safe and friendly online.\n\nFor everyday people, this means we might see more spam and fake interactions online. It’s becoming more important to have tools and rules to handle this new kind of problem. As AI continues to grow, we all need to be aware of how it can be used in harmful ways and work together to find solutions.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-          "publishedAt": "2026-03-05T10:00:00.000Z"
-        },
-        {
-          "title": "Trump gets data center companies to pledge to pay for power generation",
-          "summary": "With no enforcement and questionable economics, it may not make a difference....",
-          "simplifiedContent": "**Title: Companies Agree to Help with Power for Data Centers**\n\nSome big companies that use lots of computers have promised to help pay for the electricity they use. These companies run data centers, which are like huge computer warehouses that store and process information for things we use every day, like social media and online shopping.\n\nFormer President Trump encouraged these companies to make this promise. Data centers use a lot of electricity, and this can be expensive and put a strain on the power supply. By agreeing to help pay for their own power, these companies aim to make sure they have enough electricity without causing problems for everyone else.\n\nHowever, there are no strict rules to make them keep this promise, so it's not clear if it will really happen. Some people think the plan might not work out because it's expensive and complicated.\n\nFor everyday people, this means that the companies behind our favorite websites and apps are trying to be more responsible with how they use energy. But we'll have to wait and see if it actually makes a difference.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
-          "publishedAt": "2026-03-05T18:41:28.000Z"
         }
       ]
     }
