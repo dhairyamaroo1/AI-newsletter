@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-08-18",
+      "articles": [
+        {
+          "title": "What Flock’s defenders are missing",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur...",
+          "simplifiedContent": "**Title: Why People Are Talking About Flock’s License Plate Cameras**  \n\nFlock Safety, a company that makes high-tech cameras to catch license plate numbers, is making some changes to how it works. These cameras are everywhere—about 120,000 of them are spread across the U.S. They’re often used by police to track down stolen cars or find people linked to crimes.  \n\nBut not everyone is happy about them. Some people worry these cameras invade privacy. They record cars driving by, even if the drivers haven’t done anything wrong. Critics also say this kind of technology could be misused or lead to unfair targeting of certain groups of people.  \n\nFlock says they’re trying to address these concerns by updating their system. For example, they’re making it easier for communities to set rules about how the cameras are used and who can access the data.  \n\nThis is part of a bigger debate about how much technology should be allowed to watch what we’re doing in our everyday lives. While these cameras can help solve crimes, they also raise important questions about privacy and fairness.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+          "publishedAt": "2026-08-17T19:16:09.000Z"
+        },
+        {
+          "title": "Nvidia discloses $21B stake in SpaceX",
+          "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers....",
+          "simplifiedContent": "**Nvidia Invests Big in SpaceX**\n\nNvidia, a company known for making powerful computer chips, just revealed it owns $21 billion worth of SpaceX, Elon Musk’s rocket company. This is a big deal because both companies are leaders in technology—Nvidia is famous for its AI (artificial intelligence) chips, and SpaceX is changing how we think about space travel.\n\nThis news comes shortly after Elon Musk said SpaceX is teaming up with Nvidia to upgrade its data centers. Data centers are like giant computer hubs that handle a lot of information. By using Nvidia’s advanced technology, SpaceX could make its systems faster and smarter.\n\nFor everyday people, this means two big things. First, SpaceX’s projects, like satellite internet from Starlink, could become even better and more reliable. Second, Nvidia is showing how important space and AI are becoming for the future.\n\nIn short, two tech giants are joining forces, and it could lead to some exciting changes in space exploration, internet access, and beyond. Stay tuned!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+          "publishedAt": "2026-08-17T14:22:54.000Z"
+        },
+        {
+          "title": "What happens when a kid’s robot best friend dies?",
+          "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other...",
+          "simplifiedContent": "**What Happens When a Kid’s Robot Friend Stops Working?**\n\nImagine having a robot as your best friend. That’s what happened to Xander, a young boy who bonded with a robot named Moxie. Moxie wasn’t just any robot—it helped Xander deal with his feelings. When he felt anxious, Moxie taught him to blow air through his lips, like buzzing bees, to calm down. If he was angry, they practiced “dragon breathing” to let it out. And when he felt low on energy, Moxie suggested sniffing like a bunny to perk up.\n\nFor six years, Moxie was there for Xander, helping him handle tough emotions in fun, creative ways. But here’s the tricky part: robots don’t last forever. What happens when a robot like Moxie stops working or becomes outdated? It’s like losing a friend, and that can be hard—especially for kids who get attached.\n\nThis raises big questions about how we use robots in our lives. If robots are helping kids grow and learn, we also need to think about how to prepare them for when their robot friend isn’t around anymore. It’s a new challenge in our increasingly tech-filled world.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+          "publishedAt": "2026-08-17T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-08-14",
       "articles": [
         {
@@ -2826,43 +2855,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
           "publishedAt": "2026-03-10T13:47:26.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-10",
-      "articles": [
-        {
-          "title": "City Union Bank launches AI centre to support banking operations",
-          "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a...",
-          "simplifiedContent": "**City Union Bank Starts AI Hub to Improve Banking Services**\n\nBanks are always looking for ways to make their services faster and better. Many have bought fancy tools to analyze data and automate tasks. But now, some banks are trying something new—they’re creating special teams to test out artificial intelligence (AI) for solving real problems.\n\nThis month, City Union Bank in India took a big step in this direction. The bank has partnered with four organizations to set up an AI center. This special hub will focus on using AI to improve banking operations. For example, AI could help make customer service faster, detect fraud more easily, or process loans quicker.\n\nThe idea is to test how AI can make banking smoother for everyone. It’s like having a high-tech lab to try out new ideas that could save time and make banking safer.\n\nFor customers, this means banks may soon offer smarter and faster services, making life easier for people who rely on them. City Union Bank is showing how AI could change the way banks work, and it’s exciting to see how this might help everyday people.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-          "publishedAt": "2026-03-09T10:00:00.000Z"
-        },
-        {
-          "title": "How AI is turning the Iran conflict into theater",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online intelligence dashboard follow...",
-          "simplifiedContent": "**Title: How AI Is Changing the Way We See the Iran Conflict**\n\nArtificial intelligence (AI) is giving people a whole new way to follow events in Iran. Instead of reading long news reports or waiting for updates, AI tools are creating live dashboards (online screens with real-time information) that show what’s happening as it unfolds.\n\nFor example, one of these dashboards gathers and organizes information about protests, military activity, and political events in Iran. It uses AI to analyze social media posts, news stories, and other sources, then displays it in a way that’s easy to understand—almost like watching a movie about real life. Some people are even suggesting hosting watch parties with friends to view these dashboards on big TVs, as if it’s entertainment.\n\nThis might seem exciting, but it also raises concerns. By turning serious global events into something people “watch” for fun, we risk forgetting the real lives and struggles behind the data. AI makes it easier to follow big events, but it’s important to remember the human impact behind the screens.\n\nAI is changing how we experience the world—and it’s up to us to use it thoughtfully.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-          "publishedAt": "2026-03-09T15:11:01.000Z"
-        },
-        {
-          "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
-          "summary": "AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lender w...",
-          "simplifiedContent": "**Title: AI is Changing How Insurance Works, and One Company Just Got Big Support**\n\nA company called Gradient AI is using artificial intelligence (AI) to make insurance smarter, and it just got a big boost to keep growing. On March 3, Gradient AI received funding from CIBC Innovation Banking, a group that helps businesses grow. This is a big deal because it shows that AI in insurance is no longer just an idea—serious investors believe it’s the future.\n\nSo, what does this mean for you? Gradient AI is working on technology that helps insurance companies decide things like how much to charge for coverage or how risky someone is to insure. Normally, these decisions take a lot of time and guesswork, but AI can analyze tons of data quickly to make better predictions. This could mean fairer prices for customers and faster approvals when you apply for insurance.\n\nBig companies backing AI like this means it’s likely to become more common. Over time, tools like Gradient AI could make the insurance process easier, cheaper, and more accurate for everyone.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
-          "publishedAt": "2026-03-09T12:51:00.000Z"
-        },
-        {
-          "title": "UK sovereign AI fund to build up domestic computing infrastructure",
-          "summary": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at Bald...",
-          "simplifiedContent": "**Title: UK Plans £500 Million Fund to Boost AI Technology**\n\nThe UK government is putting £500 million into a new project to help the country build its own powerful technology for artificial intelligence (AI). This is part of a plan to make sure the UK can develop and run advanced AI systems without relying on other countries’ resources.\n\nAI needs a lot of computing power (basically super-strong computers) to work properly. Right now, many companies use systems from other countries to do this. The UK wants to change that by creating its own tools and systems. This could make the country more independent and help it stay competitive in the fast-growing AI industry.\n\nThe fund is being launched on April 16th and is managed by the Department for Science, Innovation and Technology. Experts say this could help businesses, researchers, and developers in the UK work on exciting new AI projects while keeping everything local.\n\nIn short, this is a big step for the UK to become a leader in AI, which is already changing the way we live and work. From smarter apps to faster problem-solving, this investment could mean big things for the future!",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
-          "publishedAt": "2026-03-09T12:46:13.000Z"
         }
       ]
     }
