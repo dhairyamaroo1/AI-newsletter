@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-08-20",
+      "articles": [
+        {
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for...",
+          "simplifiedContent": "**VentureBeat Hires AI Expert to Help Businesses Understand Artificial Intelligence**\n\nBig news in the tech world! VentureBeat, a popular website that covers technology and artificial intelligence (AI), has hired Rob Strechay as their first-ever Lead Analyst. Basically, his job will be to help businesses and readers make sense of all the complicated stuff happening in AI right now.\n\nRob has a lot of experience in the tech world, having worked as a top analyst (someone who studies and explains trends) at another company called theCUBE Research. Now, he’s bringing his expertise to VentureBeat to kick off a new project called VentureBeat Research. The goal? To dive deeper into how AI is changing industries and help people understand what it means for their work and daily lives.\n\nThis is a big step for VentureBeat as they try to make sense of how AI is transforming things like healthcare, business, and even the way we communicate. With Rob on board, they’ll be able to provide clearer insights and advice for companies trying to keep up with the fast-paced world of AI.",
+          "source": "AI | VentureBeat",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "publishedAt": "2026-08-19T14:18:12.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-08-18",
       "articles": [
         {
@@ -2842,19 +2855,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
           "publishedAt": "2026-03-13T09:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-11",
-      "articles": [
-        {
-          "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-          "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squ...",
-          "simplifiedContent": "**Title: Pokémon Go Helps Delivery Robots See the World Better**\n\nPokémon Go, the popular game where players search for virtual Pokémon in the real world, is now helping delivery robots! The game, created by a company called Niantic in 2016, became a huge hit because it used augmented reality (AR). AR is technology that mixes digital things, like Pokémon, with the real world using your phone’s camera.\n\nHere’s the cool part: Niantic has collected tons of detailed maps of streets, parks, and other places from players walking around with their phones. Now, these maps are being used to help delivery robots navigate better. Robots need to understand their surroundings to move safely and efficiently, and Niantic’s data gives them a super clear view of the world.\n\nFor everyday people, this means delivery robots (like ones that bring food or packages) could soon work faster and avoid obstacles like curbs or tricky pathways. Pokémon Go was all about exploring, but now it’s making technology smarter in ways we didn’t expect. So, the next time you play Pokémon Go, you’re not just having fun—you might be helping robots get your pizza delivered on time!",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-          "publishedAt": "2026-03-10T13:47:26.000Z"
         }
       ]
     }
