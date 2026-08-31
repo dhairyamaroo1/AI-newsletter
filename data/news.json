@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-08-31",
+      "articles": [
+        {
+          "title": "Inside Meta’s push to put robots to work in data centers",
+          "summary": "The company is testing robots on tasks that can performed by technicians....",
+          "simplifiedContent": "**Title: Meta is Testing Robots to Help with Tech Jobs**\n\nMeta, the company behind Facebook and Instagram, is trying something new: robots! They’re testing robots to help with jobs in their data centers. Data centers are huge buildings full of computers that store and process all the information behind websites and apps. These computers need regular care and maintenance, which is usually done by human technicians.\n\nNow, Meta wants to see if robots can handle some of these tasks. For example, robots might help check if equipment is working properly or find problems faster. This could save time and make things run more smoothly.\n\nBut don’t worry—this doesn’t mean robots are taking over. The goal is to have robots handle repetitive or tricky jobs so humans can focus on more important work. If this works, it might make Meta’s services, like Facebook and Instagram, more reliable for everyone.\n\nSo, while these robots won’t be posting selfies anytime soon, they could play a big role in keeping your favorite apps running smoothly!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+          "publishedAt": "2026-08-30T11:03:47.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-08-28",
       "articles": [
         {
@@ -2794,35 +2807,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
           "publishedAt": "2026-03-20T20:50:46.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-20",
-      "articles": [
-        {
-          "title": "Visa prepares payment systems for AI agent-initiated transactions",
-          "summary": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take on ...",
-          "simplifiedContent": "**Title: Visa is Getting Ready for Payments Made by AI**\n\nWhen you buy something, it’s pretty simple: you decide to pay, and your bank or card company (like Visa) handles the payment. But things might change soon! Visa is working on a new way to process payments where AI (artificial intelligence) programs can make purchases on your behalf.\n\nImagine this: you have a smart assistant (like Alexa or Siri) that knows you’re running low on groceries or need to pay a subscription bill. Instead of reminding you to do it, the AI could handle the payment for you automatically. Visa is testing how this could work safely and smoothly.\n\nThis idea isn’t just about convenience—it could save time and make life easier, especially for people who use smart devices or rely on automatic services. Of course, Visa is also making sure these systems are secure so no one can misuse them.\n\nIt’s early days, but AI might soon play a bigger role in how we shop and pay for things.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-          "publishedAt": "2026-03-19T10:00:00.000Z"
-        },
-        {
-          "title": "NVIDIA wants enterprise AI agents safer to deploy",
-          "summary": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 in San Jose on March 16, the NVIDIA Agent Toolkit is an open-source software stack designed to help e...",
-          "simplifiedContent": "**Title: NVIDIA Creates Tools to Make AI Safer for Businesses**\n\nNVIDIA, a big name in computer technology, wants to help businesses use AI in a safe and smart way. At an event called GTC 2026 on March 16, the company announced something new called the \"NVIDIA Agent Toolkit.\" This is basically a set of tools that businesses can use to make AI systems (like virtual assistants or chatbots) work better without risking important things like their private data or getting into legal trouble.\n\nAI agents are programs that can do tasks for people, like answering questions or organizing information. But businesses worry about how to control them and keep them safe. NVIDIA’s toolkit is open-source (free for anyone to use and customize) and designed to give companies more control when they use AI.\n\nThis is important because AI is becoming more common in everyday work, and businesses want to make sure it’s reliable and secure. With NVIDIA’s tools, companies can feel more confident about using AI without worrying about losing control or making mistakes.\n\nIt’s one more step toward making AI useful and safe for everyone!",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-          "publishedAt": "2026-03-19T08:00:00.000Z"
-        },
-        {
-          "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
-          "summary": "Broadcom says the group is misrepresenting market \"realities.\"...",
-          "simplifiedContent": "**Cloud Companies Want EU to Fix a Dispute Over VMware Partnership**\n\nBig tech companies that provide cloud services (like storing data online) are asking European regulators to step in and fix an issue with VMware, a company that makes important software for businesses. VMware used to have a program that helped cloud providers work smoothly with its software, but that program was shut down after Broadcom, a large tech company, bought VMware.\n\nThe cloud providers are upset because they say this change makes it harder for them to work with VMware’s tools, which businesses rely on to manage their systems. They’ve asked regulators in the EU (European Union) to bring back the old program, saying it’s better for customers and the market overall.\n\nBroadcom, the company now in charge of VMware, says the complaints aren’t true and that the market is fine as it is. But the cloud providers argue that this situation could hurt competition and make things more expensive or difficult for businesses that depend on these services.\n\nFor everyday people, this matters because it could impact the cost and reliability of the online services that businesses use—and that you rely on—like shopping websites, apps, and online banking. Regulators are now deciding what to do.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
-          "publishedAt": "2026-03-19T21:29:53.000Z"
         }
       ]
     }
