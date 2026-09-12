@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-09-12",
+      "articles": [
+        {
+          "title": "Roundtables: AI’s apocalypse crisis",
+          "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI...",
+          "simplifiedContent": "**Title: Could AI Be a Threat to Humanity? Experts Are Talking About It**\n\nSome workers at the top companies building artificial intelligence (AI) are raising a big concern: What if super-smart AI becomes so powerful that it could actually harm humanity? Sounds like a sci-fi movie, right? But some experts think it’s a real possibility we should take seriously.\n\nOthers, however, believe these fears are being blown out of proportion. They argue that while AI is becoming more advanced, it’s not something that will take over the world anytime soon. So, who’s right?\n\nThis is the big question that experts at MIT Technology Review are digging into. They’re hosting a discussion to explore whether AI could truly become a threat or if this is just unnecessary fear. \n\nWhy does this matter to you? AI is already part of our everyday lives, from voice assistants to the apps we use. If AI keeps getting smarter, it could change the world in ways we haven’t even imagined yet. That’s why it’s important to think carefully about how we build and use this technology.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+          "publishedAt": "2026-09-11T20:05:06.000Z"
+        },
+        {
+          "title": "ClickFix attacks infecting PCs and Macs are going viral",
+          "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal....",
+          "simplifiedContent": "**Title: Dangerous ClickFix Scams Are Spreading Fast on Computers**\n\nA new online scam called \"ClickFix\" is spreading quickly and tricking people into infecting their computers. It’s affecting both Windows PCs and Macs, so almost anyone could be at risk. \n\nHere’s how it works: You might see a fake pop-up message while browsing the internet. It could look like a warning about your computer being broken or hacked. The message tells you to click a link or download something to \"fix\" the problem. But instead of helping, it secretly installs harmful software (called malware) on your computer. Once that happens, scammers can steal your personal information, spy on what you do online, or even lock your files and demand money to unlock them.\n\nThis scam works because it looks convincing and plays on people’s fear of their devices being in trouble. To stay safe, don’t click on strange pop-ups or download anything unless you’re sure it’s from a trusted source. If something feels off, close the browser or ask someone you trust for help.\n\nRemember, staying cautious online can protect your personal information and your wallet!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+          "publishedAt": "2026-09-11T11:30:58.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-09-08",
       "articles": [
         {
@@ -2786,19 +2807,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
           "publishedAt": "2026-04-01T11:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-27",
-      "articles": [
-        {
-          "title": "RPA matters, but AI changes how automation works",
-          "summary": "RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems. By using software bots to follow fixed rules, companies can automate repetitive tasks like data entry and invoice processing, and to a certain extent, report generation. Ado...",
-          "simplifiedContent": "**Title: How AI Is Making Automation Smarter**\n\nCompanies have been using software bots (computer programs that follow instructions) to handle boring, repetitive tasks like entering data or organizing invoices. This is called RPA, or robotic process automation. It’s been around for a while and helps businesses save time and money by letting computers take over these jobs.\n\nBut now, AI (artificial intelligence) is changing the game. Unlike RPA, which follows strict rules, AI can actually learn and make decisions on its own. This means automation is getting smarter. For example, instead of just organizing invoices, AI could figure out which ones need urgent attention or spot mistakes. It can also help businesses analyze reports or predict future trends without a human having to do all the work.\n\nFor everyday people, this means businesses can run more efficiently and provide better services. Imagine faster customer support, fewer mistakes in your bills, or even smarter apps that know what you need before you ask.\n\nIn short, AI is taking automation to the next level, making technology more helpful in ways we can all benefit from.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-          "publishedAt": "2026-03-26T09:11:08.000Z"
         }
       ]
     }
