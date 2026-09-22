@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-09-22",
+      "articles": [
+        {
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "summary": "A simple ClickFix attack is only one way to completely hijack the new agent....",
+          "simplifiedContent": "**Title: Meta’s New AI Assistant Has a Big Security Problem**\n\nMeta, the company behind Facebook and Instagram, recently launched a new AI assistant called Muse. It’s designed to help people with tasks like answering questions, scheduling, and more. But there’s a big problem: experts found a serious security flaw that could let hackers take control of it.\n\nThis issue, called a “0-day” (which means it’s a brand-new problem no one knew about before), makes it possible for someone to trick the AI into doing things it shouldn’t. For example, a hacker could send it a fake command and completely take over how it works. This kind of attack is called a \"ClickFix\" and is surprisingly easy for someone with bad intentions to pull off.\n\nWhy does this matter? If hackers can mess with the AI, they might get access to your personal information or misuse the assistant in harmful ways. Meta says it’s working quickly to fix the problem, but it’s a reminder that even advanced technology isn’t always perfect—or safe.\n\nFor now, it’s a good idea to be cautious when using new tools like this. Tech companies are still figuring out how to make AI both helpful and secure for everyone.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "publishedAt": "2026-09-21T22:24:38.000Z"
+        },
+        {
+          "title": "Multi-agent AI systems are taking over supply chain execution",
+          "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear every action. Multi-agent s...",
+          "simplifiedContent": "**Title: Smarter AI is Changing How Products Get Delivered**\n\nBig companies are starting to use advanced AI systems to improve how they deliver products to stores and customers. Right now, many businesses rely on tools that show them charts and data to help plan deliveries. But these tools aren’t always enough, and humans still have to make most of the decisions.\n\nThat’s where the new AI comes in. Instead of just showing suggestions, these smarter systems can actually make decisions and take action on their own—kind of like a team of super-smart assistants working together. For example, they can figure out the fastest way to deliver goods, predict when a product will run out, or adjust delivery plans if something unexpected happens, like bad weather.\n\nThis means products could arrive faster, there will be fewer mistakes, and businesses can save money. For customers, it could mean fewer out-of-stock items at stores and quicker shipping times when you order something online. \n\nIn short, this new AI tech is making sure the things we need get to us more efficiently—and with less hassle for everyone.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+          "publishedAt": "2026-09-21T15:32:54.000Z"
+        },
+        {
+          "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+          "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower...",
+          "simplifiedContent": "**Title: How AI Border Technology Is Failing and What Can Be Done**\n\nThe US government has set up high-tech towers along the US-Mexico border. These towers use artificial intelligence (AI) to watch for people crossing the border. The idea is to track and stop illegal crossings without needing a physical wall. But a new investigation by MIT Technology Review shows that these towers aren’t working as planned—and people are paying the price.\n\nSome people have managed to cross the border without being noticed by the towers. Others, trying to avoid the technology, take dangerous routes through the desert. Sadly, this has led to many deaths. The investigation highlights how relying too much on this technology can have serious consequences.\n\nExperts suggest four ways to fix the problem: improve the technology, increase transparency (share more information about how the system works), train border agents better, and consider how these tools affect human lives. \n\nThis story shows that while AI can be powerful, it’s not perfect. And when it fails, the cost isn’t just technical—it’s human lives.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+          "publishedAt": "2026-09-21T12:00:00.000Z"
+        },
+        {
+          "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+          "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surv...",
+          "simplifiedContent": "**Title: The US Uses High-Tech Tools at the Border, So Why Are People Still Dying?**\n\nWhen José Morales Bernal crossed the US-Mexico border on April 8, 2024, just one day before his 32nd birthday, advanced technology was supposed to help keep him safe. He walked through the desert in southern New Mexico, an area covered by cameras, sensors, and other high-tech tools designed to monitor the border. But despite all this, José didn’t make it. He died in the harsh desert conditions.\n\nThe US has spent billions of dollars on border technology, like drones, surveillance cameras, and artificial intelligence (AI) systems, to track people crossing the border. These tools are meant to help Border Patrol find and assist people in trouble. Yet, stories like José’s still happen.\n\nExperts say the problem isn’t just the technology—it’s how it’s used. The systems are good at spotting people, but there aren’t always enough resources or quick action to help those in danger. \n\nThis raises a big question: If we have all this advanced technology, why isn’t it saving more lives? For people like José, the stakes couldn’t be higher.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+          "publishedAt": "2026-09-21T12:00:00.000Z"
+        },
+        {
+          "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+          "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This...",
+          "simplifiedContent": "**Title: Tragedy at the Border: A Camera Couldn’t Save Her**\n\nIn September 2025, a 30-year-old woman named Graciela Gómez Hernández tried to cross the border from Tijuana, Mexico, into Southern California. She had only been walking for a couple of hours when she got lost. Graciela sent voice messages to her mother and sister as she walked, but sadly, she never made it to safety.\n\nThe area where she was walking had a surveillance camera—a special camera that could watch the area. But even though the camera was there, it didn’t stop this tragedy from happening. It’s unclear if anyone was actively watching the footage or if the camera could have been used to help her in time.\n\nThis heartbreaking story raises important questions: If we have advanced technology like cameras and other tools, why can’t they do more to protect people in danger? Graciela’s story reminds us that while technology can be helpful, it’s not always enough on its own. People still need better support and safety measures, especially in dangerous areas like border crossings.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+          "publishedAt": "2026-09-21T12:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "articles": [
         {
@@ -2682,51 +2727,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
           "publishedAt": "2026-04-16T12:30:30.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "articles": [
-        {
-          "title": "The US-China AI gap closed. The responsible AI gap didn’t",
-          "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial ...",
-          "simplifiedContent": "**Title: The US and China Are Neck-and-Neck in AI, But Big Questions Remain**\n\nA new report from Stanford University shows that the US is no longer ahead of China when it comes to how powerful its AI systems are. For years, many believed the US had a big lead in AI technology, but the 2026 AI Index Report suggests that gap has closed. Both countries now have similar abilities when it comes to creating advanced AI models (the software behind things like ChatGPT or self-driving cars).\n\nWhile this might sound like good news for competition, the report points out something more serious: neither country is doing enough to make sure AI is used responsibly. This includes making sure AI doesn’t harm people, spread misinformation, or act unfairly.\n\nFor everyday people, this matters because AI is becoming a bigger part of our lives—helping us write emails, suggesting movies, and even making decisions about jobs or loans. If countries don’t focus on using AI responsibly, it could lead to problems that hurt society.\n\nThe report is a reminder that as AI gets smarter, we need to make sure it’s also safer and fairer for everyone.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
-          "publishedAt": "2026-04-15T10:00:00.000Z"
-        },
-        {
-          "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
-          "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Commva...",
-          "simplifiedContent": "**New Tool Lets Businesses “Undo” AI Mistakes in the Cloud**  \n\nImagine if you had a magic “undo” button for big AI systems. That’s exactly what a company called Commvault is offering with its new tool, AI Protect.  \n\nBusinesses today use AI to help manage their online systems and data in the cloud (basically, storing and working with information over the internet instead of on your computer). These AI programs can do things like organize files, update security settings, or even create new servers to handle extra work. But sometimes, they make mistakes—like deleting important files or changing settings in ways that cause problems.  \n\nCommvault’s AI Protect acts like a safety net. If an AI system messes something up, this tool helps companies quickly “undo” the damage and get back to normal.  \n\nWhy does this matter? As more businesses rely on AI to save time and money, tools like this make sure those systems stay safe and don’t accidentally cause chaos. For regular people, it means smoother experiences with things like online shopping, banking, or streaming—because the companies behind those services can fix problems fast.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-          "publishedAt": "2026-04-15T16:28:19.000Z"
-        },
-        {
-          "title": "Citizen developers now have their own Wingman",
-          "summary": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company’s press release states: “The best technology should be accessible to everyone”, and cites the difficulty that ...",
-          "simplifiedContent": "**Title: Meet Wingman: Your New Helper for Everyday Tasks**\n\nA company called Emergent has created something exciting called Wingman. It’s a smart tool designed to help everyday people manage their tasks more easily. Think of Wingman like a virtual assistant that can handle apps you use for work or life—stuff like organizing schedules, tracking projects, or keeping to-do lists in order.\n\nEmergent believes technology should be simple and easy for everyone to use, not just experts. That’s why they made Wingman: to give regular people a way to take control of their apps without needing to be tech-savvy. Instead of you having to figure out how different apps work, Wingman steps in and does the hard work for you.\n\nThis could make life a lot easier for anyone juggling lots of responsibilities—whether you’re managing a small business, keeping up with school projects, or just trying to stay organized at home. Emergent calls Wingman an \"autonomous agent,\" which basically means it can make decisions and do tasks for you, without you needing to guide it every step of the way.\n\nIn short, Wingman is here to make your apps smarter, your day smoother, and your life simpler.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-          "publishedAt": "2026-04-15T14:42:00.000Z"
-        },
-        {
-          "title": "Drones get smarter for large farm holdings",
-          "summary": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated befo...",
-          "simplifiedContent": "**Smarter Drones Are Coming to Help Big Farms**  \n\nTwo companies, DroneDash Technologies and GEODNET, are teaming up to make farming easier with a new type of drone. They’ve started a new project called GEODASH Aerosystems to create advanced drones that can spray crops on huge farms.  \n\nHere’s the cool part: these drones don’t need farmers to create maps of their fields before using them. Normally, farmers have to figure out exactly where to spray, which takes a lot of time and effort. But these drones are smart enough to figure it out on their own.  \n\nThis means farmers can save time, get their work done faster, and use fewer resources. Plus, it’s better for the environment because the drones can spray only where it’s needed instead of wasting chemicals.  \n\nFor everyday people, this technology could help make food production more efficient and eco-friendly. Big farms can grow crops with less hassle, and that could mean more affordable food in the future.  \n\nSmarter drones are just another example of how technology is changing the way we grow and produce food.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-          "publishedAt": "2026-04-15T11:03:00.000Z"
-        },
-        {
-          "title": "Building trust in the AI era with privacy-led UX",
-          "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercis...",
-          "simplifiedContent": "**Title: How Better Privacy in AI Can Build Trust**\n\nAs technology gets smarter with AI (artificial intelligence), it’s becoming more important to think about how our personal data is handled. A new approach called \"privacy-led user experience\" is helping companies be more open and honest about what they do with your data.\n\nHere’s what it means: Instead of hiding confusing privacy policies in tiny print or making you click \"I agree\" without explaining anything, companies are starting to make it clear how your data is collected and used. They’re treating your permission as something important—not just a box to check.\n\nThis could change how businesses connect with you online. If you know exactly what’s happening with your data and feel in control, you’re more likely to trust the company. For example, imagine a shopping app that shows you why it’s asking for your location and lets you decide whether to share it.\n\nIn the AI era, trust matters more than ever. Privacy-led designs could help people feel safer and more confident when using apps, websites, or smart devices. It’s a step toward making technology work better for everyone.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-          "publishedAt": "2026-04-15T06:00:00.000Z"
         }
       ]
     }
