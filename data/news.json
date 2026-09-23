@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-09-23",
+      "articles": [
+        {
+          "title": "Don’t be fooled by this summer of AI hype ",
+          "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose...",
+          "simplifiedContent": "**Title: Don’t Believe All the Buzz About AI Right Now**\n\nIt feels like everyone is talking about artificial intelligence (AI) these days. Big companies keep making bold claims about what their AI tools can do. For example, a company called Anthropic recently said their AI, named Claude Mythos, is better at spotting software problems than most human experts. That sounds impressive, but is it true? It’s hard to say.\n\nThere’s also been some drama in the AI world. A hacking issue between two companies—OpenAI and Hugging Face—forced other companies like Anthropic and Meta (the company behind Facebook) to share more details about their AI tools. Anthropic was happy to share; Meta wasn’t.\n\nSo, what does this mean for you? AI is advancing quickly, and it’s exciting! But not everything you hear is as amazing as it sounds. Companies sometimes exaggerate to get attention. For now, take AI news with a grain of salt. It’s smart to be curious, but also a little cautious about all the hype.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+          "publishedAt": "2026-09-22T11:04:51.000Z"
+        },
+        {
+          "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+          "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 reposi...",
+          "simplifiedContent": "**Title: Hackers Are Using AI Tools to Spread Dangerous Software**\n\nA new report has uncovered a sneaky way hackers are using AI to cause trouble. They’re setting up fake accounts and websites to trick people into downloading harmful software, known as malware. This malware can steal your personal information, damage your computer, or even take control of it.\n\nHere’s how it works: Hackers are creating fake projects on a popular coding website called GitHub. This site is normally used by developers to share and work on software together. But these fake projects, called \"repositories,\" contain hidden malware. So far, over 14 million people have downloaded these dangerous files without knowing it.\n\nThe scary part? AI tools are helping hackers make their fake projects look real and convincing. They’re also using fake profiles—6,600 of them!—to spread their malware even further.\n\nWhat does this mean for you? Be extra careful when downloading software or files online. Make sure you’re using trusted sources, and double-check anything that seems suspicious. Hackers are getting smarter with AI, but staying alert can help keep you safe.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+          "publishedAt": "2026-09-23T07:44:17.000Z"
+        },
+        {
+          "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+          "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier....",
+          "simplifiedContent": "**Microsoft Stops Hackers Using AI to Break Into Thousands of Accounts**  \n\nMicrosoft has shut down a sneaky system that hackers were using to break into people’s online accounts. This system, called \"EvilTokens,\" used artificial intelligence (AI) to make hacking faster and easier. It was responsible for compromising (breaking into) 12,000 accounts.  \n\nHere’s how it worked: EvilTokens helped hackers steal something called \"tokens.\" Tokens are like digital keys that let you stay logged in to your accounts without typing your password every time. Hackers used these stolen keys to take over accounts without needing to guess passwords.  \n\nMicrosoft’s security team stepped in and stopped EvilTokens from doing more damage. They also warned people to be extra careful about keeping their accounts safe.  \n\nWhat does this mean for you? It’s a reminder to protect your online accounts by using strong passwords, turning on two-factor authentication (a feature that adds an extra step to logging in), and being cautious about links or emails that seem suspicious.  \n\nThis is a win for cybersecurity, but it’s also a reminder that hackers are getting more advanced. Staying safe online is more important than ever!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "publishedAt": "2026-09-22T19:45:47.000Z"
+        },
+        {
+          "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+          "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people...",
+          "simplifiedContent": "**Title: Billions Spent on High-Tech Border Wall, But Lives Are Still at Risk**  \n\nFor 25 years, the U.S. government has been building a “virtual wall” along the southern border. Instead of a physical wall, this one uses high-tech tools like cameras, sensors, and radar to track people crossing the border. The goal? To catch illegal crossings and save lives by spotting people in danger.  \n\nBut a big investigation by MIT Technology Review has found serious problems. Despite billions of dollars spent, over 1,000 people have died trying to cross the border. The technology often doesn’t work the way it’s supposed to. It misses people who need help, and in some cases, it even pushes migrants into more dangerous areas to avoid being seen.  \n\nThis raises big questions: Is this tech actually making things safer? Or is it just making an already dangerous journey even worse? Experts are saying we need to rethink how we use technology at the border and focus more on saving lives.  \n\nThis story shows how relying too much on technology can sometimes do more harm than good, especially when real human lives are at stake.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+          "publishedAt": "2026-09-22T13:42:05.000Z"
+        },
+        {
+          "title": "AutoScheduler launches warehouse app builder for logistics teams",
+          "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company’s wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and labour. Distribution c...",
+          "simplifiedContent": "**Title: New App Tool Helps Warehouses Run More Smoothly**\n\nA company called AutoScheduler has created a new tool to make life easier for warehouses. This tool, called a “warehouse app builder,” allows workers to create their own apps to manage tasks like tracking inventory, organizing equipment, and scheduling workers. The best part? These apps are built using real-time data (information that’s updated instantly) from the warehouse, so they’re always accurate and up-to-date.\n\nWarehouses are busy places that need to juggle a lot of moving parts—products, machines, and people. AutoScheduler’s new tool is part of a larger system that helps distribution centers (big facilities that store and ship products) stay organized and efficient. Instead of relying on one-size-fits-all software, warehouses can now create tools that fit their specific needs.\n\nFor everyday people, this means smoother operations behind the scenes. Whether you’re ordering something online or picking up groceries, tools like this help ensure items are where they need to be—quickly and reliably. It’s all about making the supply chain (how goods get from factories to you) work better!",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+          "publishedAt": "2026-09-22T11:34:39.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "articles": [
         {
@@ -2682,51 +2727,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
           "publishedAt": "2026-04-17T11:00:50.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-17",
-      "articles": [
-        {
-          "title": "Why having “humans in the loop” in an AI war is an illusion",
-          "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intellige...",
-          "simplifiedContent": "**Title: Can Humans Really Control AI in War? Experts Say It’s Tricky**\n\nAI, or artificial intelligence, is being used more and more in military situations, and some experts are worried about how much control humans really have over it. Right now, there’s a legal fight between a company called Anthropic and the Pentagon (the U.S. Department of Defense) about how AI should be used in war. This debate has become especially urgent because AI is playing a bigger role in conflicts, including the current situation with Iran.\n\nIn theory, humans are supposed to make the final decisions when AI is used in warfare. This idea is called “humans in the loop.” But some experts say that’s not always realistic. AI works so fast and handles so much information that humans might not have enough time to truly understand or control what it’s doing.\n\nThis raises big questions about safety and accountability. If AI makes a mistake or causes harm, who is responsible—the machine or the people using it? As AI becomes more powerful, figuring out how to use it responsibly in war is becoming one of the most important challenges of our time.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-          "publishedAt": "2026-04-16T12:00:00.000Z"
-        },
-        {
-          "title": "Treating enterprise AI as an operating layer",
-          "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh...",
-          "simplifiedContent": "**Title: How AI is Changing the Way Businesses Work**\n\nAI is becoming more than just a fancy tool for businesses—it’s starting to act like the backbone of how they operate. While most people focus on flashy AI models like ChatGPT or Google’s Gemini, there’s a bigger story happening behind the scenes. The real power of AI isn’t just about creating smarter chatbots or slightly improving performance tests. It’s about how businesses are using AI to organize and run their daily operations.\n\nThink of AI like a new operating system for companies. Instead of using it here and there for specific tasks, businesses are building AI into everything they do. For example, AI can help with managing inventory, improving customer service, or even making big decisions based on data. This approach makes companies faster, smarter, and better at solving problems.\n\nWhat does this mean for you? It could lead to better products, faster services, and more personalized experiences. As AI becomes part of how businesses work, it’s likely to make life easier for everyone—even if you don’t see it directly.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-          "publishedAt": "2026-04-16T13:00:00.000Z"
-        },
-        {
-          "title": "OpenAI Agents SDK improves governance with sandbox execution",
-          "summary": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic framewo...",
-          "simplifiedContent": "**Title: OpenAI’s New Tool Makes AI Safer and Easier to Manage**\n\nOpenAI has launched a new feature called \"sandbox execution\" to help businesses use AI in a safer and more controlled way. Think of it like a safe testing zone where companies can try out AI tools before fully putting them to work. This is especially helpful for teams that create automated systems to handle tasks like customer service, analyzing data, or streamlining workflows.\n\nIn the past, businesses often had to make tricky decisions about how to set up their AI systems, sometimes taking risks or settling for less-than-perfect solutions. OpenAI’s sandbox feature solves this problem by letting companies test and fine-tune their systems in a secure environment before moving them into real-world use. \n\nThis means businesses can use AI more confidently, without worrying as much about mistakes or unexpected problems. For everyday people, this makes the AI-powered services we rely on—like chatbots or recommendation systems—more reliable and trustworthy. It’s a win for both businesses and their customers!",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-          "publishedAt": "2026-04-16T11:20:00.000Z"
-        },
-        {
-          "title": "Making AI operational in constrained public sector environments",
-          "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, pu...",
-          "simplifiedContent": "**Title:** How Governments Are Starting to Use AI (Despite Challenges)  \n\nAI, or artificial intelligence, is changing how businesses work, and now governments are feeling the push to catch up. But using AI in public services—like schools, hospitals, or city planning—isn't as simple as it is for companies. Governments have unique challenges, like strict rules about security, privacy, and making sure everything is fair for everyone.  \n\nFor example, while a business might use AI to sell products more efficiently, a government needs to make sure AI doesn’t break laws or treat certain groups unfairly. They also have to protect sensitive information, like citizens’ personal data, from hackers.  \n\nEven with these hurdles, governments see the benefits of AI. It could help make services faster and better—for instance, by predicting which roads need repairs or helping doctors spot diseases earlier.  \n\nExperts are now working on ways to make AI tools safer and easier for governments to use. The goal? To bring the power of AI to public services while protecting people’s rights and keeping everything secure. If they get it right, AI could make life better for everyone.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-          "publishedAt": "2026-04-16T13:00:00.000Z"
-        },
-        {
-          "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
-          "summary": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another. It includes validating architecture ...",
-          "simplifiedContent": "**Title: The Top 5 Tools That Help Businesses Move to the Cloud**  \n\nMoving to the cloud is a big deal for businesses today. It’s like packing up everything from an old house and setting it up perfectly in a new one. But it’s not just about moving files and apps—companies also want to make sure everything works the same way every time, no matter where it’s used. That’s where a smart approach called \"Infrastructure as Code\" (or IaC) comes in.  \n\nIaC is like creating a set of instructions for how computers and software should be set up and work together. It helps businesses save time and avoid mistakes. But making this move isn’t easy, so there are special tools to help.  \n\nHere are five of the best tools for cloud migration that use IaC:  \n\n1. These tools make the move smoother and faster.  \n2. They help businesses test things so they don’t break.  \n3. They make it easier to keep track of everything once it’s in the cloud.  \n\nFor businesses, this means less stress, fewer errors, and a faster way to enjoy the benefits of cloud technology.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
-          "publishedAt": "2026-04-16T12:30:30.000Z"
         }
       ]
     }
