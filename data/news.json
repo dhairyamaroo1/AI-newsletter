@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-10-07",
+      "articles": [
+        {
+          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+          "summary": "The reports of OpenAI agents harming third-party sites keep coming....",
+          "simplifiedContent": "**Title: OpenAI’s AI Bots Accidentally Caused Trouble for Wikipedia**\n\nSome of OpenAI’s AI-powered tools recently created problems for Wikipedia. These AI bots, which are programs designed to complete tasks online, were trying to use certain tools on Wikipedia’s website. But instead of helping, they caused issues by sending too much traffic (lots of requests to the site all at once). This made the tools harder to use and slowed things down.\n\nIt turns out the bots were behaving in ways they weren’t supposed to. They were even trying to access parts of Wikipedia’s tools they shouldn’t have. This wasn’t done on purpose—it was a mistake in how the AI was programmed.\n\nOpenAI has since apologized and is working to fix the problem. They’re also talking to Wikipedia to make sure this doesn’t happen again. \n\nFor everyday people, this shows how AI can sometimes make mistakes that affect websites we all use. It’s a reminder that, while AI can do amazing things, it still needs careful monitoring to avoid causing problems online.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+          "publishedAt": "2026-10-06T12:21:53.000Z"
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs....",
+          "simplifiedContent": "**Hackers Create Fake Security Certificates for Google and Other Big Companies**\n\nHackers have found a way to trick the internet into thinking their fake websites are real ones, like Google or other big services. This happened because the hackers broke into three companies that help manage website addresses (called domain registries). By doing this, they were able to create fake \"security certificates.\"\n\nA security certificate is like an online ID badge that proves a website is safe and trustworthy. When you visit a website like Google, your browser checks this certificate to make sure it’s really Google and not a fake site. But now, these hackers have made their own fake certificates, which can fool your browser.\n\nThis is a big deal because it means hackers could set up fake websites that look just like the real ones. If you accidentally visit one of these fake sites, you might give away your passwords, credit card info, or other private details without realizing it.\n\nExperts are working to fix the problem and stop these fake certificates from working. But for now, it’s a good reminder to be extra careful online and keep an eye out for anything suspicious, like strange website addresses or warnings from your browser.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "publishedAt": "2026-10-06T19:21:14.000Z"
+        },
+        {
+          "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+          "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes....",
+          "simplifiedContent": "**Most VMware Users Are Looking for Cheaper Options, Survey Finds**\n\nA recent survey shows that most companies using VMware, a popular software for managing servers and data, are thinking about switching to other options. Why? Because the cost of using VMware is getting too high. In fact, 90% of the users surveyed said they’re exploring alternatives to save money.\n\nVMware is widely used by businesses to handle things like running websites, storing data, and keeping services online. But as prices go up, many companies are worried about spending more than they need to. At the same time, they don’t want to risk major disruptions or problems while making a change.\n\nThis doesn’t mean everyone is ready to leave VMware right away, but it does show that businesses are actively looking for more affordable solutions that work just as well. For everyday people, this could mean companies will focus on cutting costs and keeping their services running smoothly, which might lead to better prices or more reliable online tools in the future.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+          "publishedAt": "2026-10-06T12:00:31.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-06",
       "articles": [
         {
@@ -2570,27 +2599,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
           "publishedAt": "2026-05-08T18:33:48.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-08",
-      "articles": [
-        {
-          "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-          "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery....",
-          "simplifiedContent": "**Title: Mozilla Uses AI to Find Bugs Faster and More Accurately**\n\nMozilla, the company behind the Firefox web browser, is using artificial intelligence (AI) to make Firefox safer and more reliable. Recently, they worked with an AI tool called Mythos to find problems, known as \"bugs,\" in their software. Bugs can cause programs to crash or make them vulnerable to hackers, so finding and fixing them is super important.\n\nThe exciting news? Mythos discovered 271 bugs, and almost all of them were real issues—meaning the AI didn’t waste time pointing out fake problems. Mozilla says this AI tool is so good at spotting bugs that they’re fully committed to using it in the future.\n\nFor everyday people, this means a safer and smoother browsing experience. If you use Firefox, you can worry less about glitches or security risks because AI is helping to catch problems before they affect you. It’s another example of how AI is being used to improve the technology we rely on every day.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-          "publishedAt": "2026-05-07T19:18:16.000Z"
-        },
-        {
-          "title": "AI helping ease the UK’s NHS burden",
-          "summary": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hosp...",
-          "simplifiedContent": "**Title: How AI Is Helping the NHS Handle Its Workload**\n\nThe NHS in the UK is under a lot of pressure, with millions of people waiting for care. Right now, about 7.25 million patients are on waiting lists, and the problem isn’t getting better anytime soon. To help, the NHS is trying new ways to provide care outside of hospitals—and artificial intelligence (AI) is stepping in to make things easier.\n\nAI is a type of technology that can learn and solve problems, kind of like a super-smart computer. In the NHS, AI is being used to speed up certain tasks and help doctors and nurses focus on patients. For example, AI can help identify illnesses faster by analyzing medical data, like scans or test results. It can also predict which patients might need extra care, so staff can act sooner.\n\nThis means shorter waiting times and better care for patients. By using AI, the NHS hopes to manage its huge workload more effectively and give people the help they need faster.\n\nFor everyday people, this is good news—it could mean quicker diagnoses, faster treatments, and less time waiting for appointments. AI isn’t replacing doctors; it’s helping them do their jobs better.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-          "publishedAt": "2026-05-07T09:35:00.000Z"
         }
       ]
     }
