@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-10-13",
+      "articles": [
+        {
+          "title": "Open models have real benefits. Do they outweigh the risks?",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T...",
+          "simplifiedContent": "**Title: Are Open AI Models Worth the Risk?**\n\nAI is getting smarter and more powerful, but with that comes some big questions about safety. Recently, a company called Anthropic warned that one advanced AI model, GLM-5.3, could be used for cyberattacks (hacking into systems or stealing data). This has people asking: Are the benefits of open AI models worth the risks?\n\nOpen models are AI systems that anyone can use and improve. They’re great for innovation because they let more people experiment and create new tools. For example, they can help businesses, researchers, and even hobbyists solve problems faster.\n\nBut here’s the downside: If anyone can use them, bad actors (like hackers) can use them too. That means these models could be misused to spread misinformation, hack into systems, or cause harm.\n\nSo, what’s the solution? Some experts think we need stricter rules about who can access these models. Others say limiting access could slow down innovation.\n\nAt the end of the day, it’s a balancing act. How do we keep AI safe while still letting it help us? That’s the big question experts are trying to answer right now.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+          "publishedAt": "2026-10-13T10:00:00.000Z"
+        },
+        {
+          "title": "AI labs are buying data from dead startups to train their models",
+          "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi...",
+          "simplifiedContent": "**Title: AI Companies Are Buying Data from Failed Startups**\n\nWhen Keelan Miskell decided to shut down his small cryptocurrency business earlier this year, he didn’t think the company’s data was worth much. After all, the business was only a few years old, and most of its users were anonymous. But to his surprise, he was able to sell the company’s digital records and make some real money—around $25,000 so far, with more possibly on the way.\n\nBig AI companies are buying data like this to help improve their systems. AI (artificial intelligence) needs a lot of information to learn how to do things, like answering your questions or creating images. Instead of collecting data themselves, these companies are turning to smaller businesses—like Keelan’s—that have already gathered useful information.\n\nFor everyday people, this means that even data from companies you’ve never heard of could be helping to shape the AI tools you use. But it also raises questions: Who owns this data? Should it be sold so easily? As AI grows, these are the kinds of issues people will need to think about.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+          "publishedAt": "2026-10-13T09:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-10",
       "articles": [
         {
@@ -2530,27 +2551,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
           "publishedAt": "2026-05-14T18:32:01.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "articles": [
-        {
-          "title": "AI chatbots are giving out people’s real phone numbers",
-          "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.  A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a...",
-          "simplifiedContent": "**Title: AI Chatbots Are Accidentally Sharing People’s Phone Numbers**\n\nImagine getting nonstop calls from strangers asking for a lawyer, even though you’re not one. That’s what happened to one person recently, and the reason is pretty surprising: an AI chatbot accidentally shared their phone number.\n\nHere’s what’s going on. AI chatbots (computer programs that answer questions and have conversations) are really smart, but they sometimes make mistakes. In this case, someone asked Google’s AI a question, and it gave out a real phone number—belonging to a random person who had nothing to do with the question. Now, that person is stuck dealing with strangers calling them every day.\n\nThe problem is, there’s no easy fix for this. AI chatbots are trained to pull information from the internet, but they don’t always check if the information is private or correct. This raises big concerns about privacy and how safe it is to use these tools.\n\nFor everyday people, this means we need to be careful with AI. It’s helpful, but it’s not perfect, and mistakes like this show why companies need to do more to protect our personal information.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-          "publishedAt": "2026-05-13T18:09:03.000Z"
-        },
-        {
-          "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ",
-          "summary": "The Physical AI Conference shaping the future of robotics, autonomous systems and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.  Physical AI Expo North America will take place on May 18–...",
-          "simplifiedContent": "**Title: Big AI and Robotics Event Coming to San Jose This May**\n\nSan Jose is hosting an exciting event this May that’s all about robots and AI (artificial intelligence). The Physical AI Conference will bring together some of the smartest people in the world—engineers, inventors, and tech leaders—to talk about how AI is being used in the real world to do physical tasks.\n\nWhat does that mean? Well, think about self-driving cars, delivery drones, or robots that help in hospitals. These are examples of “physical AI,” where smart machines don’t just think—they actually do things. This event will focus on how these technologies are being built, improved, and used in everyday life.\n\nThe conference is happening on May 18 at the Physical AI Expo North America. It’s a big deal because robots and AI are becoming more common in our lives. This event will highlight what’s coming next, from smarter machines to technology that can make life easier for everyone.\n\nIf you’re curious about how robots and AI could change the world, this is the place to be!",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-          "publishedAt": "2026-05-13T13:43:38.000Z"
         }
       ]
     }
