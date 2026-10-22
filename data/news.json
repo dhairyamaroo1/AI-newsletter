@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-10-22",
+      "articles": [
+        {
+          "title": "AI’s hidden storage bill: What inference leaves behind",
+          "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ...",
+          "simplifiedContent": "**Title: AI’s Hidden Costs: What Happens to All the Data?**\n\nWhen people think about the cost of artificial intelligence (AI), they often imagine powerful computers and tons of electricity. But there’s another big expense that’s easy to overlook: storing all the data AI creates and uses.\n\nHere’s how it works: When an AI system answers a question or does a task, it doesn’t just give you a response and move on. It often generates and saves a lot of extra data in the background. For example, think about when you ask a virtual assistant like Alexa or Siri a question. The system might save parts of that conversation, the way it processed your voice, and other details.\n\nStoring all this data takes up space—kind of like keeping boxes of stuff in a storage unit. The more AI is used, the more “storage units” are needed, and that costs money. These hidden storage costs are growing as AI becomes more popular.\n\nFor everyday people, this means companies may need to spend more on data storage, which could lead to higher prices for AI-powered services—or even privacy concerns about what data is being saved. It’s a reminder to think about where all that information goes!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+          "publishedAt": "2026-10-22T08:41:18.000Z"
+        },
+        {
+          "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+          "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage....",
+          "simplifiedContent": "**Title: Companies Keep Buying New Tech That Their IT Teams Don’t Want**\n\nBig companies are spending a lot of money on new software (programs that help run things), but the people in charge of tech—like IT managers—aren’t happy about it. A new survey asked over 2,000 IT leaders at large businesses about this. Many said their companies are buying upgrades and tools that might actually make their jobs harder instead of easier.\n\nWhy is this happening? It seems that company leaders and IT teams aren’t always on the same page. Bosses might think new software will solve problems or save money, but IT experts say these tools could cause more issues, like bugs (errors in the software) or more downtime (when systems don’t work). Some even worry these changes could make their systems less secure.\n\nFor everyday people, this could mean more delays or hiccups when using company services—like apps crashing or websites running slowly. The bottom line? Companies need to start listening to their tech teams before making big purchases. It could save everyone a lot of headaches.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+          "publishedAt": "2026-10-21T21:48:52.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-17",
       "articles": [
         {
@@ -2458,27 +2479,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
           "publishedAt": "2026-05-21T13:48:38.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-21",
-      "articles": [
-        {
-          "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-          "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890...",
-          "simplifiedContent": "**Title: Alibaba’s New AI Chip Could Make Smart Assistants Even Smarter**\n\nAlibaba, the big tech company from China, has announced a new computer chip designed specifically to power AI assistants (like chatbots or virtual helpers). This chip, called the Zhenwu M890, is part of a bigger plan to create stronger and faster AI technology over the next few years.\n\nWhat’s interesting is that Alibaba isn’t just making one chip or product — they’re building an entire system to help AI work better together. They’ve also introduced a new advanced AI program, similar to tools like ChatGPT, that can understand and respond to human questions more naturally.\n\nThis move is important because it shows Alibaba is focused on creating its own AI technology instead of relying on products from other countries, especially since some tech exports are restricted. For everyday people, this could mean smarter virtual assistants, better customer service chatbots, and possibly new AI tools that make life easier.\n\nIn short, Alibaba is stepping up its AI game, and it could lead to big changes in how we use technology in the future.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-          "publishedAt": "2026-05-20T10:00:00.000Z"
-        },
-        {
-          "title": "Google publishes exploit code threatening millions of Chromium users",
-          "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed....",
-          "simplifiedContent": "**Title: Google Reveals a Security Problem That Could Affect Millions of Web Users**  \n\nGoogle has shared details about a security issue that could put many people at risk when using web browsers like Chrome or other browsers based on Chromium (the technology behind Chrome). The problem was first reported to them more than two years ago, but it still hasn’t been fully fixed.  \n\nHere’s what this means: hackers could use this security flaw (a bug in the software) to break into your browser and possibly steal personal information or take control of your computer. By publishing the details of the issue, Google is encouraging other developers to help fix it faster.  \n\nThe downside? Now that the problem is public, hackers could also use this information to cause harm until a fix is ready. This could affect millions of people who use browsers built on Chromium.  \n\nFor everyday users, it’s a good idea to keep your browser updated and be careful about clicking on suspicious links or downloading unknown files. Updates usually include fixes for security problems like this one.  \n\nIn short, Google wants to speed up finding a solution, but this situation shows why staying on top of software updates is so important!",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-          "publishedAt": "2026-05-20T19:10:36.000Z"
         }
       ]
     }
