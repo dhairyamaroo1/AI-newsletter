@@ -1,6 +1,51 @@
 {
   "editions": [
     {
+      "date": "2026-10-23",
+      "articles": [
+        {
+          "title": "Designing an AI serving harness built to last",
+          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...",
+          "simplifiedContent": "**Title: Building AI Tools That Are Built to Last**  \n\nFor companies using AI, success isn’t just about picking the smartest AI model anymore. What really matters now is how well they design the tools and systems around it to make the AI work smoothly and efficiently.  \n\nIn recent years, the focus was all about creating bigger and smarter AI models—ones that could think better, process more information, and handle complex tasks. But now, the game is changing. Businesses are realizing it’s not just about having powerful AI; it’s about making sure the AI is practical, reliable, and easy to use in the real world.  \n\nThink of it like building a car. A powerful engine (the AI model) is great, but without a strong frame, good tires, and a comfy interior (the systems around it), the car won’t take you very far—or it’ll break down quickly.  \n\nThis shift means companies need to invest in making AI systems that last, are easy to update, and work well over time. For everyday people, this could mean more dependable AI tools at work, in apps, or in services we use every day. It’s about creating smarter, more reliable technology for everyone.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "publishedAt": "2026-10-22T21:17:29.000Z"
+        },
+        {
+          "title": "The Foundations of Scalable AI",
+          "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
+          "simplifiedContent": "**Title: Building AI That Can Grow and Handle Big Jobs**\n\nTo create AI that can handle big tasks and grow with the needs of the world, we need a strong base to build on. Think of it like constructing a sturdy house—you need the right materials and a solid plan to make sure it works well and lasts a long time.\n\nFor AI, this \"foundation\" includes good-quality data (the information AI learns from), smart design, reliable tools, and clear rules to follow. All these pieces have to come together perfectly to make AI systems that are safe, efficient, and able to handle challenges, especially in industries with strict rules, like healthcare or finance.\n\nExperts at the EmTech Future conference, hosted by MIT Technology Review, talked about what it takes to make this happen. They shared ideas on how to build AI systems that are not just powerful but also fair and trustworthy.\n\nFor everyday people, this means better AI tools in the future—like smarter apps, safer self-driving cars, and more accurate medical technology—all built to work well and safely, even as our needs grow.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+          "publishedAt": "2026-10-22T18:48:04.000Z"
+        },
+        {
+          "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+          "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data....",
+          "simplifiedContent": "**Hackers Target Tor Network to Steal Emails and Sensitive Info**\n\nFor three days this month, hackers took over 333 servers (computers that help manage online traffic) on the Tor network. Tor is a system some people use to browse the internet anonymously or send private messages. The hackers’ goal? To spy on users and steal sensitive information, like emails or login details.\n\nHere’s how it worked: When people used Tor to send data, like emails, the hacked servers intercepted (or secretly grabbed) the information. This allowed the hackers to see private details that were supposed to stay hidden. \n\nThe good news is that the attack didn’t last long—it was discovered and stopped after a few days. But this incident is a reminder that no online system is 100% safe. Even tools like Tor, which are designed for privacy, can still be targeted by bad actors.\n\nFor regular internet users, it’s important to stay cautious. Always use secure passwords, avoid clicking suspicious links, and consider using extra protection, like encryption (tools that scramble your information so others can’t read it). Online privacy is important, and staying informed helps keep you safe.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+          "publishedAt": "2026-10-22T11:30:33.000Z"
+        },
+        {
+          "title": "Making the case for context-aware AI",
+          "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies...",
+          "simplifiedContent": "**Title: Why AI Needs to Understand the Bigger Picture**\n\nToday, businesses use AI (artificial intelligence) to get things done faster. It can suggest ideas, take care of routine tasks, and help leaders make decisions. But here's the catch: even the smartest AI can mess up if it doesn’t truly understand how the business works.\n\nThink of it like this: Imagine a robot trying to help run a bakery. If it doesn’t know that ovens can only bake 12 loaves of bread at a time, it might suggest making 50 loaves all at once. That’s not helpful, right? AI needs to understand the “rules” and limits of the business to make better suggestions.\n\nThis is why experts are working on “context-aware AI.” That means teaching AI to think about the bigger picture—like how things are connected and what’s possible or not in a real-world setting. When AI understands context, it can give smarter advice and save businesses time, money, and headaches.\n\nFor regular people, this means the AI tools we interact with—like customer service chatbots or shopping recommendations—could become a lot more helpful in the future.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+          "publishedAt": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+          "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site....",
+          "simplifiedContent": "**Title: Security Company Quits After Big Mistake Put Websites at Risk**  \n\nA company called eMudhra, which helps keep websites safe, has stopped working in a key part of its business after making a big mistake. eMudhra was responsible for creating special digital \"keys\" (like secret passwords) that help prove a website is real and safe to visit. These keys are super important for protecting things like online banking, shopping, and private information.  \n\nBut here’s the problem: eMudhra messed up the process of creating and handling these keys. This mistake meant someone could have made fake keys and tricked people into thinking unsafe websites were real. Imagine someone creating a fake version of your bank’s website and stealing your login details—that’s the kind of risk this caused.  \n\nWhen this mistake was discovered, eMudhra faced a lot of criticism. Now, they’ve decided to stop working in this area of online security altogether.  \n\nFor regular internet users, this shows how important it is to have trustworthy companies protecting us online. It’s also a reminder to stay cautious and look for signs that websites are secure, like the little padlock symbol in your browser.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+          "publishedAt": "2026-10-22T20:17:52.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "articles": [
         {
@@ -2434,51 +2479,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
           "publishedAt": "2026-05-22T10:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-22",
-      "articles": [
-        {
-          "title": "Roundtables: Can AI Learn to Understand the World?",
-          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
-          "simplifiedContent": "**Can AI Truly Understand the World?**\n\nAI companies are working on a big challenge: teaching artificial intelligence (AI) to really understand the world around it. Right now, most AI systems, like ChatGPT, are based on something called \"large language models\" (LLMs). These are tools that can read and write amazingly well, but they don’t actually “know” much about the real world—they only guess based on patterns in the data they've been trained on.\n\nTo improve this, researchers are exploring something called \"world models.\" These are systems designed to help AI make sense of how things work in the real world, not just words on a screen. The idea is to create smarter AI that can think in a way that's closer to how humans understand the world.\n\nExperts recently had a discussion about this exciting topic. They talked about how these world models could help AI overcome its current limits, like struggling with common sense or understanding physical spaces.\n\nIf successful, this could lead to AI that’s better at solving real-world problems, like helping doctors diagnose diseases or improving disaster response. It’s a big step toward making AI more useful in everyday life!",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-          "publishedAt": "2026-05-21T20:41:05.000Z"
-        },
-        {
-          "title": "Scaling creativity in the age of AI",
-          "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
-          "simplifiedContent": "**Title: How AI is Changing the Way We Tell Stories**  \n\nStorytelling has always been a big part of being human. It’s how we share our ideas, dreams, warnings, and life experiences. Over time, technology has helped us tell those stories in new ways, from ancient cave paintings to movies and social media.  \n\nNow, artificial intelligence (AI) is taking storytelling to a whole new level. AI is a type of computer program that can learn and create things, like writing, art, and even music. It can help people come up with ideas faster or make it easier to create something amazing. For example, AI tools can write stories, design artwork, or even help filmmakers imagine new worlds.  \n\nThis doesn’t mean AI will replace human creativity—it’s more like a helper that works alongside us. It can take some of the hard work out of creating so people can focus on their big ideas.  \n\nFor everyday people, this means we’ll see cooler movies, read interesting books, and discover art that feels fresh and exciting. AI is changing creativity, and it’s opening up new ways for everyone to share their stories.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-          "publishedAt": "2026-05-21T19:16:43.000Z"
-        },
-        {
-          "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-          "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
-          "simplifiedContent": "**Title: Anthropic’s AI is Changing How Computers Write Code**\n\nImagine a computer that can help write programs and fix mistakes for you. That’s what Anthropic, a company working on advanced artificial intelligence (AI), showed off at their event in London called “Code with Claude.” This event was all about their AI tool, Claude, which is designed to help people who create software. \n\nClaude is like a super-smart assistant for software developers. It can write pieces of code (the instructions that make computers and apps work) and even check for errors. This could save developers a lot of time and effort. At the event, Anthropic showed how Claude works and how it could change the way people build technology.\n\nWhy does this matter to you? Well, tools like Claude could make technology faster and more reliable. It might also mean fewer bugs or glitches in the apps you use every day. And who knows—maybe one day, AI like Claude could help regular people learn to code or create their own apps.\n\nAnthropic’s event proves that AI isn’t just for experts anymore—it’s becoming something that could improve technology for everyone.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-          "publishedAt": "2026-05-21T14:30:45.000Z"
-        },
-        {
-          "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
-          "summary": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street’s US$86.84 billion forecast–the numbers d...",
-          "simplifiedContent": "**Title: Nvidia’s New Vera Chip Could Be a Game-Changer**\n\nWhen people talk about Nvidia, they usually focus on its big profits or the powerful graphics cards it makes for gaming and AI. But there’s something new and exciting happening behind the scenes: Nvidia’s Vera chip.\n\nThis tiny chip might not grab headlines, but it’s part of a huge $200 billion investment by Nvidia to shape the future of technology. It’s designed to handle incredibly complex tasks, like powering artificial intelligence (AI) systems that help computers think and learn faster than ever before.\n\nWhy does this matter to you? Well, chips like Vera are what make things like smarter phones, better online shopping recommendations, and even self-driving cars possible. Nvidia’s latest financial results show that this technology is in high demand, and the company expects even bigger sales in the future.\n\nIn short, Nvidia isn’t just making computer parts—it’s creating the tools that could transform everyday life. While Vera might not be famous yet, it’s quietly paving the way for a smarter, more connected world.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-          "publishedAt": "2026-05-21T08:00:00.000Z"
-        },
-        {
-          "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-          "summary": "Beneficiaries include startup backed by firm with links to the Trump family....",
-          "simplifiedContent": "**Title: US Government Invests Big Money in Future Tech Called Quantum Computing**\n\nThe U.S. government is putting $2 billion into nine companies working on quantum computing. Quantum computing is a new type of super-powerful computer that could solve problems regular computers can’t handle, like improving medicine, making better technology, or boosting cybersecurity.\n\nThese companies include startups (new businesses) trying to turn this advanced science into real tools that people and businesses can use. One of the companies getting money is backed by a group connected to the Trump family, but the government hasn’t said much about that.\n\nWhy does this matter? Quantum computers could change the way we live and work. They could help discover new drugs faster, make online systems safer, and even create smarter artificial intelligence. But right now, quantum computing is still in its early stages, and it’s expensive to develop. That’s why the government is investing so much—it’s betting this technology could be a big deal in the future.\n\nThis investment shows the U.S. wants to stay ahead in the race to build these supercomputers, as other countries like China are working hard on this technology too.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-          "publishedAt": "2026-05-21T13:48:38.000Z"
         }
       ]
     }
