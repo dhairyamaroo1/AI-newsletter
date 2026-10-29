@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-10-29",
+      "articles": [
+        {
+          "title": "Creating AI value with enterprise context",
+          "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc...",
+          "simplifiedContent": "**Title: How Businesses Are Using AI to Work Smarter**  \n\nToday, many businesses are using artificial intelligence (AI) to make their work faster and easier. You might have already seen some of these tools in action, like chatbots that help answer customer questions, or systems that speed up tasks like organizing schedules or approving documents.  \n\nEach of these AI tools is smart and works well on its own. But here’s the problem: they don’t always “talk” to each other or understand the big picture of how a business works. This can cause confusion and make things less efficient.  \n\nTo fix this, companies are starting to teach their AI tools more about the specific needs and goals of their business. Think of it like giving each tool a map of how the company operates so they can all work together better. This means faster customer service, fewer mistakes, and more time for people to focus on creative and important tasks.  \n\nFor everyday people, this could mean shorter wait times, more personalized service, and better products—because businesses are running more smoothly behind the scenes. AI is helping companies get smarter, and that benefits everyone!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+          "publishedAt": "2026-10-28T20:32:02.000Z"
+        },
+        {
+          "title": "Pairing industrial AI autonomy and human control",
+          "summary": "...",
+          "simplifiedContent": "**Title: How Robots and Humans Can Work Better Together**\n\nBig changes are happening in how we use robots and artificial intelligence (AI) in factories and other workplaces. A new idea is to combine the strengths of both machines and humans to get the best results.\n\nHere’s how it works: Robots powered by AI are really good at doing repetitive tasks quickly and without getting tired. But they can’t always make good decisions when something unusual happens. That’s where humans come in. People are better at solving problems, being creative, and making judgment calls. By working together, robots can handle the routine stuff while humans step in when things get tricky.\n\nThis teamwork approach is already being used in some industries. For example, in factories, AI can monitor machines and fix small issues before they cause big problems. If something unexpected happens, a human can take over and figure out what to do.\n\nWhy does this matter? It means safer workplaces, fewer mistakes, and faster production. Plus, it doesn’t replace people—it makes their jobs easier and more efficient. In the future, we might see this kind of teamwork in many areas, from healthcare to farming.\n\nIt’s all about finding the right balance between human skills and machine power!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+          "publishedAt": "2026-10-28T12:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "articles": [
         {
@@ -2442,19 +2463,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
           "publishedAt": "2026-05-26T09:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-26",
-      "articles": [
-        {
-          "title": "US's big bet on quantum computing may not be entirely legal",
-          "summary": "Deal also launched the first quantum foundry company, but is there a need for it?...",
-          "simplifiedContent": "**Title: Is the US Breaking the Rules with Its Big Quantum Computing Plans?**\n\nThe US government is investing a lot of money into quantum computing, a futuristic type of technology that could make computers millions of times faster. Recently, they helped launch the first company focused on building quantum \"foundries\" (places where special materials for quantum computers are made). This sounds exciting, but some experts are questioning if it's really necessary—or even legal.\n\nHere’s the issue: the US has strict rules about how government money can be spent. Some think this project might not follow those rules. Quantum computing is still in its early days, and it’s unclear how quickly it will be useful for regular people or businesses. Critics wonder if this is the right way to spend taxpayer dollars.\n\nIf quantum computing works as planned, it could change everything—from how we solve big science problems to how we keep data secure online. But for now, it’s still a work in progress, and some are asking if the US might be rushing ahead too fast.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-          "publishedAt": "2026-05-25T12:00:15.000Z"
         }
       ]
     }
