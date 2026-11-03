@@ -1,6 +1,35 @@
 {
   "editions": [
     {
+      "date": "2026-11-03",
+      "articles": [
+        {
+          "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
+          "simplifiedContent": "**Trump’s New AI “Super Intelligence” Plan: What You Need to Know**\n\nAt the end of September, former President Trump made a big move involving artificial intelligence (AI). He signed an order asking government agencies to focus on something called “Super Intelligence.” While the name sounds like something out of a sci-fi movie, it’s really about pushing AI technology to be smarter and more advanced than ever before.\n\nThe goal? To make sure the U.S. stays ahead in the race for cutting-edge AI. Trump’s plan encourages government groups to shift their focus and work on creating AI systems that could solve tough problems, make faster decisions, and possibly reshape industries like healthcare, defense, and transportation.\n\nThis is part of a bigger competition between countries to lead in AI technology. Many experts believe that whoever masters AI first will have a big advantage in the future, both economically and politically.\n\nFor everyday people, this could mean faster medical breakthroughs, safer roads with self-driving cars, and smarter systems in government services. But it also raises questions about safety and how these powerful tools will be used responsibly.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+          "publishedAt": "2026-11-03T04:18:47.000Z"
+        },
+        {
+          "title": "Raising the quality of insights in agentic analytics",
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit...",
+          "simplifiedContent": "**Title: AI Tools Are Getting Smarter – Here’s What That Means for You**\n\nIn recent years, AI tools have become much better at helping businesses analyze data (finding useful patterns or answers in numbers and information). They’ve also made it easier for people in different jobs to use these tools, even if they’re not tech experts. \n\nNow, a new type of AI, called “agentic AI,” is taking things a step further. Instead of just showing you data, this AI can take action based on what it learns. For example, it could spot a problem, suggest a solution, and even fix it—without needing a person to step in. This could save companies a lot of time and effort.\n\nBut there’s a challenge. For AI to make good decisions, the information it works with needs to be accurate and high-quality. If the data is messy or incomplete, the AI might make mistakes. Researchers and developers are working hard to improve this so these tools can be trusted.\n\nFor everyday people, this means smarter systems that could make life easier—like faster customer service or fewer errors in online orders. It’s still a work in progress, but it’s exciting to see how far AI can go!",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "publishedAt": "2026-11-02T17:00:00.000Z"
+        },
+        {
+          "title": "Stop counting tokens, start counting what ships",
+          "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…...",
+          "simplifiedContent": "**Title: Stop Worrying About AI’s Words, Focus on What It Can Do**\n\nWhen programmers ask an AI tool to help with coding, it doesn’t just give one answer and move on. Instead, it works like a problem-solving machine: it makes a plan, writes some code, tests it to see if it works, fixes mistakes, and keeps repeating until it gets things right. This process takes a lot more \"brainpower\" than a simple chat with AI, and it uses way more data behind the scenes.\n\nFor everyday people, this means AI is moving beyond simple tasks like answering questions. It’s becoming smarter and more useful for solving complicated problems. While this makes AI tools much more powerful, it also takes more resources to get the job done.\n\nIn short, instead of worrying about how much data or energy the AI uses (which developers call \"tokens\"), the focus is shifting to what AI can actually accomplish. This could lead to faster problem-solving and smarter tools that help us in our daily lives, whether it’s fixing software bugs or even inventing new solutions to big challenges.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+          "publishedAt": "2026-11-02T13:10:32.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-02",
       "articles": [
         {
@@ -2386,27 +2415,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
           "publishedAt": "2026-06-01T19:49:09.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-30",
-      "articles": [
-        {
-          "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-          "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente...",
-          "simplifiedContent": "**Title: What the Pope Says About AI and Why It Matters to All of Us**  \n\nThe Pope has shared his thoughts on artificial intelligence (AI), and it’s something everyone should pay attention to. In a new letter called *Magnifica Humanitas* (which means \"Magnificent Humanity\"), he reminds us of an important truth: technology is never just a tool—it always affects people and society.  \n\nHe’s asking everyone, from regular folks to tech experts and leaders, to think carefully about how we use AI. His message is clear: we need to be brave and work together to make sure AI helps humanity, not harms it.  \n\nWhy does this matter? AI is already part of our everyday lives, from the way we shop online to how our phones suggest what to watch next. But it’s also powerful enough to shape big decisions, like who gets hired or how healthcare works. The Pope wants us to make sure AI is used in ways that respect human dignity and bring people together, not divide them.  \n\nThis is a reminder that AI isn’t just for tech experts—it’s about all of us and the kind of world we want to live in.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-          "publishedAt": "2026-05-29T10:00:00.000Z"
-        },
-        {
-          "title": "Botnet of more than 17 million devices dismantled",
-          "summary": "The botnet was reportedly tied to a Russia-based residential proxy network....",
-          "simplifiedContent": "**Title: Massive Network of Hacked Devices Shut Down**\n\nA huge network of hacked devices, known as a \"botnet,\" has been taken offline. This botnet was made up of over 17 million devices, like phones, computers, and even smart gadgets in people’s homes. It worked by secretly taking control of these devices without their owners knowing. Once hacked, the devices were used to send spam, steal data, or launch cyberattacks.\n\nThe botnet was linked to a company in Russia that ran a \"proxy network\" (a system that reroutes internet traffic to hide its source). Cybersecurity experts worked hard to stop it, and now this dangerous network has been shut down.\n\nWhy does this matter? If your device is part of a botnet, hackers can use it for bad purposes—and it could make your internet slower or even put your personal information at risk. This shutdown is a big win for online safety, but it’s also a reminder to keep your devices secure. Updating your software and using strong passwords can help protect you from hackers.\n\nThis news is a step forward in the fight against cybercrime, making the internet a safer place for everyone!",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-          "publishedAt": "2026-05-29T18:46:33.000Z"
         }
       ]
     }
