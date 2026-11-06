@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-11-06",
+      "articles": [
+        {
+          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "summary": "Certain configurations of Alpine are affected. Other distros may be as well....",
+          "simplifiedContent": "**Title: A New Security Flaw Could Let Hackers Break Into Some Devices**\n\nA serious problem has been found in certain Linux-powered devices, which could let hackers sneak in and take control. This issue is being called \"*sshole*\" (a play on the term SSH, which is a tool used to securely connect to computers). It affects devices running a version of Linux called Alpine, and possibly others too.\n\nHere’s the problem: If a device is set up a certain way, hackers can bypass security checks and get access to the device. Once they’re in, they could steal private information, mess with the system, or even shut it down.\n\nWhat does this mean for you? If you’re a regular person using Linux on your computer or smart devices, you might be at risk—especially if your device hasn’t been updated in a while. The good news is that security experts are working on fixes to stop hackers from taking advantage of this flaw.\n\nIf you use Linux, it’s a good idea to update your system regularly to stay safe. This keeps your device protected from problems like this one. For businesses using Linux servers, it’s even more important to act quickly to avoid bigger risks.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "publishedAt": "2026-11-05T23:09:36.000Z"
+        },
+        {
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
+          "simplifiedContent": "**Title: A Robot Cleaned My Apartment – Is This the Future?**\n\nImagine a robot that looks a little like a human coming into your home and cleaning it for you. That’s exactly what I experienced recently, and it felt like something out of a sci-fi movie.\n\nNormally, I’m not someone who would hire a cleaning service. I actually enjoy scrubbing my bathroom while listening to a podcast. But when I heard about a new robot cleaning service in San Francisco, I had to see it for myself.\n\nThe robot was built to look and move like a person, and it cleaned my apartment surprisingly well. It could wipe down counters, vacuum floors, and even organize small items. Watching it work felt both exciting and a little strange—it was like seeing the future of chores unfold right in front of me.\n\nThis kind of technology could one day make life easier for busy families or people who can’t clean on their own. For now, it’s still in the early stages, and robots like this aren’t widely available. But after seeing it in action, I can’t help but wonder—will robots like this become as common as dishwashers someday?",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "publishedAt": "2026-11-06T10:00:00.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "articles": [
         {
@@ -2394,19 +2415,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
           "publishedAt": "2026-06-04T10:50:18.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "articles": [
-        {
-          "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-          "summary": "Security advisory leaves out key details. Dashlane maintains complete silence....",
-          "simplifiedContent": "**Title: Confused by Dashlane’s Security Warning? Here’s What You Need to Know**\n\nIf you use Dashlane, a popular password manager, you might have seen a strange security warning recently. The company said there was a possible issue involving stolen data, but they didn’t share many details, leaving users puzzled.\n\nDashlane is supposed to keep all your passwords safe in one secure place. But now, some users are worried about whether their information is still safe. The warning was vague, and Dashlane hasn’t explained what exactly happened, how many people are affected, or what users should do next.\n\nFor everyday folks, this can be frustrating. Password managers are supposed to protect you from hackers (bad guys who try to steal your personal info). But when companies don’t explain security problems clearly, it’s hard to know if you’re at risk.\n\nIf you’re a Dashlane user, experts recommend changing your master password (the main password you use to access Dashlane) and keeping an eye on your accounts for anything unusual. It’s always better to stay safe than sorry.\n\nThe bottom line? Companies like Dashlane need to do a better job of keeping people informed when it comes to protecting their personal information.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-          "publishedAt": "2026-06-03T19:53:14.000Z"
         }
       ]
     }
