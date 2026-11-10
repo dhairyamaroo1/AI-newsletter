@@ -1,6 +1,43 @@
 {
   "editions": [
     {
+      "date": "2026-11-10",
+      "articles": [
+        {
+          "title": "Innovating with AI in the special chemicals industry",
+          "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...",
+          "simplifiedContent": "**Title: How AI is Helping Create Better Everyday Products**\n\nCompanies that make special chemicals—like the ones used in paints, cleaning products, or even medicine—are turning to artificial intelligence (AI) to speed up how they create new and better products. But there’s a tricky part: AI needs good data (accurate information) and input from experts to work well. Plus, they have to figure out how to make these new ideas work in real life.\n\nHere’s why this matters: With AI, scientists can test ideas much faster than they could before. For example, instead of spending months or years in a lab, AI can help predict which materials or formulas might work best in just days. This could mean safer, more effective products hitting store shelves faster.\n\nHowever, companies still need to make sure the technology is reliable and works smoothly with their current systems. If they can get it right, AI could lead to big breakthroughs—like paints that last longer, greener cleaning products, or even new medicines.\n\nIn short, AI isn’t just for robots or tech companies. It’s quietly making a difference in everyday things we use, helping improve quality and speed up innovation.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+          "publishedAt": "2026-11-09T13:00:00.000Z"
+        },
+        {
+          "title": "The backlash about data centers might really just be about electricity",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It...",
+          "simplifiedContent": "**Why People Are Concerned About Data Centers Using So Much Electricity**\n\nLast week, while Americans were voting, a lot of attention was on a small town called Ashburn, Virginia. Why? It’s home to something called “Data Center Alley,” the biggest cluster of data centers in the world. These buildings are like giant computers that store and manage everything we do online—emails, photos, videos, and more.\n\nBut here’s the problem: data centers need a *lot* of electricity to keep running. They power all those computers and keep them cool so they don’t overheat. In places like Ashburn, which already uses a lot of energy, people are worried. They’re asking questions like, “Do we have enough power for all of this?” and “What about the impact on the environment?”\n\nThis issue is becoming more urgent as companies like Google and Microsoft use these centers to support AI tools like ChatGPT and other technologies we rely on every day. While these tools are helpful, they come with hidden costs, like increased energy use. \n\nThe big question now is: How can we balance our love for technology with the need to protect our planet? It’s something we’ll all need to think about as AI continues to grow.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "publishedAt": "2026-11-09T19:35:33.000Z"
+        },
+        {
+          "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+          "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
+          "simplifiedContent": "**Title: New Congress Member Plans to Keep AI Safe for Everyone**\n\nA new voice in Congress is ready to take on the challenge of keeping artificial intelligence (AI) safe and fair. Scott Wiener, a former California state senator, just won the race to take Nancy Pelosi’s old seat in San Francisco. He has already worked on laws to make sure advanced AI doesn’t cause harm, and now he wants to do the same on a bigger scale in Washington, D.C.\n\nAI is getting smarter and more powerful, but that also means it could be misused or cause problems, like spreading fake information or taking over certain jobs. Wiener believes the government needs to step in and create rules to protect people while still allowing AI to grow and help society.\n\nThis is important because AI is becoming a bigger part of our everyday lives, from apps we use to decisions that affect our jobs, health, and more. Wiener’s new role could help shape how AI is managed across the country, so it works for everyone, not just big companies.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+          "publishedAt": "2026-11-09T17:05:43.000Z"
+        },
+        {
+          "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+          "summary": "\"*sshole\" poses a serious threat to Internet security....",
+          "simplifiedContent": "**Hackers Are Breaking Into Certain Devices Through a New Security Weakness**  \n\nA new problem has been discovered in some internet-connected devices, and hackers are already using it to break in. This issue, found in devices that run on Linux (a type of operating system similar to Windows or macOS), allows hackers to take control of the device if it’s not properly secured.  \n\nThe problem is with something called SSH, which is like a secure door that lets people remotely access a device. Normally, this \"door\" is locked and only opens for trusted users. But hackers have figured out how to sneak through it on certain devices. Once inside, they can steal information, mess with the device, or even use it to attack others.  \n\nThis is a big deal because Linux is used in lots of things, from servers that run websites to gadgets in your home, like smart TVs or routers.  \n\nExperts are urging people to update their devices with the latest security fixes and use strong passwords to stay safe. If you’re not sure how to do this, ask someone who can help. Keeping your devices up to date is one of the best ways to protect yourself online!",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+          "publishedAt": "2026-11-09T19:41:34.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "articles": [
         {
@@ -2386,27 +2423,6 @@
           "source": "Biz & IT - Ars Technica",
           "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
           "publishedAt": "2026-06-08T18:34:23.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-06",
-      "articles": [
-        {
-          "title": "The Meta hack shows there’s more to AI security than Mythos",
-          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-          "simplifiedContent": "**Title: Hackers Tricked Meta’s AI to Steal Instagram Accounts**\n\nHackers recently found a sneaky way to steal Instagram accounts by fooling Meta’s AI-powered customer support system. Meta, the company behind Instagram and Facebook, uses an artificial intelligence (AI) assistant to help people with account problems. But instead of helping, this system ended up giving hackers control over some accounts.\n\nHere’s what happened: The hackers simply told the AI to connect certain Instagram accounts to email addresses they owned. Shockingly, the AI did exactly what they asked—no questions asked! One hacker even managed to take over a dormant Instagram account linked to former President Obama.\n\nThis incident shows a big problem with AI systems: they can be tricked if they don’t have strong protections in place. While AI can be super helpful, it also needs to be secure, especially when it handles sensitive information like social media accounts.\n\nFor everyday people, this is a reminder to be extra careful with your online accounts. Use strong passwords, enable two-factor authentication (extra security steps), and keep an eye out for anything suspicious. Companies like Meta also need to step up and make sure their AI tools are smarter and safer for everyone.",
-          "source": "Artificial intelligence – MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-          "publishedAt": "2026-06-05T09:00:00.000Z"
-        },
-        {
-          "title": "How a USB-connected speaker can infect a PC without ever being touched",
-          "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability....",
-          "simplifiedContent": "**Title: How a Speaker Plugged into Your Computer Could Spread Malware**\n\nImagine this: You buy a fancy speaker to enjoy music or gaming, plug it into your computer using a USB cable, and suddenly, your computer gets infected with harmful software (called malware). Sounds scary, right? That’s exactly what researchers recently discovered.\n\nThe issue is with a popular speaker called the Sound Blaster Katana V2X. When you connect it to your computer, it behaves in a strange way that could let hackers secretly install malware. The company that makes the speaker doesn’t think this is a big problem, but experts disagree. They say it could be a serious risk for users.\n\nHere’s the good news: this kind of attack isn’t something most people need to worry about right now. Hackers would need to know exactly how to take advantage of the speaker’s strange behavior, and that’s not common. But the discovery shows how even everyday devices, like speakers, can have hidden risks.\n\nWhat does this mean for you? It’s a reminder to be careful about what you connect to your computer. And if you’re unsure, keep your devices updated and use antivirus programs to stay safe!",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-          "publishedAt": "2026-06-05T21:00:29.000Z"
         }
       ]
     }
