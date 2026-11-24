@@ -1,6 +1,27 @@
 {
   "editions": [
     {
+      "date": "2026-11-24",
+      "articles": [
+        {
+          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app...",
+          "simplifiedContent": "**Title: Could AI Become Conscious? One Expert Says It’s Unlikely**\n\nA company called Anthropic recently shared an interesting idea: they think advanced AI might someday become “conscious” or aware, like humans are. They even listed this as a potential risk for people investing in their business. But not everyone agrees.\n\nOne well-known philosopher, who studies big questions about life and the mind, doesn’t think this is likely. They argue that AI, no matter how advanced, is just a very smart tool. It can do impressive things like write essays or solve problems, but it doesn’t actually “feel” or “experience” anything the way people do.\n\nWhy does this matter to you? Well, some people worry that conscious AI could bring big ethical problems. For example, would such an AI deserve rights? Should we treat it differently? These questions might sound like science fiction now, but they’re becoming more common as AI gets smarter.\n\nFor now, though, experts say we don’t need to worry about AI having feelings—it’s still just a powerful machine.",
+          "source": "Artificial intelligence – MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "publishedAt": "2026-11-23T17:36:08.000Z"
+        },
+        {
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers....",
+          "simplifiedContent": "**Title: Hackers Are Using AI to Find New Ways to Attack Computers, Says Amazon**\n\nHackers are getting smarter, and now they’re using artificial intelligence (AI) to help them break into systems faster and with less effort. Amazon recently shared how advanced AI tools, called “agents,” are being used by attackers to discover hidden weaknesses in computer systems. These weaknesses, called “zero-days,” are flaws that even the system’s creators don’t know about yet. Once hackers find them, they can use them to steal data or cause other problems.\n\nHere’s the surprising part: these AI tools don’t need much help from humans. They can search for these flaws and figure out how to use them on their own. This makes hacking faster and harder to stop.\n\nThe good news is that defenders—people who protect systems—can use similar AI tools to fight back. Amazon’s Cairn AI framework is one example. It’s designed to help security experts catch problems before hackers do.\n\nFor everyday people, this means it’s more important than ever to keep devices updated and use strong passwords. AI is changing the game for both hackers and defenders, so staying safe online needs to be a priority.",
+          "source": "Biz & IT - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "publishedAt": "2026-11-24T12:30:05.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "articles": [
         {
@@ -2322,35 +2343,6 @@
           "source": "Artificial intelligence – MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
           "publishedAt": "2026-06-19T10:40:24.000Z"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "articles": [
-        {
-          "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-          "summary": "Crypto Clipper spreads over USB and communicates over Tor....",
-          "simplifiedContent": "**Title: Microsoft Finds Sneaky Software That Steals Cryptocurrency**  \n\nMicrosoft has discovered a tricky new program designed to steal cryptocurrency, like Bitcoin or Ethereum. This malicious software, called \"Crypto Clipper,\" works by sneaking onto people’s computers through USB drives (those small sticks people use to move files between devices).  \n\nOnce it’s on a computer, Crypto Clipper secretly changes wallet addresses when people try to send cryptocurrency. Wallet addresses are like account numbers for cryptocurrency. So, instead of sending money to the correct person, the program redirects it to the hackers’ wallet instead!  \n\nTo stay hidden, the software uses something called Tor, which helps disguise where it's sending stolen information. This makes it harder for anyone to track down the criminals.  \n\nFor everyday people, this means you should be extra careful when plugging in USB drives from unknown sources. Also, double-check wallet addresses before sending any cryptocurrency to make sure they haven’t been tampered with.  \n\nMicrosoft is working on ways to stop this sneaky program, but staying cautious and using antivirus software can help keep your computer safe. Cryptocurrency is valuable, and hackers are always looking for new ways to steal it—so staying alert is key!",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-          "publishedAt": "2026-06-18T23:28:52.000Z"
-        },
-        {
-          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-          "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers....",
-          "simplifiedContent": "**Title: Apple Fixes Bug That Could Let Others Listen Through Beats Studio Buds**  \n\nApple has fixed a serious problem with its Beats Studio Buds headphones that could have let someone secretly listen to you without your permission. The issue, which was discovered a year ago, didn’t just affect Beats headphones—it also impacted products from other companies.  \n\nHere’s how it worked: A flaw in the way the earbuds connected to your phone or other devices could have been exploited by hackers (people who try to break into technology). If someone found this flaw and used it, they could eavesdrop on your conversations or hear what you were listening to without you knowing.  \n\nThankfully, Apple has released a fix to stop this from happening. If you own Beats Studio Buds, it’s important to update your device as soon as possible to make sure it’s secure. Most updates happen automatically, but you can check your phone settings to make sure you’re protected.  \n\nThis is a good reminder to always keep your devices updated. Updates don’t just add new features—they also fix problems that could make your personal information less safe.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-          "publishedAt": "2026-06-18T19:41:35.000Z"
-        },
-        {
-          "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-          "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors....",
-          "simplifiedContent": "**Title: Chinese Investors Secretly Bought Stakes in SpaceX Before Its Big Launch**\n\nA surprising new report has revealed that some investors in SpaceX, the rocket company started by Elon Musk, have connections to businesses linked to the Chinese military. This has raised concerns about who is investing in one of America’s most important space companies.\n\nSpaceX is famous for building reusable rockets and working on projects like Starlink, which aims to provide internet access from space. The company is growing fast and could soon make even more money if it decides to go public (meaning people can buy shares of the company on the stock market). But before that happens, some investors from China quietly bought pieces of the company through a fund that pools money from different people.\n\nThis discovery is causing worry because SpaceX works on projects that are important for national security, like launching satellites for the U.S. military. Some experts think letting foreign investors—especially ones connected to the Chinese government—get involved could be risky.\n\nFor regular people, this story highlights how global politics can affect even companies that seem focused on science and technology. It also shows how important it is to pay attention to who’s behind the scenes in big businesses.",
-          "source": "Biz & IT - Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-          "publishedAt": "2026-06-18T17:42:18.000Z"
         }
       ]
     }
